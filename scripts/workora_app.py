@@ -1761,3 +1761,30 @@ if __name__ == "__main__":
     init_db()
     print("Workora Jobs starting on http://0.0.0.0:8000")
     uvicorn.run(app, host="0.0.0.0", port=8000, log_level="info")
+
+
+# ── Scraper Trigger Endpoint ──────────────────────────────────
+
+@app.get("/api/trigger-scrape")
+async def trigger_scrape():
+    """Trigger a scraping round - call this from cron-job.org"""
+    import threading
+    
+    def run_scraper_background():
+        try:
+            from scripts.render_scraper import scrape_greenhouse, scrape_lever, scrape_smartrecruiters, scrape_jobspy, get_db
+            
+            t1 = scrape_greenhouse()
+            t2 = scrape_lever()
+            t3 = scrape_smartrecruiters()
+            t4 = scrape_jobspy()
+            
+            total_new = t1 + t2 + t3 + t4
+            return total_new
+        except Exception as e:
+            return str(e)
+    
+    thread = threading.Thread(target=run_scraper_background, daemon=True)
+    thread.start()
+    
+    return {"status": "scraper_started", "message": "Scraping round triggered"}
