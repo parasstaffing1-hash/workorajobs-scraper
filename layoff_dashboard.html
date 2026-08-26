@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title> Layoff Tracker — LeadFlow</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:#0a0e1a;color:#e2e8f0}
+.header{background:linear-gradient(135deg,#dc2626,#ef4444);padding:24px 32px}
+.header h1{font-size:24px;font-weight:700}.header p{color:#fecaca;margin-top:4px}
+.stats-row{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;padding:20px 32px}
+.stat-card{background:#1e293b;border:1px solid #334155;border-radius:10px;padding:16px}
+.stat-card .label{color:#94a3b8;font-size:12px;text-transform:uppercase}
+.stat-card .value{font-size:28px;font-weight:700;color:#ef4444;margin-top:4px}
+.stat-card.green .value{color:#10b981}
+.section{padding:0 32px 24px}
+.section h2{font-size:18px;margin-bottom:12px;color:#f8fafc}
+table{width:100%;border-collapse:collapse;font-size:13px}
+th{text-align:left;padding:8px;border-bottom:2px solid #334155;color:#94a3b8}
+td{padding:8px;border-bottom:1px solid #1e293b}
+.badge{padding:2px 8px;border-radius:12px;font-size:11px;font-weight:600}
+.badge-high{background:#7f1d1d;color:#fca5a5}
+.badge-critical{background:#991b1b;color:#fecaca}
+.badge-low{background:#14532d;color:#86efac}
+.bar-row{display:flex;align-items:center;gap:10px;margin-bottom:8px}
+.bar-label{width:80px;font-size:12px;color:#94a3b8}
+.bar{flex:1;height:20px;background:#1e293b;border-radius:4px;overflow:hidden}
+.bar-fill{height:100%;background:linear-gradient(90deg,#ef4444,#dc2626);border-radius:4px}
+.bar-value{width:50px;font-size:12px;color:#94a3b8;text-align:right}
+.risk-card{display:flex;align-items:center;gap:10px;padding:10px;background:#1e293b;border-radius:8px;margin-bottom:8px}
+.risk-badge{padding:2px 8px;border-radius:12px;font-size:11px;font-weight:600}
+.grid-2{display:grid;grid-template-columns:1fr 1fr;gap:20px}
+</style>
+</head>
+<body>
+<div class="header">
+<h1>🚨 Layoff Tracker</h1>
+<p>Track layoffs, generate social media posts, drive organic traffic</p>
+</div>
+
+<div class="stats-row">
+<div class="stat-card"><div class="label">Total Layoffs</div><div class="value">29</div></div>
+<div class="stat-card"><div class="label">Total Affected</div><div class="value">139,287</div></div>
+<div class="stat-card"><div class="label">Avg per Layoff</div><div class="value">4,803</div></div>
+<div class="stat-card green"><div class="label">Risk Companies</div><div class="value">0</div></div>
+</div>
+
+<div class="section">
+<h2>📊 Layoff Trends</h2>
+
+        <div class="bar-row">
+            <div class="bar-label">2024-02</div>
+            <div class="bar"><div class="bar-fill" style="width:100%"></div></div>
+            <div class="bar-value">8</div>
+        </div>
+        <div class="bar-row">
+            <div class="bar-label">2024-01</div>
+            <div class="bar"><div class="bar-fill" style="width:100%"></div></div>
+            <div class="bar-value">19</div>
+        </div>
+        <div class="bar-row">
+            <div class="bar-label">2023-11</div>
+            <div class="bar"><div class="bar-fill" style="width:41.379310344827594%"></div></div>
+            <div class="bar-value">2</div>
+        </div>
+</div>
+
+<div class="section grid-2">
+<div>
+<h2>🏢 Top Companies by Layoffs</h2>
+<table>
+<tr><th>Company</th><th>Total Affected</th><th>Times</th><th>Risk</th></tr>
+
+        <tr>
+            <td><strong>Layoffs.fyi Tracker</strong></td>
+            <td>50,000</td>
+            <td>1</td>
+            <td><span class="badge badge-low">Low Risk</span></td>
+        </tr>
+        <tr>
+            <td><strong>Meta</strong></td>
+            <td>21,000</td>
+            <td>1</td>
+            <td><span class="badge badge-low">Low Risk</span></td>
+        </tr>
+        <tr>
+            <td><strong>Amazon</strong></td>
+            <td>18,000</td>
+            <td>1</td>
+            <td><span class="badge badge-low">Low Risk</span></td>
+        </tr>
+        <tr>
+            <td><strong>Google</strong></td>
+            <td>12,000</td>
+            <td>1</td>
+            <td><span class="badge badge-low">Low Risk</span></td>
+        </tr>
+        <tr>
+            <td><strong>Microsoft</strong></td>
+            <td>10,000</td>
+            <td>1</td>
+            <td><span class="badge badge-low">Low Risk</span></td>
+        </tr>
+        <tr>
+            <td><strong>SAP</strong></td>
+            <td>8,000</td>
+            <td>1</td>
+            <td><span class="badge badge-low">Low Risk</span></td>
+        </tr>
+        <tr>
+            <td><strong>IBM</strong></td>
+            <td>3,900</td>
+            <td>1</td>
+            <td><span class="badge badge-low">Low Risk</span></td>
+        </tr>
+        <tr>
+            <td><strong>PayPal</strong></td>
+            <td>2,500</td>
+            <td>1</td>
+            <td><span class="badge badge-low">Low Risk</span></td>
+        </tr>
+        <tr>
+            <td><strong>Unity</strong></td>
+            <td>1,800</td>
+            <td>1</td>
+            <td><span class="badge badge-low">Low Risk</span></td>
+        </tr>
+        <tr>
+            <td><strong>Yahoo</strong></td>
+            <td>1,600</td>
+            <td>1</td>
+            <td><span class="badge badge-low">Low Risk</span></td>
+        </tr>
+        <tr>
+            <td><strong>Spotify</strong></td>
+            <td>1,500</td>
+            <td>1</td>
+            <td><span class="badge badge-low">Low Risk</span></td>
+        </tr>
+        <tr>
+            <td><strong>Kraken</strong></td>
+            <td>1,100</td>
+            <td>1</td>
+            <td><span class="badge badge-low">Low Risk</span></td>
+        </tr>
+        <tr>
+            <td><strong>Autodesk</strong></td>
+            <td>1,000</td>
+            <td>1</td>
+            <td><span class="badge badge-low">Low Risk</span></td>
+        </tr>
+        <tr>
+            <td><strong>Salesforce</strong></td>
+            <td>1,000</td>
+            <td>1</td>
+            <td><span class="badge badge-low">Low Risk</span></td>
+        </tr>
+        <tr>
+            <td><strong>eBay</strong></td>
+            <td>1,000</td>
+            <td>1</td>
+            <td><span class="badge badge-low">Low Risk</span></td>
+        </tr>
+</table>
+</div>
+<div>
+<h2>⚠️ High-Risk Companies (Multiple Layoffs)</h2>
+
+</div>
+</div>
+
+<div class="section">
+<h2>📰 Recent Layoffs (Last 7 Days)</h2>
+<table>
+<tr><th>Company</th><th>Affected</th><th>Date</th><th>Source</th></tr>
+
+</table>
+</div>
+
+<p style="padding:20px 32px;color:#64748b;font-size:12px">Generated by LeadFlow Layoff Tracker | Data from layoffs.fyi, TechCrunch, Google News</p>
+</body>
+</html>

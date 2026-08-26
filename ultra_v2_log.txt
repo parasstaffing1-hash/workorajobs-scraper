@@ -1,0 +1,1426 @@
+[23:39:35] ======================================================================
+[23:39:35] ULTRA V2 — 300 workers, async DB writer, 158 keywords
+[23:39:35] ======================================================================
+[23:39:35] ROUND 1 | DB: 719,307 | Gap: 280,693
+[23:39:35] Loading dedup keys...
+[23:39:36] Dedup keys loaded: 719,307
+[23:39:36] Total work items: 2,584,880
+[23:39:38] Remaining: 2,584,880
+[23:39:50]   W004 + 20 sh:Hadoop engineer|San Franci|p21
+[23:39:50]   W020 + 20 sh:application secu|Houston|p21
+[23:39:51]   W014 + 15 sh:machine learning|Nottingham|p26
+[23:39:51]   W003 +  3 sh:mobile developer|Birmingham|p45
+[23:39:51]   W036 + 20 sh:application engi|Warsaw|p48
+[23:39:58]   W077 + 14 dc:SOC analyst|Jaipur|p35
+[23:39:58]   W086 + 34 dc:project manager|Nottingham|p32
+[23:39:58]   W052 + 32 dc:senior developer|Tokyo|p16
+[23:39:58]   W081 + 10 dc:React Native dev|Amsterdam|p35
+[23:39:58]   W068 + 34 dc:penetration test|Seattle|p11
+[23:39:58]   W026 +  4 dc:fintech engineer|Copenhagen|p37
+[23:39:58]   W021 +  9 dc:Swift developer|Miami|p37
+[23:39:59]   W002 + 34 dc:staff engineer|Washington|p14
+[23:39:59]   W083 + 20 sh:.NET developer|Phoenix|p11
+[23:39:59]   W003 +  4 sh:Redis engineer|Wellington|p29
+[23:40:00]   W085 + 34 dc:analytics engine|Boston|p19
+[23:40:00]   W001 + 13 dc:Laravel develope|Singapore|p20
+[23:40:00]   W049 + 32 dc:junior data engi|Lucknow|p47
+[23:40:00]   W012 + 34 dc:PostgreSQL engin|Portland|p27
+[23:40:00]   W001 + 33 dc:application secu|Hong Kong|p13
+[23:40:01]   W073 + 34 dc:PostgreSQL engin|Patna|p26
+[23:40:01]   W009 + 34 dc:AI engineer|Prague|p44
+[23:40:01]   W026 + 34 dc:embedded enginee|Chennai|p22
+[23:40:01]   W019 + 34 dc:backend engineer|Los Angele|p36
+[23:40:01]   W068 + 30 dc:Node.js develope|London|p27
+[23:40:01]   W094 + 10 dc:Next.js develope|Adelaide|p6
+[23:40:01]   W075 +  8 dc:graphics enginee|Buenos Air|p2
+[23:40:01]   W040 + 31 dc:senior frontend |Stockholm|p46
+[23:40:02]   W036 +  4 sh:Kafka engineer|Nottingham|p24
+[23:40:02]   W022 + 20 sh:Docker engineer|Austin|p44
+[23:40:02]   W031 +  6 dc:WordPress develo|Birmingham|p37
+[23:40:02]   W024 + 34 dc:Django developer|Montreal|p30
+[23:40:02]   W083 + 19 dc:big data enginee|Edmonton|p44
+[23:40:02]   W072 + 30 dc:react developer|Houston|p43
+[23:40:02]   W074 + 20 sh:backend engineer|Houston|p30
+[23:40:02]   W045 +  3 sh:Android develope|Cardiff|p27
+[23:40:02]   W015 + 20 sh:frontend enginee|Seattle|p42
+[23:40:03]   W068 + 34 dc:GCP engineer|Phoenix|p25
+[23:40:03]   W034 + 10 sh:robotics enginee|Warsaw|p48
+[23:40:03]   W065 + 15 dc:Hadoop engineer|Johannesbu|p30
+[23:40:03]   W014 + 34 dc:machine learning|Edinburgh|p19
+[23:40:03]   W011 + 34 dc:C# developer|Brisbane|p28
+[23:40:03]   W006 + 22 dc:deep learning en|Kolkata|p32
+[23:40:04]   W040 + 34 dc:system administr|Washington|p4
+[23:40:04]   W044 + 34 dc:penetration test|Tel Aviv|p20
+[23:40:04]   W010 + 32 dc:analytics engine|Houston|p37
+[23:40:04]   W019 + 22 dc:Vue developer|Buenos Air|p9
+[23:40:04]   W065 + 30 dc:network architec|Remote|p46
+[23:40:04]   W083 + 31 dc:full stack engin|Amsterdam|p17
+[23:40:04]   W040 + 34 dc:MongoDB engineer|Paris|p29
+[23:40:05]   W049 + 34 dc:Hadoop engineer|Washington|p26
+[23:40:05]   W068 + 30 dc:cloud architect|Jaipur|p5
+[23:40:05]   W011 + 20 sh:application engi|Dublin|p27
+[23:40:05]   W069 + 11 sh:Hadoop engineer|Houston|p25
+[23:40:05]   W075 + 10 dc:RTOS engineer|Phoenix|p27
+[23:40:05]   W079 + 13 sh:ML platform engi|Amsterdam|p15
+[23:40:05]   W069 +  3 sh:Vue developer|London|p37
+[23:40:05]   W008 +  5 sh:product manager|Edinburgh|p39
+[23:40:06]   W099 +  4 sh:game developer|Gold Coast|p48
+[23:40:06]   W006 + 34 dc:design engineer|Gurgaon|p36
+[23:40:06]   W072 + 34 dc:DevOps engineer|Ahmedabad|p18
+[23:40:06]   W073 +  6 dc:WordPress develo|Ahmedabad|p47
+[23:40:06]   W040 + 32 dc:senior developer|Glasgow|p22
+[23:40:06]   W083 +  5 dc:Flutter develope|Adelaide|p37
+[23:40:07]   W064 + 34 dc:DevOps engineer|Denver|p18
+[23:40:07]   W065 + 34 dc:staff engineer|Chennai|p3
+[23:40:07]   W068 + 33 dc:senior frontend |San Diego|p43
+[23:40:07]   W045 +  9 dc:compiler enginee|Delhi|p40
+[23:40:07]   W082 +  5 dc:Perl developer|Munich|p18
+[23:40:07]   W092 + 22 dc:deep learning en|Leeds|p46
+[23:40:07]   W084 + 34 dc:design engineer|Calgary|p30
+[23:40:07]   W036 +  8 dc:game developer|Leeds|p27
+[23:40:07]   W077 +  8 dc:game developer|Singapore|p29
+[23:40:07]   W075 + 30 dc:robotics enginee|Patna|p0
+[23:40:08]   W089 +  9 dc:Ruby developer|Sao Paulo|p16
+[23:40:08]   W093 +  9 dc:Swift developer|Krakow|p47
+[23:40:08]   W068 + 20 sh:iOS developer|Denver|p28
+[23:40:08]   W026 +  8 dc:game developer|Warsaw|p40
+[23:40:08]   W022 + 20 sh:Swift developer|San Franci|p33
+[23:40:08]   W072 + 34 dc:security enginee|Mumbai|p38
+[23:40:09]   W073 + 18 dc:computer enginee|Mumbai|p27
+[23:40:09]   W083 + 34 dc:business intelli|Melbourne|p15
+[23:40:09]   W084 + 34 dc:Kafka engineer|Birmingham|p41
+[23:40:09]   W057 +  9 dc:compiler enginee|Vienna|p7
+[23:40:09]   W036 + 34 dc:LLM engineer|Barcelona|p46
+[23:40:09]   W068 + 34 dc:React developer|Seattle|p4
+[23:40:09]   W049 + 34 dc:design engineer|Mumbai|p34
+[23:40:09]   W009 + 25 dc:iOS developer|London|p30
+[23:40:09]   W044 + 20 sh:systems engineer|Dublin|p29
+[23:40:09]   W075 + 10 dc:Next.js develope|Nagpur|p10
+[23:40:10]   W055 + 34 dc:analytics engine|Calgary|p19
+[23:40:10]   W022 + 34 dc:Django developer|Nagpur|p9
+[23:40:10]   W065 + 12 sh:full stack engin|Manchester|p44
+[23:40:10]   W063 + 34 dc:IT engineer|Sheffield|p45
+[23:40:10]   W071 + 20 sh:QA engineer|Dallas|p43
+[23:40:11]   W068 +  5 dc:blockchain devel|Miami|p40
+[23:40:11]   W063 + 32 dc:TypeScript devel|Johannesbu|p41
+[23:40:11]   W022 + 34 dc:security enginee|Sydney|p13
+[23:40:11]   W049 + 30 dc:microservices en|Houston|p8
+[23:40:11]   W096 + 34 dc:AWS engineer|Cape Town|p13
+[23:40:11]   W055 + 30 dc:node developer|Lagos|p4
+[23:40:11]   W040 +  5 dc:Flutter develope|Kolkata|p5
+[23:40:11]   W024 +  9 dc:driver engineer|Lucknow|p18
+[23:40:11]   W056 + 34 dc:staff software e|Boston|p5
+[23:40:12]   W001 +  5 sh:network architec|Toronto|p33
+[23:40:12]   W008 + 14 sh:Spark engineer|Birmingham|p20
+[23:40:12]   W096 + 20 sh:deep learning en|New York|p7
+[23:40:12]   W075 +  9 dc:driver engineer|Kolkata|p40
+[23:40:12]   W022 + 34 dc:junior developer|Jaipur|p4
+[23:40:12]   W024 +  8 sh:Perl developer|Houston|p30
+[23:40:12]   W033 + 34 dc:machine learning|Tel Aviv|p14
+[23:40:12]   W076 + 34 dc:machine learning|Sheffield|p25
+[23:40:13]   W044 + 20 sh:senior developer|Manchester|p33
+[23:40:13]   W091 + 22 dc:Vue.js developer|Jaipur|p33
+[23:40:13]   W052 + 30 dc:lead developer|Vienna|p36
+[23:40:14]   W082 + 34 dc:application secu|Dallas|p41
+[23:40:14]   W068 +  5 dc:Express develope|Cape Town|p20
+[23:40:14]   W056 +  5 dc:Elixir developer|Nagpur|p8
+[23:40:14]   W069 +  9 dc:Ruby developer|Amsterdam|p41
+[23:40:14]   W074 + 34 dc:ETL developer|Nagpur|p41
+[23:40:14]   W061 + 34 dc:Django developer|Houston|p48
+[23:40:14]   W000 + 21 dc:payments enginee|Boston|p31
+[23:40:14]   W045 +  9 dc:Swift developer|Gurgaon|p10
+[23:40:14]   W010 +  9 sh:solutions archit|Edinburgh|p3
+[23:40:14]   W048 +  5 dc:Express develope|Sydney|p4
+[23:40:14]   W096 + 10 dc:Next.js develope|Gurgaon|p19
+[23:40:15]   W032 +  5 dc:Flutter develope|Jaipur|p34
+[23:40:15]   W078 + 30 dc:platform enginee|Montreal|p31
+[23:40:15]   W029 + 34 dc:senior devops en|Tokyo|p19
+[23:40:15]   W085 + 30 dc:React developer|Bristol|p3
+[23:40:15]   W027 +  7 dc:WordPress develo|Los Angele|p29
+[23:40:15]   [R1] DB=719,316 | +9 | 14/min | Gap=280,684 | iters=134
+[23:40:15]   W093 + 20 sh:Angular develope|Dublin|p13
+[23:40:16]   W044 + 20 sh:PostgreSQL engin|Chicago|p14
+[23:40:16]   W035 + 20 sh:senior software |Sydney|p45
+[23:40:16]   W090 + 20 sh:lead developer|Remote|p33
+[23:40:16]   W016 + 34 dc:systems engineer|Mexico Cit|p48
+[23:40:16]   W042 + 34 dc:systems engineer|New York|p19
+[23:40:16]   W056 + 34 dc:firmware enginee|Los Angele|p29
+[23:40:17]   W034 + 34 dc:GCP engineer|Gold Coast|p8
+[23:40:17]   W032 + 34 dc:Kotlin developer|Dublin|p44
+[23:40:17]   W061 + 34 dc:product manager|Chennai|p4
+[23:40:17]   W025 +  8 dc:game developer|Houston|p46
+[23:40:17]   W044 + 20 sh:site reliability||p15
+[23:40:17]   W085 + 19 dc:big data enginee|Thiruvanan|p44
+[23:40:17]   W068 + 33 dc:frontend enginee|Patna|p17
+[23:40:17]   W016 + 34 dc:DevOps engineer|Visakhapat|p41
+[23:40:17]   W024 + 10 dc:kernel engineer|Patna|p8
+[23:40:17]   W074 + 34 dc:embedded enginee|Bristol|p24
+[23:40:17]   W048 +  7 dc:Redis engineer|Dallas|p44
+[23:40:18]   W005 +  9 dc:RTOS engineer|Hong Kong|p41
+[23:40:18]   W097 + 34 dc:senior devops en|Austin|p39
+[23:40:18]   W019 + 20 sh:data engineer|London|p24
+[23:40:18]   W055 +  9 sh:cybersecurity en|Leeds|p44
+[23:40:18]   W032 + 20 sh:Redis engineer|Austin|p9
+[23:40:18]   W054 +  9 dc:driver engineer|Copenhagen|p0
+[23:40:19]   W037 + 11 sh:.NET developer|Buenos Air|p49
+[23:40:19]   W082 + 20 sh:Terraform engine|Boston|p10
+[23:40:19]   W039 + 30 dc:SRE|Paris|p1
+[23:40:19]   W062 + 23 dc:web developer|Nairobi|p32
+[23:40:19]   W096 + 34 dc:Android develope|Birmingham|p42
+[23:40:19]   W017 + 34 dc:rust developer|Portland|p24
+[23:40:19]   W031 + 30 dc:security archite|Remote|p40
+[23:40:19]   W049 + 25 dc:iOS developer|Indore|p8
+[23:40:19]   W090 + 20 sh:cloud architect|Gold Coast|p11
+[23:40:19]   W012 + 33 dc:frontend enginee|Milan|p45
+[23:40:20]   W068 + 32 dc:principal engine|Lagos|p18
+[23:40:20]   W088 + 34 dc:embedded systems|Houston|p34
+[23:40:20]   W080 + 34 dc:Docker engineer|Gurgaon|p37
+[23:40:20]   W018 + 31 dc:senior frontend |Prague|p43
+[23:40:20]   W073 + 34 dc:staff software e|Dubai|p44
+[23:40:21]   W028 + 34 dc:cybersecurity en|Atlanta|p48
+[23:40:21]   W027 + 23 dc:web developer|Bangalore|p45
+[23:40:21]   W030 + 34 dc:junior software ||p41
+[23:40:21]   W033 +  8 dc:RAG engineer|Los Angele|p13
+[23:40:21]   W063 + 34 dc:UX engineer|Perth|p14
+[23:40:21]   W054 + 34 dc:golang developer|Wellington|p17
+[23:40:21]   W072 +  3 sh:software develop|Milan|p15
+[23:40:21]   W010 + 34 dc:PostgreSQL engin|Mexico Cit|p15
+[23:40:22]   W079 + 30 dc:data scientist|Stockholm|p26
+[23:40:22]   W043 + 30 dc:cloud architect|Kolkata|p28
+[23:40:22]   W077 + 34 dc:tech lead|Amsterdam|p14
+[23:40:22]   W010 + 32 dc:software develop|Zurich|p42
+[23:40:22]   W057 + 20 sh:NLP engineer|Bristol|p5
+[23:40:22]   W069 + 20 sh:database adminis|New York|p17
+[23:40:22]   W062 + 20 sh:lead developer|Washington|p20
+[23:40:23]   W056 + 20 sh:systems engineer|New York|p33
+[23:40:23]   W063 + 30 dc:site reliability|Prague|p39
+[23:40:23]   W001 +  7 dc:junior backend e|Cardiff|p33
+[23:40:24]   W033 + 34 dc:lead software en|Bucharest|p49
+[23:40:24]   W030 + 30 dc:full stack devel|Cape Town|p14
+[23:40:24]   W007 + 34 dc:GenAI engineer|Bucharest|p16
+[23:40:24]   W027 + 34 dc:API engineer|Boston|p42
+[23:40:24]   W028 + 34 dc:embedded enginee|Manchester|p21
+[23:40:24]   W043 + 34 dc:analytics engine||p8
+[23:40:24]   W044 + 34 dc:embedded systems|Prague|p13
+[23:40:24]   W045 + 18 sh:Kafka engineer|Vancouver|p41
+[23:40:24]   W079 + 30 dc:SRE|Buenos Air|p33
+[23:40:24]   W004 + 30 dc:lead developer|Manchester|p27
+[23:40:25]   W053 + 34 dc:full stack engin|Phoenix|p31
+[23:40:25]   W020 + 32 dc:senior backend e|Delhi|p7
+[23:40:25]   W051 + 34 dc:junior developer|Adelaide|p36
+[23:40:25]   W001 + 32 dc:senior backend e|Calgary|p37
+[23:40:25]   W084 + 20 sh:Swift developer|Vienna|p48
+[23:40:26]   W007 + 21 dc:deep learning en|Gold Coast|p22
+[23:40:26]   W017 + 10 dc:Next.js develope|Jaipur|p1
+[23:40:26]   W083 + 10 dc:Elasticsearch en|Vancouver|p49
+[23:40:26]   W001 + 30 dc:release engineer|Vancouver|p21
+[23:40:26]   W004 + 34 dc:security archite|Toronto|p46
+[23:40:26]   W018 + 30 dc:robotics enginee|Gurgaon|p36
+[23:40:27]   W065 + 13 dc:data pipeline en|Manchester|p25
+[23:40:27]   W052 +  6 dc:WordPress develo|Boston|p3
+[23:40:27]   W070 + 34 dc:Docker engineer|Hyderabad|p17
+[23:40:27]   W060 + 34 dc:fellow engineer|Leeds|p38
+[23:40:27]   W099 + 34 dc:staff software e|Bangalore|p28
+[23:40:27]   W047 + 20 sh:mobile developer|San Diego|p48
+[23:40:27]   W053 + 20 sh:data scientist|Vancouver|p24
+[23:40:27]   W036 + 34 dc:Azure engineer|Boston|p43
+[23:40:27]   W042 + 34 dc:analytics engine|Berlin|p22
+[23:40:27]   W097 + 30 dc:SRE|Auckland|p34
+[23:40:28]   W082 + 32 dc:principal engine|Milan|p42
+[23:40:28]   W086 +  9 dc:Ruby developer|Amsterdam|p26
+[23:40:28]   W077 + 14 dc:SOC analyst|Munich|p6
+[23:40:28]   W060 + 34 dc:golang developer|Prague|p12
+[23:40:28]   W078 + 34 dc:business intelli|Chicago|p26
+[23:40:28]   W004 + 34 dc:python developer|Seattle|p32
+[23:40:28]   W063 + 20 sh:data analyst|Dallas|p19
+[23:40:28]   W092 + 20 sh:React developer|Chicago|p16
+[23:40:28]   W065 + 34 dc:python developer|Visakhapat|p5
+[23:40:29]   W061 + 34 dc:AWS engineer|Bangalore|p0
+[23:40:29]   W021 +  7 dc:FastAPI develope|Vienna|p21
+[23:40:29]   W072 + 34 dc:data analyst|Dubai|p41
+[23:40:29]   W016 + 31 dc:information secu|Houston|p22
+[23:40:29]   W084 + 20 sh:information secu|Dublin|p38
+[23:40:30]   W075 + 20 sh:database enginee|Sydney|p27
+[23:40:30]   W071 + 30 dc:cloud architect|San Franci|p30
+[23:40:30]   W097 + 34 dc:DevOps engineer|Dubai|p8
+[23:40:30]   W081 +  8 dc:graphics enginee|Vancouver|p33
+[23:40:30]   W052 + 34 dc:Terraform engine|Noida|p15
+[23:40:30]   W018 + 20 sh:graphics enginee||p44
+[23:40:30]   W078 + 34 dc:go developer|Dallas|p45
+[23:40:30]   W089 + 30 dc:cloud architect|Gurgaon|p48
+[23:40:31]   W004 + 34 dc:application secu|Munich|p15
+[23:40:31]   W018 + 26 dc:C++ engineer|Toronto|p12
+[23:40:31]   W067 + 34 dc:GenAI engineer|Sao Paulo|p37
+[23:40:31]   W008 + 34 dc:mobile app devel|Cardiff|p34
+[23:40:31]   W082 + 31 dc:information secu|Miami|p32
+[23:40:31]   W035 + 20 sh:mobile developer|Brisbane|p38
+[23:40:31]   W061 + 34 dc:design engineer|Austin|p6
+[23:40:31]   W052 + 34 dc:principal softwa|Helsinki|p28
+[23:40:32]   W071 + 34 dc:business intelli|Houston|p42
+[23:40:32]   W073 +  8 sh:Kotlin developer|Sydney|p21
+[23:40:32]   W005 + 34 dc:product engineer|Washington|p49
+[23:40:32]   W071 + 34 dc:network engineer|Bucharest|p9
+[23:40:32]   W097 + 19 dc:PHP developer|Los Angele|p16
+[23:40:32]   W059 + 34 dc:C# developer|Rome|p10
+[23:40:32]   W026 + 32 dc:senior backend e|Remote|p11
+[23:40:32]   W073 + 20 sh:node developer|Dublin|p17
+[23:40:33]   W079 + 20 sh:game developer||p18
+[23:40:33]   W004 + 34 dc:devops engineer|Milan|p22
+[23:40:33]   W018 + 30 dc:release engineer|Sao Paulo|p21
+[23:40:33]   W011 + 30 dc:system administr|Leeds|p4
+[23:40:34]   W024 + 31 dc:NLP engineer|Nagpur|p46
+[23:40:34]   W076 + 34 dc:solutions archit|Milan|p23
+[23:40:34]   W015 + 34 dc:build engineer|Adelaide|p33
+[23:40:34]   W052 + 34 dc:build engineer|Lagos|p0
+[23:40:34]   W071 +  9 dc:RAG engineer|Dallas|p31
+[23:40:34]   W022 + 34 dc:DevOps engineer|Chicago|p35
+[23:40:34]   W030 + 30 dc:principal engine|San Diego|p18
+[23:40:34]   W033 + 34 dc:Django developer|Jaipur|p39
+[23:40:35]   W005 + 11 dc:Rails developer|Warsaw|p8
+[23:40:35]   W065 + 34 dc:network engineer|Berlin|p33
+[23:40:35]   W080 +  5 dc:Elixir developer|Chennai|p23
+[23:40:35]   W002 + 14 dc:SOC analyst|Bucharest|p1
+[23:40:35]   W028 + 20 sh:infrastructure e|Cardiff|p8
+[23:40:35]   W063 + 20 sh:computer vision |Melbourne|p42
+[23:40:35]   W084 +  5 dc:Elixir developer|Visakhapat|p45
+[23:40:35]   W004 +  7 dc:junior backend e|Auckland|p7
+[23:40:36]   W015 + 34 dc:Spark engineer|Atlanta|p7
+[23:40:36]   W053 + 32 dc:principal engine|Prague|p43
+[23:40:36]   W033 + 32 dc:senior backend e|Birmingham|p10
+[23:40:36]   W057 + 34 dc:NLP developer|Gurgaon|p31
+[23:40:37]   W055 + 31 dc:information secu|Houston|p17
+[23:40:37]   W062 + 34 dc:staff engineer|Wellington|p19
+[23:40:37]   W031 + 34 dc:Spring Boot deve|Jaipur|p5
+[23:40:37]   W060 + 20 sh:application secu|Buenos Air|p31
+[23:40:37]   W005 + 30 dc:database enginee|Vancouver|p25
+[23:40:38]   W051 + 34 dc:Kafka engineer|Lisbon|p1
+[23:40:38]   W063 +  8 dc:game developer|Rome|p31
+[23:40:38]   W023 + 34 dc:data analyst|Sydney|p44
+[23:40:38]   W032 + 34 dc:Android develope|Edmonton|p41
+[23:40:38]   W022 + 30 dc:lead developer|San Diego|p43
+[23:40:38]   W003 + 34 dc:machine learning|Seoul|p20
+[23:40:38]   W070 + 34 dc:NLP developer|Bucharest|p32
+[23:40:38]   W047 + 30 dc:security archite|Manchester|p41
+[23:40:38]   W034 + 30 dc:Kubernetes engin|Edinburgh|p25
+[23:40:39]   W050 + 20 sh:ETL developer|Washington|p31
+[23:40:39]   W076 + 11 sh:SRE|Sydney|p29
+[23:40:39]   W069 + 20 sh:IT engineer|Nottingham|p14
+[23:40:39]   W068 + 32 dc:TypeScript devel|Krakow|p3
+[23:40:39]   W037 + 34 dc:senior software |Dallas|p8
+[23:40:39]   W062 + 23 dc:web developer|Vienna|p5
+[23:40:39]   W029 + 34 dc:embedded systems|Lagos|p24
+[23:40:39]   W067 + 34 dc:IT engineer|Berlin|p30
+[23:40:40]   W005 + 20 sh:computer enginee|Boston|p37
+[23:40:40]   W033 + 20 sh:Kubernetes engin|Boston|p42
+[23:40:40]   W065 + 19 dc:FPGA engineer|Wellington|p0
+[23:40:41]   W020 + 34 dc:Azure engineer|Calgary|p13
+[23:40:41]   W032 + 34 dc:product engineer|Visakhapat|p17
+[23:40:41]   W003 + 30 dc:data scientist|Leeds|p18
+[23:40:41]   W018 + 20 sh:systems engineer|Sydney|p17
+[23:40:41]   W047 + 34 dc:staff software e|Bucharest|p8
+[23:40:41]   W072 + 34 dc:RTOS engineer||p22
+[23:40:41]   W036 + 34 dc:design engineer|Singapore|p35
+[23:40:41]   W079 + 25 dc:iOS developer|Sao Paulo|p6
+[23:40:41]   W037 + 34 dc:go developer|Zurich|p26
+[23:40:42]   W094 + 34 dc:build engineer|Stockholm|p6
+[23:40:42]   W040 + 34 dc:staff engineer|Zurich|p22
+[23:40:42]   W037 + 30 dc:node developer|Gurgaon|p46
+[23:40:42]   W086 + 30 dc:full stack devel|Newcastle|p16
+[23:40:42]   W049 + 30 dc:security archite|Brisbane|p37
+[23:40:42]   W011 + 34 dc:embedded systems|Thiruvanan|p48
+[23:40:42]   W061 + 20 sh:product manager|Austin|p7
+[23:40:43]   W020 +  5 dc:Perl developer|Oslo|p27
+[23:40:43]   W064 + 34 dc:penetration test|Melbourne|p0
+[23:40:43]   W081 + 30 dc:lead developer|Montreal|p25
+[23:40:43]   W047 + 19 dc:Hadoop engineer|Boston|p11
+[23:40:43]   W042 + 20 sh:mobile developer|Boston|p39
+[23:40:43]   W046 + 20 sh:Kubernetes engin|Los Angele|p24
+[23:40:44]   W094 + 34 dc:network engineer|Miami|p14
+[23:40:44]   W039 + 18 dc:PHP developer|Vienna|p19
+[23:40:44]   W098 + 34 dc:senior devops en|Tel Aviv|p44
+[23:40:44]   W079 + 34 dc:AI engineer|Noida|p26
+[23:40:44]   W089 + 12 dc:data pipeline en|Lagos|p41
+[23:40:44]   W048 + 32 dc:TypeScript devel|Pune|p36
+[23:40:44]   W096 + 34 dc:cloud engineer|Singapore|p15
+[23:40:45]   W046 + 34 dc:Kafka engineer|Auckland|p13
+[23:40:45]   W001 + 34 dc:golang developer|Miami|p25
+[23:40:45]   W038 + 34 dc:GCP engineer|Seoul|p32
+[23:40:45]   W064 + 31 dc:NLP engineer|Brisbane|p0
+[23:40:45]   W081 + 10 dc:Next.js develope|Jaipur|p48
+[23:40:45]   W018 + 25 dc:PHP developer|New York|p48
+[23:40:45]   W041 + 31 dc:firmware enginee|Wellington|p9
+[23:40:45]   W047 + 34 dc:go developer|Vancouver|p25
+[23:40:46]   W076 + 20 sh:Kafka engineer|Denver|p2
+[23:40:46]   W099 + 20 sh:computer vision |Amsterdam|p28
+[23:40:46]   W020 + 20 sh:LLM engineer|Washington|p40
+[23:40:46]   W023 + 34 dc:lead software en|Jaipur|p29
+[23:40:46]   W051 + 20 sh:database enginee|Austin|p21
+[23:40:46]   W008 + 20 sh:mobile developer|Brisbane|p24
+[23:40:47]   W044 + 13 sh:project manager|Milan|p24
+[23:40:47]   W024 + 34 dc:ETL developer|Lucknow|p25
+[23:40:47]   W007 + 30 dc:site reliability|Bangalore|p46
+[23:40:47]   W025 + 10 dc:Elasticsearch en|Montreal|p13
+[23:40:47]   W020 + 34 dc:python developer|Buenos Air|p37
+[23:40:48]   W037 + 30 dc:security archite|Ottawa|p20
+[23:40:48]   W098 + 20 sh:C# developer|Brisbane|p1
+[23:40:48]   [R1] DB=719,316 | +9 | 7/min | Gap=280,684 | iters=367
+[23:40:48]   W041 + 34 dc:cybersecurity en|Kolkata|p48
+[23:40:48]   W058 + 34 dc:PostgreSQL engin|Tel Aviv|p49
+[23:40:48]   W088 +  5 dc:BSP engineer|Houston|p12
+[23:40:48]   W050 +  8 dc:game developer|Lucknow|p1
+[23:40:48]   W070 + 34 dc:junior software |Cardiff|p32
+[23:40:48]   W007 + 34 dc:database adminis|Warsaw|p18
+[23:40:49]   W004 + 34 dc:full stack devel|Toronto|p45
+[23:40:49]   W081 + 30 dc:cloud architect|Prague|p16
+[23:40:49]   W076 + 34 dc:GCP engineer|Cape Town|p23
+[23:40:49]   W025 + 22 dc:deep learning en|Thiruvanan|p22
+[23:40:49]   W026 + 34 dc:junior developer|Sydney|p35
+[23:40:49]   W010 + 20 sh:information secu|Newcastle|p10
+[23:40:49]   W048 + 33 dc:technical writer|Houston|p42
+[23:40:49]   W019 +  9 dc:graphics enginee|Denver|p40
+[23:40:50]   W043 + 34 dc:AI engineer|Glasgow|p48
+[23:40:50]   W044 + 20 sh:CI/CD engineer|Buenos Air|p11
+[23:40:50]   W046 + 20 sh:systems engineer|Remote|p48
+[23:40:50]   W066 + 15 dc:Hadoop engineer|Paris|p2
+[23:40:50]   W062 + 10 dc:Elasticsearch en|Edmonton|p41
+[23:40:50]   W036 + 34 dc:Android develope|Hong Kong|p34
+[23:40:50]   W014 + 34 dc:UX engineer|Gold Coast|p3
+[23:40:50]   W012 + 14 dc:data pipeline en|Oslo|p35
+[23:40:50]   W048 +  8 dc:junior frontend |Visakhapat|p49
+[23:40:51]   W055 + 31 dc:full stack engin|Edinburgh|p16
+[23:40:51]   W071 + 12 dc:driver engineer|Los Angele|p46
+[23:40:51]   W072 + 34 dc:database adminis|Newcastle|p15
+[23:40:52]   W008 + 20 sh:computer enginee|Vancouver|p7
+[23:40:52]   W045 + 12 dc:data pipeline en|Newcastle|p38
+[23:40:52]   W076 + 11 dc:Rails developer|Milan|p0
+[23:40:52]   W025 + 30 dc:Angular develope|Lisbon|p25
+[23:40:52]   W051 + 20 sh:python developer|Brisbane|p8
+[23:40:52]   W079 + 20 sh:RTOS engineer|Austin|p33
+[23:40:52]   W036 + 20 sh:software develop|Sydney|p37
+[23:40:52]   W073 + 34 dc:C++ engineer|Los Angele|p40
+[23:40:52]   W043 + 34 dc:backend engineer|Leeds|p20
+[23:40:52]   W024 + 30 dc:release engineer|Lucknow|p2
+[23:40:52]   W048 + 30 dc:data engineer|Remote|p49
+[23:40:53]   W029 + 20 sh:RAG engineer|San Diego|p31
+[23:40:53]   W063 + 19 sh:database enginee|Birmingham|p15
+[23:40:53]   W095 + 14 sh:IT engineer|Toronto|p48
+[23:40:53]   W055 + 30 dc:node developer|Kolkata|p32
+[23:40:53]   W092 + 34 dc:senior devops en|Vienna|p49
+[23:40:53]   W038 + 18 dc:computer enginee|Mexico Cit|p32
+[23:40:53]   W002 + 34 dc:database adminis|Zurich|p28
+[23:40:53]   W084 + 34 dc:Spring Boot deve|Melbourne|p24
+[23:40:53]   W026 + 34 dc:embedded enginee|Cardiff|p35
+[23:40:54]   W028 + 20 sh:IT engineer|Portland|p5
+[23:40:54]   W065 +  8 sh:infrastructure e|Milan|p40
+[23:40:54]   W007 + 20 sh:react developer|Phoenix|p36
+[23:40:55]   W066 + 20 sh:software enginee|Dallas|p43
+[23:40:55]   W045 + 34 dc:system administr|Boston|p28
+[23:40:55]   W025 + 13 dc:Laravel develope|Singapore|p27
+[23:40:55]   W040 + 34 dc:C# developer|Budapest|p49
+[23:40:55]   W095 + 30 dc:microservices en|Sydney|p32
+[23:40:55]   W072 + 34 dc:junior software |Cape Town|p15
+[23:40:55]   W071 + 34 dc:rust developer|Houston|p11
+[23:40:55]   W024 + 34 dc:devops engineer|Nagpur|p36
+[23:40:56]   W032 + 34 dc:GenAI engineer|Berlin|p28
+[23:40:56]   W095 + 16 dc:Hadoop engineer|San Diego|p41
+[23:40:56]   W076 +  3 sh:Rails developer|Gold Coast|p45
+[23:40:56]   W041 + 34 dc:ML platform engi|Berlin|p41
+[23:40:56]   W090 + 15 dc:Hadoop engineer|London|p46
+[23:40:56]   W038 + 20 dc:payments enginee|Nottingham|p3
+[23:40:56]   W074 +  7 dc:Redis engineer|Delhi|p17
+[23:40:56]   W004 + 34 dc:senior data engi|Warsaw|p29
+[23:40:56]   W029 + 23 dc:computer vision |Vancouver|p23
+[23:40:56]   W033 + 11 sh:QA engineer|Warsaw|p13
+[23:40:56]   W018 + 34 dc:Scala developer|Copenhagen|p2
+[23:40:57]   W055 + 20 sh:embedded enginee|Boston|p36
+[23:40:57]   W066 + 34 dc:API engineer|Sheffield|p29
+[23:40:57]   W045 + 30 dc:mobile developer|Vancouver|p0
+[23:40:57]   W044 + 20 sh:ML platform engi|Atlanta|p49
+[23:40:57]   W071 + 34 dc:penetration test|Miami|p3
+[23:40:58]   W039 + 34 dc:Azure engineer|Lagos|p49
+[23:40:58]   W095 + 30 dc:cloud architect|Noida|p3
+[23:40:58]   W047 + 34 dc:mobile developer|Miami|p9
+[23:40:59]   W043 + 31 dc:automation engin|Atlanta|p9
+[23:40:59]   W090 + 32 dc:software develop|Newcastle|p37
+[23:40:59]   W004 + 34 dc:API engineer|Hyderabad|p39
+[23:40:59]   W012 + 14 dc:fintech engineer|Chicago|p40
+[23:40:59]   W080 + 34 dc:senior data engi|Sao Paulo|p28
+[23:40:59]   W073 + 32 dc:software develop|Nagpur|p46
+[23:40:59]   W092 + 34 dc:junior data engi|Phoenix|p22
+[23:40:59]   W009 +  9 sh:Android develope|Portland|p33
+[23:40:59]   W041 + 30 dc:node developer|Chennai|p11
+[23:41:00]   W007 + 30 dc:SRE|Auckland|p5
+[23:41:00]   W021 + 34 dc:golang developer|Jaipur|p45
+[23:41:00]   W071 + 34 dc:devops engineer|Gurgaon|p16
+[23:41:00]   W023 + 13 dc:Laravel develope|Glasgow|p48
+[23:41:00]   W022 + 19 dc:FPGA engineer|Munich|p34
+[23:41:01]   W059 + 20 sh:infrastructure e|Dallas|p36
+[23:41:01]   W090 + 14 dc:data pipeline en|Seattle|p26
+[23:41:01]   W073 + 34 dc:CI/CD engineer|Singapore|p38
+[23:41:01]   W054 + 34 dc:senior devops en|Calgary|p27
+[23:41:01]   W016 +  4 dc:fintech engineer|Vancouver|p42
+[23:41:01]   W099 + 34 dc:Django developer|Chennai|p11
+[23:41:01]   W069 + 22 dc:junior devops en|Tokyo|p46
+[23:41:01]   W092 + 18 sh:MongoDB engineer|San Diego|p12
+[23:41:01]   W043 +  6 dc:WordPress develo|Sydney|p20
+[23:41:02]   W040 + 30 dc:platform enginee|Mumbai|p48
+[23:41:02]   W077 + 31 dc:information secu|Bristol|p31
+[23:41:02]   W030 + 34 dc:analytics engine|Ahmedabad|p34
+[23:41:02]   W049 + 34 dc:product manager|Prague|p40
+[23:41:03]   W080 + 34 dc:Docker engineer|Coimbatore|p15
+[23:41:03]   W025 + 34 dc:DevOps engineer|Manchester|p8
+[23:41:03]   W078 + 34 dc:AI engineer|Newcastle|p44
+[23:41:03]   W071 +  9 dc:RTOS engineer|Munich|p12
+[23:41:03]   W039 + 20 sh:distinguished en|Dallas|p18
+[23:41:03]   W016 + 15 dc:Hadoop engineer|Budapest|p34
+[23:41:03]   W002 + 32 dc:software develop|Leeds|p34
+[23:41:03]   W081 + 34 dc:senior frontend |Seattle|p17
+[23:41:03]   W095 +  7 dc:FastAPI develope|Lagos|p40
+[23:41:04]   W040 + 12 dc:Rails developer|Washington|p10
+[23:41:04]   W036 + 34 dc:Azure engineer|Cardiff|p37
+[23:41:04]   W043 + 30 dc:React developer|Gurgaon|p49
+[23:41:04]   W037 + 11 sh:mobile app devel|San Diego|p3
+[23:41:04]   W023 + 34 dc:tech lead|Lucknow|p10
+[23:41:04]   W025 + 20 sh:golang developer|Dublin|p23
+[23:41:05]   W071 + 30 dc:distributed syst|Budapest|p7
+[23:41:05]   W030 + 13 dc:Laravel develope|Montreal|p13
+[23:41:05]   W045 + 34 dc:software enginee|Oslo|p48
+[23:41:05]   W080 + 32 dc:AI infrastructur|Edinburgh|p28
+[23:41:05]   W018 + 34 dc:lead software en|Milan|p12
+[23:41:06]   W037 + 18 dc:computer enginee|Copenhagen|p20
+[23:41:06]   W024 + 20 sh:application engi|Krakow|p16
+[23:41:06]   W013 + 20 sh:RAG engineer|Washington|p28
+[23:41:06]   W098 + 15 sh:mobile developer|London|p5
+[23:41:06]   W037 + 30 dc:release engineer|San Diego|p10
+[23:41:06]   W014 +  6 dc:WordPress develo|Adelaide|p19
+[23:41:07]   W022 + 34 dc:database adminis|Austin|p39
+[23:41:07]   W013 + 34 dc:golang developer|Edinburgh|p16
+[23:41:07]   W072 + 30 dc:site reliability|Zurich|p13
+[23:41:07]   W018 + 22 dc:Vue developer|Ahmedabad|p42
+[23:41:07]   W013 + 32 dc:senior backend e|Glasgow|p21
+[23:41:07]   W003 + 32 dc:senior developer|Milan|p40
+[23:41:07]   W047 + 20 sh:Kubernetes engin|San Diego|p18
+[23:41:08]   W093 + 30 dc:java developer|Paris|p24
+[23:41:08]   W030 + 22 dc:Vue.js developer|Nagpur|p23
+[23:41:08]   W023 + 32 dc:senior developer|Melbourne|p10
+[23:41:08]   W096 + 34 dc:cloud engineer|Portland|p17
+[23:41:08]   W016 + 20 sh:Docker engineer|Portland|p16
+[23:41:08]   W015 +  6 dc:WordPress develo|Mumbai|p9
+[23:41:08]   W063 + 10 dc:Next.js develope|Adelaide|p47
+[23:41:09]   W006 + 30 dc:react developer|Sydney|p28
+[23:41:09]   W070 + 34 dc:Spring Boot deve|Houston|p9
+[23:41:09]   W072 + 34 dc:Azure engineer|Montreal|p8
+[23:41:09]   W075 + 30 dc:system administr|Cardiff|p0
+[23:41:10]   W070 +  5 dc:Flutter develope|Miami|p20
+[23:41:10]   W058 + 34 dc:design engineer|Amsterdam|p15
+[23:41:10]   W037 + 30 dc:Kubernetes engin|Oslo|p49
+[23:41:10]   W074 + 20 sh:firmware enginee|Melbourne|p12
+[23:41:10]   W051 + 34 dc:senior software |Montreal|p0
+[23:41:10]   W030 + 34 dc:devops engineer|Ottawa|p38
+[23:41:10]   W073 + 22 dc:Vue developer|Munich|p3
+[23:41:10]   W067 + 32 dc:senior developer|Vancouver|p13
+[23:41:11]   W027 + 34 dc:Kafka engineer|Buenos Air|p15
+[23:41:11]   W089 + 33 dc:frontend enginee|Surat|p14
+[23:41:11]   W052 + 31 dc:firmware enginee|Cardiff|p0
+[23:41:11]   W072 + 22 dc:junior devops en|Gold Coast|p8
+[23:41:11]   W075 + 11 dc:driver engineer|New York|p48
+[23:41:11]   W023 + 34 dc:ML engineer|Jaipur|p45
+[23:41:12]   W067 + 20 sh:AWS engineer|Cardiff|p25
+[23:41:12]   W081 + 20 sh:full stack engin|Chicago|p32
+[23:41:12]   W048 + 20 sh:LLM engineer|London|p31
+[23:41:12]   W070 + 34 dc:lead software en|Dublin|p4
+[23:41:12]   W040 + 31 dc:technical writer|Paris|p6
+[23:41:12]   W061 +  9 dc:driver engineer|Munich|p20
+[23:41:12]   W068 + 34 dc:Terraform engine|Johannesbu|p44
+[23:41:12]   W074 + 34 dc:design engineer|Stockholm|p35
+[23:41:12]   W051 + 34 dc:cloud security e|Chennai|p26
+[23:41:13]   W056 + 30 dc:site reliability|Glasgow|p6
+[23:41:13]   W043 +  7 dc:Redis engineer|Pune|p36
+[23:41:13]   W046 +  9 sh:solutions archit|Edinburgh|p35
+[23:41:13]   W041 + 34 dc:python developer|Stockholm|p1
+[23:41:13]   W015 + 20 sh:cloud engineer|Birmingham|p22
+[23:41:14]   W066 + 34 dc:staff software e|Perth|p39
+[23:41:14]   W012 + 34 dc:database adminis|Buenos Air|p40
+[23:41:14]   W084 + 30 dc:Node.js develope|Wellington|p11
+[23:41:14]   W052 + 34 dc:CI/CD engineer|Singapore|p40
+[23:41:14]   W084 + 34 dc:application secu|Helsinki|p7
+[23:41:14]   W031 + 20 sh:penetration test|Washington|p47
+[23:41:14]   W093 + 20 sh:Angular develope|Dublin|p36
+[23:41:14]   W046 + 20 sh:AWS engineer|Sydney|p12
+[23:41:15]   W040 + 31 dc:full stack engin|Zurich|p39
+[23:41:15]   W061 +  6 dc:WordPress develo|Krakow|p45
+[23:41:15]   W074 + 34 dc:C++ engineer|San Franci|p2
+[23:41:15]   W017 + 32 dc:junior data engi|Milan|p40
+[23:41:15]   W098 + 34 dc:systems engineer|Chicago|p44
+[23:41:15]   W022 + 19 sh:cloud engineer|Warsaw|p48
+[23:41:15]   W089 + 20 sh:senior developer|Los Angele|p46
+[23:41:15]   W027 +  7 sh:QA engineer|Rome|p19
+[23:41:16]   W049 + 20 sh:payments enginee|Birmingham|p23
+[23:41:16]   W009 + 32 dc:Spark engineer|Zurich|p29
+[23:41:16]   W010 + 22 dc:MLOps engineer|Mexico Cit|p8
+[23:41:16]   W001 + 30 dc:react developer|Portland|p13
+[23:41:16]   W070 + 34 dc:IT engineer|Toronto|p11
+[23:41:17]   W051 + 34 dc:AWS engineer|Hyderabad|p26
+[23:41:17]   W009 + 20 sh:react developer|Brisbane|p9
+[23:41:17]   W020 + 20 sh:SOC analyst|Dallas|p8
+[23:41:17]   W084 + 34 dc:cybersecurity en|Cape Town|p32
+[23:41:17]   W084 + 19 dc:FPGA engineer|Wellington|p28
+[23:41:17]   W019 + 34 dc:go developer|Houston|p3
+[23:41:18]   W057 +  5 dc:Flutter develope|Paris|p19
+[23:41:18]   W036 + 34 dc:systems engineer|Glasgow|p43
+[23:41:18]   W021 + 34 dc:embedded enginee|Boston|p45
+[23:41:18]   W087 + 10 dc:Elasticsearch en|Barcelona|p22
+[23:41:18]   W016 +  4 dc:fintech engineer|Leeds|p13
+[23:41:18]   W065 + 34 dc:senior devops en|Hong Kong|p44
+[23:41:18]   W022 + 34 dc:ML platform engi|Miami|p15
+[23:41:18]   W046 + 20 sh:cloud engineer|Nottingham|p42
+[23:41:18]   W007 + 34 dc:embedded enginee|Montreal|p5
+[23:41:18]   W066 + 20 sh:NLP developer|Washington|p44
+[23:41:19]   W053 +  5 sh:security enginee|Manchester|p30
+[23:41:19]   W067 + 20 sh:cloud security e|Los Angele|p31
+[23:41:19]   W049 +  8 dc:graphics enginee|Johannesbu|p23
+[23:41:19]   W009 + 34 dc:LLM engineer|Gold Coast|p9
+[23:41:19]   W076 + 18 dc:computer enginee|Barcelona|p49
+[23:41:19]   [R1] DB=719,316 | +9 | 5/min | Gap=280,684 | iters=592
+[23:41:19]   W051 + 20 sh:machine learning|Denver|p33
+[23:41:19]   W008 +  9 dc:RTOS engineer|Lucknow|p49
+[23:41:20]   W030 + 34 dc:devops engineer|Denver|p49
+[23:41:20]   W098 + 19 dc:big data enginee|Prague|p18
+[23:41:20]   W013 + 29 dc:network architec|Ottawa|p25
+[23:41:21]   W001 + 34 dc:distinguished en|Ahmedabad|p8
+[23:41:21]   W030 + 34 dc:UX engineer|Chennai|p16
+[23:41:21]   W018 + 34 dc:business intelli|Dublin|p17
+[23:41:21]   W046 + 30 dc:cloud architect|Calgary|p41
+[23:41:21]   W047 + 34 dc:CI/CD engineer|Stockholm|p5
+[23:41:21]   W087 + 34 dc:cloud engineer|Denver|p26
+[23:41:22]   W016 + 31 dc:information secu|Sheffield|p16
+[23:41:22]   W093 + 20 sh:Angular develope|Boston|p24
+[23:41:22]   W084 + 20 sh:payments enginee|Remote|p13
+[23:41:22]   W093 + 34 dc:design engineer|Vancouver|p32
+[23:41:22]   W092 + 22 dc:MLOps engineer|Vancouver|p36
+[23:41:22]   W024 + 30 dc:mobile developer|Brisbane|p38
+[23:41:22]   W065 + 34 dc:tech lead|Pune|p9
+[23:41:22]   W054 + 34 dc:Android develope|Delhi|p36
+[23:41:22]   W007 +  5 dc:Elixir developer|London|p10
+[23:41:23]   W071 + 30 dc:java developer|Auckland|p14
+[23:41:23]   W083 + 20 sh:AI infrastructur|Remote|p33
+[23:41:23]   W006 + 25 dc:iOS developer|Amsterdam|p43
+[23:41:23]   W002 +  7 dc:FastAPI develope|San Franci|p48
+[23:41:23]   W021 + 34 dc:PostgreSQL engin|Ahmedabad|p28
+[23:41:23]   W061 + 32 dc:software develop|Leeds|p3
+[23:41:24]   W040 + 30 dc:database enginee|Edmonton|p43
+[23:41:24]   W053 +  5 dc:Express develope|Johannesbu|p48
+[23:41:24]   W030 + 31 dc:information secu|Sheffield|p32
+[23:41:25]   W074 + 34 dc:Terraform engine|Los Angele|p41
+[23:41:25]   W042 + 34 dc:Docker engineer|Visakhapat|p45
+[23:41:25]   W007 + 30 dc:system administr|Milan|p34
+[23:41:25]   W070 + 18 dc:PHP developer|Cape Town|p31
+[23:41:25]   W067 + 30 dc:security archite|Seoul|p23
+[23:41:25]   W023 + 34 dc:golang developer|Phoenix|p45
+[23:41:25]   W037 + 34 dc:C# developer|Prague|p46
+[23:41:25]   W028 + 30 dc:data scientist|Hyderabad|p31
+[23:41:26]   W092 + 34 dc:java developer|Miami|p38
+[23:41:26]   W039 + 34 dc:junior data engi|Austin|p46
+[23:41:26]   W021 + 33 dc:frontend enginee|Phoenix|p30
+[23:41:26]   W010 + 34 dc:full stack engin|Denver|p37
+[23:41:26]   W072 + 34 dc:lead software en|Noida|p26
+[23:41:26]   W016 + 34 dc:MongoDB engineer|Brisbane|p43
+[23:41:27]   W073 + 30 dc:SRE|Seoul|p8
+[23:41:27]   W059 +  8 dc:game developer|Leeds|p39
+[23:41:27]   W060 + 20 sh:robotics enginee|Phoenix|p43
+[23:41:27]   W011 +  5 sh:systems engineer|Lisbon|p22
+[23:41:27]   W061 + 20 sh:golang developer|Washington|p17
+[23:41:27]   W070 + 14 dc:SOC analyst|Indore|p15
+[23:41:27]   W025 + 34 dc:application secu|Thiruvanan|p12
+[23:41:28]   W023 + 25 dc:iOS developer|Warsaw|p2
+[23:41:28]   W088 +  5 dc:Express develope|Gurgaon|p18
+[23:41:28]   W043 + 34 dc:cybersecurity en|Austin|p10
+[23:41:29]   W045 + 34 dc:Kafka engineer|Helsinki|p5
+[23:41:29]   W012 + 34 dc:GCP engineer|Krakow|p49
+[23:41:29]   W094 + 34 dc:data analyst|Munich|p35
+[23:41:29]   W017 + 16 sh:SDE|Vienna|p4
+[23:41:29]   W035 +  3 sh:golang developer|Wellington|p18
+[23:41:29]   W073 +  8 dc:game developer|Gurgaon|p38
+[23:41:29]   W011 + 32 dc:TypeScript devel|Phoenix|p36
+[23:41:29]   W098 + 34 dc:software enginee|Dublin|p34
+[23:41:29]   W060 + 30 dc:security archite|Amsterdam|p44
+[23:41:30]   W066 + 20 sh:java developer|Denver|p17
+[23:41:30]   W070 + 34 dc:GCP engineer|Lisbon|p29
+[23:41:30]   W045 + 30 dc:robotics enginee|Bristol|p0
+[23:41:30]   W088 + 34 dc:product manager|Calgary|p37
+[23:41:30]   W062 + 34 dc:Azure engineer||p40
+[23:41:30]   W057 + 34 dc:distinguished en|Munich|p28
+[23:41:31]   W014 + 20 sh:data engineer|Houston|p27
+[23:41:31]   W034 + 20 sh:LLM engineer|Dallas|p47
+[23:41:31]   W098 + 20 sh:software develop|Sydney|p45
+[23:41:31]   W030 +  8 sh:lead developer|Melbourne|p38
+[23:41:31]   W031 + 20 sh:design engineer|Krakow|p12
+[23:41:31]   W094 +  7 dc:junior backend e|Birmingham|p13
+[23:41:31]   W093 + 34 dc:GenAI engineer|Milan|p7
+[23:41:32]   W056 + 34 dc:backend engineer|Thiruvanan|p32
+[23:41:32]   W051 + 30 dc:Kubernetes engin|Dubai|p29
+[23:41:32]   W090 + 34 dc:PostgreSQL engin||p41
+[23:41:32]   W057 + 34 dc:Spring Boot deve|Lisbon|p43
+[23:41:32]   W060 + 34 dc:cloud security e|Prague|p43
+[23:41:32]   W023 + 10 dc:Next.js develope|Phoenix|p40
+[23:41:32]   W053 + 34 dc:senior software |Austin|p8
+[23:41:33]   W030 + 34 dc:design engineer|Manchester|p8
+[23:41:33]   W070 + 30 dc:database enginee|Newcastle|p29
+[23:41:33]   W088 + 10 dc:Elasticsearch en|Vienna|p1
+[23:41:33]   W057 + 34 dc:ML platform engi|Nairobi|p2
+[23:41:33]   W084 + 34 dc:embedded systems|Gurgaon|p29
+[23:41:33]   W011 + 10 sh:Azure engineer|Buenos Air|p33
+[23:41:34]   W077 +  8 sh:Perl developer|Houston|p44
+[23:41:34]   W018 + 22 dc:Vue developer|Tokyo|p37
+[23:41:34]   W079 + 34 dc:embedded systems|Hyderabad|p15
+[23:41:34]   W066 + 13 dc:Laravel develope|Hong Kong|p46
+[23:41:34]   W001 + 30 dc:full stack devel|Ahmedabad|p28
+[23:41:34]   W064 + 34 dc:fellow engineer|Sao Paulo|p5
+[23:41:35]   W070 + 32 dc:TypeScript devel|Surat|p7
+[23:41:35]   W089 + 34 dc:ETL developer|Johannesbu|p49
+[23:41:35]   W024 + 34 dc:embedded enginee|Ottawa|p34
+[23:41:35]   W025 + 34 dc:UX engineer|Amsterdam|p21
+[23:41:36]   W018 +  4 dc:fintech engineer|Milan|p4
+[23:41:36]   W061 + 34 dc:infrastructure e|Lisbon|p47
+[23:41:36]   W000 + 31 dc:technical writer|Berlin|p25
+[23:41:36]   W065 + 34 dc:Scala developer|Auckland|p42
+[23:41:36]   W037 + 20 sh:Kubernetes engin|New York|p32
+[23:41:37]   W097 + 11 sh:IT engineer|Lisbon|p20
+[23:41:37]   W079 + 34 dc:senior data engi|Bangalore|p17
+[23:41:37]   W024 + 14 dc:data pipeline en|Gold Coast|p33
+[23:41:37]   W001 + 19 dc:payments enginee|Nottingham|p30
+[23:41:37]   W027 + 30 dc:Kubernetes engin|Barcelona|p33
+[23:41:37]   W088 + 20 sh:cloud architect|Phoenix|p48
+[23:41:37]   W070 + 31 dc:data engineer|Lisbon|p45
+[23:41:37]   W051 +  9 dc:RTOS engineer|Toronto|p19
+[23:41:38]   W024 + 31 dc:NLP engineer|Miami|p16
+[23:41:38]   W066 + 32 dc:senior developer|Brisbane|p28
+[23:41:38]   W014 + 20 sh:node developer|Remote|p44
+[23:41:38]   W082 + 20 sh:Ruby developer|Washington|p22
+[23:41:38]   W035 + 20 sh:deep learning en|Austin|p24
+[23:41:38]   W010 + 20 sh:LLM engineer|Gold Coast|p20
+[23:41:38]   W061 + 20 sh:software develop|Boston|p22
+[23:41:38]   W096 + 22 dc:Vue developer|Amsterdam|p2
+[23:41:38]   W070 + 34 dc:Kotlin developer|Hong Kong|p0
+[23:41:39]   W067 + 34 dc:machine learning|New York|p41
+[23:41:39]   W075 + 34 dc:data analyst|Lisbon|p36
+[23:41:39]   W098 + 34 dc:staff engineer|Oslo|p47
+[23:41:40]   W035 + 34 dc:scrum master|Milan|p28
+[23:41:40]   W043 + 31 dc:machine learning|Phoenix|p32
+[23:41:40]   W001 + 32 dc:ML engineer|Atlanta|p49
+[23:41:40]   W057 + 34 dc:python developer|Lagos|p48
+[23:41:40]   W052 + 34 dc:solutions archit|Prague|p32
+[23:41:40]   W093 + 34 dc:build engineer|Indore|p5
+[23:41:40]   W044 + 14 dc:SOC analyst|Amsterdam|p40
+[23:41:41]   W075 + 32 dc:junior data engi|Delhi|p46
+[23:41:41]   W018 + 10 dc:data pipeline en|Newcastle|p31
+[23:41:41]   W003 + 34 dc:firmware enginee|Houston|p35
+[23:41:41]   W014 + 34 dc:backend engineer|Lucknow|p7
+[23:41:41]   W090 + 30 dc:Vue developer|Austin|p8
+[23:41:41]   W090 + 34 dc:QA engineer|New York|p29
+[23:41:42]   W096 + 34 dc:embedded enginee|Seattle|p46
+[23:41:42]   W047 + 18 sh:Swift developer|Atlanta|p48
+[23:41:42]   W027 + 20 sh:AWS engineer|Brisbane|p22
+[23:41:42]   W082 + 20 sh:product manager|Los Angele|p0
+[23:41:42]   W027 + 20 sh:lead developer|Boston|p33
+[23:41:42]   W051 + 30 dc:system administr|Warsaw|p34
+[23:41:42]   W003 +  9 dc:driver engineer|Brisbane|p1
+[23:41:42]   W061 + 14 dc:SOC analyst|Barcelona|p46
+[23:41:43]   W075 + 34 dc:ML engineer|Houston|p41
+[23:41:43]   W067 + 19 sh:BSP engineer|Brisbane|p43
+[23:41:43]   W018 + 34 dc:network architec|Austin|p25
+[23:41:44]   W064 + 30 dc:node developer|Delhi|p20
+[23:41:44]   W074 +  9 dc:Ruby developer|Surat|p48
+[23:41:44]   W012 + 18 dc:computer enginee|Singapore|p38
+[23:41:44]   W052 + 34 dc:ML engineer|Surat|p26
+[23:41:44]   W093 + 34 dc:network architec|Washington|p11
+[23:41:44]   W023 +  5 dc:Elixir developer|Munich|p2
+[23:41:44]   W000 + 30 dc:database enginee|Glasgow|p23
+[23:41:44]   W002 +  9 dc:driver engineer|Zurich|p7
+[23:41:44]   W014 + 23 dc:computer vision |Ahmedabad|p14
+[23:41:44]   W046 +  7 dc:junior backend e|London|p4
+[23:41:44]   W017 + 34 dc:Terraform engine|Thiruvanan|p44
+[23:41:45]   W075 + 20 sh:release engineer|New York|p41
+[23:41:45]   W051 + 34 dc:AI engineer|Edmonton|p28
+[23:41:45]   W061 + 13 dc:Laravel develope|Perth|p0
+[23:41:45]   W069 +  7 dc:FastAPI develope|Buenos Air|p26
+[23:41:45]   W004 + 34 dc:LLM engineer|Munich|p38
+[23:41:46]   W033 + 31 dc:firmware enginee|Rome|p8
+[23:41:46]   W024 + 34 dc:design engineer|Austin|p43
+[23:41:46]   W059 + 34 dc:product engineer|Denver|p14
+[23:41:46]   W092 +  9 dc:Ruby developer|Dublin|p30
+[23:41:46]   W062 +  3 sh:ETL developer|Wellington|p27
+[23:41:46]   W014 + 34 dc:GCP engineer|Sao Paulo|p9
+[23:41:46]   W067 +  7 dc:Redis engineer|Warsaw|p39
+[23:41:46]   W005 + 30 dc:full stack devel|Edmonton|p24
+[23:41:47]   W017 + 30 dc:java developer|Dubai|p2
+[23:41:47]   W072 + 34 dc:distinguished en|Hong Kong|p36
+[23:41:47]   W048 + 32 dc:software develop|Atlanta|p32
+[23:41:48]   W069 + 10 dc:Elasticsearch en|Los Angele|p29
+[23:41:48]   W075 + 30 dc:NLP developer|Dallas|p49
+[23:41:48]   W001 +  4 dc:fintech engineer|Helsinki|p24
+[23:41:48]   W087 + 34 dc:Kafka engineer|Jaipur|p10
+[23:41:48]   W028 + 32 dc:principal engine|Oslo|p23
+[23:41:48]   W059 + 34 dc:Kafka engineer|Washington|p10
+[23:41:48]   W023 + 34 dc:analytics engine|Ottawa|p6
+[23:41:49]   W071 + 34 dc:ML platform engi|Barcelona|p3
+[23:41:49]   W033 + 34 dc:Django developer|Kolkata|p23
+[23:41:49]   W014 + 22 dc:MLOps engineer|Toronto|p38
+[23:41:49]   W067 + 30 dc:lead developer|Boston|p47
+[23:41:49]   W049 + 11 dc:junior frontend |Seoul|p12
+[23:41:49]   W085 + 34 dc:senior devops en|Houston|p33
+[23:41:49]   W079 + 10 dc:Swift developer|San Franci|p1
+[23:41:50]   W088 + 34 dc:IT engineer|Birmingham|p15
+[23:41:50]   W061 +  5 sh:senior software |Krakow|p17
+[23:41:50]   W075 + 20 sh:TypeScript devel|Dallas|p26
+[23:41:50]   W057 +  3 sh:infrastructure e|Ottawa|p5
+[23:41:50]   W000 + 20 sh:analytics engine|Seattle|p34
+[23:41:50]   W003 + 34 dc:UX engineer|Surat|p11
+[23:41:50]   W069 + 34 dc:Node.js develope|Phoenix|p37
+[23:41:50]   W098 + 23 dc:computer vision |Ottawa|p44
+[23:41:50]   W096 + 34 dc:design engineer|Zurich|p5
+[23:41:51]   W059 + 30 dc:site reliability|Houston|p7
+[23:41:51]   W027 + 30 dc:data scientist|Lisbon|p46
+[23:41:51]   W079 + 34 dc:NLP developer|Warsaw|p30
+[23:41:52]   W064 + 34 dc:cloud security e|Hyderabad|p34
+[23:41:52]   W061 + 34 dc:project manager|New York|p28
+[23:41:52]   W014 +  9 dc:driver engineer|Bucharest|p13
+[23:41:52]   [R1] DB=719,316 | +9 | 4/min | Gap=280,684 | iters=807
+[23:41:52]   W079 + 34 dc:distinguished en|Atlanta|p13
+[23:41:52]   W097 + 20 sh:business intelli|Brisbane|p32
+[23:41:52]   W018 + 34 dc:C# developer|Rome|p44
+[23:41:52]   W079 + 19 dc:big data enginee|Mexico Cit|p25
+[23:41:53]   W070 + 30 dc:java developer|Vienna|p44
+[23:41:53]   W051 +  4 sh:Angular develope|Birmingham|p3
+[23:41:53]   W050 +  5 dc:Perl developer|Indore|p6
+[23:41:53]   W002 + 34 dc:senior devops en|Hyderabad|p36
+[23:41:53]   W011 + 34 dc:Kotlin developer|Helsinki|p47
+[23:41:53]   W072 + 34 dc:scrum master|Melbourne|p0
+[23:41:53]   W049 + 20 sh:machine learning|Vienna|p19
+[23:41:54]   W098 + 34 dc:IT engineer|Barcelona|p42
+[23:41:54]   W064 + 34 dc:Angular develope|San Diego|p37
+[23:41:54]   W060 +  3 sh:GenAI engineer|Nottingham|p30
+[23:41:54]   W045 + 34 dc:analytics engine|Amsterdam|p24
+[23:41:54]   W004 + 34 dc:AWS engineer|Dallas|p12
+[23:41:54]   W017 + 20 sh:application engi|Chicago|p23
+[23:41:54]   W097 + 34 dc:staff software e|Brisbane|p36
+[23:41:55]   W065 + 34 dc:principal softwa|Lagos|p35
+[23:41:55]   W076 + 30 dc:site reliability|Budapest|p33
+[23:41:55]   W018 + 31 dc:information secu|Sao Paulo|p36
+[23:41:56]   W075 + 34 dc:.NET developer|Indore|p10
+[23:41:56]   W007 + 34 dc:application secu|Surat|p16
+[23:41:56]   W080 + 34 dc:systems engineer|Bristol|p27
+[23:41:56]   W049 + 34 dc:project manager|Singapore|p27
+[23:41:56]   W047 + 23 dc:web developer|Sheffield|p23
+[23:41:56]   W017 + 19 dc:payments enginee|Wellington|p26
+[23:41:56]   W086 + 34 dc:application engi|Bristol|p13
+[23:41:56]   W070 + 34 dc:penetration test|Cardiff|p12
+[23:41:56]   W044 + 13 dc:Laravel develope|Nairobi|p34
+[23:41:57]   W031 + 34 dc:product manager|Austin|p9
+[23:41:57]   W097 +  4 sh:release engineer|Krakow|p19
+[23:41:57]   W067 + 20 sh:frontend enginee|Houston|p11
+[23:41:57]   W008 + 10 sh:frontend enginee|Nottingham|p23
+[23:41:57]   W026 +  4 sh:Kafka engineer|Nottingham|p15
+[23:41:57]   W083 + 30 dc:cloud architect|Edmonton|p25
+[23:41:57]   W072 + 34 dc:backend engineer|Newcastle|p30
+[23:41:57]   W024 + 34 dc:embedded enginee|Thiruvanan|p17
+[23:41:58]   W061 + 34 dc:junior developer|Dallas|p16
+[23:41:58]   W028 + 20 sh:microservices en|Denver|p19
+[23:41:58]   W079 + 30 dc:release engineer|Jaipur|p12
+[23:41:58]   W096 + 19 dc:big data enginee|Vancouver|p20
+[23:41:58]   W088 + 34 dc:C# developer|Mumbai|p22
+[23:41:59]   W047 + 23 dc:Vue.js developer|Miami|p9
+[23:41:59]   W063 + 15 sh:network architec|Melbourne|p13
+[23:41:59]   W044 + 34 dc:network engineer|Bangalore|p48
+[23:41:59]   W057 +  4 dc:fintech engineer|Nottingham|p35
+[23:41:59]   W057 + 30 dc:Node.js develope|Tokyo|p8
+[23:41:59]   W012 + 34 dc:backend engineer|Warsaw|p1
+[23:42:00]   W033 + 34 dc:product engineer|Auckland|p46
+[23:42:00]   W080 + 14 dc:SOC analyst|Nagpur|p47
+[23:42:00]   W017 + 33 dc:frontend enginee|Perth|p9
+[23:42:00]   W068 + 31 dc:automation engin|Surat|p26
+[23:42:00]   W072 + 32 dc:junior data engi|Calgary|p7
+[23:42:00]   W056 +  8 dc:game developer|Manchester|p27
+[23:42:00]   W096 + 18 dc:PHP developer|Boston|p34
+[23:42:00]   W088 + 11 dc:game developer|Seattle|p27
+[23:42:00]   W086 + 20 sh:systems engineer|New York|p30
+[23:42:01]   W096 + 34 dc:senior devops en|New York|p14
+[23:42:01]   W013 + 22 dc:Vue.js developer|Adelaide|p26
+[23:42:01]   W066 + 34 dc:staff engineer|Copenhagen|p16
+[23:42:01]   W032 +  4 sh:node developer|Manchester|p36
+[23:42:01]   W058 +  5 dc:Elixir developer|Ottawa|p3
+[23:42:01]   W009 + 22 dc:Vue developer|Melbourne|p7
+[23:42:01]   W029 + 31 dc:NLP engineer|Sao Paulo|p7
+[23:42:02]   W087 + 10 dc:React Native dev|Barcelona|p32
+[23:42:02]   W072 + 14 dc:SOC analyst|Oslo|p9
+[23:42:02]   W044 + 34 dc:Azure engineer|Noida|p15
+[23:42:02]   W066 + 34 dc:lead software en|London|p12
+[23:42:03]   W096 + 31 dc:data engineer|Munich|p1
+[23:42:03]   W098 + 30 dc:network engineer|New York|p4
+[23:42:03]   W071 +  9 dc:RTOS engineer|Zurich|p39
+[23:42:03]   W050 + 20 sh:fellow engineer|Houston|p19
+[23:42:03]   W083 + 34 dc:fellow engineer|Hong Kong|p22
+[23:42:03]   W096 + 32 dc:AI infrastructur|Visakhapat|p36
+[23:42:03]   W048 + 32 dc:TypeScript devel|Manchester|p15
+[23:42:03]   W067 + 22 dc:junior devops en|Adelaide|p24
+[23:42:04]   W094 + 34 dc:cloud security e|Toronto|p26
+[23:42:04]   W032 +  9 dc:Swift developer|Delhi|p35
+[23:42:04]   W072 + 30 dc:principal softwa|Toronto|p47
+[23:42:04]   W097 + 34 dc:network engineer|Helsinki|p8
+[23:42:04]   W070 + 20 sh:business intelli|Los Angele|p30
+[23:42:05]   W098 +  8 dc:graphics enginee|Kolkata|p7
+[23:42:05]   W050 + 11 dc:Rails developer|Barcelona|p14
+[23:42:05]   W073 + 30 dc:security archite|Indore|p0
+[23:42:05]   W019 +  9 dc:Ruby developer|Atlanta|p25
+[23:42:05]   W014 +  8 dc:graphics enginee|Oslo|p38
+[23:42:05]   W041 +  9 sh:go developer|Gold Coast|p35
+[23:42:05]   W099 + 31 dc:full stack engin|Milan|p14
+[23:42:05]   W069 + 32 dc:senior backend e|Birmingham|p25
+[23:42:05]   W057 + 30 dc:robotics enginee|Jaipur|p23
+[23:42:06]   W032 + 34 dc:DevOps engineer|Barcelona|p6
+[23:42:06]   W040 + 34 dc:application secu|Rome|p26
+[23:42:06]   W008 + 34 dc:lead developer|Los Angele|p47
+[23:42:07]   W089 + 29 dc:network architec|Bucharest|p37
+[23:42:07]   W023 + 34 dc:staff engineer|Vienna|p49
+[23:42:07]   W012 + 34 dc:mobile app devel|Bristol|p22
+[23:42:07]   W098 + 34 dc:blockchain devel||p18
+[23:42:07]   W000 +  4 sh:senior backend e|Birmingham|p33
+[23:42:07]   W069 + 34 dc:principal softwa|Lisbon|p9
+[23:42:07]   W056 + 34 dc:principal softwa|Barcelona|p24
+[23:42:07]   W007 + 30 dc:microservices en|Dubai|p10
+[23:42:07]   W072 +  9 dc:Swift developer|Stockholm|p49
+[23:42:08]   W099 + 34 dc:application secu|Vienna|p2
+[23:42:08]   W068 + 34 dc:data engineer|Boston|p34
+[23:42:08]   W011 + 30 dc:data scientist|Sheffield|p11
+[23:42:08]   W002 + 34 dc:backend engineer|Brisbane|p25
+[23:42:08]   W070 +  4 sh:kernel engineer|Sydney|p15
+[23:42:08]   W073 + 20 sh:platform enginee|Krakow|p7
+[23:42:08]   W058 + 34 dc:.NET developer|Gold Coast|p19
+[23:42:08]   W035 + 34 dc:ETL developer|Glasgow|p23
+[23:42:09]   W090 + 30 dc:Kotlin developer|San Franci|p27
+[23:42:09]   W072 + 34 dc:Docker engineer|Edmonton|p16
+[23:42:09]   W036 + 30 dc:system administr|Remote|p3
+[23:42:09]   W063 + 34 dc:data analyst|Vienna|p4
+[23:42:09]   W074 + 31 dc:data engineer|Pune|p35
+[23:42:09]   W045 + 34 dc:embedded systems|Indore|p48
+[23:42:10]   W039 + 34 dc:fellow engineer|Calgary|p49
+[23:42:10]   W015 + 20 sh:Kubernetes engin|Birmingham|p44
+[23:42:11]   W047 +  8 dc:graphics enginee|Ottawa|p25
+[23:42:11]   W047 + 25 dc:computer enginee|San Diego|p35
+[23:42:11]   W046 +  5 dc:Perl developer|London|p11
+[23:42:11]   W006 + 34 dc:business intelli|Milan|p42
+[23:42:11]   W009 + 34 dc:staff software e|New York|p18
+[23:42:12]   W083 + 34 dc:design engineer|Birmingham|p36
+[23:42:12]   W020 +  9 dc:Swift developer|Tokyo|p20
+[23:42:12]   W081 + 34 dc:QA engineer|Prague|p36
+[23:42:12]   W059 + 31 dc:automation engin|Portland|p21
+[23:42:12]   W063 + 34 dc:application secu|Chennai|p20
+[23:42:12]   W014 + 34 dc:golang developer|Boston|p49
+[23:42:12]   W064 + 34 dc:Kafka engineer|Milan|p12
+[23:42:12]   W099 + 34 dc:junior software |Nagpur|p27
+[23:42:13]   W028 +  3 sh:junior software |Newcastle|p4
+[23:42:13]   W065 + 34 dc:business intelli|Calgary|p33
+[23:42:13]   W076 + 32 dc:lead software en|Tokyo|p40
+[23:42:14]   W027 + 34 dc:security enginee|Nagpur|p13
+[23:42:14]   W005 + 34 dc:data analyst|Singapore|p22
+[23:42:14]   W074 + 34 dc:network engineer|Chicago|p25
+[23:42:14]   W042 + 34 dc:staff software e|Austin|p43
+[23:42:14]   W083 + 11 dc:kernel engineer|Ahmedabad|p28
+[23:42:14]   W019 + 11 dc:Rails developer|Bristol|p40
+[23:42:14]   W063 +  7 dc:junior backend e|Stockholm|p20
+[23:42:14]   W014 +  5 dc:Flutter develope|Wellington|p9
+[23:42:14]   W062 + 34 dc:scrum master|Bristol|p46
+[23:42:15]   W077 + 34 dc:Azure engineer|Remote|p22
+[23:42:15]   W079 +  3 sh:cloud security e|Toronto|p22
+[23:42:15]   W054 + 34 dc:solutions archit|Adelaide|p27
+[23:42:16]   W053 + 15 dc:compiler enginee|New York|p13
+[23:42:16]   W064 + 14 dc:SOC analyst|Zurich|p31
+[23:42:16]   W026 + 34 dc:project manager|Vancouver|p36
+[23:42:16]   W040 + 20 sh:blockchain devel|San Franci|p42
+[23:42:16]   W005 + 34 dc:build engineer|Dublin|p3
+[23:42:16]   W074 + 30 dc:Angular develope|Helsinki|p40
+[23:42:16]   W065 + 34 dc:tech lead|Newcastle|p28
+[23:42:17]   W070 + 26 dc:C++ engineer|Nagpur|p3
+[23:42:17]   W027 + 34 dc:data engineer|Boston|p27
+[23:42:17]   W002 + 31 dc:full stack engin|Hyderabad|p41
+[23:42:17]   W083 + 22 dc:Vue.js developer|Manchester|p49
+[23:42:17]   W079 + 10 dc:React Native dev|Zurich|p35
+[23:42:17]   W035 + 34 dc:full stack engin|Berlin|p10
+[23:42:17]   W085 +  9 dc:driver engineer|Mumbai|p14
+[23:42:17]   W030 + 34 dc:.NET developer|Austin|p25
+[23:42:18]   W019 + 34 dc:IT engineer|Noida|p21
+[23:42:18]   W077 + 34 dc:Scala developer|Dubai|p11
+[23:42:18]   W028 + 18 sh:staff software e|Birmingham|p30
+[23:42:18]   W068 + 30 dc:platform enginee|Hong Kong|p38
+[23:42:18]   W075 + 34 dc:data analyst|Coimbatore|p12
+[23:42:18]   W008 + 34 dc:lead software en|Patna|p12
+[23:42:18]   W051 + 20 sh:distinguished en|Chicago|p25
+[23:42:18]   W066 +  9 dc:driver engineer|Tel Aviv|p34
+[23:42:19]   W061 + 34 dc:Hadoop engineer|Remote|p12
+[23:42:19]   W049 +  5 dc:Elixir developer|Seoul|p45
+[23:42:19]   W040 + 34 dc:kernel engineer|Remote|p42
+[23:42:20]   W085 +  8 dc:junior frontend |Dubai|p9
+[23:42:20]   W073 + 34 dc:MongoDB engineer|Munich|p42
+[23:42:20]   W052 + 20 sh:database enginee|Washington|p27
+[23:42:20]   W030 + 34 dc:LLM engineer|Dallas|p3
+[23:42:20]   W095 + 34 dc:React developer|Atlanta|p15
+[23:42:20]   W010 + 34 dc:analytics engine|Milan|p30
+[23:42:21]   W036 + 15 sh:machine learning|Nottingham|p49
+[23:42:21]   W025 + 34 dc:system administr|Houston|p37
+[23:42:21]   W079 + 32 dc:senior developer|Portland|p12
+[23:42:21]   W051 + 34 dc:mobile app devel|Lagos|p14
+[23:42:21]   W097 +  5 dc:Flutter develope|Surat|p5
+[23:42:21]   W003 + 25 dc:web developer|Houston|p4
+[23:42:21]   W039 + 30 dc:system administr|Kolkata|p23
+[23:42:21]   W053 + 34 dc:Vue.js developer|New York|p48
+[23:42:22]   W036 + 34 dc:rust developer|San Diego|p48
+[23:42:22]   W061 + 30 dc:database enginee|Cardiff|p47
+[23:42:22]   W029 + 30 dc:node developer|Chennai|p45
+[23:42:22]   W078 + 34 dc:PostgreSQL engin|Wellington|p7
+[23:42:22]   W076 + 34 dc:scrum master|Cape Town|p31
+[23:42:22]   W010 + 34 dc:CI/CD engineer|Budapest|p35
+[23:42:22]   W084 + 22 dc:MLOps engineer|Lucknow|p17
+[23:42:24]   W029 + 34 dc:python developer|Manchester|p17
+[23:42:24]   W052 + 34 dc:junior software |Noida|p18
+[23:42:24]   W030 + 34 dc:QA engineer|Tel Aviv|p40
+[23:42:24]   W040 + 20 sh:Ruby developer|Washington|p45
+[23:42:24]   W038 + 10 dc:React Native dev|Sydney|p6
+[23:42:24]   W003 + 34 dc:Azure engineer|Warsaw|p8
+[23:42:24]   W024 + 34 dc:PostgreSQL engin|Manchester|p27
+[23:42:24]   [R1] DB=719,316 | +9 | 3/min | Gap=280,684 | iters=1,014
+[23:42:24]   W042 + 34 dc:MongoDB engineer|Paris|p33
+[23:42:25]   W061 + 34 dc:golang developer|Bangalore|p48
+[23:42:25]   W029 +  8 dc:junior frontend |Miami|p3
+[23:42:25]   W045 + 30 dc:site reliability|Lisbon|p46
+[23:42:25]   W039 + 34 dc:machine learning|Rome|p15
+[23:42:25]   W040 + 32 dc:Spark engineer|Nairobi|p33
+[23:42:25]   W047 + 32 dc:AI infrastructur|Brisbane|p48
+[23:42:25]   W098 + 34 dc:UX engineer|Berlin|p22
+[23:42:25]   W010 + 30 dc:Angular develope|Lisbon|p42
+[23:42:26]   W078 + 34 dc:project manager|Vienna|p13
+[23:42:26]   W034 + 22 dc:MLOps engineer|Seoul|p38
+[23:42:26]   W027 + 34 dc:junior developer|Glasgow|p40
+[23:42:26]   W092 + 34 dc:Terraform engine|Zurich|p41
+[23:42:27]   W011 + 25 dc:web developer|Chicago|p9
+[23:42:27]   W045 +  9 dc:RTOS engineer|Denver|p22
+[23:42:27]   W069 + 34 dc:embedded systems|Bristol|p28
+[23:42:27]   W024 + 34 dc:Terraform engine|Singapore|p49
+[23:42:28]   W097 + 34 dc:senior software |London|p30
+[23:42:28]   W000 + 34 dc:application secu|Phoenix|p29
+[23:42:28]   W013 + 20 sh:.NET developer|Los Angele|p7
+[23:42:28]   W036 + 34 dc:UX engineer|Sheffield|p16
+[23:42:28]   W004 + 34 dc:UX engineer|Cape Town|p9
+[23:42:28]   W073 + 31 dc:data engineer|Munich|p31
+[23:42:28]   W059 + 34 dc:Azure engineer|Newcastle|p16
+[23:42:29]   W018 + 34 dc:information secu|Boston|p7
+[23:42:29]   W091 + 34 dc:application secu|Coimbatore|p9
+[23:42:29]   W025 + 34 dc:senior software |Atlanta|p40
+[23:42:29]   W072 + 34 dc:cybersecurity en|Austin|p39
+[23:42:29]   W003 +  8 sh:compiler enginee|Budapest|p14
+[23:42:29]   W094 + 34 dc:robotics enginee|Seattle|p26
+[23:42:29]   W062 +  5 dc:Express develope|Jaipur|p15
+[23:42:29]   W011 + 34 dc:GCP engineer|New York|p31
+[23:42:30]   W049 + 20 sh:robotics enginee|Remote|p4
+[23:42:30]   W079 +  9 dc:Swift developer|London|p0
+[23:42:30]   W086 +  5 dc:Express develope|Buenos Air|p5
+[23:42:30]   W063 + 34 dc:Scala developer|Nottingham|p43
+[23:42:30]   W034 + 20 sh:DevOps engineer|Denver|p43
+[23:42:30]   W073 + 34 dc:ETL developer|Kolkata|p39
+[23:42:30]   W081 + 34 dc:CI/CD engineer|Lisbon|p21
+[23:42:30]   W066 + 10 dc:kernel engineer|Milan|p43
+[23:42:31]   W007 + 34 dc:Docker engineer|Buenos Air|p22
+[23:42:31]   W088 + 34 dc:Scala developer|Remote|p24
+[23:42:31]   W033 + 26 dc:C++ engineer|Patna|p42
+[23:42:32]   W085 + 34 dc:cybersecurity en|Brisbane|p14
+[23:42:32]   W080 + 34 dc:GenAI engineer|Cardiff|p27
+[23:42:32]   W010 + 34 dc:mobile app devel|Patna|p46
+[23:42:32]   W079 + 31 dc:firmware enginee|Auckland|p4
+[23:42:32]   W030 +  6 dc:WordPress develo|Rome|p30
+[23:42:32]   W052 + 34 dc:UX engineer|Ahmedabad|p21
+[23:42:32]   W063 + 29 dc:network architec|Melbourne|p21
+[23:42:32]   W031 + 31 dc:automation engin|Jaipur|p21
+[23:42:33]   W018 + 20 sh:machine learning|Boston|p29
+[23:42:33]   W035 + 20 sh:CI/CD engineer|Gold Coast|p6
+[23:42:33]   W064 +  9 dc:compiler enginee|Paris|p8
+[23:42:33]   W051 + 34 dc:penetration test|Boston|p24
+[23:42:33]   W053 + 34 dc:rust developer|Tokyo|p41
+[23:42:33]   W033 + 34 dc:tech lead|Washington|p10
+[23:42:33]   W043 + 32 dc:software develop|Toronto|p1
+[23:42:33]   W079 +  9 sh:cloud engineer|Oslo|p8
+[23:42:34]   W034 + 20 sh:data scientist|Portland|p31
+[23:42:34]   W001 + 20 sh:cloud security e|Houston|p20
+[23:42:34]   W073 + 34 dc:infrastructure e|Los Angele|p22
+[23:42:34]   W030 + 34 dc:principal softwa|Warsaw|p9
+[23:42:34]   W006 +  5 dc:fintech engineer|Warsaw|p17
+[23:42:34]   W095 + 30 dc:Node.js develope|Surat|p4
+[23:42:34]   W042 + 34 dc:GenAI engineer|Wellington|p26
+[23:42:35]   W080 + 34 dc:backend engineer|Ahmedabad|p38
+[23:42:35]   W047 + 30 dc:Kubernetes engin|Sydney|p27
+[23:42:35]   W018 + 32 dc:senior developer|Bucharest|p4
+[23:42:35]   W087 + 30 dc:Kubernetes engin|Mumbai|p8
+[23:42:36]   W097 + 31 dc:Spark engineer|Perth|p30
+[23:42:36]   W064 + 34 dc:application secu|Portland|p40
+[23:42:36]   W060 + 18 dc:PHP developer|Nottingham|p15
+[23:42:36]   W051 + 34 dc:analytics engine|Toronto|p44
+[23:42:36]   W015 + 22 dc:junior devops en|Pune|p12
+[23:42:36]   W013 +  5 dc:Perl developer|Vancouver|p22
+[23:42:36]   W083 + 30 dc:react developer|Lagos|p40
+[23:42:36]   W056 + 34 dc:product manager|San Franci|p45
+[23:42:37]   W057 + 30 dc:data scientist|Tel Aviv|p43
+[23:42:37]   W043 + 34 dc:junior developer|Singapore|p24
+[23:42:37]   W087 + 34 dc:staff software e|Boston|p38
+[23:42:37]   W089 + 34 dc:Azure engineer|Barcelona|p14
+[23:42:37]   W037 + 34 dc:PostgreSQL engin|Remote|p38
+[23:42:37]   W013 + 34 dc:UX engineer|Manchester|p40
+[23:42:37]   W053 +  7 sh:Django developer|Los Angele|p38
+[23:42:37]   W034 + 20 sh:product manager|Remote|p20
+[23:42:37]   W009 +  5 sh:product manager|Edinburgh|p42
+[23:42:38]   W067 + 34 dc:Azure engineer|Amsterdam|p19
+[23:42:38]   W013 + 23 dc:web developer|Toronto|p27
+[23:42:38]   W095 +  6 dc:WordPress develo|Sydney|p46
+[23:42:38]   W089 +  9 dc:driver engineer|Tokyo|p23
+[23:42:38]   W051 + 34 dc:staff engineer|Stockholm|p9
+[23:42:38]   W093 + 34 dc:application secu|Noida|p40
+[23:42:38]   W087 + 34 dc:analytics engine|Toronto|p33
+[23:42:38]   W093 + 34 dc:junior developer|Ahmedabad|p16
+[23:42:39]   W071 + 34 dc:Android develope|San Franci|p32
+[23:42:39]   W010 + 34 dc:principal softwa|Ahmedabad|p37
+[23:42:39]   W077 + 20 sh:NLP engineer|London|p35
+[23:42:40]   W016 + 34 dc:PostgreSQL engin|Melbourne|p12
+[23:42:40]   W093 + 34 dc:Spring Boot deve|Amsterdam|p6
+[23:42:40]   W061 + 22 dc:Vue.js developer|Auckland|p42
+[23:42:40]   W079 + 34 dc:go developer|Noida|p22
+[23:42:40]   W072 + 30 dc:cloud architect|Milan|p26
+[23:42:40]   W022 + 34 dc:GenAI engineer|Helsinki|p30
+[23:42:40]   W031 + 30 dc:java developer|Edmonton|p21
+[23:42:40]   W087 + 34 dc:database adminis|Chicago|p49
+[23:42:41]   W067 + 34 dc:Django developer|Tokyo|p15
+[23:42:41]   W043 + 34 dc:Kafka engineer|Lagos|p27
+[23:42:41]   W086 + 34 dc:analytics engine|Los Angele|p39
+[23:42:41]   W093 + 12 dc:Rails developer|Washington|p17
+[23:42:41]   W043 + 31 dc:information secu|Wellington|p1
+[23:42:41]   W055 + 20 sh:React Native dev|Austin|p45
+[23:42:41]   W006 + 20 sh:frontend enginee|Boston|p6
+[23:42:41]   W077 + 30 dc:infrastructure e|Patna|p1
+[23:42:42]   W064 + 34 dc:PostgreSQL engin|Coimbatore|p49
+[23:42:42]   W005 + 34 dc:embedded systems|Rome|p19
+[23:42:42]   W057 + 20 sh:network architec|Wellington|p8
+[23:42:42]   W002 + 20 sh:React developer|Miami|p31
+[23:42:42]   W009 + 20 sh:computer vision |Melbourne|p7
+[23:42:42]   W066 + 30 dc:infrastructure e|Calgary|p28
+[23:42:43]   W048 + 31 dc:automation engin|Delhi|p5
+[23:42:43]   W084 + 30 dc:java developer|Munich|p13
+[23:42:43]   W093 + 34 dc:senior frontend |Seattle|p32
+[23:42:43]   W073 +  9 dc:Ruby developer|Surat|p22
+[23:42:44]   W043 +  8 dc:game developer|Ottawa|p34
+[23:42:44]   W047 + 34 dc:product engineer|Copenhagen|p5
+[23:42:44]   W060 + 22 dc:junior devops en|Ottawa|p46
+[23:42:44]   W075 + 34 dc:application secu|Austin|p14
+[23:42:44]   W020 + 34 dc:GenAI engineer|San Diego|p46
+[23:42:44]   W067 + 30 dc:distributed syst|Edinburgh|p22
+[23:42:44]   W031 + 34 dc:data engineer|Atlanta|p13
+[23:42:44]   W077 + 10 dc:Next.js develope|Tokyo|p4
+[23:42:44]   W098 + 34 dc:security enginee|Los Angele|p49
+[23:42:45]   W004 + 20 sh:design engineer||p36
+[23:42:45]   W026 + 34 dc:product manager|Warsaw|p29
+[23:42:45]   W053 + 34 dc:C# developer|Singapore|p3
+[23:42:45]   W056 + 34 dc:staff software e|Bangalore|p2
+[23:42:45]   W007 + 10 dc:Next.js develope|Bucharest|p32
+[23:42:45]   W002 + 20 sh:Kafka engineer|Los Angele|p20
+[23:42:45]   W052 + 31 dc:data engineer|Amsterdam|p1
+[23:42:45]   W077 + 34 dc:rust developer|Miami|p43
+[23:42:46]   W028 + 20 sh:computer enginee|Portland|p8
+[23:42:46]   W091 + 10 dc:React Native dev|Nairobi|p44
+[23:42:46]   W060 + 30 dc:java developer|Wellington|p7
+[23:42:46]   W084 +  9 dc:RTOS engineer|Edinburgh|p36
+[23:42:46]   W053 + 34 dc:data analyst|San Diego|p6
+[23:42:46]   W002 + 10 dc:Elasticsearch en|Miami|p24
+[23:42:47]   W009 + 20 sh:database enginee|San Franci|p15
+[23:42:47]   W071 + 30 dc:system administr|Seoul|p9
+[23:42:47]   W098 + 30 dc:security archite|Auckland|p30
+[23:42:47]   W074 + 31 dc:NLP engineer|Noida|p28
+[23:42:47]   W026 + 34 dc:business intelli|Tokyo|p33
+[23:42:47]   W078 + 20 sh:distributed syst|Denver|p41
+[23:42:47]   W062 + 10 dc:data pipeline en|Hong Kong|p31
+[23:42:48]   W030 + 34 dc:QA engineer|Cape Town|p44
+[23:42:48]   W054 + 34 dc:AWS engineer||p7
+[23:42:48]   W007 + 34 dc:CI/CD engineer|Surat|p27
+[23:42:48]   W028 + 20 sh:GCP engineer|Los Angele|p25
+[23:42:48]   W000 + 30 dc:database enginee|Hyderabad|p21
+[23:42:48]   W030 + 34 dc:Kafka engineer|Thiruvanan|p29
+[23:42:48]   W038 + 34 dc:python developer|Miami|p29
+[23:42:48]   W084 + 34 dc:python developer|Copenhagen|p6
+[23:42:49]   W063 + 31 dc:automation engin|Cardiff|p37
+[23:42:49]   W098 + 34 dc:rust developer|Adelaide|p46
+[23:42:49]   W037 + 10 dc:Next.js develope|Paris|p15
+[23:42:49]   W060 + 34 dc:tech lead|Ottawa|p37
+[23:42:49]   W031 + 32 dc:junior data engi|Munich|p16
+[23:42:49]   W071 + 22 dc:junior devops en|Adelaide|p10
+[23:42:49]   W066 + 34 dc:.NET developer|Cape Town|p2
+[23:42:49]   W083 + 34 dc:cybersecurity en|Warsaw|p7
+[23:42:49]   W065 + 22 dc:junior devops en|Glasgow|p36
+[23:42:50]   W030 + 31 dc:NLP engineer|Lisbon|p12
+[23:42:50]   W050 + 32 dc:senior developer|Buenos Air|p13
+[23:42:50]   W038 + 34 dc:ETL developer|Ottawa|p6
+[23:42:51]   W084 + 34 dc:CI/CD engineer|Edmonton|p42
+[23:42:51]   W016 + 30 dc:cloud architect|Nairobi|p35
+[23:42:51]   W023 + 34 dc:build engineer|Birmingham|p2
+[23:42:51]   W082 + 34 dc:cloud engineer|Chicago|p11
+[23:42:51]   W032 + 34 dc:product manager|Johannesbu|p41
+[23:42:51]   W073 +  9 dc:compiler enginee|Hong Kong|p39
+[23:42:51]   W043 + 30 dc:security archite|Remote|p30
+[23:42:52]   W029 + 34 dc:lead software en|Ahmedabad|p24
+[23:42:52]   W066 + 15 dc:Hadoop engineer|Calgary|p9
+[23:42:52]   W054 + 30 dc:Node.js develope|Krakow|p0
+[23:42:52]   W000 + 34 dc:C# developer|Budapest|p48
+[23:42:52]   W004 +  8 dc:RAG engineer|Visakhapat|p24
+[23:42:52]   W001 + 32 dc:cloud engineer|Remote|p44
+[23:42:52]   W029 + 34 dc:tech lead|Thiruvanan|p25
+[23:42:52]   W016 +  5 dc:Express develope|Hyderabad|p25
+[23:42:52]   W023 + 34 dc:NLP engineer|Singapore|p40
+[23:42:53]   W030 + 34 dc:junior developer|Ottawa|p16
+[23:42:53]   W000 + 31 dc:full stack engin|Gurgaon|p13
+[23:42:53]   W039 + 34 dc:systems engineer|Buenos Air|p11
+[23:42:53]   W013 + 34 dc:principal engine|Atlanta|p40
+[23:42:54]   W047 + 30 dc:node developer|Bangalore|p29
+[23:42:54]   W053 + 34 dc:LLM engineer|Mexico Cit|p23
+[23:42:54]   W090 +  7 dc:Redis engineer|Bucharest|p8
+[23:42:54]   W072 + 34 dc:penetration test|Denver|p46
+[23:42:54]   W066 + 34 dc:QA engineer|Vienna|p35
+[23:42:54]   W081 + 22 dc:iOS developer|Delhi|p47
+[23:42:54]   W067 + 30 dc:system administr|Dallas|p46
+[23:42:54]   W072 + 34 dc:rust developer|Lisbon|p19
+[23:42:55]   W059 + 34 dc:principal softwa|Indore|p33
+[23:42:55]   W092 + 34 dc:security enginee|Surat|p34
+[23:42:55]   W016 + 30 dc:release engineer|Patna|p18
+[23:42:55]   W023 + 19 dc:payments enginee|Oslo|p5
+[23:42:55]   W046 + 34 dc:Android develope|Lucknow|p47
+[23:42:55]   W021 +  6 dc:WordPress develo|Singapore|p3
+[23:42:56]   W097 + 25 dc:Vue developer|Los Angele|p23
+[23:42:56]   W066 +  8 dc:junior frontend |Lagos|p11
+[23:42:56]   W058 +  5 dc:Perl developer|San Diego|p40
+[23:42:56]   W067 + 34 dc:GCP engineer|Krakow|p6
+[23:42:56]   W040 + 30 dc:full stack devel|Sydney|p46
+[23:42:56]   W057 +  9 dc:RTOS engineer|Dubai|p39
+[23:42:56]   [R1] DB=719,316 | +9 | 3/min | Gap=280,684 | iters=1,233
+[23:42:57]   W077 + 20 sh:release engineer|Leeds|p33
+[23:42:57]   W047 + 34 dc:Scala developer||p43
+[23:42:57]   W076 + 34 dc:product manager|Atlanta|p49
+[23:42:57]   W082 +  5 dc:Elixir developer|Oslo|p22
+[23:42:57]   W051 + 31 dc:information secu|Sao Paulo|p44
+[23:42:57]   W092 + 15 dc:Hadoop engineer|Lucknow|p21
+[23:42:57]   W045 + 34 dc:AWS engineer|Adelaide|p21
+[23:42:57]   W058 + 34 dc:GCP engineer|Sheffield|p46
+[23:42:58]   W017 + 34 dc:Scala developer|Delhi|p47
+[23:42:58]   W049 + 34 dc:AI engineer|Gurgaon|p22
+[23:42:58]   W041 + 30 dc:system administr|Sydney|p34
+[23:42:58]   W086 + 10 dc:Next.js develope|Melbourne|p44
+[23:42:59]   W059 + 22 dc:MLOps engineer|Dublin|p32
+[23:42:59]   W059 + 30 dc:microservices en|Chicago|p22
+[23:42:59]   W016 + 14 dc:SOC analyst|Budapest|p20
+[23:42:59]   W012 + 34 dc:go developer|Houston|p4
+[23:42:59]   W091 +  6 dc:Express develope|Atlanta|p22
+[23:42:59]   W057 + 10 dc:kernel engineer|Melbourne|p5
+[23:43:00]   W042 + 34 dc:network engineer|Copenhagen|p31
+[23:43:00]   W060 + 29 dc:network architec|Helsinki|p11
+[23:43:00]   W052 +  8 dc:junior frontend |Mexico Cit|p16
+[23:43:00]   W098 + 34 dc:AI engineer|Sheffield|p9
+[23:43:00]   W087 + 34 dc:data scientist|Los Angele|p30
+[23:43:00]   W065 +  7 dc:junior backend e|Miami|p22
+[23:43:00]   W012 + 34 dc:ML platform engi|Perth|p17
+[23:43:00]   W080 + 34 dc:ML platform engi|Nottingham|p27
+[23:43:01]   W080 + 30 dc:java developer|Surat|p39
+[23:43:01]   W012 + 13 dc:data pipeline en|Portland|p45
+[23:43:01]   W028 + 22 dc:MLOps engineer|Adelaide|p42
+[23:43:01]   W022 + 31 dc:data engineer|Krakow|p25
+[23:43:01]   W033 + 12 dc:data pipeline en|Wellington|p48
+[23:43:01]   W064 + 30 dc:node developer|Helsinki|p39
+[23:43:01]   W067 +  7 dc:Redis engineer|Edinburgh|p27
+[23:43:01]   W072 + 34 dc:principal engine|Boston|p4
+[23:43:02]   W067 + 34 dc:Spring Boot deve|Budapest|p43
+[23:43:02]   W005 + 14 dc:SOC analyst|Ottawa|p46
+[23:43:02]   W093 + 34 dc:staff software e|Lagos|p19
+[23:43:02]   W052 + 31 dc:full stack engin|Rome|p34
+[23:43:02]   W074 + 34 dc:database adminis|Indore|p29
+[23:43:03]   W019 + 34 dc:fellow engineer|Mumbai|p43
+[23:43:03]   W076 + 10 sh:WordPress develo|Nottingham|p22
+[23:43:03]   W063 +  9 dc:Ruby developer|Lisbon|p32
+[23:43:03]   W062 + 22 dc:deep learning en|Jaipur|p14
+[23:43:03]   W080 + 30 dc:robotics enginee|Adelaide|p13
+[23:43:03]   W022 + 34 dc:java developer|Chicago|p10
+[23:43:03]   W033 + 34 dc:DevOps engineer|Leeds|p6
+[23:43:03]   W097 +  5 dc:Express develope|Wellington|p49
+[23:43:04]   W072 + 21 dc:deep learning en|Nairobi|p23
+[23:43:04]   W013 + 30 dc:react developer|Houston|p47
+[23:43:04]   W073 + 34 dc:penetration test|Denver|p20
+[23:43:04]   W037 + 25 dc:iOS developer|Munich|p43
+[23:43:04]   W045 + 18 dc:PHP developer|Zurich|p48
+[23:43:04]   W067 + 34 dc:embedded systems|Hyderabad|p9
+[23:43:04]   W045 +  9 dc:Ruby developer|Sydney|p16
+[23:43:05]   W019 + 11 dc:React Native dev|Houston|p0
+[23:43:05]   W021 + 34 dc:embedded systems|Manchester|p30
+[23:43:05]   W021 + 34 dc:Docker engineer|Manchester|p21
+[23:43:05]   W055 + 34 dc:CI/CD engineer|Paris|p26
+[23:43:05]   W055 + 13 dc:data pipeline en|Montreal|p26
+[23:43:05]   W097 + 22 dc:big data enginee|Seattle|p3
+[23:43:05]   W013 + 34 dc:ETL developer|Coimbatore|p19
+[23:43:05]   W035 + 34 dc:database adminis|Copenhagen|p27
+[23:43:06]   W033 + 34 dc:Scala developer|Krakow|p0
+[23:43:06]   W072 +  7 dc:Redis engineer|Wellington|p28
+[23:43:06]   W009 + 22 dc:MLOps engineer|Birmingham|p48
+[23:43:07]   W045 + 34 dc:UX engineer|Cape Town|p38
+[23:43:07]   W066 +  7 dc:junior backend e|Ottawa|p21
+[23:43:07]   W079 + 34 dc:Terraform engine|Leeds|p18
+[23:43:07]   W059 +  8 dc:graphics enginee|Montreal|p22
+[23:43:07]   W080 +  5 dc:Perl developer|Leeds|p30
+[23:43:08]   W041 + 34 dc:embedded enginee|Seoul|p29
+[23:43:08]   W091 + 34 dc:design engineer|Birmingham|p29
+[23:43:08]   W040 + 34 dc:build engineer|Kolkata|p24
+[23:43:08]   W088 +  7 dc:Redis engineer|Helsinki|p47
+[23:43:08]   W060 + 30 dc:data scientist|Phoenix|p44
+[23:43:08]   W080 + 31 dc:data engineer|Calgary|p26
+[23:43:08]   W090 + 30 dc:Node.js develope|Zurich|p27
+[23:43:08]   W071 + 34 dc:network engineer|Chennai|p1
+[23:43:08]   W018 + 34 dc:Node.js develope|Remote|p21
+[23:43:08]   W093 + 34 dc:junior developer|New York|p15
+[23:43:09]   W083 + 32 dc:Spark engineer|Lisbon|p43
+[23:43:09]   W050 + 30 dc:security archite|Visakhapat|p17
+[23:43:09]   W068 + 34 dc:Docker engineer|Seoul|p37
+[23:43:09]   W027 + 34 dc:Kotlin developer|Lucknow|p10
+[23:43:10]   W081 + 31 dc:automation engin|Lagos|p22
+[23:43:10]   W042 + 19 sh:Elasticsearch en|Phoenix|p5
+[23:43:10]   W088 + 32 dc:AI infrastructur|Bristol|p30
+[23:43:10]   W067 + 32 dc:senior backend e|Budapest|p34
+[23:43:10]   W018 + 30 dc:security archite|Tokyo|p45
+[23:43:11]   W011 + 31 dc:firmware enginee|Toronto|p12
+[23:43:11]   W093 + 34 dc:business intelli|Jaipur|p0
+[23:43:12]   W077 + 30 dc:Kubernetes engin|Buenos Air|p20
+[23:43:12]   W022 + 34 dc:junior developer|Phoenix|p25
+[23:43:12]   W021 + 34 dc:analytics engine|Lagos|p33
+[23:43:12]   W062 + 34 dc:backend engineer|Helsinki|p21
+[23:43:12]   W050 +  9 dc:driver engineer|Gold Coast|p41
+[23:43:12]   W015 + 34 dc:mobile app devel|Hyderabad|p19
+[23:43:12]   W084 +  7 dc:FastAPI develope|Hyderabad|p37
+[23:43:12]   W022 +  9 dc:driver engineer|London|p35
+[23:43:13]   W052 + 34 dc:security archite|Boston|p2
+[23:43:13]   W001 + 34 dc:.NET developer|Noida|p11
+[23:43:13]   W026 + 34 dc:NLP engineer|Washington|p12
+[23:43:14]   W068 + 34 dc:mobile app devel|Sheffield|p45
+[23:43:14]   W096 + 15 dc:Hadoop engineer|Delhi|p47
+[23:43:14]   W018 + 34 dc:NLP developer|Newcastle|p46
+[23:43:14]   W021 + 34 dc:principal softwa|Dublin|p16
+[23:43:14]   W062 + 34 dc:project manager|Los Angele|p9
+[23:43:14]   W043 +  9 dc:Swift developer|Edmonton|p18
+[23:43:14]   W041 +  9 dc:compiler enginee|Noida|p34
+[23:43:14]   W028 + 19 dc:big data enginee|Budapest|p10
+[23:43:15]   W042 +  5 dc:Perl developer|Oslo|p31
+[23:43:15]   W013 + 22 dc:MLOps engineer|Oslo|p49
+[23:43:15]   W005 + 34 dc:junior developer|Newcastle|p14
+[23:43:15]   W000 + 34 dc:ML platform engi|Milan|p0
+[23:43:15]   W039 + 19 dc:payments enginee|Warsaw|p24
+[23:43:15]   W089 + 31 dc:firmware enginee|Boston|p28
+[23:43:16]   W024 + 34 dc:GenAI engineer|Seattle|p30
+[23:43:16]   W032 + 19 dc:FPGA engineer|Zurich|p34
+[23:43:16]   W095 + 34 dc:solutions archit|Kolkata|p3
+[23:43:17]   W037 + 34 dc:application secu|Zurich|p47
+[23:43:17]   W004 +  7 dc:Redis engineer|Birmingham|p9
+[23:43:17]   W007 + 31 dc:full stack engin|Mumbai|p38
+[23:43:17]   W058 + 13 dc:data pipeline en|Ahmedabad|p7
+[23:43:17]   W092 +  5 dc:Elixir developer|Lucknow|p29
+[23:43:17]   W015 + 32 dc:AI infrastructur|Dallas|p28
+[23:43:17]   W091 + 30 dc:mobile developer|Lisbon|p24
+[23:43:17]   W005 + 34 dc:machine learning|Newcastle|p4
+[23:43:17]   W089 +  5 dc:fintech engineer|Visakhapat|p43
+[23:43:18]   W083 + 31 dc:cloud security e|Delhi|p46
+[23:43:18]   W019 + 34 dc:junior developer|Dubai|p2
+[23:43:18]   W010 + 34 dc:distinguished en|Los Angele|p37
+[23:43:18]   W019 + 34 dc:database adminis|Buenos Air|p8
+[23:43:18]   W094 + 30 dc:system administr|Helsinki|p11
+[23:43:18]   W032 + 34 dc:product engineer|Delhi|p42
+[23:43:19]   W075 + 30 dc:data scientist|Vienna|p18
+[23:43:19]   W081 + 31 dc:full stack engin|Copenhagen|p16
+[23:43:19]   W057 + 34 dc:security enginee|Bucharest|p2
+[23:43:19]   W014 + 34 dc:penetration test|Auckland|p37
+[23:43:19]   W005 + 34 dc:API engineer|Dublin|p41
+[23:43:19]   W022 + 30 dc:react developer|Tel Aviv|p26
+[23:43:19]   W067 + 35 dc:full stack devel||p30
+[23:43:20]   W021 + 30 dc:security archite|Gold Coast|p41
+[23:43:20]   W019 +  5 dc:Perl developer|Vancouver|p39
+[23:43:20]   W010 + 22 dc:Vue developer|Birmingham|p36
+[23:43:20]   W058 + 34 dc:cloud engineer|Munich|p3
+[23:43:21]   W081 + 34 dc:junior developer|Indore|p33
+[23:43:21]   W097 +  9 dc:compiler enginee|Munich|p33
+[23:43:21]   W026 + 34 dc:analytics engine|Pune|p0
+[23:43:21]   W012 + 34 dc:staff engineer|Lisbon|p8
+[23:43:21]   W014 + 34 dc:QA engineer|Hong Kong|p19
+[23:43:21]   W072 + 14 dc:SOC analyst|London|p14
+[23:43:21]   W095 + 34 dc:golang developer|Mexico Cit|p41
+[23:43:21]   W017 + 14 dc:SOC analyst|Dublin|p1
+[23:43:21]   W075 + 26 dc:C++ engineer|Montreal|p1
+[23:43:22]   W000 + 31 dc:technical writer|Tokyo|p5
+[23:43:22]   W019 + 25 dc:iOS developer|Johannesbu|p44
+[23:43:22]   W078 + 34 dc:Django developer|Remote|p15
+[23:43:22]   W053 + 30 dc:microservices en|Sao Paulo|p11
+[23:43:22]   W069 + 34 dc:penetration test|Zurich|p37
+[23:43:22]   W009 +  3 sh:kernel engineer|Miami|p37
+[23:43:22]   W015 +  9 dc:SDE|Chicago|p5
+[23:43:23]   W052 + 34 dc:Scala developer|Chicago|p19
+[23:43:23]   W014 + 13 dc:data pipeline en|Leeds|p30
+[23:43:23]   W067 + 34 dc:senior devops en|Dallas|p33
+[23:43:23]   W045 + 34 dc:Azure engineer||p7
+[23:43:23]   W072 + 33 dc:Node.js develope|Atlanta|p25
+[23:43:23]   W095 + 30 dc:system administr|Jaipur|p7
+[23:43:24]   W091 + 34 dc:design engineer|Johannesbu|p13
+[23:43:24]   W098 + 34 dc:C# developer|Nottingham|p9
+[23:43:24]   W015 + 34 dc:IT engineer|Surat|p21
+[23:43:24]   W019 + 15 dc:Hadoop engineer|Nagpur|p34
+[23:43:24]   W078 + 31 dc:data engineer|Seoul|p42
+[23:43:24]   W036 + 21 dc:deep learning en|Nottingham|p21
+[23:43:25]   W069 + 30 dc:system administr|Buenos Air|p10
+[23:43:25]   W029 + 34 dc:distinguished en|Mumbai|p7
+[23:43:26]   W060 + 34 dc:senior backend e|New York|p42
+[23:43:26]   W048 + 34 dc:application secu|Dallas|p18
+[23:43:26]   W053 + 34 dc:staff engineer|Seoul|p3
+[23:43:26]   W038 + 34 dc:MongoDB engineer|Vienna|p46
+[23:43:26]   W050 + 34 dc:senior devops en|Stockholm|p4
+[23:43:26]   W019 + 34 dc:ML engineer|Denver|p32
+[23:43:27]   W002 + 34 dc:AWS engineer|Remote|p11
+[23:43:27]   W081 + 34 dc:ML platform engi|Sydney|p11
+[23:43:27]   W036 + 30 dc:system administr|Dubai|p8
+[23:43:27]   W071 + 34 dc:SRE|Boston|p31
+[23:43:27]   W069 + 34 dc:database adminis|Auckland|p44
+[23:43:27]   W084 + 34 dc:PostgreSQL engin|Cardiff|p22
+[23:43:27]   W061 + 34 dc:devops engineer|Bristol|p4
+[23:43:28]   W051 + 34 dc:Spring Boot deve|Houston|p10
+[23:43:28]   W057 + 20 sh:staff software e|Atlanta|p8
+[23:43:28]   W044 + 34 dc:mobile app devel|Boston|p16
+[23:43:28]   W035 +  8 dc:graphics enginee|Hong Kong|p30
+[23:43:28]   W044 + 34 dc:Kafka engineer|Auckland|p8
+[23:43:28]   W017 + 34 dc:principal softwa|Budapest|p1
+[23:43:28]   W007 + 34 dc:GCP engineer|Gurgaon|p42
+[23:43:28]   [R1] DB=719,316 | +9 | 2/min | Gap=280,684 | iters=1,428
+[23:43:28]   W067 + 34 dc:Azure engineer|Hong Kong|p3
+[23:43:29]   W029 + 14 dc:data pipeline en|Lisbon|p44
+[23:43:29]   W064 + 30 dc:Kubernetes engin|Kolkata|p33
+[23:43:29]   W009 + 21 dc:Redis engineer||p10
+[23:43:30]   W069 +  5 dc:Flutter develope|Phoenix|p46
+[23:43:30]   W063 +  8 dc:game developer|Houston|p13
+[23:43:30]   W048 + 34 dc:GCP engineer|Denver|p19
+[23:43:30]   W059 + 30 dc:SRE|Newcastle|p23
+[23:43:30]   W030 + 34 dc:full stack engin|Dallas|p41
+[23:43:30]   W047 + 32 dc:AI infrastructur|Budapest|p34
+[23:43:31]   W006 + 34 dc:junior developer|Brisbane|p2
+[23:43:31]   W007 +  5 dc:Flutter develope|Gold Coast|p37
+[23:43:31]   W052 + 32 dc:scrum master|San Diego|p19
+[23:43:31]   W010 + 30 dc:site reliability|Noida|p6
+[23:43:31]   W033 + 34 dc:business intelli|Newcastle|p14
+[23:43:31]   W053 + 31 dc:senior frontend |Gurgaon|p17
+[23:43:31]   W029 + 34 dc:systems engineer|Sydney|p19
+[23:43:32]   W064 + 30 dc:SRE|Lagos|p11
+[23:43:32]   W069 +  9 dc:Swift developer|Vienna|p34
+[23:43:32]   W023 + 34 dc:LLM engineer||p0
+[23:43:32]   W059 + 24 dc:Vue.js developer|Seattle|p2
+[23:43:32]   W025 + 34 dc:security enginee|Bucharest|p4
+[23:43:32]   W015 + 34 dc:penetration test|Singapore|p19
+[23:43:32]   W019 +  5 dc:Express develope|London|p31
+[23:43:32]   W069 + 34 dc:python developer|Zurich|p36

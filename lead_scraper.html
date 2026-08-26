@@ -1,0 +1,772 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LeadFlow - Job Lead Scraper</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+:root{--bg:#0a0e1a;--card:#111827;--border:#1e293b;--text:#e2e8f0;--muted:#64748b;--accent:#3b82f6;--accent2:#8b5cf6;--green:#10b981;--orange:#f59e0b;--red:#ef4444;--pink:#ec4899}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:var(--bg);color:var(--text);min-height:100vh}
+
+/* Top Nav */
+.nav{background:var(--card);border-bottom:1px solid var(--border);padding:12px 24px;display:flex;align-items:center;justify-content:space-between;position:sticky;top:0;z-index:100}
+.nav-brand{display:flex;align-items:center;gap:12px}
+.nav-brand h1{font-size:20px;font-weight:700;background:linear-gradient(135deg,var(--accent),var(--accent2));-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+.nav-brand span{font-size:11px;color:var(--muted);background:#1e293b;padding:2px 8px;border-radius:99px}
+.nav-status{display:flex;align-items:center;gap:8px;font-size:13px;color:var(--muted)}
+.nav-status .dot{width:8px;height:8px;border-radius:50%;animation:pulse 2s infinite}
+.dot-green{background:var(--green)}.dot-red{background:var(--red)}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.4}}
+
+/* Stats Row */
+.stats-row{display:grid;grid-template-columns:repeat(5,1fr);gap:12px;padding:16px 24px}
+.stat-card{background:var(--card);border:1px solid var(--border);border-radius:10px;padding:16px}
+.stat-card .label{font-size:11px;text-transform:uppercase;letter-spacing:1px;color:var(--muted);margin-bottom:4px}
+.stat-card .value{font-size:28px;font-weight:700}
+.stat-card .sub{font-size:12px;color:var(--muted);margin-top:2px}
+.c-blue{color:var(--accent)}.c-green{color:var(--green)}.c-orange{color:var(--orange)}.c-pink{color:var(--pink)}.c-purple{color:var(--accent2)}
+
+/* Tabs */
+.tabs{display:flex;gap:0;padding:0 24px;border-bottom:1px solid var(--border);background:var(--card)}
+.tab{padding:12px 20px;font-size:14px;color:var(--muted);cursor:pointer;border-bottom:2px solid transparent;transition:all .2s}
+.tab:hover{color:var(--text)}
+.tab.active{color:var(--accent);border-bottom-color:var(--accent);font-weight:600}
+.tab .badge{background:var(--accent);color:#fff;font-size:10px;padding:1px 6px;border-radius:10px;margin-left:6px}
+
+/* Panels */
+.panel{display:none;padding:16px 24px}
+.panel.active{display:block}
+
+/* Search & Filters */
+.search-row{display:flex;gap:8px;margin-bottom:12px;flex-wrap:wrap}
+.search-row input,.search-row select{padding:8px 12px;border-radius:6px;border:1px solid var(--border);background:var(--card);color:var(--text);font-size:13px;outline:none}
+.search-row input:focus,.search-row select:focus{border-color:var(--accent)}
+.search-row input[type="text"]{flex:1;min-width:200px}
+.btn{padding:8px 16px;border-radius:6px;border:none;font-size:13px;font-weight:600;cursor:pointer;transition:all .15s}
+.btn-primary{background:var(--accent);color:#fff}.btn-primary:hover{background:#2563eb}
+.btn-success{background:var(--green);color:#fff}.btn-success:hover{background:#059669}
+.btn-danger{background:var(--red);color:#fff}.btn-danger:hover{background:#dc2626}
+.btn-outline{background:transparent;border:1px solid var(--border);color:var(--muted)}.btn-outline:hover{border-color:var(--accent);color:var(--text)}
+.btn-sm{padding:4px 10px;font-size:12px}
+.btn-icon{padding:6px 10px;font-size:16px}
+
+/* Advanced Filters */
+.filters-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:8px;margin-bottom:12px;padding:12px;background:var(--card);border:1px solid var(--border);border-radius:8px}
+.filters-grid label{font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.5px}
+.filters-grid input,.filters-grid select{width:100%;margin-top:2px}
+
+/* Table */
+.table-wrap{background:var(--card);border:1px solid var(--border);border-radius:10px;overflow:hidden}
+table{width:100%;border-collapse:collapse;font-size:13px}
+th{text-align:left;padding:10px 12px;background:#0f172a;color:var(--muted);font-weight:600;font-size:11px;text-transform:uppercase;letter-spacing:.5px;position:sticky;top:0;cursor:pointer;user-select:none}
+th:hover{color:var(--text)}
+td{padding:8px 12px;border-top:1px solid var(--border)}
+tr:hover td{background:rgba(59,130,246,0.05)}
+tr.selected td{background:rgba(59,130,246,0.1)}
+.table-wrap{max-height:60vh;overflow-y:auto}
+.table-wrap thead{position:sticky;top:0;z-index:2}
+.table-wrap th{position:sticky;top:0;z-index:2}
+
+.badge{display:inline-block;padding:2px 8px;border-radius:99px;font-size:11px;font-weight:600}
+.badge-ats{background:#064e3b;color:#6ee7b7}
+.badge-board{background:#1e3a5f;color:#93c5fd}
+.badge-fast{background:#78350f;color:#fcd34d}
+.badge-api{background:#3b0764;color:#c084fc}
+.badge-default{background:#1e293b;color:#94a3b8}
+.badge-tag{background:rgba(139,92,246,0.2);color:#c4b5fd;border:1px solid rgba(139,92,246,0.3)}
+
+a{color:var(--accent);text-decoration:none}
+a:hover{text-decoration:underline}
+
+/* Pagination */
+.pagination{display:flex;align-items:center;justify-content:space-between;padding:12px;font-size:13px;color:var(--muted)}
+.pagination .pages{display:flex;gap:4px}
+.pagination .page{padding:4px 10px;border-radius:4px;cursor:pointer;border:1px solid var(--border);background:transparent;color:var(--muted)}
+.pagination .page.active{background:var(--accent);color:#fff;border-color:var(--accent)}
+.pagination .page:hover{border-color:var(--accent)}
+
+/* Leads Panel */
+.lead-card{background:var(--card);border:1px solid var(--border);border-radius:10px;padding:16px;margin-bottom:8px}
+.lead-card .lead-header{display:flex;justify-content:space-between;align-items:center}
+.lead-card .lead-title{font-weight:600;color:var(--text)}
+.lead-card .lead-company{color:var(--accent);font-size:13px}
+.lead-card .lead-meta{color:var(--muted);font-size:12px;margin-top:4px}
+.lead-card .lead-actions{display:flex;gap:6px}
+.lead-card .lead-tags{display:flex;gap:4px;margin-top:8px;flex-wrap:wrap}
+
+/* Company Panel */
+.company-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:12px}
+.company-card{background:var(--card);border:1px solid var(--border);border-radius:10px;padding:16px}
+.company-card h3{font-size:16px;margin-bottom:4px}
+.company-card .meta{color:var(--muted);font-size:12px;margin-bottom:8px}
+.company-card .jobs-count{color:var(--green);font-weight:600}
+
+/* Source Chart */
+.source-chart{display:flex;flex-direction:column;gap:6px}
+.source-row{display:flex;align-items:center;gap:8px}
+.source-row .name{width:180px;font-size:12px;color:var(--muted);text-align:right;flex-shrink:0}
+.source-row .bar-bg{flex:1;height:20px;background:#0f172a;border-radius:4px;overflow:hidden}
+.source-row .bar-fill{height:100%;border-radius:4px;transition:width .5s}
+.source-row .count{width:70px;font-size:12px;color:var(--muted)}
+
+/* Export Modal */
+.modal-overlay{display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.7);z-index:200;justify-content:center;align-items:center}
+.modal-overlay.active{display:flex}
+.modal{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:24px;width:400px;max-width:90vw}
+.modal h3{margin-bottom:16px}
+.modal label{display:block;margin:8px 0 4px;font-size:12px;color:var(--muted)}
+.modal input,.modal select{width:100%;padding:8px;border-radius:6px;border:1px solid var(--border);background:var(--bg);color:var(--text)}
+.modal .actions{display:flex;gap:8px;margin-top:16px;justify-content:flex-end}
+
+/* Toast */
+.toast{position:fixed;bottom:20px;right:20px;background:var(--green);color:#fff;padding:12px 20px;border-radius:8px;font-size:14px;z-index:300;transform:translateY(100px);opacity:0;transition:all .3s}
+.toast.show{transform:translateY(0);opacity:1}
+.toast.error{background:var(--red)}
+
+/* Responsive */
+@media(max-width:768px){
+  .stats-row{grid-template-columns:repeat(2,1fr)}
+  .search-row{flex-direction:column}
+  .nav{flex-direction:column;gap:8px}
+  .filters-grid{grid-template-columns:1fr}
+}
+</style>
+</head>
+<body>
+
+<!-- Navigation -->
+<div class="nav">
+  <div class="nav-brand">
+    <h1>🎯 LeadFlow</h1>
+    <span>Lead Scraping Tool</span>
+  </div>
+  <div class="nav-status">
+    <div class="dot dot-green" id="statusDot"></div>
+    <span id="statusText">Connecting...</span>
+    <span id="totalNav" style="margin-left:12px;font-weight:600;color:var(--accent)">--</span>
+  </div>
+</div>
+
+<!-- Stats -->
+<div class="stats-row">
+  <div class="stat-card"><div class="label">Total Jobs</div><div class="value c-blue" id="statTotal">--</div><div class="sub" id="statSub">Loading...</div></div>
+  <div class="stat-card"><div class="label">Fresh (7 Days)</div><div class="value c-green" id="statFresh">--</div><div class="sub" id="statFreshPct"></div></div>
+  <div class="stat-card"><div class="label">Companies</div><div class="value c-orange" id="statCompanies">--</div></div>
+  <div class="stat-card"><div class="label">Sources</div><div class="value c-purple" id="statSources">--</div><div class="sub" id="statSourcesTop"></div></div>
+  <div class="stat-card"><div class="label">Saved Leads</div><div class="value c-pink" id="statLeads">0</div><div class="sub">Local browser storage</div></div>
+</div>
+
+<!-- Tabs -->
+<div class="tabs">
+  <div class="tab active" data-tab="search">🔍 Search Jobs</div>
+  <div class="tab" data-tab="leads">⭐ Saved Leads <span id="leadCount">0</span></div>
+  <div class="tab" data-tab="companies">🏢 Companies</div>
+  <div class="tab" data-tab="sources">📊 Sources</div>
+</div>
+
+<!-- Search Panel -->
+<div class="panel active" id="panel-search">
+  <div class="search-row">
+    <input type="text" id="searchQ" placeholder="Search jobs... (e.g. software engineer, react, remote, Google)">
+    <input type="text" id="searchCompany" placeholder="Company">
+    <input type="text" id="searchLocation" placeholder="Location">
+    <select id="searchDays">
+      <option value="1">Last 24h</option>
+      <option value="3">Last 3 days</option>
+      <option value="7" selected>Last 7 days</option>
+      <option value="30">Last 30 days</option>
+      <option value="90">Last 90 days</option>
+      <option value="0">All time</option>
+    </select>
+    <select id="searchSourceKind">
+      <option value="">All Sources</option>
+      <option value="ats">ATS Direct</option>
+      <option value="board">Job Board</option>
+      <option value="fast_http">Web Scrape</option>
+      <option value="api">API</option>
+    </select>
+    <button class="btn btn-primary" onclick="searchJobs()">Search</button>
+    <button class="btn btn-outline" onclick="exportSearch()">📥 Export CSV</button>
+    <button class="btn btn-success" onclick="saveAllResults()">⭐ Save All</button>
+  </div>
+
+  <div class="filters-grid" id="advancedFilters" style="display:none">
+    <div><label>Min Salary ($)</label><input type="number" id="filterSalaryMin" placeholder="50000"></div>
+    <div><label>Max Salary ($)</label><input type="number" id="filterSalaryMax" placeholder="200000"></div>
+    <div><label>Sort By</label>
+      <select id="filterSort"><option value="newest">Newest First</option><option value="oldest">Oldest First</option></select>
+    </div>
+    <div><label>Exclude Keywords</label><input type="text" id="filterExclude" placeholder="intern,senior (comma separated)"></div>
+    <div><label>Include Description Words</label><input type="text" id="filterDescWords" placeholder="python, react"></div>
+    <div><label>Max Results</label><input type="number" id="filterLimit" value="100" min="1" max="1000"></div>
+  </div>
+
+  <div style="margin-bottom:8px">
+    <button class="btn btn-sm btn-outline" onclick="toggleAdvanced()">⚙️ Advanced Filters</button>
+    <span id="resultCount" style="margin-left:12px;color:var(--muted);font-size:13px"></span>
+  </div>
+
+  <div class="table-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th style="width:30px"><input type="checkbox" id="selectAll" onclick="toggleSelectAll()"></th>
+          <th onclick="sortBy('title')">Title ↕</th>
+          <th onclick="sortBy('company')">Company ↕</th>
+          <th onclick="sortBy('location')">Location ↕</th>
+          <th>Source</th>
+          <th onclick="sortBy('salary')">Salary ↕</th>
+          <th onclick="sortBy('posted_at')">Date ↕</th>
+          <th style="width:100px">Actions</th>
+        </tr>
+      </thead>
+      <tbody id="jobsBody">
+        <tr><td colspan="8" style="text-align:center;padding:40px;color:var(--muted)">Enter a search query to find leads</td></tr>
+      </tbody>
+    </table>
+  </div>
+  <div class="pagination">
+    <span id="pageInfo"></span>
+    <div class="pages" id="pageButtons"></div>
+  </div>
+</div>
+
+<!-- Leads Panel -->
+<div class="panel" id="panel-leads">
+  <div style="display:flex;gap:8px;margin-bottom:12px;align-items:center">
+    <input type="text" id="leadSearch" placeholder="Search saved leads..." style="flex:1;padding:8px 12px;border-radius:6px;border:1px solid var(--border);background:var(--card);color:var(--text);font-size:13px">
+    <select id="leadTagFilter" style="padding:8px;border-radius:6px;border:1px solid var(--border);background:var(--card);color:var(--text);font-size:13px">
+      <option value="">All Tags</option>
+    </select>
+    <button class="btn btn-outline" onclick="exportLeads()">📥 Export CSV</button>
+    <button class="btn btn-danger btn-sm" onclick="clearAllLeads()">🗑 Clear All</button>
+  </div>
+  <div id="leadsList"></div>
+</div>
+
+<!-- Companies Panel -->
+<div class="panel" id="panel-companies">
+  <div style="margin-bottom:12px">
+    <input type="text" id="companySearch" placeholder="Search companies..." oninput="filterCompanies()" style="width:100%;padding:8px 12px;border-radius:6px;border:1px solid var(--border);background:var(--card);color:var(--text);font-size:13px">
+  </div>
+  <div class="company-grid" id="companyGrid"></div>
+</div>
+
+<!-- Sources Panel -->
+<div class="panel" id="panel-sources">
+  <h2 style="margin-bottom:16px">📊 Jobs by Source</h2>
+  <div class="source-chart" id="sourceChart"></div>
+</div>
+
+<!-- Export Modal -->
+<div class="modal-overlay" id="exportModal">
+  <div class="modal">
+    <h3>📥 Export Leads</h3>
+    <label>Format</label>
+    <select id="exportFormat"><option value="csv">CSV</option><option value="json">JSON</option></select>
+    <label>Fields</label>
+    <div style="display:flex;flex-wrap:wrap;gap:6px;margin-top:4px" id="exportFields">
+      <label><input type="checkbox" checked value="title"> Title</label>
+      <label><input type="checkbox" checked value="company"> Company</label>
+      <label><input type="checkbox" checked value="location"> Location</label>
+      <label><input type="checkbox" checked value="url"> URL</label>
+      <label><input type="checkbox" checked value="source"> Source</label>
+      <label><input type="checkbox" value="salary"> Salary</label>
+      <label><input type="checkbox" value="description"> Description</label>
+      <label><input type="checkbox" checked value="posted_at"> Posted Date</label>
+    </div>
+    <div class="actions">
+      <button class="btn btn-outline" onclick="closeModal()">Cancel</button>
+      <button class="btn btn-primary" onclick="doExport()">Download</button>
+    </div>
+  </div>
+</div>
+
+<!-- Tag Modal -->
+<div class="modal-overlay" id="tagModal">
+  <div class="modal">
+    <h3>🏷️ Add Tags</h3>
+    <input type="text" id="tagInput" placeholder="Enter tags (comma separated)">
+    <div style="margin-top:8px;font-size:12px;color:var(--muted)">
+      Suggestions: <span class="badge badge-tag" style="cursor:pointer" onclick="addTagSuggestion('high-priority')">high-priority</span>
+      <span class="badge badge-tag" style="cursor:pointer" onclick="addTagSuggestion('remote')">remote</span>
+      <span class="badge badge-tag" style="cursor:pointer" onclick="addTagSuggestion('applied')">applied</span>
+      <span class="badge badge-tag" style="cursor:pointer" onclick="addTagSuggestion('follow-up')">follow-up</span>
+      <span class="badge badge-tag" style="cursor:pointer" onclick="addTagSuggestion('rejected')">rejected</span>
+    </div>
+    <div class="actions">
+      <button class="btn btn-outline" onclick="closeTagModal()">Cancel</button>
+      <button class="btn btn-primary" onclick="saveTags()">Save Tags</button>
+    </div>
+  </div>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script>
+const API = location.origin;
+let currentJobs = [];
+let currentOffset = 0;
+let currentTotal = 0;
+const PAGE_SIZE = 100;
+let currentSort = 'newest';
+let selectedJobs = new Set();
+let exportTarget = null;
+let tagTarget = null;
+let allLeads = JSON.parse(localStorage.getItem('leads') || '[]');
+
+// ── Init ──
+document.addEventListener('DOMContentLoaded', () => {
+  loadStats();
+  renderLeads();
+  refreshLeadCount();
+
+  // Tab switching
+  document.querySelectorAll('.tab').forEach(t => {
+    t.onclick = () => {
+      document.querySelectorAll('.tab').forEach(x => x.classList.remove('active'));
+      document.querySelectorAll('.panel').forEach(x => x.classList.remove('active'));
+      t.classList.add('active');
+      document.getElementById('panel-' + t.dataset.tab).classList.add('active');
+      if (t.dataset.tab === 'companies') loadCompanies();
+      if (t.dataset.tab === 'sources') loadSources();
+    };
+  });
+
+  // Enter to search
+  document.getElementById('searchQ').addEventListener('keydown', e => { if (e.key === 'Enter') searchJobs(); });
+  document.getElementById('searchCompany').addEventListener('keydown', e => { if (e.key === 'Enter') searchJobs(); });
+  document.getElementById('searchLocation').addEventListener('keydown', e => { if (e.key === 'Enter') searchJobs(); });
+
+  // Search on filter change
+  ['searchDays', 'searchSourceKind'].forEach(id => {
+    document.getElementById(id).onchange = () => searchJobs();
+  });
+
+  // Auto-refresh
+  setInterval(loadStats, 30000);
+});
+
+// ── API Calls ──
+async function apiFetch(url) {
+  try {
+    const r = await fetch(API + url);
+    if (!r.ok) throw new Error(`HTTP ${r.status}`);
+    return await r.json();
+  } catch (e) {
+    console.error('API Error:', e);
+    setStatus(false);
+    return null;
+  }
+}
+
+function setStatus(ok) {
+  document.getElementById('statusDot').className = ok ? 'dot dot-green' : 'dot dot-red';
+  document.getElementById('statusText').textContent = ok ? 'Connected' : 'Disconnected';
+}
+
+// ── Stats ──
+async function loadStats() {
+  const d = await apiFetch('/api/stats');
+  if (!d) return;
+  setStatus(true);
+
+  document.getElementById('statTotal').textContent = d.total_jobs.toLocaleString();
+  document.getElementById('totalNav').textContent = d.total_jobs.toLocaleString();
+
+  const fresh = d.daily_last_7d ? Object.values(d.daily_last_7d).reduce((a, b) => a + b, 0) : 0;
+  document.getElementById('statFresh').textContent = fresh.toLocaleString();
+  document.getElementById('statFreshPct').textContent = ((d.total_jobs / 1000000) * 100).toFixed(1) + '% of 1M';
+  document.getElementById('statCompanies').textContent = (d.unique_companies || 0).toLocaleString();
+  document.getElementById('statSources').textContent = Object.keys(d.source_kinds || {}).length;
+  const top3 = Object.entries(d.source_kinds || {}).slice(0, 3);
+  document.getElementById('statSourcesTop').textContent = top3.map(([k, v]) => k + ': ' + v.toLocaleString()).join(', ');
+  document.getElementById('statSub').textContent = (d.unique_urls || 0).toLocaleString() + ' unique URLs';
+}
+
+// ── Search Jobs ──
+async function searchJobs(page = 0) {
+  const q = document.getElementById('searchQ').value;
+  const company = document.getElementById('searchCompany').value;
+  const location = document.getElementById('searchLocation').value;
+  const days = document.getElementById('searchDays').value;
+  const kind = document.getElementById('searchSourceKind').value;
+  const limit = document.getElementById('filterLimit')?.value || 100;
+  const sort = document.getElementById('filterSort')?.value || 'newest';
+
+  let url = `/api/jobs?days=${days}&limit=${limit}&offset=${page * limit}&sort=${sort}`;
+  if (q) url += `&q=${encodeURIComponent(q)}`;
+  if (company) url += `&company=${encodeURIComponent(company)}`;
+  if (location) url += `&location=${encodeURIComponent(location)}`;
+  if (kind) url += `&source_kind=${kind}`;
+
+  const d = await apiFetch(url);
+  if (!d) return;
+
+  currentJobs = d.jobs || [];
+  currentOffset = page;
+  currentTotal = d.total;
+  selectedJobs.clear();
+  document.getElementById('selectAll').checked = false;
+
+  // Client-side filters
+  let filtered = currentJobs;
+  const excl = document.getElementById('filterExclude')?.value;
+  if (excl) {
+    const words = excl.split(',').map(s => s.trim().toLowerCase()).filter(Boolean);
+    filtered = filtered.filter(j => !words.some(w =>
+      (j.title || '').toLowerCase().includes(w) ||
+      (j.company || '').toLowerCase().includes(w) ||
+      (j.description || '').toLowerCase().includes(w)
+    ));
+  }
+
+  document.getElementById('resultCount').textContent = `${currentTotal.toLocaleString()} results (${filtered.length} shown)`;
+  renderTable(filtered);
+  renderPagination();
+}
+
+function renderTable(jobs) {
+  const tbody = document.getElementById('jobsBody');
+  if (!jobs.length) {
+    tbody.innerHTML = '<tr><td colspan="8" style="text-align:center;padding:40px;color:var(--muted)">No jobs found. Try different search terms.</td></tr>';
+    return;
+  }
+  tbody.innerHTML = jobs.map((j, i) => {
+    const isSaved = allLeads.some(l => l.url === j.url);
+    const srcKind = j.source_kind || '';
+    const badgeClass = srcKind === 'ats' ? 'badge-ats' : srcKind === 'fast_http' ? 'badge-fast' : srcKind === 'api' ? 'badge-api' : 'badge-board';
+    const desc = (j.description || '').substring(0, 150);
+    return `<tr data-idx="${i}">
+      <td><input type="checkbox" class="row-cb" data-idx="${i}" onchange="toggleSelect(${i})"></td>
+      <td><a href="${j.url}" target="_blank" title="${desc}">${escHtml(j.title || 'Untitled')}</a></td>
+      <td>${escHtml(j.company || '-')}</td>
+      <td>${escHtml(j.location || '-')}</td>
+      <td><span class="badge ${badgeClass}">${escHtml(j.source || '-')}</span></td>
+      <td>${j.salary ? '$' + Number(j.salary).toLocaleString() : '-'}</td>
+      <td>${j.posted_at ? new Date(j.posted_at).toLocaleDateString() : (j.first_seen_at ? new Date(j.first_seen_at).toLocaleDateString() : '-')}</td>
+      <td>
+        <button class="btn btn-sm btn-outline" onclick="saveLead(${i})" title="Save as lead">${isSaved ? '⭐' : '☆'}</button>
+        <a href="${j.url}" target="_blank" class="btn btn-sm btn-outline" title="Open job">↗</a>
+      </td>
+    </tr>`;
+  }).join('');
+}
+
+function renderPagination() {
+  const pages = Math.ceil(currentTotal / PAGE_SIZE);
+  const current = currentOffset + 1;
+  document.getElementById('pageInfo').textContent = `Page ${current} of ${pages}`;
+
+  let html = '';
+  const start = Math.max(1, current - 3);
+  const end = Math.min(pages, current + 3);
+  if (start > 1) html += `<div class="page" onclick="searchJobs(0)">1</div>`;
+  if (start > 2) html += `<span style="padding:4px">...</span>`;
+  for (let i = start; i <= end; i++) {
+    html += `<div class="page ${i === current ? 'active' : ''}" onclick="searchJobs(${i - 1})">${i}</div>`;
+  }
+  if (end < pages - 1) html += `<span style="padding:4px">...</span>`;
+  if (end < pages) html += `<div class="page" onclick="searchJobs(${pages - 1})">${pages}</div>`;
+  document.getElementById('pageButtons').innerHTML = html;
+}
+
+function sortBy(field) {
+  if (currentSort === field + '_desc') {
+    currentSort = field;
+  } else if (currentSort === field) {
+    currentSort = field + '_desc';
+  } else {
+    currentSort = field;
+  }
+  searchJobs(0);
+}
+
+function toggleSelect(idx) {
+  if (selectedJobs.has(idx)) selectedJobs.delete(idx);
+  else selectedJobs.add(idx);
+}
+
+function toggleSelectAll() {
+  const checked = document.getElementById('selectAll').checked;
+  document.querySelectorAll('.row-cb').forEach(cb => {
+    cb.checked = checked;
+    const idx = parseInt(cb.dataset.idx);
+    if (checked) selectedJobs.add(idx);
+    else selectedJobs.delete(idx);
+  });
+}
+
+function toggleAdvanced() {
+  const el = document.getElementById('advancedFilters');
+  el.style.display = el.style.display === 'none' ? 'grid' : 'none';
+}
+
+// ── Leads Management ──
+function saveLead(idx) {
+  const job = currentJobs[idx];
+  if (!job) return;
+
+  const idx2 = allLeads.findIndex(l => l.url === job.url);
+  if (idx2 >= 0) {
+    allLeads.splice(idx2, 1);
+    showToast('Lead removed');
+  } else {
+    allLeads.unshift({ ...job, savedAt: new Date().toISOString(), tags: [], notes: '' });
+    showToast('Lead saved! ⭐');
+  }
+  localStorage.setItem('leads', JSON.stringify(allLeads));
+  refreshLeadCount();
+  renderLeads();
+  searchJobs(currentOffset);
+}
+
+function saveAllResults() {
+  let count = 0;
+  for (const job of currentJobs) {
+    if (!allLeads.some(l => l.url === job.url)) {
+      allLeads.unshift({ ...job, savedAt: new Date().toISOString(), tags: [], notes: '' });
+      count++;
+    }
+  }
+  localStorage.setItem('leads', JSON.stringify(allLeads));
+  refreshLeadCount();
+  renderLeads();
+  showToast(`${count} leads saved! ⭐`);
+}
+
+function refreshLeadCount() {
+  document.getElementById('leadCount').textContent = allLeads.length;
+  document.getElementById('statLeads').textContent = allLeads.length;
+}
+
+function renderLeads() {
+  const search = (document.getElementById('leadSearch')?.value || '').toLowerCase();
+  const tagFilter = document.getElementById('leadTagFilter')?.value || '';
+
+  let leads = allLeads;
+  if (search) leads = leads.filter(l =>
+    (l.title || '').toLowerCase().includes(search) ||
+    (l.company || '').toLowerCase().includes(search) ||
+    (l.location || '').toLowerCase().includes(search)
+  );
+  if (tagFilter) leads = leads.filter(l => (l.tags || []).includes(tagFilter));
+
+  // Update tag filter options
+  const allTags = new Set();
+  allLeads.forEach(l => (l.tags || []).forEach(t => allTags.add(t)));
+  const tagFilterEl = document.getElementById('leadTagFilter');
+  if (tagFilterEl) {
+    const cur = tagFilterEl.value;
+    tagFilterEl.innerHTML = '<option value="">All Tags</option>' + [...allTags].sort().map(t => `<option value="${t}" ${t === cur ? 'selected' : ''}>${t}</option>`).join('');
+  }
+
+  const container = document.getElementById('leadsList');
+  if (!leads.length) {
+    container.innerHTML = '<div style="text-align:center;padding:40px;color:var(--muted)">No saved leads. Search for jobs and save them!</div>';
+    return;
+  }
+
+  container.innerHTML = leads.map((l, i) => `
+    <div class="lead-card">
+      <div class="lead-header">
+        <div>
+          <div class="lead-title"><a href="${l.url}" target="_blank">${escHtml(l.title || 'Untitled')}</a></div>
+          <div class="lead-company">${escHtml(l.company || 'Unknown')} ${l.location ? '· ' + escHtml(l.location) : ''}</div>
+        </div>
+        <div class="lead-actions">
+          <button class="btn btn-sm btn-outline" onclick="openTagModal(${i})" title="Add tags">🏷️</button>
+          <button class="btn btn-sm btn-danger" onclick="removeLead(${i})" title="Remove">✕</button>
+        </div>
+      </div>
+      ${l.salary ? `<div class="lead-meta">💰 $${Number(l.salary).toLocaleString()}</div>` : ''}
+      <div class="lead-meta">📅 ${l.savedAt ? new Date(l.savedAt).toLocaleString() : '-'} · Source: ${l.source || '-'}</div>
+      ${l.description ? `<div class="lead-meta" style="margin-top:4px;color:#94a3b8;font-size:12px">${escHtml(l.description.substring(0, 200))}</div>` : ''}
+      <div class="lead-tags">
+        ${(l.tags || []).map(t => `<span class="badge badge-tag">${t}</span>`).join('')}
+      </div>
+    </div>
+  `).join('');
+}
+
+function removeLead(idx) {
+  allLeads.splice(idx, 1);
+  localStorage.setItem('leads', JSON.stringify(allLeads));
+  refreshLeadCount();
+  renderLeads();
+}
+
+function clearAllLeads() {
+  if (!confirm('Delete all saved leads?')) return;
+  allLeads = [];
+  localStorage.setItem('leads', '[]');
+  refreshLeadCount();
+  renderLeads();
+}
+
+function openTagModal(idx) {
+  tagTarget = idx;
+  document.getElementById('tagInput').value = (allLeads[idx].tags || []).join(', ');
+  document.getElementById('tagModal').classList.add('active');
+}
+
+function closeTagModal() {
+  document.getElementById('tagModal').classList.remove('active');
+}
+
+function addTagSuggestion(tag) {
+  const input = document.getElementById('tagInput');
+  const current = input.value.split(',').map(s => s.trim()).filter(Boolean);
+  if (!current.includes(tag)) current.push(tag);
+  input.value = current.join(', ');
+}
+
+function saveTags() {
+  if (tagTarget === null) return;
+  const tags = document.getElementById('tagInput').value.split(',').map(s => s.trim()).filter(Boolean);
+  allLeads[tagTarget].tags = tags;
+  localStorage.setItem('leads', JSON.stringify(allLeads));
+  closeTagModal();
+  renderLeads();
+  refreshLeadCount();
+}
+
+// ── Companies ──
+let allCompanies = [];
+
+async function loadCompanies() {
+  if (allCompanies.length) { filterCompanies(); return; }
+  const d = await apiFetch('/api/sources');
+  if (!d) return;
+
+  const data = await apiFetch('/api/jobs?limit=10000&days=30');
+  if (!data) return;
+
+  const compMap = {};
+  (data.jobs || []).forEach(j => {
+    const c = (j.company || '').trim();
+    if (!c) return;
+    if (!compMap[c]) compMap[c] = { name: c, jobs: 0, locations: new Set(), sources: new Set(), sampleUrl: j.url };
+    compMap[c].jobs++;
+    if (j.location) compMap[c].locations.add(j.location);
+    if (j.source) compMap[c].sources.add(j.source);
+  });
+
+  allCompanies = Object.values(compMap).sort((a, b) => b.jobs - a.jobs);
+  filterCompanies();
+}
+
+function filterCompanies() {
+  const q = (document.getElementById('companySearch')?.value || '').toLowerCase();
+  let companies = allCompanies;
+  if (q) companies = companies.filter(c => c.name.toLowerCase().includes(q));
+
+  const grid = document.getElementById('companyGrid');
+  if (!companies.length) {
+    grid.innerHTML = '<div style="text-align:center;padding:40px;color:var(--muted)">No companies found</div>';
+    return;
+  }
+
+  grid.innerHTML = companies.slice(0, 100).map(c => `
+    <div class="company-card">
+      <h3><a href="${c.sampleUrl}" target="_blank">${escHtml(c.name)}</a></h3>
+      <div class="jobs-count">${c.jobs} jobs</div>
+      <div class="meta">📍 ${[...c.locations].slice(0, 3).join(', ') || 'Various'}</div>
+      <div class="meta">🔗 ${[...c.sources].slice(0, 3).join(', ')}</div>
+      <div style="margin-top:8px">
+        <button class="btn btn-sm btn-outline" onclick="searchByCompany('${escHtml(c.name).replace(/'/g, "\\'")}')">🔍 Search Jobs</button>
+        <button class="btn btn-sm btn-outline" onclick="visitCompany('${c.sampleUrl}')">↗ Visit</button>
+      </div>
+    </div>
+  `).join('');
+}
+
+function searchByCompany(name) {
+  document.getElementById('searchCompany').value = name;
+  document.querySelectorAll('.tab')[0].click();
+  searchJobs();
+}
+
+function visitCompany(url) {
+  window.open(url, '_blank');
+}
+
+// ── Sources ──
+async function loadSources() {
+  const d = await apiFetch('/api/stats');
+  if (!d) return;
+
+  const sources = d.top_sources || {};
+  const max = Math.max(...Object.values(sources), 1);
+  const colors = ['#3b82f6', '#8b5cf6', '#10b981', '#f59e0b', '#ef4444', '#ec4899', '#06b6d4', '#84cc16', '#f97316', '#6366f1', '#14b8a6', '#e11d48'];
+
+  document.getElementById('sourceChart').innerHTML = Object.entries(sources).slice(0, 20).map(([name, count], i) => `
+    <div class="source-row">
+      <div class="name">${name}</div>
+      <div class="bar-bg"><div class="bar-fill" style="width:${(count / max) * 100}%;background:${colors[i % colors.length]}"></div></div>
+      <div class="count">${count.toLocaleString()}</div>
+    </div>
+  `).join('');
+}
+
+// ── Export ──
+function exportSearch() { exportTarget = currentJobs; document.getElementById('exportModal').classList.add('active'); }
+function exportLeads() { exportTarget = allLeads; document.getElementById('exportModal').classList.add('active'); }
+function closeModal() { document.getElementById('exportModal').classList.remove('active'); }
+
+function doExport() {
+  if (!exportTarget) return;
+  const format = document.getElementById('exportFormat').value;
+  const fields = [...document.querySelectorAll('#exportFields input:checked')].map(i => i.value);
+
+  let content, mime, ext;
+  if (format === 'json') {
+    const data = exportTarget.map(j => {
+      const obj = {};
+      fields.forEach(f => obj[f] = j[f] || '');
+      return obj;
+    });
+    content = JSON.stringify(data, null, 2);
+    mime = 'application/json';
+    ext = 'json';
+  } else {
+    const header = fields.join(',');
+    const rows = exportTarget.map(j => fields.map(f => `"${(j[f] || '').replace(/"/g, '""')}"`).join(','));
+    content = header + '\n' + rows.join('\n');
+    mime = 'text/csv';
+    ext = 'csv';
+  }
+
+  const blob = new Blob([content], { type: mime });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = `leads_${new Date().toISOString().slice(0, 10)}.${ext}`;
+  a.click();
+  URL.revokeObjectURL(url);
+  closeModal();
+  showToast(`Exported ${exportTarget.length} leads as ${ext.toUpperCase()}`);
+}
+
+// ── Utils ──
+function escHtml(s) {
+  return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+}
+
+function showToast(msg, error = false) {
+  const el = document.getElementById('toast');
+  el.textContent = msg;
+  el.className = 'toast' + (error ? ' error' : ' show');
+  setTimeout(() => el.className = 'toast', 3000);
+}
+
+// Auto-refresh jobs tab
+setInterval(() => {
+  if (document.querySelector('.tab.active')?.dataset.tab === 'search' && currentTotal > 0) {
+    searchJobs(currentOffset);
+  }
+}, 30000);
+</script>
+</body>
+</html>

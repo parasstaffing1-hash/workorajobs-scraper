@@ -1,0 +1,16 @@
+.git
+.gitignore
+__pycache__
+*.pyc
+*.db
+*.json
+*.txt
+*.log
+*.md
+.vscode
+.freebuff
+data/
+scripts/*.pyc
+*.egg-info
+.mypy_cache
+.pytest_cache

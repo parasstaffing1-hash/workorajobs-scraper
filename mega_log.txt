@@ -1,0 +1,952 @@
+[15:20:11] ==================================================
+[15:20:11] MEGA SCRAPER v6 — 100 workers, in-memory dedup, max throughput
+[15:20:11] ==================================================
+[15:20:11] Total work items: 623,446
+[15:20:12] Round 1: Done=0 | Remaining=623,446
+[15:20:46] DB: 518,616 | Fresh7d: 518,616 | Gap: 481,384
+[15:20:51] Loaded 518,616 dedup keys into memory
+[15:20:52] Launching 100 workers on 623,446 items...
+[15:21:36]   W21 + 21 jobspy:indeed:terraform engineer
+[15:21:45]   W69 +100 jobspy:indeed:consultant
+[15:21:48]   [500] ATS:2 JS:457 ID:52 | +124 | DB=518,740 | 133/min | Gap=481,260
+[15:22:17]   W27 + 84 jobspy:indeed:lead
+[15:22:31]   W95 + 75 jobspy:indeed:remote engineer
+[15:22:33]   W94 + 19 jobspy:indeed:software engineer
+[15:22:33]   W29 + 45 jobspy:indeed:linux engineer
+[15:22:34]   W86 + 90 jobspy:indeed:director
+[15:22:34]   W78 + 14 jobspy:linkedin:devops engineer
+[15:22:42]   W80 + 73 jobspy:indeed:contract engineer
+[15:22:42]   W72 + 32 jobspy:indeed:AI engineer
+[15:22:42]   W23 + 33 jobspy:indeed:Azure developer
+[15:22:42]   W42 + 37 jobspy:indeed:cloud architect
+[15:22:42]   W03 + 25 jobspy:indeed:GCP developer
+[15:22:42]   W75 + 18 jobspy:indeed:LLM engineer
+[15:22:42]   W14 + 60 jobspy:linkedin:quantitative engineer
+[15:22:42]   W58 + 16 jobspy:indeed:business analyst
+[15:22:52]   W04 + 94 jobspy:indeed:scientist
+[15:22:52]   W81 + 97 jobspy:linkedin:consultant
+[15:22:53]   W92 + 17 jobspy:linkedin:java developer
+[15:22:54]   W13 + 70 jobspy:linkedin:robotics engineer
+[15:22:55]   W40 + 60 jobspy:indeed:go developer
+[15:23:02]   W20 + 73 jobspy:linkedin:storage engineer
+[15:23:02]   W88 + 11 jobspy:indeed:container engineer
+[15:23:03]   W09 + 39 jobspy:indeed:senior software engineer
+[15:23:03]   W76 + 63 jobspy:linkedin:cloud engineer
+[15:23:03]   W67 +100 jobspy:linkedin:frontend developer
+[15:23:06]   W91 + 76 jobspy:linkedin:security engineer
+[15:23:07]   W82 + 50 jobspy:linkedin:platform engineer
+[15:23:07]   W58 + 64 jobspy:indeed:contract engineer
+[15:23:08]   W81 + 43 jobspy:indeed:consultant
+[15:23:09]   W23 + 80 jobspy:indeed:junior software engineer
+[15:23:09]   W45 + 12 jobspy:indeed:cybersecurity analyst
+[15:23:09]   [1,000] ATS:5 JS:945 ID:104 | +1,408 | DB=520,355 | 614/min | Gap=479,645
+[15:23:13]   W53 + 93 jobspy:indeed:specialist
+[15:23:13]   W40 + 40 jobspy:indeed:container engineer
+[15:23:14]   W62 + 56 jobspy:linkedin:DevOps
+[15:23:14]   W66 + 30 jobspy:indeed:infrastructure engineer
+[15:23:14]   W20 + 16 jobspy:indeed:software developer
+[15:23:17]   W87 + 19 jobspy:linkedin:IT recruiter
+[15:23:22]   W49 + 49 jobspy:linkedin:golang engineer
+[15:23:27]   W42 + 94 jobspy:indeed:scientist
+[15:23:27]   W67 + 21 jobspy:indeed:AI engineer
+[15:23:28]   W81 + 31 jobspy:indeed:payments engineer
+[15:23:32]   W15 + 30 jobspy:linkedin:backend engineer
+[15:23:32]   W22 + 94 jobspy:linkedin:analyst
+[15:23:38]   W33 + 73 jobspy:linkedin:rust developer
+[15:23:40]   W12 + 28 jobspy:linkedin:CI/CD engineer
+[15:23:42]   W20 + 18 jobspy:indeed:machine learning engineer
+[15:23:51]   W19 + 32 jobspy:linkedin:DevOps
+[15:23:51]   W32 + 77 jobspy:linkedin:C++ engineer
+[15:23:57]   W06 + 28 jobspy:linkedin:backend engineer
+[15:24:08]   W26 + 25 jobspy:linkedin:hiring now
+[15:24:15]   W24 + 28 jobspy:indeed:platform developer
+[15:24:41]   W74 + 73 jobspy:linkedin:kotlin developer
+[15:24:41]   W46 + 22 jobspy:linkedin:gcp engineer
+[15:24:41]   W51 + 55 jobspy:linkedin:cloud architect
+[15:24:41]   W01 + 84 jobspy:linkedin:RAG engineer
+[15:24:41]   W36 + 18 jobspy:linkedin:banking software
+[15:24:41]   W93 + 25 jobspy:linkedin:Rails developer
+[15:25:02]   W77 + 75 jobspy:linkedin:prompt engineer
+[15:25:02]   W36 + 57 jobspy:indeed:remote engineer
+[15:25:02]   W64 + 75 jobspy:linkedin:payments engineer
+[15:25:02]   W70 + 86 jobspy:linkedin:java developer
+[15:25:08]   W96 + 62 jobspy:linkedin:identity engineer
+[15:25:09]   [1,500] ATS:5 JS:1,378 ID:168 | +2,982 | DB=521,891 | 696/min | Gap=478,109
+[15:25:09]   W70 + 19 jobspy:indeed:prompt engineer
+[15:25:12]   W99 + 52 jobspy:linkedin:kubernetes engineer
+[15:25:14]   W69 + 60 jobspy:indeed:aws engineer
+[15:25:20]   W98 + 79 jobspy:linkedin:fintech engineer
+[15:25:24]   W35 + 26 jobspy:linkedin:software developer
+[15:25:32]   W41 + 19 jobspy:linkedin:PyTorch engineer
+[15:25:46]   W05 + 83 jobspy:linkedin:network engineer
+[15:25:47]   W68 + 37 jobspy:linkedin:Docker engineer
+[15:25:47]   W83 + 85 jobspy:linkedin:frontend engineer
+[15:25:47]   W52 + 27 jobspy:linkedin:data engineer
+[15:25:53]   W16 + 74 jobspy:linkedin:solutions architect
+[15:25:53]   W28 + 35 jobspy:indeed:platform developer
+[15:26:02]   W68 + 91 jobspy:indeed:analyst
+[15:26:02]   W90 + 38 jobspy:linkedin:solidity developer
+[15:26:02]   W11 + 76 jobspy:linkedin:devops engineer
+[15:26:04]   W52 + 78 jobspy:indeed:QA engineer
+[15:26:14]   W48 + 54 jobspy:linkedin:PyTorch engineer
+[15:26:33]   W61 + 31 jobspy:linkedin:data platform engineer
+[15:26:33]   W17 + 88 jobspy:linkedin:lead
+[15:26:33]   W05 + 15 jobspy:indeed:platform engineer
+[15:26:41]   W43 + 51 jobspy:linkedin:fastapi developer
+[15:26:45]   W38 + 47 jobspy:linkedin:django developer
+[15:26:46]   W34 + 13 jobspy:linkedin:Laravel developer
+[15:26:54]   W21 + 83 jobspy:linkedin:analyst
+[15:26:54]   W89 + 99 jobspy:linkedin:lead
+[15:26:57]   W47 +200 ats:greenhouse:gitlab
+[15:26:58]   W10 + 30 jobspy:linkedin:platform engineer
+[15:27:11]   W89 + 71 jobspy:indeed:software developer
+[15:27:11]   W27 + 37 jobspy:linkedin:machine learning engineer
+[15:27:11]   W38 + 98 jobspy:indeed:architect
+[15:27:14]   W95 + 66 jobspy:linkedin:game programmer
+[15:27:30]   W97 + 12 jobspy:linkedin:cloud engineer
+[15:27:47]   W29 + 70 jobspy:linkedin:.NET developer
+[15:27:47]   W94 + 66 jobspy:linkedin:PostgreSQL developer
+[15:27:48]   W86 + 69 jobspy:linkedin:software developer
+[15:27:50]   W75 + 30 jobspy:linkedin:software developer
+[15:27:52]   W08 + 22 jobspy:linkedin:embedded systems engineer
+[15:27:52]   W56 + 40 jobspy:indeed:analytics engineer
+[15:28:02]   W63 + 27 jobspy:linkedin:gcp engineer
+[15:28:02]   W73 + 26 jobspy:linkedin:banking software
+[15:28:02]   W03 + 28 jobspy:linkedin:PHP developer
+[15:28:36]   [2,000] ATS:6 JS:1,833 ID:222 | +5,454 | DB=524,151 | 706/min | Gap=475,849
+[15:28:36]   W23 + 37 jobspy:indeed:infrastructure engineer
+[15:28:36]   W92 + 27 jobspy:linkedin:container engineer
+[15:28:36]   W09 + 47 jobspy:linkedin:UX designer
+[15:28:36]   W60 + 67 jobspy:linkedin:PyTorch engineer
+[15:28:43]   W13 + 45 jobspy:linkedin:principal engineer
+[15:28:44]   W37 + 64 jobspy:linkedin:PyTorch engineer
+[15:28:54]   W76 + 54 jobspy:linkedin:PostgreSQL developer
+[15:28:56]   W45 + 18 jobspy:linkedin:java developer
+[15:28:57]   W66 + 23 jobspy:linkedin:junior software engineer
+[15:29:07]   W45 + 14 jobspy:indeed:TensorFlow engineer
+[15:29:15]   W40 + 57 jobspy:linkedin:LLM engineer
+[15:29:17]   W04 + 66 jobspy:linkedin:flask developer
+[15:29:20]   W87 + 83 jobspy:indeed:director
+[15:29:25]   W82 + 74 jobspy:linkedin:LLM engineer
+[15:29:26]   W62 + 22 jobspy:linkedin:software engineer
+[15:29:26]   W04 + 17 jobspy:indeed:kotlin developer
+[15:29:31]   W71 + 50 jobspy:indeed:urgent hiring
+[15:29:34]   W71 + 72 jobspy:indeed:build engineer
+[15:29:35]   W04 + 91 jobspy:indeed:staff engineer
+[15:30:12]   W22 + 52 jobspy:linkedin:analyst
+[15:30:12]   W12 + 20 jobspy:linkedin:urgent hiring
+[15:30:27]   W54 + 80 jobspy:linkedin:automation engineer
+[15:30:28]   W67 + 71 jobspy:linkedin:SDE
+[15:30:28]   W15 + 59 jobspy:linkedin:software developer
+[15:30:36]   W02 + 74 jobspy:linkedin:freelance engineer
+[15:30:36]   W91 + 66 jobspy:linkedin:unity developer
+[15:30:36]   W14 + 57 jobspy:linkedin:staff engineer
+[15:30:36]   W50 + 74 jobspy:linkedin:PHP developer
+[15:30:36]   W85 + 30 jobspy:linkedin:ios developer
+[15:32:00]   W20 + 76 jobspy:linkedin:specialist
+[15:40:23]   W79 + 95 jobspy:linkedin:solutions architect
+[15:40:36]   W06 + 78 jobspy:linkedin:security engineer
+[15:40:56]   W24 + 26 jobspy:linkedin:fastapi developer
+[15:41:23]   W74 + 66 jobspy:linkedin:developer
+[15:42:02]   W93 + 22 jobspy:linkedin:ML platform engineer
+[15:42:15]   W46 + 46 jobspy:linkedin:ML platform engineer
+[15:42:22]   W57 + 36 jobspy:linkedin:scientist
+[15:42:38]   W96 + 83 jobspy:linkedin:LLM developer
+[15:42:40]   W64 + 72 jobspy:linkedin:azure engineer
+[15:42:44]   W36 + 60 jobspy:linkedin:storage engineer
+[15:42:45]   W41 + 56 jobspy:linkedin:kubernetes engineer
+[15:42:45]   W07 + 79 jobspy:linkedin:data analyst
+[15:42:45]   W28 + 15 jobspy:linkedin:python developer
+[15:42:49]   W25 + 56 jobspy:linkedin:computer vision engineer
+[15:42:50]   W83 + 59 jobspy:indeed:intern
+[15:42:50]   W51 + 15 jobspy:indeed:backend developer
+[15:42:57]   W90 + 65 jobspy:linkedin:streaming engineer
+[15:43:00]   W68 + 77 jobspy:linkedin:identity engineer
+[15:43:03]   W52 + 56 jobspy:linkedin:React developer
+[15:43:06]   W18 + 82 jobspy:linkedin:build engineer
+[15:43:06]   W55 + 73 jobspy:linkedin:distributed systems engineer
+[15:43:06]   W98 + 32 jobspy:indeed:linux engineer
+[15:43:07]   W11 + 24 jobspy:linkedin:django developer
+[15:43:08]   W48 + 70 jobspy:linkedin:AWS developer
+[15:43:10]   W02 + 80 jobspy:linkedin:graphics engineer
+[15:43:11]   W47 + 24 jobspy:linkedin:hiring now
+[15:43:12]   W05 + 42 jobspy:linkedin:backend engineer
+[15:44:05]   W61 + 69 jobspy:linkedin:generative AI engineer
+[15:44:09]   W97 + 48 jobspy:linkedin:analyst
+[15:44:10]   W38 + 60 jobspy:linkedin:technical lead
+[15:44:10]   W95 + 96 jobspy:linkedin:director
+[15:44:10]   W31 + 20 jobspy:linkedin:LLM developer
+[15:44:10]   W86 + 42 jobspy:linkedin:video engineer
+[15:44:25]   W10 + 62 jobspy:linkedin:backend developer
+[15:44:27]   W34 +100 jobspy:linkedin:scientist
+[15:44:27]   W59 + 86 jobspy:linkedin:embedded systems engineer
+[15:44:28]   W27 + 43 jobspy:linkedin:principal engineer
+[15:44:45]   W29 + 81 jobspy:linkedin:game developer
+[15:44:59]   W56 + 41 jobspy:linkedin:systems engineer
+[15:45:10]   W72 + 97 jobspy:linkedin:director
+[15:45:43] ==================================================
+[15:45:43] MEGA SCRAPER v6 — 100 workers, in-memory dedup, max throughput
+[15:45:43] ==================================================
+[15:45:43] Total work items: 623,446
+[15:45:44] Round 2: Done=2,449 | Remaining=620,997
+[15:47:21] DB: 528,232 | Fresh7d: 528,232 | Gap: 471,768
+[15:47:29] Loaded 528,232 dedup keys into memory
+[15:47:31] Launching 100 workers on 620,997 items...
+[15:48:54]   W17 + 22 jobspy:indeed:scrum master
+[15:50:54]   [500] ATS:3 JS:672 ID:99 | +25 | DB=528,257 | 7/min | Gap=471,743
+[15:50:55]   W50 + 37 jobspy:linkedin:devrel
+[15:50:57]   W99 + 83 jobspy:indeed:business analyst
+[15:50:57]   W85 + 27 jobspy:indeed:.NET developer
+[15:50:57]   W53 + 28 jobspy:indeed:remote engineer
+[15:50:57]   W10 + 31 jobspy:indeed:GCP developer
+[15:50:58]   W16 + 41 jobspy:indeed:identity engineer
+[15:50:58]   W70 + 59 jobspy:linkedin:contract engineer
+[15:50:58]   W40 + 17 jobspy:indeed:container engineer
+[15:50:58]   W15 + 77 jobspy:linkedin:web developer
+[15:51:00]   W27 + 12 jobspy:linkedin:data platform engineer
+[15:51:02]   W66 + 46 jobspy:indeed:cloud engineer
+[15:51:06]   W35 + 86 jobspy:linkedin:C++ engineer
+[15:51:07]   W67 + 26 jobspy:indeed:analytics engineer
+[15:51:07]   W18 + 39 jobspy:linkedin:principal engineer
+[15:51:08]   W71 + 46 jobspy:linkedin:GCP developer
+[15:51:09]   W01 + 48 jobspy:linkedin:scientist
+[15:51:10]   W60 + 21 jobspy:linkedin:fastapi developer
+[15:51:12]   W21 + 55 jobspy:linkedin:distributed systems engineer
+[15:51:12]   W17 + 16 jobspy:indeed:django developer
+[15:51:13]   W23 + 56 jobspy:linkedin:scientist
+[15:51:13]   W58 + 62 jobspy:linkedin:C++ engineer
+[15:51:14]   W69 + 67 jobspy:linkedin:IT recruiter
+[15:51:14]   W79 + 54 jobspy:linkedin:linux engineer
+[15:51:14]   W48 + 18 jobspy:linkedin:django developer
+[15:51:14]   W08 + 37 jobspy:linkedin:programmer
+[15:51:14]   W54 + 21 jobspy:linkedin:AWS developer
+[15:51:14]   W36 + 55 jobspy:linkedin:developer
+[15:51:14]   W09 + 67 jobspy:linkedin:software developer
+[15:51:14]   W11 + 25 jobspy:linkedin:TensorFlow engineer
+[15:51:14]   W12 + 55 jobspy:linkedin:remote engineer
+[15:51:15]   W70 + 32 jobspy:indeed:backend developer
+[15:53:08]   [1,000] ATS:7 JS:1,003 ID:132 | +1,377 | DB=529,609 | 245/min | Gap=470,391
+[15:54:07]   W59 + 22 ats:greenhouse:byd
+[15:54:08]   W80 + 34 jobspy:linkedin:C++ engineer
+[15:54:08]   W77 + 58 jobspy:indeed:scientist
+[15:54:09]   W02 + 66 jobspy:linkedin:firmware engineer
+[15:54:09]   W61 + 37 jobspy:linkedin:django developer
+[15:54:09]   W98 + 43 jobspy:linkedin:linux engineer
+[15:54:09]   W32 + 30 jobspy:indeed:TensorFlow engineer
+[15:54:09]   W34 + 34 jobspy:linkedin:technical lead
+[15:54:09]   W55 + 30 jobspy:linkedin:web developer
+[15:54:09]   W04 + 19 jobspy:linkedin:programmer
+[15:54:09]   W20 + 37 jobspy:linkedin:systems engineer
+[15:54:09]   W39 + 63 jobspy:linkedin:TensorFlow engineer
+[15:54:09]   W06 + 13 jobspy:indeed:CI/CD engineer
+[15:54:10]   W64 + 21 jobspy:linkedin:developer
+[15:54:10]   W47 + 54 jobspy:linkedin:backend engineer
+[15:54:11]   W72 + 53 jobspy:linkedin:GCP developer
+[15:54:11]   W76 + 51 jobspy:linkedin:embedded systems engineer
+[15:54:11]   W19 + 51 jobspy:linkedin:web3 developer
+[15:54:11]   W81 + 36 jobspy:linkedin:payments engineer
+[15:54:12]   W92 + 11 jobspy:linkedin:GCP developer
+[15:54:12]   W13 + 61 jobspy:linkedin:junior software engineer
+[15:54:12]   W62 + 39 jobspy:linkedin:banking software
+[15:54:12]   W74 + 33 jobspy:linkedin:MLE
+[15:54:12]   W28 + 81 jobspy:linkedin:contract engineer
+[15:54:13]   W30 + 95 jobspy:linkedin:UX designer
+[15:54:14]   W94 + 86 jobspy:linkedin:specialist
+[15:54:16]   W96 + 77 jobspy:linkedin:analyst
+[15:54:16]   W75 + 94 jobspy:linkedin:QA engineer
+[15:54:16]   W83 + 18 jobspy:linkedin:manager
+[15:54:16]   W88 + 11 jobspy:indeed:robotics engineer
+[15:54:17]   W84 + 21 jobspy:linkedin:python developer
+[15:54:17]   W49 + 59 jobspy:linkedin:flutter developer
+[15:54:17]   W37 + 94 jobspy:indeed:director
+[15:54:17]   W78 + 42 jobspy:linkedin:flask developer
+[15:54:18]   W65 + 45 jobspy:indeed:data engineer
+[15:54:20]   W33 + 39 jobspy:linkedin:blockchain developer
+[15:54:25]   W56 + 93 jobspy:indeed:director
+[15:54:31]   W24 +100 jobspy:linkedin:product manager
+[15:54:55]   W63 + 28 jobspy:linkedin:backend developer
+[15:54:56]   W96 + 34 jobspy:indeed:DevOps
+[15:54:57]   W26 + 19 ats:greenhouse:wise
+[15:54:59]   W84 + 20 jobspy:indeed:platform developer
+[15:55:00]   W65 + 12 jobspy:indeed:container engineer
+[15:55:04]   W52 + 74 jobspy:linkedin:LLM developer
+[15:55:04]   W46 + 18 jobspy:linkedin:infrastructure engineer
+[15:55:06]   W37 + 38 jobspy:indeed:platform developer
+[15:55:10]   W74 + 51 jobspy:indeed:data scientist
+[15:55:11]   W89 + 27 jobspy:indeed:software engineer
+[15:55:12]   W85 + 51 jobspy:linkedin:container engineer
+[15:56:03]   [1,500] ATS:8 JS:1,442 ID:175 | +3,272 | DB=531,878 | 383/min | Gap=468,122
+[15:56:03]   W91 + 35 jobspy:indeed:build engineer
+[15:56:03]   W30 + 20 jobspy:indeed:computer vision engineer
+[15:56:03]   W51 + 54 jobspy:linkedin:build engineer
+[15:56:04]   W07 + 28 jobspy:linkedin:database engineer
+[15:56:04]   W18 + 50 jobspy:indeed:go developer
+[15:56:13]   W44 + 47 jobspy:linkedin:android developer
+[15:56:18]   W24 + 63 jobspy:indeed:generative AI engineer
+[15:56:18]   W31 + 30 jobspy:linkedin:React developer
+[15:56:19]   W93 + 27 jobspy:linkedin:ML platform engineer
+[15:56:20]   W22 + 74 jobspy:linkedin:Laravel developer
+[15:56:20]   W53 + 68 jobspy:linkedin:aws engineer
+[15:56:22]   W01 + 44 jobspy:linkedin:engineering manager
+[15:56:24]   W66 + 38 jobspy:linkedin:MLE
+[15:56:28]   W71 + 86 jobspy:linkedin:video engineer
+[15:56:31]   W08 + 99 jobspy:linkedin:director
+[15:56:32]   W23 + 43 jobspy:linkedin:banking software
+[15:56:34]   W50 + 27 jobspy:linkedin:typescript developer
+[15:56:35]   W68 + 23 jobspy:linkedin:banking software
+[15:56:35]   W27 + 20 jobspy:linkedin:lead
+[15:56:36]   W17 + 41 jobspy:linkedin:rust developer
+[15:56:37]   W00 + 11 jobspy:indeed:container engineer
+[15:56:37]   W03 + 28 jobspy:linkedin:Laravel developer
+[15:56:38]   W35 + 33 jobspy:linkedin:distributed systems engineer
+[15:56:39]   W79 + 29 jobspy:linkedin:embedded systems engineer
+[15:56:41]   W40 + 82 jobspy:indeed:director
+[15:56:47]   W31 + 78 jobspy:indeed:banking software
+[15:56:48]   W90 + 49 jobspy:linkedin:network engineer
+[15:56:48]   W08 + 18 jobspy:indeed:platform engineer
+[15:56:48]   W15 + 47 jobspy:linkedin:.NET developer
+[15:56:57]   W21 + 68 jobspy:linkedin:tech lead
+[15:57:01]   W25 + 33 jobspy:linkedin:data scientist
+[15:57:03]   W03 + 52 jobspy:indeed:microservices engineer
+[15:57:03]   W71 + 31 jobspy:indeed:principal engineer
+[15:57:05]   W05 + 16 jobspy:linkedin:graphics engineer
+[15:57:10]   W08 + 15 jobspy:indeed:embedded systems engineer
+[15:57:12]   W11 + 73 jobspy:linkedin:product manager
+[15:57:21]   W73 + 99 jobspy:linkedin:consultant
+[15:57:21]   W43 + 93 jobspy:linkedin:manager
+[15:57:21]   W25 + 41 jobspy:indeed:video engineer
+[15:57:26]   W79 + 56 jobspy:indeed:senior software engineer
+[15:58:02]   W87 + 19 jobspy:linkedin:TensorFlow engineer
+[15:58:03]   W95 + 38 jobspy:linkedin:LLM engineer
+[15:58:04]   W42 + 67 jobspy:linkedin:Azure developer
+[15:58:59]   [2,000] ATS:8 JS:1,849 ID:215 | +5,540 | DB=533,896 | 483/min | Gap=466,104
+[15:58:59]   W39 + 41 jobspy:indeed:network engineer
+[15:58:59]   W12 + 74 jobspy:linkedin:engineer
+[15:58:59]   W98 + 47 jobspy:linkedin:cloud architect
+[15:58:59]   W34 + 75 jobspy:linkedin:LLM developer
+[15:58:59]   W11 + 51 jobspy:linkedin:PHP developer
+[15:59:00]   W87 + 42 jobspy:indeed:streaming engineer
+[15:59:00]   W04 + 42 jobspy:linkedin:streaming engineer
+[15:59:00]   W02 + 41 jobspy:linkedin:golang engineer
+[15:59:00]   W06 + 65 jobspy:linkedin:platform developer
+[15:59:00]   W62 + 20 jobspy:linkedin:unity developer
+[15:59:03]   W92 + 32 jobspy:linkedin:platform engineer
+[15:59:15]   W76 + 60 jobspy:linkedin:robotics engineer
+[15:59:17]   W94 + 36 jobspy:linkedin:platform engineer
+[15:59:19]   W29 + 18 jobspy:linkedin:data platform engineer
+[15:59:28]   W33 + 28 jobspy:linkedin:game programmer
+[15:59:29]   W56 + 11 jobspy:indeed:backend developer
+[15:59:38]   W78 + 75 jobspy:linkedin:rust developer
+[15:59:39]   W88 + 15 jobspy:linkedin:microservices engineer
+[15:59:39]   W39 + 15 jobspy:indeed:azure engineer
+[15:59:40]   W02 + 27 jobspy:indeed:storage engineer
+[15:59:48]   W72 + 77 jobspy:linkedin:full stack developer
+[16:00:05]   W75 + 81 jobspy:linkedin:cloud architect
+[16:00:05]   W83 + 60 jobspy:linkedin:principal engineer
+[16:00:05]   W41 + 32 jobspy:indeed:platform developer
+[16:00:05]   W60 + 43 jobspy:linkedin:scientist
+[16:00:05]   W45 + 23 jobspy:linkedin:web developer
+[16:00:05]   W16 + 53 jobspy:linkedin:RAG engineer
+[16:00:14]   W49 + 96 jobspy:linkedin:devops engineer
+[16:00:14]   W80 + 70 jobspy:linkedin:Next.js developer
+[16:00:14]   W36 + 45 jobspy:linkedin:data engineer
+[16:00:15]   W63 + 34 jobspy:linkedin:fastapi developer
+[16:00:15]   W89 + 13 jobspy:indeed:software engineer
+[16:00:19]   W09 + 46 jobspy:linkedin:streaming engineer
+[16:00:28]   W63 + 97 jobspy:indeed:director
+[16:00:39]   W13 + 24 jobspy:linkedin:web3 developer
+[16:00:53]   W48 + 16 jobspy:linkedin:database engineer
+[16:00:55]   W52 + 56 jobspy:linkedin:ML platform engineer
+[16:00:57]   W51 + 65 jobspy:linkedin:terraform engineer
+[16:01:03]   [2,500] ATS:8 JS:2,245 ID:251 | +7,437 | DB=535,669 | 549/min | Gap=464,331
+[16:01:08]   W91 + 28 jobspy:linkedin:CI/CD engineer
+[16:01:09]   W18 + 56 jobspy:linkedin:generative AI engineer
+[16:01:22]   W58 + 98 jobspy:indeed:specialist
+[16:01:22]   W44 + 14 jobspy:linkedin:GCP developer
+[16:01:25]   W30 + 84 jobspy:linkedin:cloud architect
+[16:01:35]   W22 + 84 jobspy:linkedin:flutter developer
+[16:01:35]   W57 + 20 jobspy:linkedin:SDE
+[16:01:43]   W30 + 52 jobspy:indeed:solutions architect
+[16:01:48]   W93 + 33 jobspy:linkedin:programmer
+[16:01:49]   W69 + 34 jobspy:linkedin:cloud architect
+[16:01:50]   W67 + 11 jobspy:linkedin:mobile developer
+[16:01:59]   W35 + 39 jobspy:linkedin:solidity developer
+[16:02:01]   W05 + 16 jobspy:linkedin:hiring now
+[16:02:03]   W27 + 45 jobspy:linkedin:RAG engineer
+[16:02:09]   W40 + 23 jobspy:linkedin:kubernetes engineer
+[16:02:15]   W21 + 24 jobspy:linkedin:devrel
+[16:02:25]   W17 + 68 jobspy:linkedin:cloud architect
+[16:02:31]   W59 + 30 jobspy:linkedin:golang engineer
+[16:02:33]   W31 + 55 jobspy:linkedin:tech lead
+[16:02:33]   W90 + 33 jobspy:linkedin:SRE
+[16:02:45]   W00 + 97 jobspy:linkedin:data scientist
+[16:02:52]   W23 + 99 jobspy:linkedin:director
+[16:02:52]   W64 + 32 jobspy:linkedin:infrastructure engineer
+[16:02:56]   W71 +100 jobspy:linkedin:director
+[16:03:03]   W08 + 69 jobspy:linkedin:MLE
+[16:03:15]   W55 + 61 jobspy:linkedin:developer
+[16:03:15]   W54 + 46 jobspy:linkedin:build engineer
+[16:03:22]   W43 + 91 jobspy:linkedin:firmware engineer
+[16:03:35]   W73 + 99 jobspy:linkedin:UX designer
+[16:03:43]   W61 + 60 jobspy:linkedin:specialist
+[16:03:44]   W47 + 65 jobspy:linkedin:Docker engineer
+[16:03:45]   W77 + 21 jobspy:linkedin:PostgreSQL developer
+[16:03:46]   W81 + 52 jobspy:linkedin:TensorFlow engineer
+[16:04:04]   W86 + 53 jobspy:linkedin:programmer
+[16:04:09]   W04 + 20 jobspy:linkedin:full stack developer
+[16:04:17]   W42 + 54 jobspy:linkedin:kernel engineer
+[16:04:17]   W87 + 33 jobspy:linkedin:node.js developer
+[16:04:29]   W98 + 95 jobspy:linkedin:scientist
+[16:04:32]   W32 + 17 jobspy:linkedin:payments engineer
+[16:04:44]   W62 + 49 jobspy:linkedin:CI/CD engineer
+[16:04:47]   W34 + 59 jobspy:linkedin:principal engineer
+[16:04:54]   W06 + 15 jobspy:linkedin:MongoDB developer
+[16:04:54]   W94 + 23 jobspy:linkedin:blockchain developer
+[16:04:58]   W78 + 90 jobspy:linkedin:technical lead
+[16:04:59]   W37 + 19 jobspy:linkedin:specialist
+[16:05:02]   W25 + 35 jobspy:linkedin:computer vision engineer
+[16:05:08]   W88 + 68 jobspy:linkedin:business analyst
+[16:05:13]   W33 + 38 jobspy:linkedin:DevOps
+[16:05:23]   W83 + 21 jobspy:linkedin:software engineer
+[16:05:35]   W46 + 41 jobspy:linkedin:typescript developer
+[16:05:38]   W26 + 34 jobspy:linkedin:go developer
+[16:05:42]   W80 + 57 jobspy:linkedin:computer vision engineer
+[16:05:42]   W70 + 62 jobspy:linkedin:senior software engineer
+[16:05:51]   W41 + 48 jobspy:linkedin:database engineer
+[16:05:53]   W72 + 24 jobspy:linkedin:prompt engineer
+[16:06:04]   W75 + 61 jobspy:linkedin:CI/CD engineer
+[16:06:10]   W85 + 65 jobspy:linkedin:solutions architect
+[16:06:23]   W60 + 72 jobspy:linkedin:cloud architect
+[16:06:35]   W02 +100 jobspy:linkedin:hiring now
+[16:06:35]   W96 + 43 jobspy:linkedin:Laravel developer
+[16:06:36]   W09 +100 jobspy:linkedin:intern
+[16:06:42]   W65 + 64 jobspy:linkedin:platform developer
+[16:06:49]   W16 + 62 jobspy:linkedin:staff engineer
+[16:06:58]   W63 + 81 jobspy:linkedin:build engineer
+[16:07:04]   W13 + 44 jobspy:linkedin:analytics engineer
+[16:07:05]   W52 + 96 jobspy:linkedin:specialist
+[16:07:08]   W18 + 13 jobspy:linkedin:programmer
+[16:07:10]   W07 + 46 jobspy:linkedin:AI engineer
+[16:07:25]   W68 + 59 jobspy:linkedin:android developer
+[16:07:28]   W50 + 70 jobspy:linkedin:PHP developer
+[16:07:32]   W14 + 30 jobspy:linkedin:go developer
+[16:07:44]   W53 + 56 jobspy:linkedin:ML platform engineer
+[16:07:47]   W91 + 42 jobspy:linkedin:LLM developer
+[16:07:55]   W05 + 15 jobspy:linkedin:unity developer
+[16:08:07]   W58 + 91 jobspy:linkedin:graphics engineer
+[16:08:07]   W15 + 69 jobspy:linkedin:engineering manager
+[16:08:07]   W01 + 64 jobspy:linkedin:systems engineer
+[16:08:07]   W44 + 79 jobspy:linkedin:game programmer
+[16:08:28]   W67 + 64 jobspy:linkedin:web3 developer
+[16:08:28]   W24 + 49 jobspy:linkedin:platform engineer
+[16:08:28]   W93 + 93 jobspy:linkedin:engineer
+[16:08:28]   W35 +100 jobspy:linkedin:cybersecurity analyst
+[16:08:36]   W21 + 28 jobspy:linkedin:engineering manager
+[16:08:43]   W38 + 97 jobspy:linkedin:product manager
+[16:08:55]   W69 +100 jobspy:linkedin:consultant
+[16:09:01]   W40 + 34 jobspy:linkedin:developer
+[16:10:55] ==================================================
+[16:10:55] MEGA SCRAPER v6 — 100 workers, in-memory dedup, max throughput
+[16:10:55] ==================================================
+[16:10:55] Total work items: 623,446
+[16:10:57] Round 3: Done=5,229 | Remaining=618,217
+[16:11:20] ==================================================
+[16:11:20] MEGA SCRAPER v6 — 100 workers, in-memory dedup, max throughput
+[16:11:20] ==================================================
+[16:11:21] Total work items: 623,446
+[16:11:23] Round 3: Done=5,229 | Remaining=618,217
+[16:14:46] DB: 540,588 | Fresh7d: 540,588 | Gap: 459,412
+[16:16:06] Loaded 540,588 dedup keys into memory
+[16:16:10] Launching 100 workers on 618,217 items...
+[16:18:13] ==================================================
+[16:18:13] MEGA SCRAPER v6 — 100 workers, in-memory dedup, max throughput
+[16:18:13] ==================================================
+[16:18:14] Total work items: 623,446
+[16:18:14] Round 4: Done=5,336 | Remaining=618,110
+[16:18:16] DB: 540,607 | Fresh7d: 540,607 | Gap: 459,393
+[16:18:18] Loaded 540,607 dedup keys into memory
+[16:18:20] Launching 100 workers on 618,110 items...
+[16:18:51] ==================================================
+[16:18:51] MEGA SCRAPER v6 — 100 workers, in-memory dedup, max throughput
+[16:18:51] ==================================================
+[16:18:51] Total work items: 623,446
+[16:18:52] Round 4: Done=5,336 | Remaining=618,110
+[16:18:53] DB: 540,607 | Fresh7d: 540,607 | Gap: 459,393
+[16:18:55] Loaded 540,607 dedup keys into memory
+[16:18:56] Launching 100 workers on 618,110 items...
+[16:19:45]   W12 + 42 jobspy:indeed:programmer
+[16:19:54]   W35 + 43 jobspy:indeed:identity engineer
+[16:20:06]   W75 + 79 jobspy:indeed:solutions architect
+[16:20:38]   W17 + 17 jobspy:indeed:rust developer
+[16:21:31]   W78 + 99 jobspy:indeed:technical lead
+[16:21:57]   W36 + 79 jobspy:indeed:banking software
+[16:22:10]   W61 + 33 jobspy:indeed:data platform engineer
+[16:22:21]   W82 + 12 jobspy:linkedin:TensorFlow engineer
+[16:22:31]   W84 + 22 jobspy:linkedin:infrastructure engineer
+[16:22:46]   W30 +100 jobspy:indeed:manager
+[16:23:28]   W82 + 96 jobspy:linkedin:engineering manager
+[16:23:29]   W69 + 18 jobspy:linkedin:AWS developer
+[16:23:29]   W24 + 38 jobspy:linkedin:data engineer
+[16:23:40]   W74 + 33 jobspy:indeed:build engineer
+[16:24:01]   W54 + 56 jobspy:linkedin:backend developer
+[16:24:20]   W62 + 37 jobspy:linkedin:machine learning engineer
+[16:25:21]   W34 + 55 jobspy:indeed:platform engineer
+[16:25:24]   W28 + 15 jobspy:indeed:computer vision engineer
+[16:25:31]   W78 + 17 jobspy:linkedin:Rails developer
+[16:25:42]   W63 + 33 jobspy:linkedin:rust developer
+[16:25:52]   W59 + 44 jobspy:linkedin:Vue developer
+[16:25:58]   W96 + 48 jobspy:indeed:identity engineer
+[16:26:01]   W48 + 15 jobspy:linkedin:scientist
+[16:26:27]   W61 + 84 jobspy:indeed:Vue developer
+[16:26:35]   W75 + 74 jobspy:indeed:director
+[16:26:36]   W69 + 60 jobspy:linkedin:staff engineer
+[16:26:39]   W68 + 59 jobspy:linkedin:web developer
+[16:26:41]   W33 + 97 jobspy:indeed:intern
+[16:26:41]   W85 + 59 jobspy:linkedin:NLP engineer
+[16:26:41]   W42 + 40 jobspy:linkedin:intern
+[16:26:42]   W72 + 92 jobspy:linkedin:architect
+[16:26:43]   W05 + 26 jobspy:linkedin:CI/CD engineer
+[16:26:44]   W32 + 29 jobspy:indeed:azure engineer
+[16:26:55]   [500] ATS:1 JS:863 ID:115 | +164 | DB=541,594 | 19/min | Gap=458,406
+[16:26:55]   [500] ATS:2 JS:814 ID:95 | +264 | DB=542,567 | 33/min | Gap=457,433
+[16:27:10]   W14 + 27 jobspy:linkedin:blockchain developer
+[16:27:34]   W29 + 35 jobspy:linkedin:DevOps
+[16:27:37]   W83 + 59 jobspy:indeed:business analyst
+[16:27:40]   W03 + 54 jobspy:indeed:principal engineer
+[16:27:42]   W36 + 21 jobspy:indeed:junior software engineer
+[16:27:47]   W84 + 94 jobspy:indeed:specialist
+[16:27:48]   W27 + 32 jobspy:linkedin:generative AI engineer
+[16:27:56]   W41 + 35 jobspy:indeed:software engineer
+[16:28:00]   W02 + 28 jobspy:linkedin:aws engineer
+[16:28:04]   W08 + 96 jobspy:linkedin:analyst
+[16:28:08]   W59 + 71 jobspy:linkedin:distributed systems engineer
+[16:28:10]   W38 + 60 jobspy:linkedin:devops engineer
+[16:28:11]   W70 + 23 jobspy:linkedin:network engineer
+[16:28:11]   W33 + 12 jobspy:indeed:RAG engineer
+[16:28:11]   W62 + 29 jobspy:linkedin:Vue developer
+[16:28:13]   W08 + 57 jobspy:indeed:principal engineer
+[16:28:14]   W89 + 21 jobspy:indeed:engineer
+[16:28:14]   W34 + 13 jobspy:linkedin:storage engineer
+[16:28:15]   W54 + 11 jobspy:indeed:distributed systems engineer
+[16:28:21]   W37 + 62 jobspy:indeed:engineering manager
+[16:28:23]   W95 + 91 jobspy:linkedin:database engineer
+[16:28:25]   W35 + 44 jobspy:indeed:contract engineer
+[16:28:29]   W98 + 37 jobspy:linkedin:AWS developer
+[16:28:30]   W79 + 74 jobspy:linkedin:cloud architect
+[16:28:32]   W53 + 46 jobspy:indeed:QA engineer
+[16:28:38]   W58 + 19 jobspy:indeed:remote engineer
+[16:28:43]   W43 + 21 jobspy:indeed:AI engineer
+[16:28:46]   W50 + 33 jobspy:indeed:remote engineer
+[16:28:55]   W26 + 43 jobspy:linkedin:Vue developer
+[16:29:05]   W73 + 97 jobspy:linkedin:business analyst
+[16:29:06]   W39 + 44 jobspy:linkedin:data engineer
+[16:29:06]   W22 + 77 jobspy:indeed:contract engineer
+[16:29:06]   W45 + 40 jobspy:linkedin:MLOps engineer
+[16:29:10]   W25 + 90 jobspy:linkedin:solutions architect
+[16:29:13]   W16 + 91 jobspy:linkedin:product manager
+[16:29:15]   W18 + 96 jobspy:indeed:specialist
+[16:29:15]   W03 + 28 jobspy:linkedin:Vue developer
+[16:29:15]   W89 + 33 jobspy:linkedin:generative AI engineer
+[16:29:15]   W15 + 13 jobspy:indeed:manager
+[16:29:15]   W35 + 33 jobspy:indeed:LLM developer
+[16:29:16]   W63 + 20 jobspy:indeed:embedded systems engineer
+[16:29:17]   W94 + 17 jobspy:linkedin:PyTorch engineer
+[16:29:17]   W65 + 59 jobspy:linkedin:PostgreSQL developer
+[16:29:17]   W85 + 11 jobspy:indeed:RAG engineer
+[16:29:18]   W67 + 20 jobspy:linkedin:node.js developer
+[16:29:18]   W49 + 59 jobspy:linkedin:prompt engineer
+[16:29:20]   W10 + 63 jobspy:linkedin:go developer
+[16:29:22]   W86 + 58 jobspy:linkedin:cloud architect
+[16:29:22]   W42 + 21 jobspy:indeed:mobile developer
+[16:29:27]   W40 + 91 jobspy:indeed:director
+[16:29:28]   W28 + 91 jobspy:linkedin:UX designer
+[16:29:28]   W41 + 63 jobspy:linkedin:mobile developer
+[16:29:29]   W44 + 24 jobspy:indeed:junior software engineer
+[16:29:30]   W36 + 85 jobspy:linkedin:technical lead
+[16:29:30]   W52 + 29 jobspy:linkedin:fintech engineer
+[16:29:30]   W12 + 57 jobspy:indeed:software engineer
+[16:29:30]   W39 + 77 jobspy:linkedin:identity engineer
+[16:29:37]   W18 + 96 jobspy:linkedin:QA engineer
+[16:29:38]   W79 + 91 jobspy:linkedin:network engineer
+[16:29:39]   W97 + 12 jobspy:linkedin:SDE
+[16:29:39]   W54 + 21 jobspy:linkedin:C++ engineer
+[16:29:40]   W68 + 15 jobspy:indeed:platform engineer
+[16:29:41]   W14 + 13 ats:yc:artisan
+[16:29:42]   W81 + 45 jobspy:linkedin:backend developer
+[16:29:45]   W26 + 98 jobspy:linkedin:architect
+[16:29:45]   W29 + 16 jobspy:linkedin:platform developer
+[16:29:47]   W81 + 47 jobspy:linkedin:systems engineer
+[16:29:47]   W58 + 21 jobspy:linkedin:SDE
+[16:29:47]   W90 + 41 jobspy:linkedin:platform developer
+[16:29:48]   W67 + 75 jobspy:linkedin:devrel
+[16:29:48]   W84 + 81 jobspy:indeed:work from home
+[16:29:50]   W73 + 66 jobspy:linkedin:.NET developer
+[16:29:50]   W46 + 17 jobspy:linkedin:senior software engineer
+[16:29:51]   W38 + 65 jobspy:linkedin:QA engineer
+[16:29:54]   W16 + 36 jobspy:linkedin:machine learning engineer
+[16:29:59]   W21 + 98 jobspy:linkedin:specialist
+[16:30:01]   W24 + 49 jobspy:linkedin:devrel
+[16:30:02]   W23 + 69 jobspy:linkedin:solidity engineer
+[16:30:03]   W42 + 47 jobspy:linkedin:android developer
+[16:30:05]   W51 + 41 jobspy:linkedin:fastapi developer
+[16:30:07]   W22 + 53 jobspy:linkedin:full stack developer
+[16:30:08]   W64 + 57 jobspy:linkedin:Laravel developer
+[16:30:09]   W01 + 17 jobspy:linkedin:LLM engineer
+[16:30:11]   W47 + 34 jobspy:linkedin:banking software
+[16:30:15]   W05 + 64 jobspy:linkedin:data scientist
+[16:30:16]   W14 + 53 jobspy:linkedin:security engineer
+[16:30:16]   W56 + 52 jobspy:linkedin:build engineer
+[16:30:16]   W53 + 50 jobspy:linkedin:tech lead
+[16:30:17]   W07 + 60 jobspy:linkedin:data analyst
+[16:30:17]   W71 + 27 jobspy:linkedin:react developer
+[16:30:19]   W76 + 98 jobspy:linkedin:lead
+[16:30:22]   W40 + 39 jobspy:linkedin:graphics engineer
+[16:30:23]   W57 + 46 jobspy:linkedin:rust developer
+[16:30:23]   W29 + 24 jobspy:indeed:storage engineer
+[16:30:23]   W68 + 57 jobspy:linkedin:architect
+[16:30:23]   W32 + 97 jobspy:linkedin:architect
+[16:30:41]   [1,000] ATS:4 JS:1,217 ID:161 | +1,590 | DB=546,338 | 135/min | Gap=453,662
+[16:30:41]   [1,000] ATS:4 JS:1,435 ID:191 | +899 | DB=547,404 | 73/min | Gap=452,596
+[16:30:42]   W30 + 33 jobspy:linkedin:.NET developer
+[16:31:11]   W83 + 66 jobspy:linkedin:quantitative engineer
+[16:31:14]   W94 + 33 jobspy:linkedin:terraform engineer
+[16:38:02] ==================================================
+[16:38:02] MEGA SCRAPER v6 — 100 workers, in-memory dedup, max throughput
+[16:38:02] ==================================================
+[16:38:02] Total work items: 623,446
+[16:38:02] Round 5: Done=6,695 | Remaining=616,751
+[16:38:43] DB: 547,538 | Fresh7d: 547,538 | Gap: 452,462
+[16:38:45] Loaded 547,538 dedup keys into memory
+[16:38:46] Launching 100 workers on 616,751 items...
+[16:39:50]   W46 + 23 jobspy:linkedin:PyTorch engineer
+[16:39:54]   W78 + 11 jobspy:indeed:cloud engineer
+[16:40:06]   W00 + 98 jobspy:indeed:lead
+[16:40:08]   W24 + 15 jobspy:indeed:aws engineer
+[16:40:38]   W47 + 62 jobspy:linkedin:game programmer
+[16:40:51]   W44 + 23 jobspy:linkedin:software developer
+[16:40:53]   W68 +100 jobspy:linkedin:hiring now
+[16:41:00]   W37 + 36 jobspy:linkedin:technical lead
+[16:41:46]   W48 + 16 jobspy:linkedin:platform engineer
+[16:43:51]   [500] ATS:5 JS:663 ID:78 | +400 | DB=548,217 | 79/min | Gap=451,783
+[16:44:02]   W13 + 38 jobspy:linkedin:PHP developer
+[16:44:15]   W04 + 17 jobspy:linkedin:MLOps engineer
+[16:44:54]   W38 + 75 jobspy:indeed:engineering manager
+[16:45:24]   W59 + 16 jobspy:indeed:tech lead
+[16:46:00]   W70 + 30 jobspy:linkedin:specialist
+[16:46:20]   W51 + 95 jobspy:indeed:urgent hiring
+[16:58:06] ==================================================
+[16:58:06] MEGA SCRAPER v6 — 100 workers, in-memory dedup, max throughput
+[16:58:06] ==================================================
+[16:58:09] Total work items: 623,446
+[16:58:14] Round 6: Done=7,612 | Remaining=615,834
+[16:58:19] DB: 548,779 | Fresh7d: 548,779 | Gap: 451,221
+[16:59:09] Loaded 548,779 dedup keys into memory
+[16:59:16] Launching 100 workers on 615,834 items...
+[17:02:07]   W20 + 17 ats:yc:oneleet
+[17:03:46]   W78 + 42 jobspy:linkedin:urgent hiring
+[17:04:09]   W37 + 32 jobspy:linkedin:AI engineer
+[17:04:40]   W66 +100 jobspy:linkedin:director
+[17:06:09]   W74 + 94 jobspy:linkedin:lead
+[17:06:39]   W81 + 43 jobspy:linkedin:typescript developer
+[17:06:55]   W15 + 31 jobspy:linkedin:mobile developer
+[17:07:04]   W06 + 14 jobspy:linkedin:data engineer
+[17:07:54]   W18 +100 jobspy:indeed:urgent hiring
+[17:08:02]   W05 + 29 jobspy:indeed:storage engineer
+[17:08:08]   W61 + 37 jobspy:linkedin:product manager
+[17:08:12]   W44 + 45 jobspy:linkedin:C++ engineer
+[17:12:13]   [500] ATS:3 JS:744 ID:101 | +287 | DB=549,370 | 22/min | Gap=450,630
+[17:18:07] ==================================================
+[17:18:07] MEGA SCRAPER v6 — 25 workers, in-memory dedup, max throughput
+[17:18:07] ==================================================
+[17:18:07] Total work items: 623,446
+[17:18:07] Round 1: Done=0 | Remaining=623,446
+[17:18:55] DB: 549,385 | Fresh7d: 549,385 | Gap: 450,615
+[17:19:00] Loaded 549,385 dedup keys into memory
+[17:19:02] Launching 25 workers on 623,446 items...
+[17:22:25]   W00 + 15 jobspy:linkedin:MLE
+[17:22:50]   W14 + 56 jobspy:linkedin:product manager
+[17:23:04]   W06 + 64 jobspy:linkedin:remote engineer
+[17:23:29]   W10 + 85 jobspy:indeed:specialist
+[17:23:56]   W19 + 97 jobspy:indeed:urgent hiring
+[17:24:24]   W24 + 97 jobspy:indeed:hiring now
+[17:24:33]   W01 + 37 jobspy:linkedin:product manager
+[17:25:24]   W21 + 95 jobspy:indeed:director
+[17:25:30]   W17 + 55 jobspy:indeed:analytics engineer
+[17:25:40]   W04 + 36 jobspy:linkedin:gcp engineer
+[17:25:41]   W08 + 13 jobspy:indeed:distributed systems engineer
+[17:25:47]   W12 + 48 jobspy:linkedin:data scientist
+[17:25:52]   W07 + 99 jobspy:indeed:intern
+[17:25:52]   W11 + 93 jobspy:indeed:banking software
+[17:25:52]   W18 + 41 jobspy:linkedin:infrastructure engineer
+[17:25:52]   W22 + 42 jobspy:linkedin:AI engineer
+[17:25:53]   W21 + 95 jobspy:indeed:manager
+[17:26:01]   W15 + 37 jobspy:linkedin:payments engineer
+[17:26:24]   W10 + 71 jobspy:linkedin:LLM developer
+[17:26:25]   W02 + 61 jobspy:linkedin:analytics engineer
+[18:09:48] ============================================================
+[18:09:48] MEGA SCRAPER v7 — 50 workers, smart source rotation
+[18:09:48] ============================================================
+[18:09:48] Total work items: 1,125,304
+[18:09:49] Round 1: Done=0 | Remaining=1,125,304
+[18:11:15] DB: 550,876 | Fresh7d: 550,876 | Gap: 449,124
+[18:11:23] Loaded 550,876 dedup keys into memory (16MB)
+[18:11:25] Launching 50 workers on 1,125,304 items...
+[18:11:59]   W15 + 10 jobspy:indeed:C#
+[18:13:15]   [200] +11 new | DB=550,887 | 6/min | ETA=74414min | Gap=449,113 | dice:102 glassdoor:95 google:95 indeed:46 linkedin:28 naukri:70 simplyhired:81 ziprecruiter:94
+[18:13:15]   W26 + 94 jobspy:indeed:intern
+[18:13:15]   W36 + 41 jobspy:indeed:network engineer
+[18:13:16]   W32 + 27 jobspy:indeed:fastapi developer
+[18:13:16]   W29 + 39 jobspy:linkedin:AKS
+[18:13:19]   W24 + 36 jobspy:indeed:Kubernetes
+[18:13:19]   W39 +  8 jobspy:linkedin:Machine Learning
+[18:14:41]   [400] +11 new | DB=551,143 | 3/min | ETA=133225min | Gap=448,857 | dice:170 glassdoor:148 google:157 indeed:62 linkedin:67 naukri:115 simplyhired:132 ziprecruiter:144
+[18:14:41]   W48 + 31 jobspy:indeed:microservices engine
+[18:14:41]   W27 + 85 jobspy:indeed:SAP
+[18:14:41]   W25 + 11 jobspy:indeed:azure engineer
+[18:14:41]   W15 + 21 jobspy:indeed:embedded systems eng
+[18:14:41]   W23 + 13 jobspy:linkedin:platform engineer
+[18:14:42]   W43 + 84 jobspy:indeed:manager
+[18:14:45]   W14 + 14 jobspy:linkedin:cloud engineer
+[18:14:45]   W37 +  8 jobspy:linkedin:storage engineer
+[18:14:45]   W46 +  8 jobspy:linkedin:game programmer
+[18:14:45]   W35 + 16 jobspy:indeed:remote engineer
+[18:16:03]   [600] +222 new | DB=551,440 | 48/min | ETA=9345min | Gap=448,560 | dice:203 glassdoor:176 google:193 indeed:73 linkedin:82 naukri:143 simplyhired:160 ziprecruiter:168
+[18:16:03]   W44 + 53 jobspy:linkedin:software developer
+[18:16:03]   W13 + 21 jobspy:linkedin:flutter developer
+[18:16:03]   W05 + 31 jobspy:linkedin:Vue
+[18:16:03]   W07 + 65 jobspy:linkedin:software engineer
+[18:16:03]   W16 + 20 jobspy:linkedin:frontend developer
+[18:16:19]   W47 + 38 jobspy:indeed:react native develop
+[18:16:20]   W22 + 20 jobspy:linkedin:OpenAI
+[18:16:20]   W17 + 53 jobspy:linkedin:aws engineer
+[18:16:21]   W20 + 29 jobspy:linkedin:hiring now
+[18:16:21]   W03 + 18 jobspy:linkedin:FastAPI
+[18:16:21]   W02 +100 jobspy:linkedin:director
+[18:17:39]   [800] +267 new | DB=551,891 | 43/min | ETA=10467min | Gap=448,109 | dice:232 glassdoor:197 google:215 indeed:86 linkedin:104 naukri:168 simplyhired:184 ziprecruiter:199
+[18:17:40]   W04 + 39 jobspy:indeed:Cassandra
+[18:17:45]   W45 + 47 jobspy:linkedin:Ruby
+[18:17:45]   W10 + 72 jobspy:linkedin:CUDA
+[18:17:45]   W11 + 18 jobspy:linkedin:ONNX
+[18:17:45]   W08 + 14 jobspy:indeed:Go
+[18:17:45]   W31 + 97 jobspy:linkedin:specialist
+[18:17:45]   W00 + 24 jobspy:linkedin:solutions architect
+[18:17:51]   W49 + 38 jobspy:linkedin:Azure developer
+[18:17:51]   W30 + 30 jobspy:indeed:PyTorch engineer
+[18:17:51]   W33 + 17 jobspy:linkedin:Computer Vision
+[18:20:29]   [1,000] +564 new | DB=552,295 | 62/min | ETA=7188min | Gap=447,705 | dice:290 glassdoor:270 google:278 indeed:110 linkedin:126 naukri:234 simplyhired:242 ziprecruiter:263
+[18:20:29]   W40 + 88 jobspy:linkedin:cybersecurity analys
+[18:20:29]   W19 +  6 jobspy:linkedin:java developer
+[18:20:29]   W28 + 56 jobspy:linkedin:Next.js
+[18:20:30]   W27 + 68 jobspy:indeed:technical lead
+[18:20:30]   W39 + 38 jobspy:linkedin:CI/CD
+[18:20:30]   W18 + 52 jobspy:linkedin:distributed systems 
+[18:20:32]   W29 + 97 jobspy:linkedin:scientist
+[18:20:32]   W34 + 64 jobspy:linkedin:swift developer
+[18:20:32]   W41 + 52 jobspy:indeed:Data Pipeline
+[18:20:32]   W12 + 77 jobspy:linkedin:Airflow
+[18:20:33]   W35 + 84 jobspy:linkedin:streaming engineer
+[18:20:33]   W24 + 15 jobspy:linkedin:junior software engi
+[18:25:02] ============================================================
+[18:25:03] MEGA SCRAPER v7 — 50 workers, smart source rotation
+[18:25:03] ============================================================
+[18:25:03] Total work items: 1,125,304
+[18:25:07] Round 2: Done=2,020 | Remaining=1,123,284
+[18:29:06] DB: 552,999 | Fresh7d: 552,999 | Gap: 447,001
+[18:29:45] Loaded 553,127 dedup keys into memory (16MB)
+[18:29:49] Launching 50 workers on 1,123,284 items...
+[18:31:11]   W40 + 11 jobspy:indeed:android developer
+[18:31:17]   [200] +11 new | DB=553,170 | 7/min | ETA=60003min | Gap=446,830 | dice:33 glassdoor:27 google:30 indeed:12 linkedin:3 naukri:28 simplyhired:30 ziprecruiter:45
+[18:31:40]   W42 + 33 jobspy:indeed:Django
+[18:31:57]   W02 + 60 jobspy:indeed:work from home
+[18:31:59]   [400] +107 new | DB=553,266 | 49/min | ETA=9062min | Gap=446,734 | dice:57 glassdoor:54 google:62 indeed:27 linkedin:11 naukri:54 simplyhired:63 ziprecruiter:77
+[18:32:25]   W45 + 30 jobspy:linkedin:AWS developer
+[18:32:58]   W23 + 58 jobspy:linkedin:EC2
+[18:33:00]   W00 +  7 jobspy:linkedin:flask developer
+[18:33:16]   W06 + 44 jobspy:indeed:Deep Learning
+[18:33:18]   W27 + 17 jobspy:linkedin:Jenkins
+[18:33:20]   W11 +  7 jobspy:linkedin:Kubernetes
+[18:33:42]   W37 + 53 jobspy:linkedin:Node.js
+[18:33:49]   W03 + 58 jobspy:linkedin:android developer
+[18:33:59]   W28 + 44 jobspy:linkedin:Deep Learning
+[18:34:07]   W40 + 53 jobspy:linkedin:aws engineer
+[18:34:27]   W17 + 86 jobspy:indeed:product manager
+[18:34:30]   W02 + 31 jobspy:linkedin:TensorFlow
+[18:34:34]   W43 + 26 jobspy:indeed:technical lead
+[18:34:36]   [600] +574 new | DB=553,792 | 120/min | ETA=3719min | Gap=446,208 | dice:83 glassdoor:69 google:90 indeed:46 linkedin:42 naukri:79 simplyhired:90 ziprecruiter:102
+[18:39:03] ============================================================
+[18:39:03] MEGA SCRAPER v7 — 50 workers, smart source rotation
+[18:39:03] ============================================================
+[18:39:03] Total work items: 1,125,330
+[18:39:05] Round 3: Done=2,622 | Remaining=1,122,708
+[18:39:07] DB: 553,792 | Fresh7d: 553,792 | Gap: 446,208
+[18:39:09] Loaded 553,792 dedup keys into memory (16MB)
+[18:39:17] Launching 50 workers on 1,122,708 items...
+[18:43:28]   W44 + 11 jobspy:indeed:Microservices
+[18:43:57]   W43 + 96 jobspy:indeed:specialist
+[18:43:59]   W16 + 22 jobspy:indeed:Docker
+[18:46:01]   [200] +11 new | DB=554,124 | 2/min | ETA=272483min | Gap=445,876 | dice:125 glassdoor:107 google:114 indeed:53 linkedin:45 naukri:113 simplyhired:138 ziprecruiter:122
+[18:46:07]   W00 + 50 jobspy:indeed:S3
+[18:46:08]   [400] +129 new | DB=554,178 | 19/min | ETA=23662min | Gap=445,822 | dice:125 glassdoor:107 google:116 indeed:53 linkedin:47 naukri:116 simplyhired:139 ziprecruiter:123
+[18:46:13]   W34 + 40 jobspy:indeed:senior software engi
+[18:46:24]   W14 +  7 jobspy:linkedin:AWS developer
+[18:46:33]   W21 + 77 jobspy:linkedin:dbt
+[18:46:44]   W07 + 51 jobspy:linkedin:kotlin developer
+[18:46:50]   W41 + 16 jobspy:linkedin:.NET developer
+[18:46:55]   W15 + 47 jobspy:linkedin:robotics engineer
+[18:47:06] ============================================================
+[18:47:06] MEGA SCRAPER v7 — 50 workers, smart source rotation
+[18:47:06] ============================================================
+[18:47:06] Total work items: 1,125,330
+[18:47:09] Round 4: Done=3,612 | Remaining=1,121,718
+[18:47:10] DB: 554,416 | Fresh7d: 554,416 | Gap: 445,584
+[18:47:36] ============================================================
+[18:47:36] MEGA SCRAPER v7 — 50 workers, smart source rotation
+[18:47:36] ============================================================
+[18:47:37] Total work items: 1,125,330
+[18:47:39] Round 4: Done=3,612 | Remaining=1,121,718
+[18:47:41] DB: 554,416 | Fresh7d: 554,416 | Gap: 445,584
+[18:47:46] Loaded 554,416 dedup keys into memory (16MB)
+[18:47:53] Launching 50 workers on 1,121,718 items...
+[18:53:18]   [200] +3 new | DB=554,419 | 1/min | ETA=445581min | Gap=445,581 | dice:125 glassdoor:129 google:121 indeed:68 linkedin:61 naukri:128 simplyhired:131 ziprecruiter:124
+[18:53:19]   W15 + 20 jobspy:indeed:computer vision engi
+[18:53:29]   W26 + 71 jobspy:indeed:Desktop App
+[18:53:29]   W35 + 11 jobspy:indeed:PyTorch engineer
+[18:53:31]   W43 +  9 jobspy:linkedin:Looker
+[18:55:33]   [400] +3 new | DB=554,530 | 0/min | ETA=445470min | Gap=445,470 | dice:138 glassdoor:146 google:128 indeed:72 linkedin:76 naukri:143 simplyhired:147 ziprecruiter:148
+[18:55:33]   W37 + 26 jobspy:linkedin:container engineer
+[18:55:34]   W06 + 36 jobspy:linkedin:devops engineer
+[18:55:34]   W22 + 11 jobspy:indeed:junior software engi
+[18:55:35]   W39 + 82 jobspy:linkedin:scientist
+[18:55:35]   W45 +  6 jobspy:linkedin:RabbitMQ
+[18:55:41]   W10 + 54 jobspy:linkedin:Splunk
+[18:55:43]   W21 + 94 jobspy:indeed:Mobile App
+[18:55:43]   W27 + 30 jobspy:linkedin:OAuth
+[18:55:43]   W11 + 20 jobspy:indeed:go developer
+[18:55:44]   W12 + 28 jobspy:linkedin:C#
+[18:55:44]   W28 + 23 jobspy:linkedin:computer vision engi
+[18:55:44]   W36 + 26 jobspy:linkedin:MLOps engineer
+[18:55:57]   W24 + 83 jobspy:linkedin:lead
+[18:55:58]   W32 + 18 jobspy:linkedin:Jira
+[18:55:59]   W14 + 22 jobspy:linkedin:Azure developer
+[18:56:06]   [600] +3 new | DB=555,089 | 0/min | ETA=444911min | Gap=444,911 | dice:157 glassdoor:160 google:150 indeed:82 linkedin:76 naukri:157 simplyhired:167 ziprecruiter:170
+[18:56:08]   W18 + 65 jobspy:linkedin:kernel engineer
+[18:56:09]   W17 + 56 jobspy:linkedin:LangChain
+[18:56:10]   W46 +100 jobspy:indeed:urgent hiring
+[18:56:21]   W25 + 24 jobspy:linkedin:Site Reliability
+[18:56:28]   W44 + 75 jobspy:linkedin:prompt engineer
+[18:56:29]   W03 + 34 jobspy:linkedin:kotlin developer
+[18:56:30]   W07 + 97 jobspy:linkedin:UX designer
+[18:56:34]   W08 + 67 jobspy:indeed:payments engineer
+[18:56:43]   W05 + 66 jobspy:indeed:tech lead
+[18:56:44]   W30 + 95 jobspy:indeed:consultant
+[18:56:44]   W38 + 41 jobspy:linkedin:automation engineer
+[18:56:44]   W42 + 16 jobspy:linkedin:frontend developer
+[18:56:51]   [800] +3 new | DB=555,827 | 0/min | ETA=444173min | Gap=444,173 | dice:186 glassdoor:190 google:176 indeed:89 linkedin:83 naukri:182 simplyhired:185 ziprecruiter:194
+[18:56:53]   W16 + 26 jobspy:linkedin:devops engineer
+[18:56:58]   W33 + 34 jobspy:linkedin:junior software engi
+[18:57:14]   W01 + 11 jobspy:linkedin:engineer
+[18:57:16]   W49 + 25 jobspy:linkedin:CI/CD
+[18:57:23]   W04 + 37 jobspy:linkedin:gRPC
+[18:57:31]   W00 + 45 jobspy:linkedin:MLOps engineer
+[18:57:36]   W41 + 66 jobspy:indeed:robotics engineer
+[18:57:36]   W13 +  9 jobspy:linkedin:Grafana
+[18:58:02]   W40 + 88 jobspy:linkedin:TensorRT
+[18:58:25] ============================================================
+[18:58:25] MEGA SCRAPER v7 — 50 workers, smart source rotation
+[18:58:25] ============================================================
+[18:58:25] Total work items: 1,125,330
+[18:58:26] Round 1: Done=0 | Remaining=1,125,330
+[18:58:27] DB: 556,168 | Fresh7d: 556,168 | Gap: 443,832
+[18:58:36] ============================================================
+[18:58:36] MEGA SCRAPER v7 — 50 workers, smart source rotation
+[18:58:36] ============================================================
+[18:58:36] Total work items: 1,125,330
+[18:58:37] Round 1: Done=0 | Remaining=1,125,330
+[18:58:38] DB: 556,168 | Fresh7d: 556,168 | Gap: 443,832
+[18:58:40] Loaded 556,168 dedup keys into memory (16MB)
+[18:58:42] Launching 50 workers on 1,125,330 items...
+[19:01:26] ============================================================
+[19:01:26] MEGA SCRAPER v7 — 50 workers, smart source rotation
+[19:01:26] ============================================================
+[19:01:27] Total work items: 1,125,330
+[19:01:34] Round 2: Done=0 | Remaining=1,125,330
+[19:01:56] ============================================================
+[19:01:56] MEGA SCRAPER v7 — 50 workers, smart source rotation
+[19:01:56] ============================================================
+[19:01:57] Total work items: 1,125,330
+[19:02:01] Round 2: Done=0 | Remaining=1,125,330
+[19:02:38] ============================================================
+[19:02:38] MEGA SCRAPER v7 — 50 workers, smart source rotation
+[19:02:38] ============================================================
+[19:03:29] ============================================================
+[19:03:29] MEGA SCRAPER v7 — 50 workers, smart source rotation
+[19:03:29] ============================================================
+[19:03:30] Total work items: 1,125,330
+[19:03:46] ============================================================
+[19:03:46] MEGA SCRAPER v7 — 50 workers, smart source rotation
+[19:03:46] ============================================================
+[19:03:47] Total work items: 1,125,330
+[19:04:01] ============================================================
+[19:04:14] ============================================================
+[19:04:14] MEGA SCRAPER v7 — 50 workers, smart source rotation
+[19:04:14] ============================================================
+[19:04:14] Total work items: 1,125,330
+[19:04:17] Round 2: Done=0 | Remaining=1,125,330
+[19:04:37] ============================================================
+[19:04:37] MEGA SCRAPER v7 — 50 workers, smart source rotation
+[19:04:37] ============================================================
+[19:04:37] Total work items: 1,125,330
+[19:04:39] Round 2: Done=0 | Remaining=1,125,330
+[19:04:50] ============================================================
+[19:04:50] MEGA SCRAPER v7 — 50 workers, smart source rotation
+[19:04:50] ============================================================
+[19:04:51] Total work items: 1,125,330
+[19:05:00] ============================================================
+[19:05:00] MEGA SCRAPER v7 — 50 workers, smart source rotation
+[19:05:00] ============================================================
+[19:05:01] Total work items: 1,125,330
+[19:05:19] ============================================================
+[19:05:19] MEGA SCRAPER v7 — 50 workers, smart source rotation
+[19:05:19] ============================================================
+[19:05:20] Total work items: 1,125,330
+[19:05:29] ============================================================
+[19:05:29] MEGA SCRAPER v7 — 50 workers, smart source rotation
+[19:05:29] ============================================================
+[19:05:29] Total work items: 1,125,330
+[19:05:31] Round 2: Done=0 | Remaining=1,125,330
+[19:05:38] ============================================================
+[19:05:38] MEGA SCRAPER v7 — 50 workers, smart source rotation
+[19:05:38] ============================================================
+[19:05:39] Total work items: 1,125,330
+[19:05:41] Round 2: Done=0 | Remaining=1,125,330
+[19:05:52] ============================================================
+[19:05:52] MEGA SCRAPER v7 — 50 workers, smart source rotation
+[19:05:52] ============================================================
+[19:05:52] Total work items: 1,125,330
+[19:05:53] Round 2: Done=0 | Remaining=1,125,330
+[19:05:58] DB: 556,606 | Fresh7d: 556,606 | Gap: 443,394
+[19:10:12] ============================================================
+[19:10:18] MEGA SCRAPER v7 — 25 workers, smart source rotation
+[19:10:18] ============================================================
+[19:10:20] Total work items: 1,125,330
+[19:10:23] Round 1: Done=0 | Remaining=1,125,330
+[19:12:42] ============================================================
+[19:12:43] MEGA SCRAPER v7 — 25 workers, smart source rotation
+[19:12:43] ============================================================
+[19:12:44] Total work items: 1,125,330
+[19:12:48] Round 1: Done=0 | Remaining=1,125,330
+[19:16:06] ============================================================
+[19:16:06] MEGA SCRAPER v7 — 25 workers, smart source rotation
+[19:16:06] ============================================================
+[19:16:06] Total work items: 1,125,330
+[19:16:07] Round 1: Done=0 | Remaining=1,125,330
+[19:16:47] ============================================================
+[19:16:47] MEGA SCRAPER v7 — 25 workers, smart source rotation
+[19:16:47] ============================================================
+[19:16:47] Total work items: 1,125,330
+[19:16:48] Round 1: Done=0 | Remaining=1,125,330
+[19:19:17] ============================================================
+[19:19:17] MEGA SCRAPER v7 — 25 workers, smart source rotation
+[19:19:17] ============================================================
+[19:19:19] Total work items: 1,125,330
+[19:19:23] Round 1: Done=0 | Remaining=1,125,330

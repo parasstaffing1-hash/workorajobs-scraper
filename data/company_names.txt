@@ -1,0 +1,1053 @@
+Google
+Microsoft
+Apple
+Amazon
+Meta
+Netflix
+Spotify
+Uber
+Lyft
+Airbnb
+Twitter
+Snap
+Pinterest
+LinkedIn
+Salesforce
+Oracle
+SAP
+Adobe
+VMware
+Cisco
+Intel
+NVIDIA
+AMD
+Qualcomm
+Broadcom
+IBM
+HP
+Dell
+Lenovo
+Sony
+Samsung
+LG
+Huawei
+Xiaomi
+OPPO
+Vivo
+Alphabet
+Meta Platforms
+AWS
+Microsoft Azure
+Google Cloud
+DigitalOcean
+Linode
+Vultr
+Heroku
+Cloudflare
+Fastly
+Akamai
+StackPath
+Datadog
+New Relic
+PagerDuty
+Dynatrace
+Splunk
+Elastic
+MongoDB
+Redis
+Confluent
+Snowflake
+Databricks
+dbt Labs
+HashiCorp
+Terraform
+Vault
+Consul
+Nomad
+Atlassian
+Jira
+Confluence
+Bitbucket
+Trello
+Slack
+Zoom
+Webex
+RingCentral
+Dropbox
+Box
+CloudKitchens
+CloudRoutes
+CloudHealth
+GitHub
+GitLab
+CircleCI
+Travis CI
+Jenkins
+SonarQube
+Snyk
+Veracode
+Checkmarx
+Postman
+Insomnia
+Vercel
+Netlify
+Render
+Fly.io
+Railway
+Koala
+Supabase
+PlanetScale
+Neon
+Xata
+Turso
+Cockroach Labs
+Prisma
+Hasura
+Nhost
+Appwrite
+Firebase
+Sentry
+Bugsnag
+Rollbar
+LogRocket
+FullStory
+Sourcegraph
+Code Climate
+DeepSource
+Codacy
+Codecov
+LaunchDarkly
+Split.io
+ConfigCat
+Retool
+Internal
+Appsmith
+Budibase
+OpenAI
+Anthropic
+Cohere
+Stability AI
+Midjourney
+Hugging Face
+Replicate
+Modal
+Anyscale
+Together AI
+Groq
+Cerebras
+SambaNova
+fal
+Baseten
+Banana
+Deep Infra
+Fireworks AI
+Weights & Biases
+Neptune
+Labelbox
+Scale AI
+Snorkel AI
+Landing AI
+Celonis
+Dataiku
+Domino Data Lab
+CNVRG
+Valohai
+Comet ML
+DeterminedReader
+Runway ML
+Jasper
+Copy.ai
+Writesonic
+Character AI
+Replika
+Khan Academy AI
+Duolingo AI
+Grammarly
+Notion AI
+GitHub Copilot
+Amazon CodeWhisperer
+Tabnine
+Codex
+Cursor
+Aider
+Continue.dev
+LangChain
+LlamaIndex
+Haystack
+Semantic Kernel
+Pinecone
+Weaviate
+Chroma
+Milvus
+Qdrant
+LangSmith
+Helicone
+Portkey
+Guardrails AI
+Stripe
+Square
+PayPal
+Adyen
+Checkout.com
+Klarna
+Affirm
+Sezzle
+Zip
+Afterpay
+Plaid
+Marqeta
+Ramp
+Brex
+Mercury
+Relay
+Chime
+Nubank
+N26
+Revolut
+Monzo
+Starling Bank
+Wise
+Remitly
+Western Union
+Xoom
+Robinhood
+Coinbase
+Gemini
+Kraken
+Binance
+Cash App
+Venmo
+Zelle
+Ant Group
+Lemonade
+Root Insurance
+Hippo
+Current
+Step
+One
+Arc
+Gusto
+Bill.com
+Tipalti
+Airbase
+Divvy
+Navan
+TravelPerk
+Lily
+Fundbox
+BlueVine
+Kabbage
+OnDeck
+SoFi
+LendingClub
+Prosper
+Upstart
+Wealthfront
+Betterment
+Schwab
+Fidelity
+Vanguard
+BlackRock
+Blackstone
+Bridgewater
+Shopify
+BigCommerce
+WooCommerce
+Magento
+PrestaShop
+eBay
+Etsy
+Walmart
+Target
+Costco
+Alibaba
+AliExpress
+JD.com
+Pinduoduo
+Shopee
+Lazada
+Tokopedia
+Bukalapak
+Mercado Libre
+Rappi
+DoorDash
+Instacart
+GrubHub
+Uber Eats
+Postmates
+Wayfair
+Overstock
+Chewy
+Fanatics
+Zalando
+ASOS
+Boohoo
+Shein
+Temu
+TikTok
+ByteDance
+Reddit
+Quora
+Medium
+Substack
+Ghost
+WordPress
+Webflow
+Framer
+Figma
+Sketch
+InVision
+Zeplin
+Canva
+Miro
+Luma
+Notion
+Airtable
+Coda
+Loom
+Vidyard
+Wistia
+Mux
+Cloudinary
+Twitch
+Discord
+Signal
+Telegram
+WhatsApp
+Snap Inc.
+Tumblr
+CrowdStrike
+Zscaler
+Palo Alto Networks
+Fortinet
+FireEye
+Mandiant
+Rapid7
+Qualys
+Tenable
+SentinelOne
+Darktrace
+Recorded Future
+Cybereason
+Abnormal Security
+Material Security
+Arctic Wolf
+Expel
+Huntress
+WhiteSource
+Vera
+Virtru
+Okta
+Auth0
+Duo Security
+OneLogin
+Ping Identity
+ForgeRock
+HashiCorp Vault
+CyberArk
+BeyondTrust
+Thycotic
+Proofpoint
+Mimecast
+Barracuda
+Sophos
+Kaspersky
+Bitdefender
+Malwarebytes
+Tanium
+Ivanti
+Tempus
+Flatiron Health
+Guardant Health
+Grail
+Color
+One Medical
+Halo Health
+Oura
+Whoop
+Peloton
+Nurx
+Ro
+Hims & Hers
+Cerebral
+Talkspace
+BetterHelp
+Calm
+Headspace
+Zocdoc
+Genome Medical
+Invitae
+Oscar Health
+Clover Health
+Bright Health
+Virta Health
+Livongo
+Teladoc
+Amwell
+Phreesia
+Waystar
+R1 RCM
+Change Healthcare
+IQVIA
+Medidata
+Veeva Systems
+Castlight Health
+Grand Rounds
+Transcarent
+Collective Health
+Abductive
+Redox
+Hims
+Ro Health
+Netsmart
+Cerner
+Epic Systems
+Allscripts
+athenahealth
+eClinicalWorks
+NextGen Healthcare
+ServiceNow
+Workday
+SAP SuccessFactors
+BambooHR
+Zenefits
+Rippling
+Lattice
+Leapsome
+15Five
+Culture Amp
+Deel
+Remote.com
+Oyster HR
+Papaya Global
+Multiplier
+Velocity Global
+Greenhouse
+Lever
+Ashby
+Workable
+SmartRecruiters
+iCIMS
+Taleo
+Jobvite
+JazzHR
+Breezy HR
+Teamtailor
+HireHive
+Recruitee
+Freshteam
+Bullhorn
+JobAdder
+Erecruit
+Fingercheck
+Paylocity
+Paycom
+ADP
+Paychex
+UKG
+Ceridian
+Cornerstone OnDemand
+Docebo
+360Learning
+Lessonly
+Zoho People
+Kissflow
+KiwiHR
+Tesla
+SpaceX
+Blue Origin
+Rivian
+Lucid Motors
+NIO
+XPeng
+Li Auto
+BYD
+Polestar
+Ford
+GM
+Toyota
+Honda
+BMW
+Mercedes-Benz
+Volvo
+Stellantis
+Hyundai
+Kia
+Fisker
+Canoo
+Lordstown
+Nikola
+Arrival
+Proterra
+Lucid
+Aurora
+Waymo
+Cruise
+Argo AI
+Motional
+Zoox
+Nuro
+Kodiak
+Gatik
+TuSimple
+Plus.ai
+Embark
+InMotion
+Byton
+Disney
+Warner Bros
+Paramount
+NBC Universal
+CBS
+Pandora
+SoundCloud
+Audible
+Tidal
+YouTube
+Vimeo
+Dailymotion
+Roku
+Apple TV
+Hulu
+Peacock
+Paramount+
+Discovery
+AMC
+A&E
+Lionsgate
+Activision Blizzard
+Electronic Arts
+Take-Two
+Ubisoft
+Epic Games
+Riot Games
+Valve
+Bethesda
+Rockstar
+Roblox
+Unity
+Unreal Engine
+Crytek
+Marvel
+DC Comics
+Image Comics
+Dark Horse
+Amazon Studios
+Apple Studios
+Coca-Cola
+PepsiCo
+Nestle
+Unilever
+Procter & Gamble
+Mondelez
+Kraft Heinz
+General Mills
+Kellogg
+Tyson Foods
+Hormel
+McCormick
+Hershey
+Mars
+Danone
+Dr Pepper
+Monster Beverage
+Red Bull
+Starbucks
+McDonald's
+Yum Brands
+Subway
+Chipotle
+Domino's
+Wendy's
+Dunkin'
+Papa John's
+Shake Shack
+Deloitte
+PwC
+KPMG
+EY
+Accenture
+Capgemini
+Cognizant
+Infosys
+Wipro
+TCS
+HCL Technologies
+Tech Mahindra
+L&T Infotech
+Persistent Systems
+Mphasis
+Hexaware
+Sonata Software
+Mindtree
+LTTS
+NIIT Technologies
+BSNL
+Zensar
+IBM Consulting
+Deloitte Digital
+Accenture Song
+McKinsey
+BCG
+Bain
+Oliver Wyman
+Roland Berger
+Booz Allen Hamilton
+SAIC
+Leidos
+Booz Allen
+DXC Technology
+HCL
+Tata Consultancy
+Lockheed Martin
+Raytheon
+Northrop Grumman
+Boeing
+L3Harris
+General Dynamics
+BAE Systems
+Leonardo
+Saab
+Thales
+Airbus
+Rolls-Royce
+Raytheon Technologies
+Huntington Ingalls
+Textron
+General Electric Aviation
+Pratt & Whitney
+Lockheed
+Pfizer
+Moderna
+Johnson & Johnson
+Merck
+AbbVie
+Amgen
+Gilead Sciences
+Biogen
+Regeneron
+Vertex
+Novartis
+Roche
+AstraZeneca
+Sanofi
+GlaxoSmithKline
+Bristol-Myers Squibb
+Eli Lilly
+Novo Nordisk
+BioNTech
+CRISPR Therapeutics
+Intellia
+Editas
+Bluebird Bio
+Sarepta
+Alnylam
+CureVac
+Arcturus
+Illumina
+Thermo Fisher
+Agilent
+Waters
+Bio-Rad
+PerkinElmer
+Bruker
+Danaher
+Chevron
+ExxonMobil
+Shell
+BP
+TotalEnergies
+Enel
+Iberdrola
+NextEra Energy
+Plug Power
+Bloom Energy
+Tesla Energy
+SunPower
+SunRun
+Enphase
+First Solar
+Vestas
+Siemens Gamesa
+Orsted
+Schneider Electric
+ABB
+Siemens Energy
+Zillow
+Redfin
+Opendoor
+Compass
+Procore
+Buildertrend
+CoConstruct
+PlanGrid
+Autodesk Construction
+Trimble
+Bentley Systems
+Oracle Construction
+CoStar
+RealPage
+AppFolio
+Yardi
+CBRE
+JLL
+Cushman
+Colliers
+Marriott
+Hilton
+Hyatt
+Accor
+IHG
+Booking Holdings
+Expedia
+TripAdvisor
+Kayak
+Skyscanner
+Hopper
+Omio
+Rome2Rio
+Kiwi.com
+Vrbo
+Vacasa
+TurnKey
+American Airlines
+Delta
+United Airlines
+Southwest
+JetBlue
+Spirit
+Frontier
+Alaska Airlines
+FedEx
+UPS
+DHL
+USPS
+Amazon Logistics
+Flexport
+Freightos
+Project44
+FourKites
+Convoy
+Uber Freight
+KeepTruckin
+Samsara
+Descartes
+BluJay
+Manhattan Associates
+Locus Robotics
+6 River Systems
+Berkshire Grey
+Fetch Robotics
+Vecna Robotics
+Geek+
+HAI Robotics
+Coursera
+Udemy
+edX
+Pluralsight
+Skillshare
+Duolingo
+Khan Academy
+BYJU'S
+Unacademy
+Vedantu
+2U
+Chegg
+Pearson
+McGraw-Hill
+Cengage
+Instructure
+Canvas
+Blackboard
+D2L
+ClassDojo
+Newsela
+Nearpod
+Kahoot!
+Quizlet
+Photomath
+Brainly
+Scribd
+AT&T
+Verizon
+T-Mobile
+Comcast
+Charter Communications
+Vodafone
+Telefonica
+Deutsche Telekom
+Orange
+US Cellular
+Dish Network
+Altice
+Windstream
+Telia
+Telenor
+Tele2
+MTN
+Airtel
+Home Depot
+Lowe's
+Best Buy
+IKEA
+Nordstrom
+Macy's
+Gap
+Zara
+H&M
+Uniqlo
+Nike
+Adidas
+Lululemon
+Under Armour
+Foot Locker
+Dick's
+TJX
+Ross Stores
+Burlington
+Dollar General
+Dollar Tree
+Five Below
+Ollie's
+NASA
+CIA
+NSA
+FBI
+DOD
+NIH
+CDC
+FDA
+SEC
+FEMA
+World Bank
+IMF
+UN
+WHO
+Red Cross
+Gates Foundation
+Ford Foundation
+Rockefeller
+Panasonic
+Sharp
+Toshiba
+NEC
+Fujitsu
+Hitachi
+Mitsubishi Electric
+Yaskawa
+Nissan
+Mazda
+Subaru
+SoftBank
+Rakuten
+LINE
+Yahoo Japan
+DeNA
+Gree
+Konami
+Square Enix
+Capcom
+Bandai Namco
+Sega
+Nintendo
+Cygames
+Samsung Electronics
+Samsung SDS
+Samsung SDI
+LG Electronics
+LG Display
+LG Chem
+SK Hynix
+SK Telecom
+SK Innovation
+Naver
+Kakao
+Krafton
+NCSoft
+Netmarble
+Com2uS
+Smilegate
+Zip Co
+Xero
+SafetyCulture
+Employment Hero
+Linktree
+Airwallex
+Immutable
+Coinjar
+Siteminder
+Prospa
+Tyro
+Nextdc
+Hut 8 Mining
+Nuvei
+Lightspeed
+Descartes Systems
+Open Text
+Nortel
+BlackBerry
+Ballard Power
+Magna International
+Well Health
+Kinaxis
+Exacta
+Telus
+Rogers
+Bell Canada
+Shaw
+Check Point
+Wix
+Monday.com
+Babylon Health
+Gong
+SalesLoft
+Chili Piper
+Payoneer
+Playtika
+IronSource
+Taboola
+Outbrain
+Fiverr
+Waze
+Mobileye
+Innoviz
+Kavak
+Creditas
+Clip
+EBANX
+dLocal
+Global66
+Despegar
+VTEX
+Nuvemshop
+Kushki
+Bitso
+Celo
+Push Notifications
+Grab
+Gojek
+Sea Group
+Traveloka
+Carsome
+PropertyGuru
+Carousell
+Fave
+OVO
+Careem
+Noon
+SWVL
+Fawry
+MNT-Halan
+Sary
+Lean Technologies
+Tamara
+Tabby
+Flutterwave
+Paystack
+OPay
+Jumia
+Andela
+Chipper Cash
+TeamApt
+Carbon
+Siemens
+ARM
+King
+Zettle
+Booking.com
+Mollie
+MessageBird
+Pipedrive
+TransferWise
+Bolt
+Wolt
+About You
+HelloFresh
+Delivery Hero
+Trade Republic
+Solarisbank
+Raisin
+Contentful
+Mention
+Aircall
+Spendesk
+Pennylane
+Qonto
+Alan
+Swile
+MacPaw
+Jetoctopu
+Ajax Systems
+People.ai
+Automattic
+Buffer
+Zapier
+Toptal
+Turing
+Crossover
+Upwork
+Oyster
+Dealfront
+PostHog
+Linear
+Cal.com
+Resend
+Checkly
+Deno
+Bun
+Astro
+SvelteKit
+Tailwind CSS
+DaisyUI
+shadcn/ui
+Magic UI
+Tooljet
+Segment
+Amplitude
+Mixpanel
+Heap
+Pendo
+UserZoom
+Hotjar
+Smartlook
+Clarity
+Cloudflare Pages
+Deta
+Microsoft Teams
+Palo Alto
+Flatiron
+Guardant
+Remote
+Northrop
+Exxon
+Codeium
+Mistral AI
+DeepSeek
+Alibaba Cloud
+Baidu AI
+Tencent AI
+ByteDance AI
+Yandex AI
+xAI
+Inflection AI
+Adept AI
+Runway
+Synthesia
+HeyGen
+D-ID
+ElevenLabs
+Whisper
+Assembly AI
+Deepgram
+Determined AI
+Domino
+Color Health
+Tempo
+Mirror
+Tonal
+Hydrow
+Ergatta
+Cornerstone
+Factorial
+Personio
+Tesloop

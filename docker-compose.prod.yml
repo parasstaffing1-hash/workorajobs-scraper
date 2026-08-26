@@ -1,0 +1,127 @@
+version: "3.8"
+
+services:
+  # ── PostgreSQL Database ──────────────────────────────────────
+  postgres:
+    image: postgres:16-alpine
+    restart: always
+    environment:
+      POSTGRES_DB: jobscraper
+      POSTGRES_USER: scraper
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-changeme_in_production}
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    ports:
+      - "127.0.0.1:5432:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U scraper -d jobscraper"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # ── Redis Cache ──────────────────────────────────────────────
+  redis:
+    image: redis:7-alpine
+    restart: always
+    command: redis-server --maxmemory 256mb --maxmemory-policy allkeys-lru
+    volumes:
+      - redisdata:/data
+    ports:
+      - "127.0.0.1:6379:6379"
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # ── API Server ───────────────────────────────────────────────
+  api:
+    build: .
+    restart: always
+    ports:
+      - "${API_PORT:-8000}:8000"
+    environment:
+      - DATABASE_URL=postgresql://scraper:${POSTGRES_PASSWORD:-changeme_in_production}@postgres:5432/jobscraper
+      - REDIS_URL=redis://redis:6379/0
+      - REQUIRE_API_KEY=${REQUIRE_API_KEY:-false}
+      - ADMIN_API_KEY=${ADMIN_API_KEY:-}
+      - API_KEYS=${API_KEYS:-}
+      - RATE_LIMIT_RPM=${RATE_LIMIT_RPM:-120}
+      - TELEGRAM_BOT_TOKEN=${TELEGRAM_BOT_TOKEN:-}
+      - TELEGRAM_CHAT_ID=${TELEGRAM_CHAT_ID:-}
+      - PORT=8000
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/api/health')"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+
+  # ── Scraper Worker ───────────────────────────────────────────
+  scraper:
+    build: .
+    restart: always
+    environment:
+      - DATABASE_URL=postgresql://scraper:${POSTGRES_PASSWORD:-changeme_in_production}@postgres:5432/jobscraper
+      - USE_PROXIES=${USE_PROXIES:-false}
+      - PROXY_SOURCE=${PROXY_SOURCE:-free}
+      - BRIGHTDATA_USERNAME=${BRIGHTDATA_USERNAME:-}
+      - BRIGHTDATA_PASSWORD=${BRIGHTDATA_PASSWORD:-}
+      - TELEGRAM_BOT_TOKEN=${TELEGRAM_BOT_TOKEN:-}
+      - TELEGRAM_CHAT_ID=${TELEGRAM_CHAT_ID:-}
+      - PYTHONUNBUFFERED=1
+    command: ["python", "-B", "scripts/mega_scraper_v3.py"]
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    deploy:
+      replicas: 2  # Run 2 scraper instances for parallel scraping
+
+  # ── Scraper Launcher (auto-restart) ─────────────────────────
+  launcher:
+    build: .
+    restart: always
+    environment:
+      - DATABASE_URL=postgresql://scraper:${POSTGRES_PASSWORD:-changeme_in_production}@postgres:5432/jobscraper
+      - USE_PROXIES=${USE_PROXIES:-false}
+      - PROXY_SOURCE=${PROXY_SOURCE:-free}
+      - BRIGHTDATA_USERNAME=${BRIGHTDATA_USERNAME:-}
+      - BRIGHTDATA_PASSWORD=${BRIGHTDATA_PASSWORD:-}
+      - TELEGRAM_BOT_TOKEN=${TELEGRAM_BOT_TOKEN:-}
+      - TELEGRAM_CHAT_ID=${TELEGRAM_CHAT_ID:-}
+      - PYTHONUNBUFFERED=1
+    command: ["python", "-B", "scripts/v3_launcher.py"]
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+      scraper:
+        condition: service_started
+
+  # ── Monitoring (optional) ────────────────────────────────────
+  # Uncomment for production monitoring:
+  # prometheus:
+  #   image: prom/prometheus:latest
+  #   volumes:
+  #     - ./prometheus.yml:/etc/prometheus/prometheus.yml
+  #   ports:
+  #     - "127.0.0.1:9090:9090"
+  #
+  # grafana:
+  #   image: grafana/grafana:latest
+  #   ports:
+  #     - "127.0.0.1:3000:3000"
+  #   volumes:
+  #     - grafanadata:/var/lib/grafana
+
+volumes:
+  pgdata:
+  redisdata:
+  # grafanadata:

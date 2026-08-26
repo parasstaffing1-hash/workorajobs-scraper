@@ -1,0 +1,16 @@
+# Koyeb Free Tier - No credit card required
+# Deploy: https://app.koyeb.com → Create App → Import from GitHub
+
+services:
+  web:
+    name: workora-jobs
+    runtime: python
+    instance_type: nano  # Free tier
+    build_command: pip install -r requirements.txt
+    run_command: python -m scripts.workora_app
+    ports: 8000
+    env:
+      - PYTHON_VERSION=3.11
+      - WEB_CONCURRENCY=1
+      # Add DATABASE_URL after creating Koyeb PostgreSQL database
+      # (Koyeb offers free PostgreSQL add-on)

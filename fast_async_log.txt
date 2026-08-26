@@ -1,0 +1,316 @@
+[22:48:07] 
+======================================================================
+[22:48:07] ROUND 1 START
+[22:48:07] ======================================================================
+[22:48:07] ======================================================================
+[22:48:07] FAST ASYNC SCRAPER — 100 concurrent connections, aiohttp
+[22:48:07] ======================================================================
+[22:48:07] DB: 717,029 | Gap: 282,971
+[22:48:08] Loaded 717,029 dedup keys (32MB)
+[22:48:08] Total work items: 959,930
+[22:48:09] Remaining: 959,930
+[22:48:13]   W010 +  6 simplyhired:Docker engineer|Vienna|p23
+[22:48:15]   W088 +  2 simplyhired:Lua developer|Bristol|p40
+[22:48:15]   W047 +  2 simplyhired:Ruby developer|San Francisc|p24
+[22:48:17]   W050 +  3 simplyhired:robotics engineer|Wellington|p20
+[22:48:17]   W066 +  3 simplyhired:systems engineer|San Francisc|p49
+[22:48:17]   W018 +  3 dice:Hadoop engineer|Tel Aviv|p30
+[22:48:17]   W008 +  5 dice:microservices engi|New York|p7
+[22:48:17]   W059 +  1 dice:Angular developer|Auckland|p13
+[22:48:17]   W075 +  3 dice:Spark engineer|Dubai|p30
+[22:48:17]   W054 +  2 dice:Kafka engineer|Wellington|p42
+[22:48:17]   W013 +  2 dice:TypeScript develop|Edmonton|p47
+[22:48:17]   W001 +  1 dice:Hadoop engineer|Dublin|p40
+[22:48:17]   W004 +  2 simplyhired:cloud engineer|San Diego|p15
+[22:48:17]   W045 +  4 simplyhired:product engineer|Portland|p43
+[22:48:17]   W017 + 11 simplyhired:payments engineer|Melbourne|p15
+[22:48:17]   W076 +  1 dice:GenAI engineer|Washington D|p35
+[22:48:17]   W032 + 14 dice:penetration tester|Glasgow|p2
+[22:48:17]   W026 +  4 dice:AWS engineer|Calgary|p46
+[22:48:17]   W073 +  3 dice:release engineer|Manchester|p17
+[22:48:17]   W067 +  3 dice:build engineer|Munich|p23
+[22:48:17]   W070 +  3 dice:penetration tester|Atlanta|p47
+[22:48:17]   W098 +  6 simplyhired:Kafka engineer|Brisbane|p10
+[22:48:17]   W039 +  1 simplyhired:machine learning e|Krakow|p46
+[22:48:17]   W080 +  3 simplyhired:automation enginee|Washington D|p10
+[22:48:17]   W089 +  2 simplyhired:LLM engineer|Manchester|p27
+[22:48:19]   W065 +  1 dice:Scala developer|Remote|p6
+[22:48:19]   W023 +  1 dice:Scala engineer|Dallas|p38
+[22:48:22]   W019 +  4 dice:MongoDB engineer|London|p21
+[22:48:22]   W076 +  8 dice:LLM engineer|Berlin|p43
+[22:48:22]   W012 +  2 dice:site reliability|Dallas|p23
+[22:48:25]   W038 +  1 dice:deep learning engi|San Francisc|p2
+[22:48:25]   W001 +  2 dice:Kubernetes enginee|Bucharest|p24
+[22:48:25]   W096 +  1 dice:DevOps|Chicago|p9
+[22:48:25]   W068 +  1 dice:PostgreSQL enginee|Prague|p11
+[22:48:25]   W080 +  3 dice:GenAI engineer|Glasgow|p27
+[22:48:25]   W033 +  8 dice:cybersecurity engi|London|p47
+[22:48:25]   W056 +  1 dice:API engineer|Austin|p14
+[22:48:25]   W085 +  3 dice:RAG engineer|Washington D|p7
+[22:48:25]   W003 +  8 dice:Hadoop engineer|Dallas|p19
+[22:48:25]   W027 +  2 dice:GCP engineer|Newcastle|p3
+[22:48:26]   W061 +  1 simplyhired:Terraform engineer|Wellington|p27
+[22:48:26]   W057 +  2 dice:PostgreSQL enginee|Chicago|p17
+[22:48:26]   W043 +  1 dice:Terraform engineer|Miami|p13
+[22:48:31]   W060 +  1 dice:Swift developer|Austin|p42
+[22:48:31]   W097 + 13 dice:product engineer|New York|p44
+[22:48:32]   W013 +  2 dice:DevOps|San Francisc|p45
+[22:48:32]   W022 +  1 dice:Angular developer|Boston|p41
+[22:48:33]   W071 +  3 dice:machine learning e|San Francisc|p36
+[22:48:33]   W090 +  1 dice:Docker engineer|Newcastle|p5
+[22:48:34]   W075 +  4 simplyhired:product engineer|Delhi|p14
+[22:48:34]   W086 +  1 simplyhired:tech lead|Budapest|p24
+[22:48:34]   W001 +  5 simplyhired:kernel engineer|Brisbane|p43
+[22:48:34]   W003 +  8 simplyhired:Kafka engineer|New York|p30
+[22:48:34]   W002 +  5 simplyhired:Spark engineer|Dublin|p13
+[22:48:34]   W026 +  3 simplyhired:API engineer|Newcastle|p2
+[22:48:34]   W042 +  1 simplyhired:cloud engineer|Atlanta|p29
+[22:48:34]   W010 +  3 simplyhired:payments engineer|Adelaide|p43
+[22:48:34]   W017 +  1 simplyhired:software engineer|San Francisc|p43
+[22:48:37]   W029 +  2 dice:QA engineer|Phoenix|p14
+[22:48:38]   W042 +  3 dice:infrastructure eng|Phoenix|p7
+[22:48:39]   W086 +  1 dice:Spark engineer|Sydney|p31
+[22:48:39]   W089 +  6 simplyhired:cybersecurity engi|Denver|p41
+[22:48:42]   W032 +  2 dice:SDE|San Francisc|p19
+[22:48:45]   W038 +  7 dice:Spring Boot develo|Atlanta|p16
+[22:48:46]   W031 +  1 simplyhired:graphics engineer|Krakow|p31
+[22:48:47]   W005 +  7 simplyhired:compiler engineer|Brisbane|p31
+[22:48:47]   W016 +  3 simplyhired:AWS engineer|Buenos Aires|p32
+[22:48:47]   W001 +  2 simplyhired:rust developer|Denver|p22
+[22:48:47]   W091 +  1 simplyhired:FastAPI developer|Dallas|p15
+[22:48:47]   W071 +  2 simplyhired:build engineer|Lagos|p4
+[22:48:47]   W074 +  3 simplyhired:web developer|Bristol|p31
+[22:48:47]   W042 +  7 simplyhired:release engineer|Portland|p8
+[22:48:54]   W071 +  4 dice:release engineer|New York|p37
+[22:48:54]   W095 +  8 dice:infrastructure eng|New York|p30
+[22:48:54]   W015 +  1 dice:java developer|Houston|p34
+[22:48:54]   W046 + 10 dice:infrastructure eng|Washington D|p14
+[22:48:54]   W052 +  3 dice:Angular developer|New York|p24
+[22:48:55]   W054 +  1 dice:PostgreSQL enginee|Seattle|p11
+[22:48:55]   W093 +  7 dice:machine learning e|Los Angeles|p13
+[22:48:55]   W096 +  2 dice:Vue developer|New York|p20
+[22:48:55]   W085 +  3 dice:automation enginee|Denver|p31
+[22:48:56]   W000 +  2 simplyhired:Perl developer|Melbourne|p39
+[22:48:59]   W018 + 12 simplyhired:build engineer|Vienna|p27
+[22:48:59]   W078 +  3 dice:Terraform engineer|Houston|p44
+[22:48:59]   W040 +  1 dice:MongoDB engineer|Chicago|p45
+[22:48:59]   W033 +  1 dice:DevOps|Dallas|p3
+[22:49:01]   W082 +  1 simplyhired:Spring Boot develo|Sydney|p35
+[22:49:01]   W050 +  2 simplyhired:compiler engineer|Rome|p28
+[22:49:07]   W024 +  3 dice:PostgreSQL enginee|Remote|p27
+[22:49:07]   W009 +  8 dice:GenAI engineer|New York|p4
+[22:49:07]   W027 +  3 dice:microservices engi|Atlanta|p17
+[22:49:07]   W036 +  1 dice:node developer|Miami|p35
+[22:49:08]   W046 +  4 dice:application engine|Chicago|p34
+[22:49:09]   W080 +  1 simplyhired:java developer|Chicago|p6
+[22:49:09]   W016 +  3 simplyhired:principal engineer|Dallas|p35
+[22:49:09]   W082 +  4 dice:computer vision en|Miami|p47
+[22:49:13]   W038 +  1 dice:AWS engineer|Los Angeles|p47
+[22:49:14]   W079 + 20 dice:cybersecurity engi|Remote|p0
+[22:49:16]   W072 + 10 simplyhired:network engineer|Phoenix|p13
+[22:49:16]   W017 +  1 simplyhired:payments engineer|Cardiff|p44
+[22:49:16]   W024 +  7 simplyhired:GenAI engineer|Dallas|p28
+[22:49:16]   W042 +  2 simplyhired:infrastructure eng|Washington D|p45
+[22:49:16]   W081 +  2 simplyhired:Spring Boot develo|London|p36
+[22:49:16]   W091 +  3 simplyhired:distributed system|Wellington|p15
+[22:49:17]   W036 +  2 dice:software engineer|Houston|p37
+[22:49:21]   W079 +  3 dice:Kotlin developer|Remote|p38
+[22:49:22]   W030 + 20 dice:release engineer|Atlanta|p46
+[22:49:22]   W012 +  4 simplyhired:API engineer|Dallas|p35
+[22:49:22]   W085 +  2 simplyhired:frontend engineer|Washington D|p32
+[22:49:24]   W035 +  1 dice:Django developer|Los Angeles|p29
+[22:49:28]   W084 +  4 dice:infrastructure eng|Seattle|p28
+[22:49:28]   W090 +  2 dice:MongoDB engineer|Los Angeles|p32
+[22:49:28]   W006 +  5 dice:cloud engineer|Seattle|p29
+[22:49:30]   W080 + 12 simplyhired:distributed system|Remote|p10
+[22:49:30]   W017 +  1 dice:LLM engineer|Atlanta|p35
+[22:49:30]   W073 +  2 simplyhired:network engineer|Portland|p13
+[22:49:31]   W036 +  1 simplyhired:C++ engineer|Houston|p37
+[22:49:31]   W050 +  1 simplyhired:kernel engineer|Phoenix|p13
+[22:49:31]   W055 +  1 simplyhired:node developer|Atlanta|p8
+[22:49:31]   W012 +  2 simplyhired:machine learning e|Remote|p37
+[22:49:31]   W047 + 11 simplyhired:tech lead|San Diego|p13
+[22:49:31]   W010 +  2 simplyhired:kernel engineer|San Francisc|p2
+[22:49:31]   W086 +  3 simplyhired:computer vision en|Vienna|p21
+[22:49:36]   W023 +  1 dice:payments engineer|Atlanta|p33
+[22:49:36]   W041 +  4 dice:golang developer|Remote|p20
+[22:49:36]   W027 +  3 dice:build engineer|Dallas|p22
+[22:49:36]   W070 +  2 dice:application engine|Los Angeles|p48
+[22:49:37]   W033 +  2 dice:penetration tester|San Francisc|p15
+[22:49:38]   W091 +  2 simplyhired:principal engineer|San Francisc|p22
+[22:49:38]   W014 +  1 simplyhired:GCP engineer|Dublin|p32
+[22:49:38]   W064 +  1 simplyhired:LLM engineer|Vienna|p17
+[22:49:38]   W039 + 11 simplyhired:robotics engineer|Phoenix|p21
+[22:49:38]   W021 +  1 simplyhired:IT engineer|Brisbane|p48
+[22:49:42]   W009 +  5 dice:platform engineer|New York|p10
+[22:49:42]   W032 +  9 dice:cybersecurity engi|Dallas|p39
+[22:49:44]   W086 +  6 simplyhired:systems engineer|Dublin|p4
+[22:49:45]   W004 +  2 simplyhired:data scientist|Chicago|p13
+[22:49:52]   W097 +  1 dice:kernel engineer|Atlanta|p20
+[22:49:53]   W050 +  4 simplyhired:Kafka engineer|Remote|p24
+[22:49:54]   W083 +  5 simplyhired:Spark engineer|Boston|p21
+[22:49:54]   W038 +  1 simplyhired:Spring Boot develo|New York|p29
+[22:49:54]   W030 +  1 simplyhired:GCP engineer|Phoenix|p4
+[22:50:02]   W013 +  5 dice:release engineer|Dallas|p32
+[22:50:02]   W008 +  2 dice:C# developer|Washington D|p40
+[22:50:02]   W068 +  1 dice:PostgreSQL enginee|Dallas|p49
+[22:50:02]   W027 +  1 dice:Kafka engineer|Pune|p42
+[22:50:02]   W012 +  3 dice:Spark engineer|Washington D|p19
+[22:50:02]   W059 +  6 dice:cybersecurity engi|Denver|p32
+[22:50:04]   W026 +  1 simplyhired:frontend engineer|Phoenix|p31
+[22:50:04]   W094 +  1 simplyhired:game developer|Bristol|p0
+[22:50:04]   W055 +  1 dice:GenAI engineer|Vancouver|p19
+[22:50:11]   W081 +  1 dice:data scientist|Chicago|p20
+[22:50:11]   W051 +  1 dice:LLM engineer|Houston|p10
+[22:50:12]   W041 + 11 simplyhired:golang developer|San Francisc|p41
+[22:50:12]   W033 +  6 simplyhired:Spark engineer|New York|p43
+[22:50:12]   W090 +  1 dice:infrastructure eng|San Diego|p11
+[22:50:12]   W075 +  2 simplyhired:build engineer|Delhi|p3
+[22:50:12]   W052 +  3 simplyhired:cloud engineer|Nottingham|p3
+[22:50:12]   W061 +  1 simplyhired:LLM engineer|Washington D|p12
+[22:50:12]   W071 +  1 simplyhired:release engineer|Budapest|p19
+[22:50:12]   [HB] DB=717,591 | iters=2,137 new=562 | 2min | 275/min | Gap=282,409
+[22:50:18]   W047 +  5 simplyhired:tech lead|Dallas|p30
+[22:50:18]   W061 +  2 dice:web developer|Houston|p40
+[22:50:19]   W064 + 11 simplyhired:build engineer|Dallas|p14
+[22:50:25]   W090 +  1 simplyhired:GenAI engineer|Dallas|p48
+[22:50:26]   W095 + 22 dice:cybersecurity engi|Washington D|p6
+[22:50:27]   W050 +  1 dice:fintech engineer|New York|p0
+[22:50:31]   W048 +  2 dice:software developer|Remote|p32
+[22:50:32]   W005 +  7 simplyhired:payments engineer|Sheffield|p14
+[22:50:32]   W019 +  2 simplyhired:computer vision en|Wellington|p29
+[22:50:32]   W077 + 10 simplyhired:Perl developer|San Diego|p10
+[22:50:33]   W074 +  1 simplyhired:java developer|Boston|p11
+[22:50:33]   W047 + 15 simplyhired:VR engineer|Wellington|p48
+[22:50:34]   W062 +  3 dice:AR engineer|Remote|p39
+[22:50:40]   W026 +  2 dice:security engineer|Boston|p44
+[22:50:40]   W003 +  1 dice:computer vision en|Seattle|p41
+[22:50:45]   W065 +  4 dice:infrastructure eng|Johannesburg|p46
+[22:50:45]   W071 +  1 dice:compiler engineer|Seattle|p28
+[22:50:49]   W011 +  1 dice:systems engineer|San Diego|p32
+[22:50:49]   W036 +  1 simplyhired:python developer|Birmingham|p41
+[22:50:49]   W092 +  2 simplyhired:FastAPI developer|Vienna|p18
+[22:50:49]   W030 +  3 simplyhired:Scala engineer|Lisbon|p34
+[22:50:50]   W010 +  5 dice:build engineer|San Francisc|p29
+[22:50:50]   W061 +  4 dice:application engine|Boston|p49
+[22:50:55]   W057 +  3 dice:robotics engineer|Boston|p36
+[22:50:55]   W019 +  2 dice:firmware engineer|Seattle|p16
+[22:50:55]   W045 +  4 dice:MongoDB engineer|Dallas|p38
+[22:50:55]   W080 +  7 simplyhired:cybersecurity engi|Houston|p48
+[22:50:55]   W098 +  1 dice:cybersecurity engi|Chicago|p27
+[22:50:55]   W003 +  4 simplyhired:Scala engineer|Washington D|p32
+[22:50:55]   W078 +  3 simplyhired:platform engineer|Lagos|p20
+[22:50:56]   W071 +  2 dice:AI engineer|Seattle|p25
+[22:51:03]   W037 +  7 simplyhired:VR engineer|San Francisc|p40
+[22:51:03]   W015 +  3 simplyhired:automation enginee|Leeds|p3
+[22:51:04]   W072 +  1 simplyhired:Hadoop engineer|San Diego|p30
+[22:51:08]   W048 +  3 simplyhired:golang developer|Boston|p10
+[22:51:10]   W043 +  2 simplyhired:Redis engineer|Austin|p15
+[22:51:10]   W068 +  1 simplyhired:network engineer|Los Angeles|p13
+[22:51:10]   W071 +  2 simplyhired:Vue developer|Washington D|p37
+[22:51:10]   W036 +  8 simplyhired:tech lead|Los Angeles|p48
+[22:51:10]   W016 +  8 simplyhired:GenAI engineer|Austin|p26
+[22:51:11]   W054 +  7 simplyhired:GenAI engineer|Atlanta|p25
+[22:51:11]   W008 +  1 simplyhired:Kotlin developer|New York|p34
+[22:51:11]   W005 +  2 dice:python developer|Washington D|p2
+[22:51:12]   W061 + 10 simplyhired:Perl developer|Boston|p27
+[22:51:17]   W041 +  1 dice:firmware engineer|Atlanta|p27
+[22:51:17]   W018 +  1 dice:data scientist|Toronto|p38
+[22:51:17]   W044 +  4 dice:data scientist|Austin|p25
+[22:51:18]   W031 +  1 dice:Spark engineer|Boston|p4
+[22:51:25]   W058 +  4 simplyhired:Spark engineer|Sydney|p27
+[22:51:26]   W080 +  1 simplyhired:Azure engineer|Vancouver|p42
+[22:51:26]   W097 +  7 simplyhired:kernel engineer|Dublin|p12
+[22:51:26]   W074 +  1 simplyhired:AI engineer|Denver|p9
+[22:51:26]   W077 +  3 simplyhired:data scientist|Seattle|p16
+[22:51:26]   W093 +  1 simplyhired:Django developer|Remote|p1
+[22:51:26]   W014 +  4 simplyhired:robotics engineer|Warsaw|p18
+[22:51:26]   W011 +  4 simplyhired:compiler engineer|Johannesburg|p32
+[22:51:26]   W034 +  2 simplyhired:PostgreSQL enginee|San Francisc|p4
+[22:51:26]   W075 +  1 dice:release engineer|Chicago|p5
+[22:51:28]   W026 +  1 dice:site reliability|San Francisc|p10
+[22:51:30]   W038 +  1 dice:react developer|Dallas|p21
+[22:51:31]   W017 +  3 simplyhired:deep learning engi|Gold Coast|p15
+[22:51:31]   W094 +  4 simplyhired:application engine|Wellington|p1
+[22:51:31]   W082 +  5 simplyhired:MongoDB engineer|Newcastle|p44
+[22:51:34]   W065 +  2 dice:Django developer|Austin|p39
+[22:51:35]   W086 +  5 dice:QA engineer|New York|p36
+[22:51:41]   W079 + 11 simplyhired:product engineer|Phoenix|p14
+[22:51:41]   W037 +  1 simplyhired:infrastructure eng|Cardiff|p9
+[22:51:41]   W057 +  9 simplyhired:build engineer|London|p7
+[22:51:41]   W028 +  1 simplyhired:Kubernetes enginee|San Diego|p5
+[22:51:41]   W003 +  1 simplyhired:rust developer|Houston|p16
+[22:51:43]   W054 +  3 simplyhired:AR engineer|Vienna|p33
+[22:51:43]   W033 +  1 dice:Hadoop engineer|Atlanta|p44
+[22:51:44]   W034 +  1 dice:Docker engineer|Seattle|p13
+[22:51:45]   W029 +  5 dice:robotics engineer|Washington D|p9
+[22:51:47]   W011 +  1 simplyhired:QA engineer|Boston|p25
+[22:51:47]   W023 +  4 simplyhired:Redis engineer|San Francisc|p14
+[22:51:47]   W047 +  5 simplyhired:Kubernetes enginee|Washington D|p46
+[22:51:47]   W044 +  3 dice:Scala engineer|New York|p40
+[22:51:51]   W047 +  1 dice:graphics engineer|San Diego|p17
+[22:51:51]   W007 +  2 dice:Redis engineer|Atlanta|p39
+[22:51:56]   W063 +  7 simplyhired:IT engineer|San Diego|p13
+[22:51:56]   W048 +  1 simplyhired:systems engineer|Nottingham|p0
+[22:51:56]   W019 +  2 simplyhired:database engineer|Remote|p18
+[22:51:56]   W064 +  1 simplyhired:penetration tester|Chicago|p49
+[22:51:56]   W057 +  1 simplyhired:Scala engineer|Austin|p39
+[22:51:56]   W038 +  1 simplyhired:Kubernetes enginee|Chicago|p15
+[22:51:56]   W081 +  5 simplyhired:platform engineer|Budapest|p4
+[22:51:58]   W092 +  2 simplyhired:C# developer|Washington D|p49
+[22:51:58]   W030 +  1 simplyhired:GenAI engineer|Melbourne|p16
+[22:51:58]   W055 +  1 dice:Kotlin developer|Miami|p5
+[22:51:58]   W062 +  1 dice:Docker engineer|Remote|p39
+[22:51:58]   W004 +  3 dice:build engineer|New York|p18
+[22:51:58]   W028 +  1 dice:GCP engineer|Seoul|p0
+[22:51:59]   W018 + 12 simplyhired:network engineer|Boston|p31
+[22:52:02]   W011 +  1 dice:TypeScript develop|Chicago|p29
+[22:52:02]   W091 +  1 dice:web developer|San Diego|p36
+[22:52:07]   W094 +  1 dice:IT engineer|Atlanta|p6
+[22:52:08]   W089 +  6 simplyhired:Hadoop engineer|Dublin|p34
+[22:52:08]   W063 +  7 simplyhired:release engineer|Dallas|p26
+[22:52:08]   W053 +  2 simplyhired:platform engineer|Boston|p5
+[22:52:08]   W078 +  1 simplyhired:PostgreSQL enginee|San Diego|p13
+[22:52:08]   W006 +  2 simplyhired:PostgreSQL enginee|Phoenix|p4
+[22:52:13]   W050 +  2 dice:network engineer|Remote|p46
+[22:52:13]   W025 +  2 dice:full stack develop|Atlanta|p22
+[22:52:14]   [HB] DB=717,947 | iters=4,136 new=918 | 4min | 225/min | Gap=282,053
+[22:52:15]   W061 +  5 simplyhired:network engineer|Denver|p12
+[22:52:15]   W014 +  9 simplyhired:payments engineer|Chicago|p18
+[22:52:15]   W056 +  1 simplyhired:SDE|Seattle|p17
+[22:52:15]   W073 +  1 simplyhired:GCP engineer|Cardiff|p24
+[22:52:18]   W006 +  1 dice:MongoDB engineer|Denver|p28
+[22:52:20]   W001 +  3 dice:GenAI engineer|San Francisc|p20
+[22:52:20]   W016 +  3 simplyhired:GCP engineer|Los Angeles|p15
+[22:52:21]   W047 +  6 simplyhired:payments engineer|Los Angeles|p29
+[22:52:21]   W038 + 13 simplyhired:VR engineer|Los Angeles|p31
+[22:52:22]   W065 +  3 dice:ML engineer|Miami|p22
+[22:52:26]   W076 +  3 dice:C# developer|Atlanta|p26
+[22:52:26]   W040 +  3 dice:site reliability|Washington D|p38
+[22:52:26]   W084 +  1 dice:microservices engi|Remote|p41
+[22:52:28]   W035 +  2 simplyhired:frontend engineer|Atlanta|p45
+[22:52:28]   W010 +  2 simplyhired:iOS developer|Los Angeles|p14
+[22:52:28]   W015 +  2 simplyhired:GCP engineer|San Francisc|p40
+[22:52:28]   W054 +  1 simplyhired:platform engineer|Perth|p44
+[22:52:29]   W063 +  5 dice:C++ engineer|Washington D|p44
+[22:52:29]   W062 +  1 dice:iOS developer|Denver|p39
+[22:52:29]   W008 +  1 simplyhired:embedded engineer|Toronto|p25
+[22:52:33]   W058 +  2 dice:C# developer|Los Angeles|p19
+[22:52:33]   W048 +  3 dice:platform engineer|Washington D|p14
+[22:52:33]   W042 +  8 dice:IT engineer|Washington D|p25
+[22:52:35]   W077 +  1 simplyhired:embedded engineer|Miami|p1
+[22:52:36]   W057 +  3 dice:Azure engineer|New York|p46
+[22:52:36]   W045 +  1 dice:LLM engineer|Seoul|p37
+[22:52:36]   W014 +  5 dice:staff engineer|Atlanta|p18
+[22:52:36]   W039 +  1 dice:Docker engineer|Phoenix|p46
+[22:52:36]   W088 +  1 simplyhired:embedded engineer|Boston|p39
+[22:52:37]   W025 +  1 simplyhired:payments engineer|Vienna|p39
+[22:52:37]   W062 +  1 simplyhired:compiler engineer|Sydney|p31
+[22:52:37]   W060 +  3 simplyhired:deep learning engi|Austin|p11
+[22:52:41]   W046 +  2 simplyhired:VR engineer|Miami|p49
+[22:52:43]   W062 +  7 dice:cybersecurity engi|Boston|p23
+[22:52:43]   W078 +  1 simplyhired:node developer|San Francisc|p14
+[22:52:48]   W017 + 14 simplyhired:cybersecurity engi|Vienna|p28
+[22:52:48]   W095 +  1 simplyhired:VR engineer|Prague|p35
+[22:52:48]   W034 +  2 dice:data scientist|Denver|p0
+[22:52:49]   W062 +  3 simplyhired:payments engineer|Seattle|p37

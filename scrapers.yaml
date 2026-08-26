@@ -1,0 +1,215 @@
+# Config-driven scrapers for the items engine. Run with: jobcollect scrape
+#
+# Modes:
+#   row_selector  - each matching element IS an item (list pages; no detail fetch)
+#   item_selector - matched links are detail pages, fetched and extracted
+# Fields use CSS selectors; prefix with "xpath:" for XPath; "@attr" extracts an
+# attribute (e.g. "time@datetime"). Unspecified fields fall back to heuristics
+# (h1/title, meta description, JSON-LD, trafilatura main-content extraction).
+
+scrapers:
+  # --- Row mode: Hacker News front page (each <tr class="athing"> is an item) ---
+  - name: "hacker_news_front"
+    start_url: "https://news.ycombinator.com"
+    category: "news"
+    row_selector: "tr.athing"
+    fields:
+      title: "span.titleline a"
+      url: "span.titleline a@href"
+    next_selector: "a.morelink"
+    max_pages: 2
+    max_items: 60
+
+  # --- Link mode: GitHub Blog (article links -> detail pages) ---
+  - name: "github_blog"
+    start_url: "https://github.blog/"
+    category: "blog"
+    item_selector: "h2 a, h3 a"
+    item_url_pattern: "github\\.blog/"
+    fields:
+      title: "h1"
+      content: "article"
+      published_at: "time@datetime"
+    max_pages: 1
+    max_items: 15
+    domain: "github.blog"
+
+  # --- Google Careers (server-rendered SPA; card rows carry title + link) ---
+  # Each <li class="lLd3Je"> is a job card. No JS rendering needed: Google
+  # serves the results as HTML. Pagination follows the "Go to next page" link.
+  - name: "google_careers"
+    start_url: "https://careers.google.com/jobs/results/?hl=en_US"
+    category: "careers"
+    row_selector: "li.lLd3Je"
+    fields:
+      title: "h3.QJPWVe"
+      company: "span.RP7SMd span"
+      location: "span.r0wTof"
+      summary: "span.r0wTof"
+    next_selector: "a[aria-label='Go to next page']"
+    max_pages: 3
+    max_items: 120
+
+# --- Playwright-based scrapers (JS-rendered career pages) ---
+# Run with: jobcollect pw-scrape [--name NAME]
+# These require: pip install playwright && playwright install chromium
+playwright_scrapers:
+  # LinkedIn public job search (no auth required)
+  - name: "linkedin_jobs"
+    start_url: "https://www.linkedin.com/jobs/search/?keywords=software+engineer&location=United+States"
+    category: "jobs"
+    card_selector: ".base-card"
+    fields:
+      title: ".base-search-card__title"
+      company: ".base-search-card__subtitle"
+      location: ".job-search-card__location"
+      url: "a@href"
+      posted_at: "time@datetime"
+    use_scroll: false
+    max_pages: 5
+    max_items: 150
+    delay_s: 2.0
+    domain: "linkedin.com"
+
+  # Indeed job search
+  - name: "indeed_jobs"
+    start_url: "https://www.indeed.com/jobs?q=software+engineer&l=United+States"
+    category: "jobs"
+    card_selector: ".job_seen_beacon"
+    fields:
+      title: ".jobTitle a@title"
+      company: ".companyName"
+      location: ".companyLocation"
+      url: ".jobTitle a@href"
+      posted_at: ".date"
+    use_scroll: true
+    max_scrolls: 15
+    max_pages: 5
+    max_items: 150
+    delay_s: 1.5
+    domain: "indeed.com"
+
+  # Glassdoor job search (link mode — follow each job link)
+  # Note: Glassdoor may redirect to regional domains (co.in, co.uk, etc.)
+  - name: "glassdoor_jobs"
+    start_url: "https://www.glassdoor.com/Job/software-engineer-jobs-SRCH_KO0,17.htm"
+    category: "jobs"
+    link_selector: "a[data-test='job-link']"
+    fields:
+      title: "h1"
+      company: "[data-test='employer-short-name']"
+      location: "[data-test='emp-location']"
+    use_scroll: true
+    max_scrolls: 10
+    max_pages: 3
+    max_items: 30
+    delay_s: 2.0
+
+  # Google Careers (Playwright version for JS-heavy SPA)
+  - name: "google_careers_pw"
+    start_url: "https://careers.google.com/jobs/results/?hl=en_US"
+    category: "careers"
+    card_selector: "li.lLd3Je"
+    fields:
+      title: "h3.QJPWVe"
+      company: "span.RP7SMd span"
+      location: "span.r0wTof"
+      url: "a@href"
+    use_scroll: true
+    max_scrolls: 20
+    max_pages: 5
+    max_items: 200
+    delay_s: 1.0
+
+  # Amazon jobs (JS-rendered, card mode)
+  - name: "amazon_jobs"
+    start_url: "https://www.amazon.jobs/en/search?base_query=software+engineer&country=USA"
+    category: "careers"
+    card_selector: "[class*=job-tile]"
+    fields:
+      title: "h3 a"
+      url: "h3 a@href"
+    use_scroll: true
+    max_scrolls: 15
+    max_pages: 5
+    max_items: 150
+    delay_s: 1.5
+    domain: "amazon.jobs"
+
+  # Microsoft careers (card mode — extract from search results)
+  - name: "microsoft_jobs"
+    start_url: "https://careers.microsoft.com/us/en/search-results?keywords=software+engineer"
+    category: "careers"
+    card_selector: "a[href*='/careers/job/']"
+    fields:
+      title: "h3, h2"
+      url: "@href"
+    use_scroll: true
+    max_scrolls: 10
+    max_pages: 3
+    max_items: 30
+    delay_s: 2.0
+
+  # Otta - Tech startup jobs (salary-first platform)
+  - name: "otta_jobs"
+    start_url: "https://app.otta.com/jobs/search?query=software+engineer"
+    category: "jobs"
+    card_selector: "[class*=job-card], [class*=JobCard], article"
+    fields:
+      title: "h2, h3, [class*=title]"
+      company: "[class*=company], [class*=employer]"
+      location: "[class*=location]"
+    use_scroll: true
+    max_scrolls: 15
+    max_pages: 3
+    max_items: 100
+    delay_s: 2.0
+    domain: "otta.com"
+
+  # Wellfound (AngelList) - Startup jobs
+  - name: "wellfound_jobs"
+    start_url: "https://wellfound.com/role/r/software-engineer"
+    category: "jobs"
+    card_selector: "[class*=job-card], [class*=JobCard], [data-test*=job]"
+    fields:
+      title: "h2, h3, [class*=title]"
+      company: "[class*=company], [class*=startup]"
+      location: "[class*=location]"
+    use_scroll: true
+    max_scrolls: 15
+    max_pages: 3
+    max_items: 100
+    delay_s: 2.0
+    domain: "wellfound.com"
+
+  # BuiltIn - Tech company jobs
+  - name: "builtin_jobs"
+    start_url: "https://builtin.com/jobs/software-engineer"
+    category: "jobs"
+    card_selector: "[class*=job-card], [class*=JobCard], article"
+    fields:
+      title: "h2, h3, [class*=title]"
+      company: "[class*=company], [class*=employer]"
+      location: "[class*=location]"
+    use_scroll: true
+    max_scrolls: 15
+    max_pages: 3
+    max_items: 100
+    delay_s: 2.0
+    domain: "builtin.com"
+
+  # Dribbble - Design jobs
+  - name: "dribbble_jobs"
+    start_url: "https://dribbble.com/jobs/software-engineer"
+    category: "jobs"
+    card_selector: "[class*=job-card], [class*=JobCard], [class*=shot]"
+    fields:
+      title: "h2, h3, [class*=title]"
+      company: "[class*=company], [class*=employer]"
+      location: "[class*=location]"
+    use_scroll: true
+    max_scrolls: 10
+    max_pages: 3
+    max_items: 50
+    delay_s: 2.0
+    domain: "dribbble.com"

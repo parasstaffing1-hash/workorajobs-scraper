@@ -1,0 +1,197 @@
+{
+  "name": "JobCollector → Google Sheets (daily 9 AM)",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "cronExpression",
+              "cronExpression": "0 9 * * *"
+            }
+          ]
+        }
+      },
+      "id": "schedule-9am",
+      "name": "Daily 9 AM",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [
+        0,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "command": "C:\\Users\\Administrator\\Documents\\ATS\\.venv\\Scripts\\jobcollect.exe collect --limit 500"
+      },
+      "disabled": true,
+      "id": "collect-jobs",
+      "name": "Collect jobs (enable only if n8n runs on the collector machine)",
+      "type": "n8n-nodes-base.executeCommand",
+      "typeVersion": 1,
+      "position": [
+        240,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "method": "GET",
+        "url": "http://127.0.0.1:8600/api/jobs?active=1&limit=5000",
+        "responseFormat": "json",
+        "options": {}
+      },
+      "id": "fetch-jobs",
+      "name": "Fetch jobs from JobCollector API",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 2,
+      "position": [
+        480,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "jsCode": "// Flatten each job into one row for Google Sheets.\n// The API returns { ok, count, jobs: [...] }.\nconst rows = ($json.jobs || []).map((j) => ({\n  title: j.title || '',\n  company: j.company || '',\n  location: j.location || '',\n  salary: j.salary || '',\n  source: j.source || '',\n  posted_at: (j.posted_at || '').slice(0, 10),\n  url: j.url || '',\n  tags: j.tags || '',\n  is_active: j.is_active ? 'yes' : 'no',\n}));\nreturn rows;"
+      },
+      "id": "prepare-rows",
+      "name": "Prepare rows for Sheets",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        720,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "resource": "sheet",
+        "operation": "clear",
+        "documentId": {
+          "__rl": true,
+          "value": "PASTE_YOUR_SPREADSHEET_ID_HERE",
+          "mode": "id"
+        },
+        "sheetName": {
+          "__rl": true,
+          "value": "Jobs",
+          "mode": "name"
+        },
+        "options": {}
+      },
+      "id": "clear-sheet",
+      "name": "Clear sheet (daily snapshot)",
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4,
+      "position": [
+        960,
+        0
+      ],
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "id": "1",
+          "name": "Google Sheets account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "sheet",
+        "operation": "append",
+        "documentId": {
+          "__rl": true,
+          "value": "PASTE_YOUR_SPREADSHEET_ID_HERE",
+          "mode": "id"
+        },
+        "sheetName": {
+          "__rl": true,
+          "value": "Jobs",
+          "mode": "name"
+        },
+        "columns": {
+          "mappingMode": "autoMapInputData",
+          "value": {},
+          "matchingColumns": [],
+          "schema": []
+        },
+        "options": {}
+      },
+      "id": "append-jobs",
+      "name": "Append jobs to sheet",
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4,
+      "position": [
+        1200,
+        0
+      ],
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "id": "1",
+          "name": "Google Sheets account"
+        }
+      }
+    }
+  ],
+  "connections": {
+    "Daily 9 AM": {
+      "main": [
+        [
+          {
+            "node": "Collect jobs (enable only if n8n runs on the collector machine)",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Collect jobs (enable only if n8n runs on the collector machine)": {
+      "main": [
+        [
+          {
+            "node": "Fetch jobs from JobCollector API",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Fetch jobs from JobCollector API": {
+      "main": [
+        [
+          {
+            "node": "Prepare rows for Sheets",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Prepare rows for Sheets": {
+      "main": [
+        [
+          {
+            "node": "Clear sheet (daily snapshot)",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Clear sheet (daily snapshot)": {
+      "main": [
+        [
+          {
+            "node": "Append jobs to sheet",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "pinData": {}
+}

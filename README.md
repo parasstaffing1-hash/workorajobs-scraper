@@ -1,0 +1,507 @@
+# JobCollector
+
+A dependency-light collection **engine** that pulls data **daily** from the web
+into one SQLite database. It has two halves:
+
+* **Jobs** — collect job postings from job-board APIs, RSS feeds, company career
+  pages, and official ATS APIs.
+* **General engine** — ingest *any* RSS/Atom feed (news, blogs, changelogs) and
+  scrape *any* website via config-driven scrapers, into a generic `items` table
+  that the rest of the tooling (search, export, scheduling, dashboard) can use
+  for purposes beyond jobs.
+
+## Engine toolkit
+
+The general engine is built on a broad open-source stack, all installed with
+`pip install -e ".[engine,js]"`:
+
+| Library | Role |
+|---|---|
+| `scrapy` | full scraping framework (for large-scale spiders) |
+| `trafilatura` | main-content extraction from raw HTML |
+| `selectolax` | fast HTML parsing |
+| `parsel` | CSS + XPath selectors for field extraction |
+| `dateparser` | natural-language date parsing |
+| `pandas` / `duckdb` | data analysis / columnar queries over collected data |
+| `rapidfuzz` | fuzzy matching (cross-source dedupe, clustering) |
+| `apprise` | notifications (email, Slack, Telegram, ...) |
+| `APScheduler` | in-process cron-style scheduling |
+| `python-dotenv` | environment configuration |
+| `playwright` | headless-Chromium JS rendering for SPA pages |
+
+## Jobs quickstart
+
+
+A small, dependency-light system that collects job postings **daily** from three
+kinds of sources and stores them in one SQLite database:
+
+1. **Public job-board APIs** — free, no API key: [Remotive](https://remotive.com/remote-jobs),
+   [RemoteOK](https://remoteok.com), [Arbeitnow](https://www.arbeitnow.com),
+   [Jobicy](https://jobicy.com).
+2. **RSS/Atom job feeds** — We Work Remotely, Jobspresso, Hacker News "Who's
+   Hiring", or any feed you point it at.
+3. **Company career pages** — a generic best-effort crawler for arbitrary career
+   sites (with JSON-LD extraction), with optional Playwright JS rendering.
+4. **Official ATS public APIs** — Greenhouse, Ashby, BambooHR, Lever,
+   Workday, SmartRecruiters, Workable, Breezy, Teamtailor, HireHive, Recruitee,
+   TCS (iBegin portal), the Rise job feed, plus **Jobvite**, **iCIMS** and
+   **YC startups** (server-rendered HTML, no key), all via small adapters in
+   `jobcollector/sources/ats_api.py`.
+
+   The **YC source** pulls every hiring YC-funded startup's current openings
+   straight from ycombinator.com/companies/<slug> (the directory's
+   server-rendered pages embed the jobs as JSON — no API key, no Playwright).
+   The company list comes from the directory's own Algolia index:
+   `scripts/build_yc_companies.py` (one-time, Playwright) writes
+   `data/yc-companies.json`, and `scripts/generate_yc_config.py` emits the
+   `yc:` slug list into `yc.yaml` + `companies.yaml`. These use the same free endpoints as the
+   open-source [job-board-aggregator](https://github.com/Feashliaa/job-board-aggregator)
+   project (MIT), which indexes 1M+ positions across ~20k companies.
+5. **Keyed aggregators** — **Adzuna** (20+ countries, one source per country
+   slug), **USAJobs** (U.S. federal) and **Reed** (UK's biggest board). These
+   need free API keys (developer.adzuna.com / developer.usajobs.gov /
+   reed.co.uk/api); put them in the `api_keys:` section of `companies.yaml`
+   (or `ADZUNA_APP_ID` / `ADZUNA_API_KEY` / `USAJOBS_API_KEY` /
+   `USAJOBS_USER_AGENT` / `REED_API_KEY` env vars). Without a key the source
+   reports a clear, non-fatal error and the run continues.
+6. **Major job portals (keyless)** — **The Muse** (public JSON API,
+   `themuse.com/api/public/jobs`), **Working Nomads** (remote jobs API),
+   **LinkedIn** (unofficial guest-search endpoint — see its adapter docstring:
+   ToS gray area, hard rate limits, ~100 results per window), plus the
+   **job-board APIs** (`boards:`) arbeitnow, remoteok, remotive and jobicy.
+   The closed giants — Indeed, Glassdoor, ZipRecruiter, CareerBuilder, Dice,
+   Monster — offer no keyless access and are bot-gated, so they are covered
+   indirectly through aggregators (Adzuna, Rise, The Muse) instead.
+7. **Keyword sweeps** — every source entry can carry a keyword filter:
+   `arbeitnow|python`, `remotive|backend engineer`, `adzuna:us|data engineer`.
+   Comma-separated keywords are match-any (`python,react` keeps jobs
+   mentioning either), so one entry can cover a whole skill family with a
+   single fetch. Boards with a real search API (remotive) filter server-side;
+   the rest fetch the feed once and match locally. A ready-made sweep config
+   covering the full software-engineering taxonomy (~300 terms) is generated
+   by `scripts/generate_keyword_config.py` into `keywords.yaml` — run it with
+   `jobcollect collect --config keywords.yaml --sources board,ats`. `boards:`
+   in `companies.yaml` already includes representative keyword entries for
+   the daily run. `usajobs:` entries can also carry a keyword
+   (`software engineer`, `cybersecurity`, …) — the adapter passes it to
+   USAJobs' `Keyword` search param, so the federal sweep is tech-focused
+   instead of every federal posting.
+
+It is built entirely on battle-tested open-source libraries:
+`httpx`, `beautifulsoup4`/`lxml`, `feedparser`, `pydantic`, `click`, `rich`,
+`tenacity`, `PyYAML`, with optional `playwright` for JS-heavy career sites.
+
+## Quickstart
+
+```bash
+python -m venv .venv
+source .venv/bin/activate        # Windows: .venv\Scripts\activate
+pip install -e ".[dev]"
+
+jobcollect init-config           # creates companies.yaml from the example
+jobcollect collect               # one full collection pass
+jobcollect search "machine learning" --location remote
+jobcollect search "backend" --days 7
+jobcollect export --query "python" --format jsonl --out python-jobs.jsonl
+jobcollect report            # writes dashboard.html: a self-contained HTML dashboard
+jobcollect stats
+jobcollect sources
+
+## General engine usage
+
+```bash
+jobcollect init-engine        # create feeds.yaml + scrapers.yaml from examples
+
+# RSS: ingest ANY feed into the items table
+jobcollect feed add "Hacker News" https://hnrss.org/frontpage --category news
+jobcollect feed discover https://example.com     # auto-find a site's feed(s), --add to subscribe
+jobcollect feed import feeds.opml                # bring subscriptions from Feedly/Inoreader/etc.
+jobcollect feed export --out feeds.opml          # portable backup / migrate away
+jobcollect feed list
+jobcollect feed fetch          # daily: jobcollect feed fetch >> engine.log
+jobcollect feed unread --limit 20                # the reader's inbox from the terminal
+
+# Scraping: config-driven scrapers (row mode + link mode, pagination)
+jobcollect scrape              # runs everything in scrapers.yaml
+jobcollect scrape --name hacker_news_front --limit 30
+jobcollect pw-scrape             # runs Playwright-based JS scrapers (LinkedIn, Indeed, etc.)
+jobcollect pw-scrape --name linkedin_jobs --limit 20
+
+# Browse collected engine data
+jobcollect items --category news --limit 20
+jobcollect items --query "python"
+jobcollect stats               # shows jobs + engine item counts
+```
+
+`scrapers.yaml` supports two modes per scraper:
+
+```yaml
+scrapers:
+  # Row mode: each matched element IS an item (no detail fetch)
+  - name: hacker_news_front
+    start_url: https://news.ycombinator.com
+    category: news
+    row_selector: "tr.athing"
+    fields: { title: "span.titleline a", url: "span.titleline a@href" }
+    next_selector: "a.morelink"
+    max_pages: 2
+
+  # Link mode: matched links are detail pages, fetched and extracted
+  - name: github_blog
+    start_url: https://github.blog/
+    category: blog
+    item_selector: "h2 a, h3 a"
+    item_url_pattern: "github\\.blog/"
+    fields: { title: "h1", content: "article", published_at: "time@datetime" }
+    domain: github.blog
+```
+
+Field selectors are CSS by default, `xpath:`-prefixed for XPath, and `@attr`
+suffixes extract attributes (e.g. `time@datetime`). Unspecified fields fall
+back to heuristics: JSON-LD, `h1`/`title`, meta description, and trafilatura
+main-content extraction. Set `render_js: true` on a scraper to render SPA
+pages with Playwright.
+
+The `items` table dedupes on `(source, url)`, so daily re-fetches refresh
+instead of duplicating — the same semantics as the jobs table.
+
+## Engine tooling (completing the engine)
+
+```bash
+# Notifications: daily digest of new/expired jobs + new items via apprise
+jobcollect notify --dry-run          # preview the digest (no send, no state change)
+jobcollect notify                    # deliver; incremental (tracks last-send in DB)
+#   configure channels in notify.yaml (copy notify.example.yaml) or
+#   export JOBCOLLECT_NOTIFY_URLS="slack://...,mailtos://..."
+
+# Analytics: DuckDB SQL over both tables (read-only ATTACH)
+jobcollect analyze                          # jobs per source
+jobcollect analyze --report items_by_category
+jobcollect analyze --report latest_jobs
+jobcollect analyze --sql "SELECT company, COUNT(*) AS n FROM j.jobs WHERE is_active = 1 GROUP BY company ORDER BY n DESC LIMIT 10"
+
+# Cross-source duplicate detection (rapidfuzz)
+jobcollect dedupe --threshold 88      # clusters of the same posting on different sources
+
+# Notion-style dashboard: sidebar, Jobs/Items/Analytics/Companies pages,
+# table + board (kanban) views, filters, sortable columns, detail drawer
+jobcollect report                      # -> dashboard.html
+```
+
+The completed engine stack: `apprise` (notify), `duckdb` (analyze), `rapidfuzz`
+(dedupe), `trafilatura`/`parsel`/`selectolax`/`scrapy` (scraping),
+`pandas`/`duckdb` (analysis), `APScheduler` (scheduling), `python-dotenv` (env).
+
+## Notion-style UI
+
+The dashboard (`jobcollect report` → `dashboard.html`, open it in the Preview
+tab or any browser) mimics Notion's look and feel. It also has a **Companies
+& Keywords page** (`🏢` in the sidebar, key `4`): track companies and monitor
+keywords with live counts of matching active jobs. Add entries via the forms
+(or Enter), click 🔍 to jump to the Jobs page filtered by that term, ✕ to
+remove. Entries persist to SQLite through the serve API when running under
+`jobcollect serve` and fall back to localStorage for a standalone page:
+
+* **Left sidebar** — workspace name, search, Database pages (Jobs, Engine
+  Items, Analytics, Companies) and per-source counts, all collapsible into
+  the page tree.
+* **Database views** — the Jobs and Engine Items pages offer a **Table** view
+  (sortable columns, active-only toggle, source filter, CSV export) and a
+  **Board** view (kanban columns grouped by source or company).
+* **Detail drawer** — click any row or card for a Notion-style page: status,
+  company, location, source, posted date, tags, full description, and an
+  "Open original" link.
+* **Analytics page** — KPI cards (incl. last-run new/expired deltas), CSS bar
+  charts (jobs per source, engine items per source/category, top companies),
+  and a **collection-history trend chart** of jobs seen per run.
+
+Polish throughout: **dark mode** (toggle in the sidebar footer, remembers your
+choice, respects the OS preference), **keyboard shortcuts** (press `?` for the
+full list — `/` filter, `T`/`B` table/board, `G` cycle grouping, `1`/`2`/`3`
+pages, `D` dark mode, `E` export), **search highlighting**, sort indicators,
+slide-in drawer with a copy-link button, toasts, collapsible sidebar, and
+empty states that reset filters in one click.
+
+It's a single self-contained HTML file with zero external dependencies —
+refresh it after any collection run with `jobcollect report`.
+
+## RSS reader (`jobcollect serve`)
+
+The same dashboard contains a full **feed reader** page (📰 in the sidebar) —
+Feedly/Inoreader-class, with real persistence:
+
+```bash
+jobcollect serve              # starts the reader at http://127.0.0.1:8600
+```
+
+* **3-pane layout** — inbox (All / Unread / Starred), per-feed unread counts,
+  article list, and a reading pane. Click an article to read it and it's
+  marked read automatically; star it, filter by feed, search the inbox.
+* **Keyboard** — `J`/`K` next/prev, `M` mark read, `S` star, `U` cycle
+  unread/starred/all, `R` refresh, `O` open original, `/` search.
+* **Full-text extraction** — items that only carry a summary get a
+  "Load full text" button; the article is fetched and extracted with
+  trafilatura, then cached in the database.
+* **Persistence** — read/star state is stored in SQLite via a tiny JSON API
+  (`/api/read`, `/api/star`, `/api/read_all`, `/api/fulltext`). Without the
+  server (plain `dashboard.html`), the reader still works with
+  localStorage-only state and no full text.
+* **Feed health** — each fetch records last-fetched time, item count and any
+  error per feed (visible via `jobcollect feed list` / the feeds pane).
+* **OPML** — `feed export` / `feed import` for portable subscriptions.
+
+The server is stdlib-only (`http.server`); `jobcollect serve --port 8600
+--host 0.0.0.0` shares it on your LAN. Regenerate the static snapshot anytime
+with `jobcollect report`.
+
+One honest note: full text is fetched on demand from the publisher's site, so
+it depends on their pages being reachable and well-formed (trafilatura falls
+back to "no extractable content" gracefully rather than failing the run).
+
+## n8n → Google Sheets (daily 9 AM)
+
+Pipe every collected job into a Google Sheet each morning. A ready-to-import
+n8n workflow lives at `n8n/jobcollect-daily-sheets.json` (full guide in
+`n8n/README.md`):
+
+```
+Schedule (cron 0 9 * * *) → [collect] → GET /api/jobs → flatten rows → clear sheet → append
+```
+
+The `jobcollect serve` command exposes machine-readable JSON for n8n (or any
+HTTP client) to consume — no scraping needed on the n8n side:
+
+```bash
+curl "http://127.0.0.1:8600/api/jobs?active=1&limit=5000"   # all active jobs
+curl "http://127.0.0.1:8600/api/jobs?q=python&source=greenhouse"
+curl "http://127.0.0.1:8600/api/items?category=news&limit=500"   # RSS/scraped items
+```
+
+Setup: import the workflow, connect your Google Sheets OAuth credential in
+n8n, paste your spreadsheet ID, and run it. The default workflow does a daily
+**clear + append snapshot** (no stale rows); a variations section in
+`n8n/README.md` covers append-only mode and pushing engine items instead.
+
+## Stress test: 100k jobs in 24h (`jobcollect stress`)
+
+Load-test the whole pipeline — ingest, queries, API, dashboard, Sheets export —
+with 100,000 synthetic jobs all posted within the last 24 hours, without ever
+touching the real database:
+
+```bash
+jobcollect stress --rows 100000      # ~2 min; writes stress-sheets.csv + stress-results.json
+```
+
+Measured on this machine (2026-08-16, full plan in `VERIFICATION.md`):
+
+| Metric | Result |
+|--------|--------|
+| Batched ingest | **12,589 jobs/s** (100k in ~8 s; per-row path: 12/s) |
+| Search p95 | 105 ms |
+| stats() / dashboard | 19 ms / 105 ms |
+| Full 100k CSV export | 5.9 s |
+| API 10k-row page | 1.25 s; paging covers all 100k rows |
+| Data integrity | 100% (unique, active, all posted ≤ 24 h ago) |
+| `stress-sheets.csv` | 100,000 rows · 22 MB · exact n8n header contract |
+
+The stress test has already paid for itself: it found the per-row commit
+bottleneck (~1,500× slower than batched ingest, now fixed in `collect`) and a
+missing covering index (`stats()` 527 ms → 19 ms). The API also gained
+`offset` paging so >10k rows can actually be pulled out. Getting the 100k rows
+into Google Sheets is covered in `VERIFICATION.md` (direct CSV import, the n8n
+workflow, or Apps Script).
+
+## How a daily run works
+
+```
+jobcollect collect
+  ├─ boards     fetch Remotive / RemoteOK / Arbeitnow / Jobicy APIs
+  ├─ ats        scrape Greenhouse + Lever boards for configured company slugs
+  ├─ rss        parse configured RSS/Atom feeds
+  └─ careers    crawl each company's career page:
+                  1. fetch the listing page
+                  2. collect in-domain links that look like job postings
+                     (URL/anchor matches job keywords, minus blog/news/etc.)
+                  3. fetch detail pages concurrently (default 8 threads)
+                  4. extract via JSON-LD (JobPosting) first, HTML heuristics after
+```
+
+Every job is stored with a stable **dedupe key** (provider id when available,
+otherwise a hash of title/company/location/url + source), so re-running daily
+never creates duplicates. After each run, jobs from sources that were seen but
+no longer report them are marked **expired** (`is_active = 0`) — your daily
+diff of new vs. expired jobs is your "what's new today" feed.
+
+The example config ships with ~20 live sources covering all five ATS APIs,
+four job-board APIs, three RSS feeds, and three crawled career pages — about
+950 active jobs on a fresh run.
+
+## Configuring sources
+
+Edit `companies.yaml` (see `companies.example.yaml` for a fully commented copy).
+
+```yaml
+boards:
+  - remotive          # available: remotive, remoteok, arbeitnow, jobicy
+
+rss_feeds:
+  - name: "Hacker News (Who's Hiring)"
+    url: "https://hnrss.org/jobs"
+
+# ATS platforms via their official public APIs (company slug per platform):
+greenhouse: [stripe, airbnb, instacart]   # https://boards-api.greenhouse.io/v1/boards/<slug>/jobs
+ashby: [linear, notion, 1password]        # https://api.ashbyhq.com/posting-api/job-board/<slug>
+bamboohr: [cbm]                           # https://<slug>.bamboohr.com/careers/list
+lever: [15five]                           # https://api.lever.co/v0/postings/<slug>
+workday: ["7eleven|wd3|7eleven"]          # "company|wd{n}|site_id"
+tcs: [tcs]                                # Tata Consultancy Services (iBegin portal)
+smartrecruiters: [canva, wise, redbull]   # https://api.smartrecruiters.com/v1/companies/<slug>/postings
+workable: [huzzle, pavago, tehora]        # https://apply.workable.com/api/v1/widget/accounts/<slug>
+breezy: [duolingo]                        # https://<slug>.breezy.hr/json?verbose=true
+teamtailor: [storytel]                    # https://<slug>.teamtailor.com/jobs.json
+hirehive: [hirehive]                      # https://<slug>.hirehive.com/api/v2/jobs
+recruitee: [auditdata]                    # https://<slug>.recruitee.com/api/offers
+rise: [public]                            # https://api.joinrise.io/api/v1/jobs/public (aggregator)
+```
+
+Workday slugs need the full site id: `7eleven|wd3|7eleven` maps to
+`https://7eleven.wd3.myworkdayjobs.com/wday/cxs/7eleven/7eleven/jobs`. If an
+ATS company's official API is unavailable, the legacy Greenhouse/Lever HTML
+scrapers are still used as an automatic fallback.
+
+> Credit: the ATS API endpoints and company-slug discovery follow the
+> open-source [job-board-aggregator](https://github.com/Feashliaa/job-board-aggregator)
+> project (MIT). Its curated company datasets are CC BY-NC 4.0 (non-commercial).
+
+companies:
+  - name: "Mozilla"
+    careers_url: "https://www.mozilla.org/en-US/careers/listings/"
+    domain: "mozilla.org"         # only follow links on this host
+    # link_selector: "a[href*='/job/']"   # exact selector (bypasses keyword filter)
+    # link_pattern: "/(job|position)/"    # regex on hrefs
+    # exclude_keywords: [blog, news, press]
+    # max_pages: 40
+    # use_js: true                        # Playwright render for SPA sites
+```
+
+The generic crawler works well on server-rendered career sites. For
+single-page-app career pages (Angular/React without server rendering), set
+`use_js: true` on the company and install the optional extra:
+
+```bash
+pip install "jobcollector[js]"
+playwright install chromium
+```
+
+### Top-1000 employers (the companies that hire the most)
+
+The default `companies.yaml` already includes ~500 of the world's biggest
+employers by headcount (Fortune Global 500), each crawled via a best-effort
+`https://<website>/careers` guess (`max_pages: 20` each to keep the bulk crawl
+bounded). The full ranked list of 1000 — including another 500 entries whose
+website isn't in the source data, ready to be filled in — lives in
+`companies-top1000.yaml` (pending entries are commented out).
+
+```bash
+python scripts/generate_companies_top1000.py             # rebuild the YAML files
+python scripts/generate_companies_top1000.py --append    # re-splice the live block
+                                                        # into companies.yaml (idempotent)
+```
+
+The list is built from four public datasets (Fortune Global 500, S&P 500,
+Fortune 500 US, stockanalysis.com largest US employers) merged and ranked by
+employee count in `scripts/build_top1000.py` → `data/top-1000-employers.csv`.
+The guessed career URLs work for many employers but not all (e.g. Amazon uses
+`amazon.jobs`); edit individual `careers_url` values to fix the ones that
+matter to you.
+
+## Scheduling it daily
+
+The built-in scheduler runs the whole pipeline (collect + feed fetch + scrape +
+dashboard report) on a clock — no n8n, cron, or manual trigger needed. Each
+task runs as its own subprocess, so one failing source never stops the others;
+everything is logged to `logs/schedule.log`.
+
+```bash
+# Run the daily tasks at 09:00, forever (Ctrl-C to stop)
+.venv/Scripts/jobcollect schedule --time 09:00
+
+# Run today's tasks right now and exit (also what the scheduled task calls)
+.venv/Scripts/jobcollect schedule --once
+
+# Pick the tasks / time
+.venv/Scripts/jobcollect schedule --time 06:15 --tasks collect,feed,scrape,report
+```
+
+**Windows Task Scheduler** (one command, registers a daily task at the given
+time; it calls `--once` so the OS owns the clock):
+
+```powershell
+.venv\Scripts\jobcollect schedule --install-task --time 09:00
+# Verify: schtasks /Query /TN "JobCollector Daily"   Remove: jobcollect schedule --remove-task
+```
+
+**systemd** — two options. The daemon form keeps one process alive that fires
+the tasks daily (recommended):
+
+```bash
+cp systemd/jobcollect-scheduler.service /etc/systemd/system/
+systemctl daemon-reload && systemctl enable --now jobcollect-scheduler
+```
+
+Or the oneshot + timer form: copy `systemd/jobcollect.service` +
+`systemd/jobcollect.timer` to `/etc/systemd/system/`, adjust paths, then:
+
+```bash
+systemctl daemon-reload && systemctl enable --now jobcollect.timer
+```
+
+**cron** (Linux/macOS):
+
+```cron
+15 6 * * * cd /path/to/jobcollector && .venv/bin/jobcollect schedule --once --tasks collect,feed,scrape,report >> logs/schedule.log 2>&1
+```
+
+**Docker** (runs cron inside the container):
+
+```bash
+docker build -t jobcollector .
+docker run -d --name jobcollector -v "$PWD/jobs.db:/app/jobs.db" -v "$PWD/logs:/app/logs" jobcollector
+```
+
+## Storage
+
+SQLite (`jobs.db` by default). Two tables:
+
+* `jobs` — one row per posting with `dedupe_key`, title, company, location, url,
+  description, tags (JSON), source, posted/first-seen/last-seen timestamps,
+  `is_active`.
+* `runs` — history of collection runs (jobs seen / new / expired).
+
+Search is plain SQL `LIKE` across title/company/description/tags; the CLI wraps
+it (`jobcollect search ...`, `jobcollect export --format csv|jsonl`).
+
+## Extending
+
+Each source is a small function returning `list[Job]`; the pipeline
+(`jobcollector/pipeline.py`) wires them together. To add a new job board, write
+a parser in `jobcollector/sources/boards.py` and register it. To add a new ATS,
+model it on `jobcollector/sources/ats_api.py` (add the fetch function to the
+`ADAPTERS` dict and a matching `list[str]` field on `SourceConfig` in
+`jobcollector/models.py`; keyed sources take a `(client, slug, limit, keys)`
+signature and are listed in `_KEYED`). Job dedupe, storage, expiry, and the CLI
+then work unchanged.
+
+Since 2026-08 the pipeline fetches **all sources concurrently** (a thread pool
+over `httpx.Client`, which is thread-safe; SQLite writes still happen on one
+thread), so hundreds of ATS boards + career pages complete in parallel instead
+of one after another. `--concurrency` controls the worker count.
+
+## Be a good citizen
+
+* Identify yourself: `jobcollector` ships a descriptive `User-Agent` and bounded
+  retries with exponential backoff (no hammering).
+* Respect `robots.txt` and each site's Terms of Service. The generic crawler is
+  deliberately shallow (one listing page + per-job pages, capped per run).
+* Many job boards and ATS vendors offer official APIs with keys — prefer those
+  over scraping where available.

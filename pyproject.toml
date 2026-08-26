@@ -1,0 +1,80 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "jobcollector"
+version = "0.1.0"
+description = "Daily job collector: company career pages, RSS feeds, and public job board APIs."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "httpx>=0.27",
+    "beautifulsoup4>=4.12",
+    "lxml>=5.0",
+    "feedparser>=6.0",
+    "pydantic>=2.7",
+    "click>=8.1",
+    "rich>=13.7",
+    "tenacity>=8.2",
+    "PyYAML>=6.0",
+]
+
+[project.optional-dependencies]
+# Optional: JS rendering for single-page-app career sites (Playwright + Chromium).
+js = ["playwright>=1.44"]
+dev = ["pytest>=8.0"]
+# General-purpose collection engine: scraping frameworks, content extraction,
+# data analysis, fuzzy matching, notifications, scheduling, env config.
+engine = [
+    "scrapy>=2.11",
+    "trafilatura>=1.8",
+    "selectolax>=0.3",
+    "parsel>=1.9",
+    "dateparser>=1.2",
+    "pandas>=2.2",
+    "duckdb>=1.0",
+    "rapidfuzz>=3.9",
+    "apprise>=1.8",
+    "APScheduler>=3.10",
+    "python-dotenv>=1.0",
+]
+# Full scraping stack: job boards, ATS platforms, AI crawlers, browser automation.
+full = [
+    # Job-specific aggregators (from github.com/speedyapply/JobSpy)
+    "python-jobspy>=1.1",
+    # Scraping frameworks
+    "scrapy>=2.11",
+    "scrapling>=0.4",
+    # Browser automation
+    "playwright>=1.44",
+    "selenium>=4.20",
+    # HTTP
+    "aiohttp>=3.9",
+    # HTML parsing & extraction
+    "selectolax>=0.3",
+    "lxml>=5.0",
+    "parsel>=1.9",
+    "extruct>=0.17",
+    "trafilatura>=1.8",
+    # AI-assisted crawlers
+    "crawl4ai>=0.40",
+    # Data processing
+    "dateparser>=1.2",
+    "pandas>=2.2",
+    "duckdb>=1.0",
+    "rapidfuzz>=3.9",
+    # Notifications & scheduling
+    "apprise>=1.8",
+    "APScheduler>=3.10",
+    "python-dotenv>=1.0",
+]
+
+[project.scripts]
+jobcollect = "jobcollector.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["jobcollector*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

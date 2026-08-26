@@ -1,0 +1,4 @@
+# Daily at 06:15. Install with: crontab cron.example
+# Logs go to logs/collect.log (mkdir -p logs first).
+#
+# 15 6 * * * cd /path/to/jobcollector && .venv/bin/jobcollect collect --config companies.yaml >> logs/collect.log 2>&1

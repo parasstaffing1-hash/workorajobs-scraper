@@ -1,0 +1,2 @@
+$p = Start-Process 'C:\Users\Administrator\Documents\ATS\.venv\Scripts\python.exe' -ArgumentList '-u','C:\Users\Administrator\Documents\ATS\scripts\bulletproof_scraper.py','--hours','8' -WorkingDirectory 'C:\Users\Administrator\Documents\ATS' -RedirectStandardOutput 'C:\Users\Administrator\Documents\ATS\worker.log' -RedirectStandardError 'C:\Users\Administrator\Documents\ATS\worker_err.log' -WindowStyle Hidden -PassThru
+Write-Output "PID=$($p.Id)"

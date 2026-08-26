@@ -1,0 +1,66 @@
+probing 74 failing companies
+Walmart                                       -> https://careers.walmart.com (200)
+China National Petroleum                      ALL FAILED
+State Grid                                    ALL FAILED
+China Post Group                              ALL FAILED
+Volkswagen                                    ALL FAILED
+Deutsche Post DHL Group                       ALL FAILED
+Sinopec Group                                 ALL FAILED
+Jinneng Holding Group                         ALL FAILED
+Gazprom                                       ALL FAILED
+China Mobile Communications                   ALL FAILED
+Industrial & Commercial Bank of China         ALL FAILED
+Edeka Zentrale                                ALL FAILED
+United Parcel Service                         ALL FAILED
+Jardine Matheson                              -> https://jardines.com/en/careers (200)
+China Telecommunications                      ALL FAILED
+Aviation Industry Corp. of China              ALL FAILED
+China Construction Bank                       ALL FAILED
+Toyota Motor                                  ALL FAILED
+Berkshire Hathaway                            ALL FAILED
+China State Construction Engineering          ALL FAILED
+Hitachi                                       ALL FAILED
+Rosneft Oil                                   ALL FAILED
+Ping An Insurance                             ALL FAILED
+X5 Retail Group                               ALL FAILED
+TJX                                           -> https://jobs.tjx.com (200)
+Nippon Telegraph and Telephone                -> https://group.ntt/en/careers (200)
+Carrefour                                     ALL FAILED
+China Energy Investment                       ALL FAILED
+China Railway Engineering Group               ALL FAILED
+Pacific Construction Group                    ALL FAILED
+CK Hutchison Holdings                         ALL FAILED
+BYD                                           -> https://careers.byd.com (200)
+AEON                                          ALL FAILED
+Costco Wholesale                              -> https://careers.costco.com (200)
+Sberbank                                      ALL FAILED
+China Southern Power Grid                     ALL FAILED
+Stellantis                                    -> https://careers.stellantis.com (200)
+Sumitomo Electric Industries                  -> https://global-sei.com/jobs (200)
+Fresenius                                     -> https://careers.fresenius.com (200)
+Nestlé                                        ALL FAILED
+Lowe's                                        -> https://jobs.lowes.com (200)
+China Merchants Group                         ALL FAILED
+La Poste                                      ALL FAILED
+HCA Healthcare                                ALL FAILED
+Shandong Energy Group                         ALL FAILED
+China United Network Communications           ALL FAILED
+Panasonic Holdings                            ALL FAILED
+Jabil                                         -> https://careers.jabil.com (200)
+Japan Post Holdings                           ALL FAILED
+Sinochem Holdings                             ALL FAILED
+China Communications Construction             ALL FAILED
+Vinci                                         -> https://jobs.vinci.com (200)
+China North Industries Group                  ALL FAILED
+China State Shipbuilding                      ALL FAILED
+Woolworths Group                              -> https://careers.com.au (200)
+Honda Motor                                   ALL FAILED
+AT&T                                          -> https://att.com/jobs (200)
+China Electronics Technology Group            ALL FAILED
+Shanxi Coking Coal Group                      ALL FAILED
+Sinopharm                                     ALL FAILED
+Finatis                                       ALL FAILED
+Albertsons                                    ALL FAILED
+Huawei Investment & Holding                   ALL FAILED
+Banco Santander                               -> https://careers.santander.com (200)
+China Minmetals                               ALL FAILED

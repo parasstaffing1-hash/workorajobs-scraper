@@ -1,0 +1,1001 @@
+rank,company,country,industry,employees,website,source
+1,Walmart,U.S.,General Merchandisers,2300000,www.walmart.com,fortune-global-500
+2,Amazon.com,U.S.,Internet Services and Retailing,1608000,www.amazon.com,fortune-global-500
+3,China National Petroleum,China,Petroleum Refining,1090345,www.cnpc.com.cn,fortune-global-500
+4,State Grid,China,Utilities,871145,www.sgcc.com.cn,fortune-global-500
+5,Hon Hai Precision Industry,Taiwan,"Electronics, Electrical Equip.",826608,www.foxconn.com,fortune-global-500
+6,China Post Group,China,"Mail, Package and Freight Delivery",748920,www.chinapost.com.cn,fortune-global-500
+7,Volkswagen,Germany,Motor Vehicles & Parts,672789,www.volkswagenag.com,fortune-global-500
+8,Accenture,Ireland,Information Technology Services,624000,www.accenture.com,fortune-global-500
+9,U.S. Postal Service,U.S.,"Mail, Package and Freight Delivery",584902,www.usps.com,fortune-global-500
+10,Deutsche Post DHL Group,Germany,"Mail, Package and Freight Delivery",548042,www.dpdhl.com,fortune-global-500
+11,Sinopec Group,China,Petroleum Refining,542286,www.sinopec.com,fortune-global-500
+12,FedEx,U.S.,"Mail, Package and Freight Delivery",508650,www.fedex.com,fortune-global-500
+13,Jinneng Holding Group,China,"Mining, Crude-Oil Production",506364,www.dtcoalmine.com,fortune-global-500
+14,Home Depot,U.S.,Specialty Retailers,490600,www.homedepot.com,fortune-global-500
+15,Gazprom,Russia,Energy,468000,www.gazprom.com,fortune-global-500
+16,Agricultural Bank of China,China,Banks: Commercial and Savings,455174,www.abchina.com,fortune-global-500
+17,Concentrix Corporation,United States,,455000,,largest-us-employers
+18,China Mobile Communications,China,Telecommunications,451331,www.10086.cn,fortune-global-500
+19,Target,U.S.,General Merchandisers,450000,www.target.com,fortune-global-500
+20,Industrial & Commercial Bank of China,China,Banks: Commercial and Savings,434089,www.icbc-ltd.com,fortune-global-500
+21,Kroger,U.S.,Food & Drug Stores,420000,www.thekrogerco.com,fortune-global-500
+22,"Marriott International, Inc.",United States,,414000,,largest-us-employers
+23,Edeka Zentrale,Germany,Wholesalers: Food and Grocery,404900,www.verbund.edeka,fortune-global-500
+24,Bosch Group,Germany,Motor Vehicles & Parts,402614,www.bosch.com,fortune-global-500
+25,United Parcel Service,U.S.,"Mail, Package and Freight Delivery",400945,www.ups.com,fortune-global-500
+26,Jardine Matheson,China,Motor Vehicles & Parts,400000,www.jardines.com,fortune-global-500
+27,China Telecommunications,China,Telecommunications,394600,www.chinatelecom.com.cn,fortune-global-500
+28,UnitedHealth Group Incorporated,United States,,390000,,largest-us-employers
+29,JD.com,China,Internet Services and Retailing,385357,www.jd.com,fortune-global-500
+30,Starbucks,U.S.,Food Services,383000,www.starbucks.com,fortune-global-500
+31,Aviation Industry Corp. of China,China,Aerospace & Defense,380000,www.avic.com,fortune-global-500
+32,"The TJX Companies, Inc.",United States,,377000,,largest-us-employers
+33,China Construction Bank,China,Banks: Commercial and Savings,375531,www.ccb.com,fortune-global-500
+34,Toyota Motor,Japan,Motor Vehicles & Parts,372817,www.global.toyota/en/,fortune-global-500
+35,Berkshire Hathaway,U.S.,Insurance: Property and Casualty (Stock),372000,www.berkshirehathaway.com,fortune-global-500
+36,China State Construction Engineering,China,Engineering & Construction,368327,www.cscec.com,fortune-global-500
+37,Hitachi,Japan,"Electronics, Electrical Equip.",368247,www.hitachi.com,fortune-global-500
+38,China Railway Construction,China,Engineering & Construction,366833,www.crcc.cn,fortune-global-500
+39,China Resources,China,Pharmaceuticals,362706,www.crc.com.hk,fortune-global-500
+40,Rosneft Oil,Russia,Petroleum Refining,356000,www.rosneft.com,fortune-global-500
+41,Ping An Insurance,China,"Insurance: Life, Health (Stock)",355982,www.group.pingan.com,fortune-global-500
+42,Cognizant Technology Solutions Corporation,United States,,351600,,largest-us-employers
+43,UnitedHealth Group,U.S.,Health Care: Insurance and Managed Care,350000,www.unitedhealthgroup.com,fortune-global-500
+44,Reliance Industries,India,Petroleum Refining,342982,www.ril.com,fortune-global-500
+45,X5 Retail Group,Netherlands,Food & Drug Stores,340928,www.x5.ru,fortune-global-500
+46,TJX,U.S.,Specialty Retailers,340000,www.tjx.com,fortune-global-500
+47,Nippon Telegraph and Telephone,Japan,Telecommunications,333840,www.group.ntt,fortune-global-500
+48,Deutsche Bahn,Germany,Railroads,323716,www.deutschebahn.com,fortune-global-500
+49,Carrefour,France,Food & Drug Stores,319565,www.carrefour.com,fortune-global-500
+50,China Energy Investment,China,"Mining, Crude-Oil Production",317168,www.ceic.com,fortune-global-500
+51,China Railway Engineering Group,China,Engineering & Construction,310817,www.crecg.com,fortune-global-500
+52,Pacific Construction Group,China,Engineering & Construction,310719,www.cpcg.com.cn,fortune-global-500
+53,PepsiCo,U.S.,Food Consumer Products,309000,www.pepsico.com,fortune-global-500
+54,Bank of China,China,Banks: Commercial and Savings,306322,www.boc.cn,fortune-global-500
+55,Siemens,Germany,Industrial Machinery,303000,www.siemens.com,fortune-global-500
+56,"TriNet Group, Inc.",United States,,302955,,largest-us-employers
+57,CK Hutchison Holdings,China,Specialty Retailers,300000,www.ckh.com.hk,fortune-global-500
+58,International Business Machines,U.S.,Information Technology Services,297800,www.ibm.com,fortune-global-500
+59,BYD,China,Motor Vehicles & Parts,288186,www.byd.com,fortune-global-500
+60,AEON,Japan,Food & Drug Stores,288064,www.aeon.info,fortune-global-500
+61,Costco Wholesale,U.S.,General Merchandisers,288000,www.costco.com,fortune-global-500
+62,Sberbank,Russia,Banks: Commercial and Savings,287866,www.sberbank.ru,fortune-global-500
+63,China Southern Power Grid,China,Utilities,282006,www.csg.cn,fortune-global-500
+64,Stellantis,Netherlands,Motor Vehicles & Parts,281595,www.stellantis.com,fortune-global-500
+65,Sumitomo Electric Industries,Japan,Motor Vehicles & Parts,281075,www.global-sei.com,fortune-global-500
+66,Fresenius,Germany,Health Care: Medical Facilities,281011,www.fresenius.com,fortune-global-500
+67,"Albertsons Companies, Inc.",United States,,280000,,largest-us-employers
+68,Aramark,United States,,278390,,largest-us-employers
+69,Nestlé,Switzerland,Food Consumer Products,276000,www.nestle.com,fortune-global-500
+70,"Lowe's Companies, Inc.",United States,,276000,,largest-us-employers
+71,JPMorgan Chase,U.S.,Banks: Commercial and Savings,271025,www.jpmorganchase.com,fortune-global-500
+72,SNCF Group,France,Railroads,270296,www.sncf.com,fortune-global-500
+73,Lowe's,U.S.,Specialty Retailers,270000,www.lowes.com,fortune-global-500
+74,Samsung Electronics,South Korea,"Electronics, Electrical Equip.",266673,www.samsung.com,fortune-global-500
+75,China Merchants Group,China,"Mail, Package and Freight Delivery",264161,www.cmhk.com,fortune-global-500
+76,Royal Ahold Delhaize,Netherlands,Food & Drug Stores,259000,www.aholddelhaize.com,fortune-global-500
+77,Walgreens Boots Alliance,U.S.,Food & Drug Stores,258500,www.walgreensbootsalliance.com,fortune-global-500
+78,CVS Health,U.S.,Health Care: Pharmacy and Other Services,258000,www.cvshealth.com,fortune-global-500
+79,Alibaba Group Holding,China,Internet Services and Retailing,254941,www.alibabagroup.com,fortune-global-500
+80,JBS,Brazil,Food Production,250000,jbs.com.br,fortune-global-500
+81,Wells Fargo,U.S.,Banks: Commercial and Savings,247848,www.wellsfargo.com,fortune-global-500
+82,La Poste,France,"Mail, Package and Freight Delivery",244980,www.groupelaposte.com,fortune-global-500
+83,State Bank of India,India,Banks: Commercial and Savings,244250,www.sbi.co.in,fortune-global-500
+84,HCA Healthcare,U.S.,Health Care: Medical Facilities,244000,www.hcahealthcare.com,fortune-global-500
+85,Shandong Energy Group,China,"Mining, Crude-Oil Production",243124,www.shandong-energy.com,fortune-global-500
+86,China United Network Communications,China,Telecommunications,242661,www.chinaunicom-a.com,fortune-global-500
+87,Panasonic Holdings,Japan,"Electronics, Electrical Equip.",240198,www.holdings.panasonic/global,fortune-global-500
+88,Jabil,U.S.,Semiconductors & Other Electronic Components,238000,www.jabil.com,fortune-global-500
+89,Japan Post Holdings,Japan,"Insurance: Life, Health (Stock)",232112,www.japanpost.jp,fortune-global-500
+90,Publix Super Markets,U.S.,Food & Drug Stores,232000,www.publix.com,fortune-global-500
+91,Tesco,Britain,Food & Drug Stores,231223,www.tescoplc.com,fortune-global-500
+92,China Baowu Steel Group,China,Metals,230884,www.baowugroup.com,fortune-global-500
+93,Citigroup,U.S.,Banks: Commercial and Savings,221768,www.citigroup.com,fortune-global-500
+94,Sinochem Holdings,China,Chemicals,220760,www.sinochem.com,fortune-global-500
+95,China Communications Construction,China,Engineering & Construction,220519,www.ccccltd.cn,fortune-global-500
+96,HSBC Holdings,Britain,Banks: Commercial and Savings,219697,www.hsbc.com,fortune-global-500
+97,Vinci,France,Engineering & Construction,219299,www.vinci.com,fortune-global-500
+98,Deutsche Telekom,Germany,Telecommunications,216528,www.telekom.com,fortune-global-500
+99,George Weston,Canada,Food & Drug Stores,215298,www.weston.ca,fortune-global-500
+100,China North Industries Group,China,Aerospace & Defense,213957,www.norincogroup.com.cn,fortune-global-500
+101,China State Shipbuilding,China,Shipping,213849,www.cssc.net.cn,fortune-global-500
+102,Woolworths Group,Australia,Food & Drug Stores,210067,www.woolworthsgroup.com.au,fortune-global-500
+103,"Darden Restaurants, Inc.",United States,,209931,,largest-us-employers
+104,Bank of America,U.S.,Banks: Commercial and Savings,208248,www.bankofamerica.com,fortune-global-500
+105,China National Building Material Group,China,"Building Materials, Glass",206910,www.cnbm.com.cn,fortune-global-500
+106,Honda Motor,Japan,Motor Vehicles & Parts,204035,www.global.honda/,fortune-global-500
+107,AT&T,U.S.,Telecommunications,202600,www.att.com,fortune-global-500
+108,China Electronics Technology Group,China,Aerospace & Defense,202561,www.cetc.com.cn,fortune-global-500
+109,Shanxi Coking Coal Group,China,"Mining, Crude-Oil Production",202079,www.sxcc.com.cn,fortune-global-500
+110,Sinopharm,China,Pharmaceuticals,201092,www.sinopharm.com,fortune-global-500
+111,Finatis,France,Food & Drug Stores,196350,www.finatis.fr,fortune-global-500
+112,Albertsons,U.S.,Food & Drug Stores,195750,www.albertsonscompanies.com,fortune-global-500
+113,Huawei Investment & Holding,China,Network & Other Communications Equipment,195000,www.huawei.com,fortune-global-500
+114,Banco Santander,Spain,Banks: Commercial and Savings,194479,www.santander.com,fortune-global-500
+115,China Minmetals,China,Metals,193965,www.minmetals.com,fortune-global-500
+116,China Electronics,China,"Electronics, Electrical Equip.",191126,www.cec.com.cn,fortune-global-500
+117,Continental,Germany,Motor Vehicles & Parts,190875,www.continental.com,fortune-global-500
+118,BNP Paribas,France,Banks: Commercial and Savings,189765,www.group.bnpparibas,fortune-global-500
+119,Comcast,U.S.,Telecommunications,189000,www.comcastcorporation.com,fortune-global-500
+120,People's Insurance Co. of China,China,Insurance: Property and Casualty (Stock),184364,www.picc.com.cn,fortune-global-500
+121,Canon,Japan,"Computers, Office Equipment",184034,www.global.canon,fortune-global-500
+122,Ford Motor,U.S.,Motor Vehicles & Parts,183000,www.ford.com,fortune-global-500
+123,China Life Insurance,China,"Insurance: Life, Health (Stock)",182646,www.chinalife.com.cn,fortune-global-500
+124,Hilton Worldwide Holdings Inc.,United States,,182000,,largest-us-employers
+125,PowerChina,China,Engineering & Construction,181330,www.powerchina.cn,fortune-global-500
+126,América Móvil,Mexico,Telecommunications,181205,www.americamovil.com,fortune-global-500
+127,China National Nuclear,China,Energy,181100,www.cnnc.com.cn,fortune-global-500
+128,Microsoft,U.S.,Computer Software,181000,www.microsoft.com,fortune-global-500
+129,Brookfield Asset Management,Canada,Diversified Financials,181000,www.brookfield.com,fortune-global-500
+130,China Aerospace Science & Technology,China,Aerospace & Defense,180521,www.spacechina.com,fortune-global-500
+131,RTX Corporation,United States,,180000,,largest-us-employers
+132,S.F. Holding,China,Transportation and Logistics,177129,www.sf-express.com,fortune-global-500
+133,Ingka Group,Netherlands,Specialty Retailers,174225,www.ingka.com,fortune-global-500
+134,Raytheon Technologies,U.S.,Aerospace & Defense,174000,www.rtx.com,fortune-global-500
+135,Ansteel Group,China,Metals,173597,www.ansteel.cn,fortune-global-500
+136,CRRC Group,China,Industrial Machinery,172869,www.crrcgc.cc,fortune-global-500
+137,Mercedes-Benz Group,Germany,Motor Vehicles & Parts,172425,group.mercedes-benz.com,fortune-global-500
+138,Engie,France,Energy,171474,www.engie.com,fortune-global-500
+139,Walt Disney,U.S.,Entertainment,171000,www.thewaltdisneycompany.com,fortune-global-500
+140,Amphenol Corporation,United States,,170000,,largest-us-employers
+141,Veolia Environnement,France,Utilities,169741,www.veolia.com,fortune-global-500
+142,Anheuser-Busch InBev,Belgium,Beverages,169339,www.ab-inbev.com,fortune-global-500
+143,General Electric,U.S.,Industrial Machinery,168000,www.ge.com,fortune-global-500
+144,Denso,Japan,Motor Vehicles & Parts,167950,www.denso.com/global,fortune-global-500
+145,Saint-Gobain,France,"Building Materials, Glass",167816,www.saint-gobain.com,fortune-global-500
+146,Midea Group,China,"Electronics, Electrical Equip.",165799,www.midea-group.com,fortune-global-500
+147,Inditex,Spain,Specialty Retailers,165042,www.inditex.com,fortune-global-500
+148,Lear Corporation,United States,,164300,,largest-us-employers
+149,Electricité de France,France,Utilities,163423,www.edf.fr,fortune-global-500
+150,Dollar General,U.S.,Specialty Retailers,163000,www.dollargeneral.com,fortune-global-500
+151,China South Industries Group,China,Aerospace & Defense,162498,www.csgc.com.cn,fortune-global-500
+152,Christian Dior,France,Apparel,162254,www.dior-finance.com,fortune-global-500
+153,Magna International,Canada,Motor Vehicles & Parts,158000,www.magna.com,fortune-global-500
+154,ArcelorMittal,Luxembourg,Metals,157909,www.arcelormittal.com,fortune-global-500
+155,ZF Friedrichshafen,Germany,Motor Vehicles & Parts,157549,www.zf.com,fortune-global-500
+156,General Motors,U.S.,Motor Vehicles & Parts,157000,www.gm.com,fortune-global-500
+157,Alphabet,U.S.,Internet Services and Retailing,156500,www.abc.xyz,fortune-global-500
+158,Renault,France,Motor Vehicles & Parts,156466,renaultgroup.com,fortune-global-500
+159,Allianz,Germany,"Insurance: Life, Health (Stock)",155411,www.allianz.com,fortune-global-500
+160,"CBRE Group, Inc.",United States,,155000,,largest-us-employers
+161,Apple,U.S.,"Computers, Office Equipment",154000,www.apple.com,fortune-global-500
+162,"GXO Logistics, Inc.",United States,,154000,,largest-us-employers
+163,Susun Construction Group,China,Engineering & Construction,153242,www.ss-ceo.com,fortune-global-500
+164,"Dollar Tree, Inc.",United States,,153032,,largest-us-employers
+165,ELO Group,France,Food & Drug Stores,153005,www.groupe-elo.com,fortune-global-500
+166,McDonald's Corporation,United States,,150000,,largest-us-employers
+167,China National Coal Group,China,"Mining, Crude-Oil Production",149898,www.chinacoal.com,fortune-global-500
+168,Flex Ltd.,United States,,149686,,largest-us-employers
+169,CITIC Group,China,Diversified Financials,148108,www.group.citic,fortune-global-500
+170,Unilever,Britain,Household and Personal Products,148044,www.unilever.com,fortune-global-500
+171,SAIC Motor,China,Motor Vehicles & Parts,146145,www.saicmotor.com,fortune-global-500
+172,Mitsubishi Electric,Japan,"Electronics, Electrical Equip.",145696,www.mitsubishielectric.com,fortune-global-500
+173,Boeing,U.S.,Aerospace & Defense,142000,www.boeing.com,fortune-global-500
+174,Nissan Motor,Japan,Motor Vehicles & Parts,141983,www.nissan-global.com,fortune-global-500
+175,"Barrett Business Services, Inc.",United States,,141802,,largest-us-employers
+176,Johnson & Johnson,U.S.,Pharmaceuticals,141700,www.jnj.com,fortune-global-500
+177,Dongfeng Motor,China,Motor Vehicles & Parts,141681,www.dfmc.com.cn,fortune-global-500
+178,China Aerospace Science & Industry,China,Aerospace & Defense,141678,www.casic.com.cn,fortune-global-500
+179,Orange,France,Telecommunications,139698,www.orange.com,fortune-global-500
+180,China Vanke,China,Real Estate,139494,www.vanke.com,fortune-global-500
+181,American Airlines Group Inc.,United States,,139100,,largest-us-employers
+182,Aluminum Corp. of China,China,Metals,138717,www.chinalco.com.cn,fortune-global-500
+183,Tyson Foods,U.S.,Food Production,137000,www.tysonfoods.com,fortune-global-500
+184,Itochu,Japan,Trading,136722,www.itochu.co.jp,fortune-global-500
+185,Bridgestone,Japan,Motor Vehicles & Parts,135636,www.bridgestone.com,fortune-global-500
+186,Mitsubishi UFJ Financial Group,Japan,Banks: Commercial and Savings,135042,www.mufg.jp,fortune-global-500
+187,Dell Technologies,U.S.,"Computers, Office Equipment",133000,www.delltechnologies.com,fortune-global-500
+188,Pegatron,Taiwan,"Electronics, Electrical Equip.",132157,www.pegatroncorp.com,fortune-global-500
+189,Sinomach,China,Industrial Machinery,132147,www.sinomach.com.cn,fortune-global-500
+190,Oracle,U.S.,Computer Software,132000,www.oracle.com,fortune-global-500
+191,Shaanxi Coal & Chemical Industry,China,"Mining, Crude-Oil Production",130914,www.shccig.com,fortune-global-500
+192,New Hope Holding Group,China,Food Production,130887,www.newhopegroup.com,fortune-global-500
+193,"Chipotle Mexican Grill, Inc.",United States,,130301,,largest-us-employers
+194,"AutoZone, Inc.",United States,,130000,,largest-us-employers
+195,Shaanxi Yanchang Petroleum (Group),China,"Mining, Crude-Oil Production",129018,www.sxycpc.com,fortune-global-500
+196,Thermo Fisher Scientific,U.S.,"Scientific, Photographic & Control Equipment",129000,www.thermofisher.com,fortune-global-500
+197,Zhejiang Geely Holding Group,China,Motor Vehicles & Parts,128928,www.zgh.com,fortune-global-500
+198,Schneider Electric,France,"Electronics, Electrical Equip.",128000,www.se.com,fortune-global-500
+199,Seven & I Holdings,Japan,Specialty Retailers,127196,www.7andi.com,fortune-global-500
+200,Airbus,Netherlands,Aerospace & Defense,126495,www.airbus.com,fortune-global-500
+201,China Huaneng Group,China,Energy,125365,www.chng.com.cn,fortune-global-500
+202,Bouygues,France,Engineering & Construction,124651,www.bouygues.com,fortune-global-500
+203,Fujitsu,Japan,Information Technology Services,124216,www.fujitsu.com,fortune-global-500
+204,Société Générale,France,Banks: Commercial and Savings,124089,www.societegenerale.com,fortune-global-500
+205,Alimentation Couche-Tard,Canada,Specialty Retailers,124000,corpo.couche-tard.com,fortune-global-500
+206,Pemex,Mexico,"Mining, Crude-Oil Production",123842,www.pemex.com,fortune-global-500
+207,American Airlines Group,U.S.,Airlines,123400,www.aa.com,fortune-global-500
+208,State Power Investment,China,Energy,121470,www.spic.com.cn,fortune-global-500
+209,Hengli Group,China,Textiles,121430,www.hengli.com,fortune-global-500
+210,Hyundai Motor,South Korea,Motor Vehicles & Parts,121403,worldwide.hyundai.com,fortune-global-500
+211,Intel,U.S.,Semiconductors & Other Electronic Components,121100,www.intel.com,fortune-global-500
+212,Coles Group,Australia,Food & Drug Stores,120000,www.colesgroup.com.au,fortune-global-500
+213,Omnicom Group Inc.,United States,,120000,,largest-us-employers
+214,China Energy Engineering Group,China,Engineering & Construction,119574,www.ceec.net.cn,fortune-global-500
+215,Poste Italiane,Italy,"Insurance: Life, Health (Stock)",118969,www.posteitaliane.it,fortune-global-500
+216,BMW Group,Germany,Motor Vehicles & Parts,118909,www.bmwgroup.com,fortune-global-500
+217,China FAW Group,China,Motor Vehicles & Parts,118648,www.faw.com.cn,fortune-global-500
+218,Verizon Communications,U.S.,Telecommunications,118400,www.verizon.com,fortune-global-500
+219,SK,South Korea,Petroleum Refining,117438,www.sk.co.kr,fortune-global-500
+220,Aisin,Japan,Motor Vehicles & Parts,117177,www.aisin.com,fortune-global-500
+221,J. Sainsbury,Britain,Food & Drug Stores,117000,www.about.sainsburys.co.uk,fortune-global-500
+222,HBIS Group,China,Metals,116572,www.hbisco.com,fortune-global-500
+223,Toshiba,Japan,"Electronics, Electrical Equip.",116224,www.toshiba.co.jp,fortune-global-500
+224,Nippon Steel Corporation,Japan,Metals,115667,www.nipponsteel.com,fortune-global-500
+225,DXC Technology Company,United States,,115000,,largest-us-employers
+226,Lockheed Martin,U.S.,Aerospace & Defense,114000,www.lockheedmartin.com,fortune-global-500
+227,Jones Lang LaSalle Incorporated,United States,,113200,,largest-us-employers
+228,"United Airlines Holdings, Inc.",United States,,113200,,largest-us-employers
+229,Abbott Laboratories,U.S.,Medical Products and Equipment,113000,www.abbott.com,fortune-global-500
+230,ABM Industries Incorporated,United States,,113000,,largest-us-employers
+231,Tencent Holdings,China,Internet Services and Retailing,112771,www.tencent.com,fortune-global-500
+232,Guangzhou Automobile Industry Group,China,Motor Vehicles & Parts,112113,www.gac.com.cn,fortune-global-500
+233,BASF,Germany,Chemicals,111047,www.basf.com,fortune-global-500
+234,"Ross Stores, Inc.",United States,,111000,,largest-us-employers
+235,China Poly Group,China,Real Estate,110785,www.poly.com.cn,fortune-global-500
+236,Banco Bilbao Vizcaya Argentaria,Spain,Banks: Commercial and Savings,110432,www.bbva.com,fortune-global-500
+237,Compal Electronics,Taiwan,"Computers, Office Equipment",109709,www.compal.com,fortune-global-500
+238,SLB N.V.,United States,,109000,,largest-us-employers
+239,Sony,Japan,"Electronics, Electrical Equip.",108900,www.sony.net,fortune-global-500
+240,"Coupang, Inc.",United States,,108000,,largest-us-employers
+241,Royal Caribbean Cruises Ltd.,United States,,108000,,largest-us-employers
+242,COFCO,China,Trading,107829,www.cofco.com,fortune-global-500
+243,Caterpillar,U.S.,Construction and Farm Machinery,107700,www.caterpillar.com,fortune-global-500
+244,COSCO Shipping,China,Shipping,107551,www.coscoshipping.com,fortune-global-500
+245,SAP,Germany,Computer Software,107415,www.sap.com,fortune-global-500
+246,China Pacific Insurance (Group),China,"Insurance: Life, Health (Stock)",107000,www.cpic.com.cn,fortune-global-500
+247,Koç Holding,Turkey,Energy,105908,www.koc.com.tr,fortune-global-500
+248,Life Insurance Corp. of India,India,"Insurance: Life, Health (Stock)",105738,www.licindia.in,fortune-global-500
+249,ACS,Spain,Engineering & Construction,105553,www.grupoacs.com,fortune-global-500
+250,"DICK'S Sporting Goods, Inc.",United States,,105200,,largest-us-employers
+251,Haier Smart Home,China,"Electronics, Electrical Equip.",104874,www.haier.net/en,fortune-global-500
+252,ABB,Switzerland,Industrial Machinery,104400,www.abb.com,fortune-global-500
+253,Novartis,Switzerland,Pharmaceuticals,104323,www.novartis.com,fortune-global-500
+254,Telefónica,Spain,Telecommunications,104150,www.telefonica.com,fortune-global-500
+255,China Merchants Bank,China,Banks: Commercial and Savings,103669,www.cmbchina.com,fortune-global-500
+256,General Dynamics,U.S.,Aerospace & Defense,103100,www.gd.com,fortune-global-500
+257,Lukoil,Russia,Petroleum Refining,102424,www.lukoil.com,fortune-global-500
+258,"Universal Health Services, Inc.",United States,,101500,,largest-us-employers
+259,TotalEnergies,France,Petroleum Refining,101309,www.totalenergies.com,fortune-global-500
+260,ThyssenKrupp,Germany,Metals,101275,www.thyssenkrupp.com,fortune-global-500
+261,Sumitomo Mitsui Financial Group,Japan,Banks: Commercial and Savings,101023,www.smfg.co.jp,fortune-global-500
+262,Procter & Gamble,U.S.,Household and Personal Products,101000,www.pg.com,fortune-global-500
+263,Carnival Corporation Ltd.,United States,,101000,,largest-us-employers
+264,Honeywell International Inc.,United States,,101000,,largest-us-employers
+265,"Texas Roadhouse, Inc.",United States,,101000,,largest-us-employers
+266,Roche Group,Switzerland,Pharmaceuticals,100920,www.roche.com,fortune-global-500
+267,Country Garden Holdings,China,Real Estate,100705,www.countrygarden.com.cn,fortune-global-500
+268,Beijing Automotive Group,China,Motor Vehicles & Parts,100000,www.baicgroup.com.cn,fortune-global-500
+269,Wilmar International,Singapore,Food Production,100000,www.wilmar-international.com,fortune-global-500
+270,Bayer,Germany,Pharmaceuticals,99637,www.bayer.com,fortune-global-500
+271,Itaú Unibanco Holding,Brazil,Banks: Commercial and Savings,99598,www.itau.com.br,fortune-global-500
+272,Tesla,U.S.,Motor Vehicles & Parts,99290,www.tesla.com,fortune-global-500
+273,Lu’an Chemical Group,China,"Mining, Crude-Oil Production",99132,www.chinaluan.com,fortune-global-500
+274,Honeywell International,U.S.,"Electronics, Electrical Equip.",99000,www.honeywell.com,fortune-global-500
+275,Tenet Healthcare Corporation,United States,,99000,,largest-us-employers
+276,Groupe BPCE,France,Banks: Commercial and Savings,98727,www.groupebpce.com,fortune-global-500
+277,Elevance Health,U.S.,Health Care: Insurance and Managed Care,98200,www.elevancehealth.com,fortune-global-500
+278,Danone,France,Food Consumer Products,98105,www.danone.com,fortune-global-500
+279,Intesa Sanpaolo,Italy,Banks: Commercial and Savings,97698,www.group.intesasanpaolo.com,fortune-global-500
+280,Dell Technologies Inc.,United States,,97000,,largest-us-employers
+281,Vodafone Group,Britain,Telecommunications,96941,www.vodafone.com,fortune-global-500
+282,Shandong Weiqiao Pioneering Group,China,Textiles,96782,www.weiqiaocy.com,fortune-global-500
+283,Shougang Group,China,Metals,96432,www.shougang.com.cn,fortune-global-500
+284,Mercadona,Spain,Food & Drug Stores,95800,www.mercadona.es,fortune-global-500
+285,Humana,U.S.,Health Care: Insurance and Managed Care,95500,www.humana.com,fortune-global-500
+286,Sanofi,France,Pharmaceuticals,95442,www.sanofi.com,fortune-global-500
+287,China Everbright Group,China,Banks: Commercial and Savings,95000,www.ebchina.com,fortune-global-500
+288,3M,U.S.,Chemicals,95000,www.3m.com,fortune-global-500
+289,"Marsh & McLennan Companies, Inc.",United States,,95000,,largest-us-employers
+290,Charter Communications,U.S.,Telecommunications,93700,www.charter.com,fortune-global-500
+291,IQVIA Holdings Inc.,United States,,93000,,largest-us-employers
+292,"O'Reilly Automotive, Inc.",United States,,92923,,largest-us-employers
+293,Nippon Life Insurance,Japan,"Insurance: Life, Health (Mutual)",92737,www.nissay.co.jp,fortune-global-500
+294,AXA,France,"Insurance: Life, Health (Stock)",92398,www.axa.com,fortune-global-500
+295,China Huadian,China,Utilities,92217,www.chd.com.cn,fortune-global-500
+296,Siemens Energy,Germany,Energy,92000,www.siemens-energy.com,fortune-global-500
+297,Quanta Computer,Taiwan,"Computers, Office Equipment",91313,www.quantatw.com,fortune-global-500
+298,China Datang,China,Energy,91005,www.china-cdt.com,fortune-global-500
+299,"Mondelez International, Inc.",United States,,91000,,largest-us-employers
+300,Bank of Communications,China,Banks: Commercial and Savings,90238,www.bankcomm.com,fortune-global-500
+301,"Macy's, Inc.",United States,,90134,,largest-us-employers
+302,GSK,Britain,Pharmaceuticals,90096,www.gsk.com,fortune-global-500
+303,Medtronic,Ireland,Medical Products and Equipment,90000,www.medtronic.com,fortune-global-500
+304,Bank of Nova Scotia,Canada,Banks: Commercial and Savings,89488,www.scotiabank.com,fortune-global-500
+305,Toronto-Dominion Bank,Canada,Banks: Commercial and Savings,89464,www.td.com,fortune-global-500
+306,Volvo,Sweden,Motor Vehicles & Parts,89195,www.volvogroup.com,fortune-global-500
+307,Northrop Grumman,U.S.,Aerospace & Defense,88000,www.northropgrumman.com,fortune-global-500
+308,Metro,Germany,Wholesalers: Food and Grocery,86527,www.metroag.de,fortune-global-500
+309,"Cisco Systems, Inc.",United States,,86200,,largest-us-employers
+310,Shenzhen Investment Holdings,China,Diversified Financials,86030,www.sihc.com.cn/en,fortune-global-500
+311,Tsingshan Holding Group,China,Metals,85553,www.tssgroup.com.cn,fortune-global-500
+312,L'Oréal,France,Household and Personal Products,85412,www.loreal.com,fortune-global-500
+313,Maersk Group,Denmark,Shipping,85375,www.maersk.com,fortune-global-500
+314,Royal Bank of Canada,Canada,Banks: Commercial and Savings,85301,www.rbc.com,fortune-global-500
+315,Philip Morris International Inc.,United States,,84900,,largest-us-employers
+316,Banco do Brasil,Brazil,Banks: Commercial and Savings,84597,www.bb.com.br,fortune-global-500
+317,Kohl's Corporation,United States,,84000,,largest-us-employers
+318,"Brinker International, Inc.",United States,,83840,,largest-us-employers
+319,"Salesforce, Inc.",United States,,83334,,largest-us-employers
+320,"Burlington Stores, Inc.",United States,,83309,,largest-us-employers
+321,AstraZeneca,Britain,Pharmaceuticals,83100,www.astrazeneca.com,fortune-global-500
+322,Delta Air Lines,U.S.,Airlines,83000,www.delta.com,fortune-global-500
+323,Deutsche Bank,Germany,Banks: Commercial and Savings,82969,www.db.com,fortune-global-500
+324,Coop Group,Switzerland,Food & Drug Stores,82697,www.coop.ch,fortune-global-500
+325,Weichai Power,China,Industrial Machinery,82600,www.weichaipower.com,fortune-global-500
+326,Shell,Britain,Petroleum Refining,82000,www.shell.com,fortune-global-500
+327,"Best Buy Co., Inc.",United States,,82000,,largest-us-employers
+328,Gree Electric Appliances,China,"Electronics, Electrical Equip.",81884,www.gree.com,fortune-global-500
+329,Barclays,Britain,Banks: Commercial and Savings,81600,www.home.barclays,fortune-global-500
+330,Best Buy,U.S.,Specialty Retailers,81375,www.investors.bestbuy.com,fortune-global-500
+331,Glencore,Switzerland,"Mining, Crude-Oil Production",81284,www.glencore.com,fortune-global-500
+332,China National Offshore Oil,China,"Mining, Crude-Oil Production",80957,www.cnooc.com.cn,fortune-global-500
+333,Mitsubishi,Japan,Trading,80728,www.mitsubishicorp.com,fortune-global-500
+334,Wistron,Taiwan,"Computers, Office Equipment",80000,www.wistron.com,fortune-global-500
+335,Greenland Holding Group,China,Real Estate,79999,www.ldjt.com.cn,fortune-global-500
+336,Banco Bradesco,Brazil,Banks: Commercial and Savings,79507,www.bradesco.com.br,fortune-global-500
+337,Cisco Systems,U.S.,Network & Other Communications Equipment,79500,www.cisco.com,fortune-global-500
+338,Pfizer,U.S.,Pharmaceuticals,79000,www.pfizer.com,fortune-global-500
+339,Coca-Cola,U.S.,Beverages,79000,www.coca-colacompany.com,fortune-global-500
+340,Danaher,U.S.,Medical Products and Equipment,79000,www.danaher.com,fortune-global-500
+341,Mondelez International,U.S.,Food Consumer Products,79000,www.mondelezinternational.com,fortune-global-500
+342,"The Gap, Inc.",United States,,79000,,largest-us-employers
+343,Mitsubishi Heavy Industries,Japan,Industrial Machinery,77991,www.mhi.com,fortune-global-500
+344,DSV,Denmark,"Mail, Package and Freight Delivery",77958,www.dsv.com,fortune-global-500
+345,CRH,Ireland,"Building Materials, Glass",77400,www.crh.com,fortune-global-500
+346,Crédit Agricole,France,Banks: Commercial and Savings,75711,www.credit-agricole.com,fortune-global-500
+347,Deere,U.S.,Construction and Farm Machinery,75550,www.deere.com,fortune-global-500
+348,Lenovo Group,China,"Computers, Office Equipment",75000,www.lenovo.com,fortune-global-500
+349,LG Electronics,South Korea,"Electronics, Electrical Equip.",75000,www.lg.com,fortune-global-500
+350,Morgan Stanley,U.S.,Banks: Commercial and Savings,74814,www.morganstanley.com,fortune-global-500
+351,Assicurazioni Generali,Italy,"Insurance: Life, Health (Stock)",74621,www.generali.com,fortune-global-500
+352,EXOR Group,Netherlands,Diversified Financials,74353,www.exor.com,fortune-global-500
+353,Sumitomo,Japan,Trading,74253,www.sumitomocorp.com,fortune-global-500
+354,Tata Motors,India,Motor Vehicles & Parts,73608,www.tatamotors.com,fortune-global-500
+355,Migros Group,Switzerland,Food & Drug Stores,73546,www.migros.ch,fortune-global-500
+356,Kuehne + Nagel International,Switzerland,Transportation and Logistics,73516,www.kuehne-nagel.com,fortune-global-500
+357,Nike,U.S.,Apparel,73300,www.nike.com,fortune-global-500
+358,Xinjiang Guanghui Industry Investment,China,Trading,73109,www.guanghui.com,fortune-global-500
+359,Cigna,U.S.,Health Care: Pharmacy and Other Services,72963,www.cigna.com,fortune-global-500
+360,Tata Steel,India,Metals,72551,www.tatasteel.com,fortune-global-500
+361,Centene,U.S.,Health Care: Insurance and Managed Care,72500,www.centene.com,fortune-global-500
+362,Linde,Britain,Chemicals,72327,www.linde.com,fortune-global-500
+363,CMA CGM,France,Shipping,72282,www.cma-cgm.com,fortune-global-500
+364,Vale,Brazil,"Mining, Crude-Oil Production",72266,www.vale.com,fortune-global-500
+365,Meta Platforms,U.S.,Internet Services and Retailing,71970,www.fb.com,fortune-global-500
+366,UBS Group,Switzerland,Banks: Commercial and Savings,71385,www.ubs.com,fortune-global-500
+367,Holcim,Switzerland,"Building Materials, Glass",70000,www.holcim.com,fortune-global-500
+368,Mitsubishi Chemical Holdings,Japan,Chemicals,69784,www.mitsubishichem-hd.co.jp,fortune-global-500
+369,E.ON,Germany,Energy,69733,www.eon.com,fortune-global-500
+370,Philip Morris International,U.S.,Tobacco,69600,www.pmi.com,fortune-global-500
+371,Suzuki Motor,Japan,Motor Vehicles & Parts,69193,www.globalsuzuki.com,fortune-global-500
+372,Saudi Aramco,Saudi Arabia,"Mining, Crude-Oil Production",68493,www.aramco.com,fortune-global-500
+373,China Taiping Insurance Group,China,"Insurance: Life, Health (Mutual)",68441,www.cntaiping.com,fortune-global-500
+374,Merck,U.S.,Pharmaceuticals,67500,www.merck.com,fortune-global-500
+375,McKesson,U.S.,Wholesalers: Health Care,66500,www.mckesson.com,fortune-global-500
+376,Enel,Italy,Utilities,66279,www.enel.com,fortune-global-500
+377,BP,Britain,Petroleum Refining,65900,www.bp.com,fortune-global-500
+378,Toyota Tsusho,Japan,Trading,65218,www.toyota-tsusho.com,fortune-global-500
+379,Taiwan Semiconductor Manufacturing,Taiwan,Semiconductors & Other Electronic Components,65152,www.tsmc.com,fortune-global-500
+380,JFE Holdings,Japan,Metals,64296,www.jfe-holdings.co.jp,fortune-global-500
+381,CJ Corp.,South Korea,Food Production,64259,www.cj.net,fortune-global-500
+382,American Express,U.S.,Diversified Financials,64000,www.americanexpress.com,fortune-global-500
+383,Shanghai Pudong Development Bank,China,Banks: Commercial and Savings,63361,www.spdb.com.cn,fortune-global-500
+384,Exxon Mobil,U.S.,Petroleum Refining,63000,www.exxonmobil.com,fortune-global-500
+385,Olam Group,Singapore,Wholesalers: Food and Grocery,62548,www.olamgroup.com,fortune-global-500
+386,Industrial Bank,China,Banks: Commercial and Savings,62537,www.cib.com.cn,fortune-global-500
+387,Dai-ichi Life Holdings,Japan,"Insurance: Life, Health (Stock)",62296,www.dai-ichi-life-hd.com,fortune-global-500
+388,Anglo American,Britain,"Mining, Crude-Oil Production",62000,www.angloamerican.com,fortune-global-500
+389,China Minsheng Banking,China,Banks: Commercial and Savings,60232,www.cmbc.com.cn,fortune-global-500
+390,Anhui Conch Group,China,"Building Materials, Glass",59739,www.chinaconch.com,fortune-global-500
+391,SoftBank Group,Japan,Telecommunications,59721,www.group.softbank/en/,fortune-global-500
+392,Taikang Insurance Group,China,"Insurance: Life, Health (Mutual)",58853,www.taikang.com,fortune-global-500
+393,Lloyds Banking Group,Britain,Banks: Commercial and Savings,57955,www.lloydsbankinggroup.com,fortune-global-500
+394,Sysco,U.S.,Wholesalers: Food and Grocery,57710,www.sysco.com,fortune-global-500
+395,ING Group,Netherlands,Banks: Commercial and Savings,57660,www.ing.com,fortune-global-500
+396,Beijing Jianlong Heavy Industry Group,China,Metals,57568,www.ejianlong.com,fortune-global-500
+397,Cathay Financial Holding,Taiwan,"Insurance: Life, Health (Stock)",57100,www.cathayholdings.com,fortune-global-500
+398,Zurich Insurance Group,Switzerland,Insurance: Property and Casualty (Stock),54914,www.zurich.com,fortune-global-500
+399,Allstate,U.S.,Insurance: Property and Casualty (Stock),54500,www.allstate.com,fortune-global-500
+400,British American Tobacco,Britain,Tobacco,54365,www.bat.com,fortune-global-500
+401,State Farm Insurance,U.S.,Insurance: Property and Casualty (Mutual),53586,www.statefarm.com,fortune-global-500
+402,Hanwha,South Korea,"Insurance: Life, Health (Stock)",53198,www.hanwhacorp.co.kr,fortune-global-500
+403,Mizuho Financial Group,Japan,Banks: Commercial and Savings,52464,www.mizuhogroup.com,fortune-global-500
+404,Shandong Hi-Speed Group,China,Transportation and Logistics,52407,www.sdhsg.com,fortune-global-500
+405,Yunnan Provincial Investment Holding Group,China,Diversified Financials,52077,www.cnyig.com/en,fortune-global-500
+406,Kia,South Korea,Motor Vehicles & Parts,51975,www.kia.com,fortune-global-500
+407,Shanghai Construction Group,China,Engineering & Construction,51369,www.scg.com.cn,fortune-global-500
+408,HP,U.S.,"Computers, Office Equipment",51000,www.hp.com,fortune-global-500
+409,Capital One Financial,U.S.,Banks: Commercial and Savings,50767,www.capitalone.com,fortune-global-500
+410,Credit Suisse Group,Switzerland,Banks: Commercial and Savings,50110,www.credit-suisse.com,fortune-global-500
+411,AbbVie,U.S.,Pharmaceuticals,50000,www.abbvie.com,fortune-global-500
+412,Marubeni,Japan,Trading,49623,www.marubeni.com,fortune-global-500
+413,Shudao Investment Group,China,Engineering & Construction,49493,www.shudaojt.com,fortune-global-500
+414,Rio Tinto Group,Britain,"Mining, Crude-Oil Production",49345,www.riotinto.com,fortune-global-500
+415,Progressive,U.S.,Insurance: Property and Casualty (Stock),49077,www.progressive.com,fortune-global-500
+416,Daiwa House Industry,Japan,Engineering & Construction,48831,www.daiwahouse.co.jp,fortune-global-500
+417,KDDI,Japan,Telecommunications,48829,www.kddi.com,fortune-global-500
+418,Korea Electric Power,South Korea,Utilities,48809,www.kepco.co.kr,fortune-global-500
+419,Meiji Yasuda Life Insurance,Japan,"Insurance: Life, Health (Mutual)",48179,www.meijiyasuda.co.jp,fortune-global-500
+420,Sompo Holdings,Japan,Insurance: Property and Casualty (Stock),47776,www.sompo-hd.com,fortune-global-500
+421,Takeda Pharmaceutical,Japan,Pharmaceuticals,47347,www.takeda.com,fortune-global-500
+422,Shanghai Pharmaceuticals Holding,China,Wholesalers: Health Care,47056,www.sphchina.com,fortune-global-500
+423,Petronas,Malaysia,Energy,46884,www.petronas.com,fortune-global-500
+424,Cardinal Health,U.S.,Wholesalers: Health Care,46827,www.cardinalhealth.com,fortune-global-500
+425,Shanghai Delong Steel Group,China,Metals,46054,www.shanghaidelong.com,fortune-global-500
+426,Petrobras,Brazil,Petroleum Refining,45532,www.petrobras.com.br,fortune-global-500
+427,Jiangsu Shagang Group,China,Metals,45398,www.shasteel.cn,fortune-global-500
+428,Liberty Mutual Insurance Group,U.S.,Insurance: Property and Casualty (Stock),45000,www.libertymutual.com,fortune-global-500
+429,Qualcomm,U.S.,Semiconductors & Other Electronic Components,45000,www.qualcomm.com,fortune-global-500
+430,Fubon Financial Holding,Taiwan,"Insurance: Life, Health (Stock)",44993,www.fubon.com,fortune-global-500
+431,Mitsui,Japan,Trading,44336,www.mitsui.com,fortune-global-500
+432,Longfor Group Holdings,China,Real Estate,44065,www.longfor.com,fortune-global-500
+433,Goldman Sachs Group,U.S.,Banks: Commercial and Savings,43900,www.goldmansachs.com,fortune-global-500
+434,Zijin Mining Group,China,Metals,43876,www.zjky.cn,fortune-global-500
+435,Guangzhou Municipal Construction Group,China,Engineering & Construction,43052,www.gzmcg.com,fortune-global-500
+436,Tokio Marine Holdings,Japan,Insurance: Property and Casualty (Stock),43048,www.tokiomarinehd.com,fortune-global-500
+437,MetLife,U.S.,"Insurance: Life, Health (Stock)",43000,www.metlife.com,fortune-global-500
+438,Sumitomo Life Insurance,Japan,"Insurance: Life, Health (Mutual)",42954,www.sumitomolife.co.jp,fortune-global-500
+439,Chevron,U.S.,Petroleum Refining,42595,www.chevron.com,fortune-global-500
+440,ENEOS Holdings,Japan,Petroleum Refining,41852,www.hd.eneos.co.jp,fortune-global-500
+441,Prudential Financial,U.S.,"Insurance: Life, Health (Stock)",40916,www.prudential.com,fortune-global-500
+442,Zhejiang Communications Investment Group,China,Transportation and Logistics,40776,www.cncico.com,fortune-global-500
+443,AmerisourceBergen,U.S.,Wholesalers: Health Care,40000,www.amerisourcebergen.com,fortune-global-500
+444,LG Chem,South Korea,Chemicals,40000,www.lgchem.co.kr,fortune-global-500
+445,Archer Daniels Midland,U.S.,Food Production,39979,www.adm.com,fortune-global-500
+446,MS&AD Insurance Group Holdings,Japan,Insurance: Property and Casualty (Stock),39962,www.ms-ad-hd.com,fortune-global-500
+447,Randstad,Netherlands,Diversified Outsourcing Serivces,39530,www.randstad.com,fortune-global-500
+448,Munich Re Group,Germany,Insurance: Property and Casualty (Stock),39281,www.munichre.com,fortune-global-500
+449,Xinjiang Zhongtai Group,China,Chemicals,39141,ww.zhtx.com,fortune-global-500
+450,Iberdrola,Spain,Utilities,38702,www.iberdrola.com,fortune-global-500
+451,SK Hynix,South Korea,Semiconductors & Other Electronic Components,38352,www.skhynix.com,fortune-global-500
+452,Oil & Natural Gas,India,"Mining, Crude-Oil Production",38252,www.ongcindia.com,fortune-global-500
+453,Chengdu Xingcheng Investment Group,China,Engineering & Construction,38076,www.cdxctz.com,fortune-global-500
+454,Manulife Financial,Canada,"Insurance: Life, Health (Stock)",38000,www.manulife.com,fortune-global-500
+455,Tokyo Electric Power,Japan,Utilities,37939,www.tepco.co.jp,fortune-global-500
+456,United Services Automobile Assn.,U.S.,Insurance: Property and Casualty (Stock),37335,www.usaa.com,fortune-global-500
+457,POSCO Holdings,South Korea,Metals,36619,www.posco.com,fortune-global-500
+458,American International Group,U.S.,Insurance: Property and Casualty (Stock),36600,www.aig.com,fortune-global-500
+459,Xiamen C&D,China,Trading,36334,www.chinacdc.com,fortune-global-500
+460,Shenghong Holding Group,China,Chemicals,35788,www.shenghonggroup.cn,fortune-global-500
+461,Dow,U.S.,Chemicals,35700,www.dow.com,fortune-global-500
+462,PKN ORLEN Group,Poland,Petroleum Refining,35424,www.orlen.pl,fortune-global-500
+463,Guangxi Investment Group,China,Diversified Financials,35369,www.gig.cn,fortune-global-500
+464,Guangzhou Pharmaceutical Holdings,China,Pharmaceuticals,34730,www.gpc.com.cn,fortune-global-500
+465,BHP Group,Australia,"Mining, Crude-Oil Production",34478,www.bhp.com,fortune-global-500
+466,New China Life Insurance,China,"Insurance: Life, Health (Stock)",34434,www.newchinalife.com,fortune-global-500
+467,Pertamina,Indonesia,Petroleum Refining,34183,www.pertamina.com,fortune-global-500
+468,Shandong Iron & Steel Group,China,Metals,34171,www.shansteelgroup.com,fortune-global-500
+469,Hunan Iron & Steel Group,China,Metals,33764,www.chinavalin.com,fortune-global-500
+470,Hyundai Mobis,South Korea,Motor Vehicles & Parts,33702,www.mobis.co.kr,fortune-global-500
+471,Power Corp. of Canada,Canada,"Insurance: Life, Health (Stock)",33700,www.powercorporation.com,fortune-global-500
+472,Xiaomi,China,"Electronics, Electrical Equip.",33427,www.mi.com/global,fortune-global-500
+473,Phoenix Pharma,Germany,Wholesalers: Health Care,33205,www.phoenixgroup.eu,fortune-global-500
+474,Indian Oil,India,Petroleum Refining,32938,www.iocl.com,fortune-global-500
+475,ENI,Italy,Petroleum Refining,32689,www.eni.com,fortune-global-500
+476,CarMax,U.S.,"Automotive Retailing, Services",32647,www.carmax.com,fortune-global-500
+477,Bristol-Myers Squibb,U.S.,Pharmaceuticals,32200,www.bms.com,fortune-global-500
+478,Jiangxi Copper,China,Metals,31654,www.jxcc.com,fortune-global-500
+479,Exelon,U.S.,Utilities,31518,www.exeloncorp.com,fortune-global-500
+480,Chubb,Switzerland,Insurance: Property and Casualty (Stock),31000,www.chubb.com,fortune-global-500
+481,Jingye Group,China,Metals,31000,www.hbjyjt.com,fortune-global-500
+482,Travelers,U.S.,Insurance: Property and Casualty (Stock),30492,www.travelers.com,fortune-global-500
+483,Raízen,Brazil,Petroleum Refining,30359,www.raizen.com.br,fortune-global-500
+484,PTT,Thailand,Petroleum Refining,29765,www.pttplc.com,fortune-global-500
+485,Jinchuan Group,China,Metals,29100,www.jnmc.com,fortune-global-500
+486,Xiamen ITG Holding Group,China,Trading,28977,www.itgholding.com.cn,fortune-global-500
+487,DZ Bank,Germany,Banks: Commercial and Savings,28913,www.dzbank.com,fortune-global-500
+488,Nucor,U.S.,Metals,28800,www.nucor.com,fortune-global-500
+489,US Foods Holding,U.S.,Wholesalers: Food and Grocery,28000,www.usfoods.com,fortune-global-500
+490,TD Synnex,U.S.,Wholesalers: Electronics and Office Equipment,27000,www.tdsynnex.com,fortune-global-500
+491,KB Financial Group,South Korea,Banks: Commercial and Savings,26187,www.kbfg.com,fortune-global-500
+492,Paramount Global,U.S.,Entertainment,25115,www.paramount.com,fortune-global-500
+493,Energie Baden-Württemberg,Germany,Utilities,24519,www.enbw.com,fortune-global-500
+494,Nationwide,U.S.,Insurance: Property and Casualty (Mutual),24134,www.nationwide.com,fortune-global-500
+495,Hailiang Group,China,Trading,24058,www.hailiang.com,fortune-global-500
+496,AIA Group,China,"Insurance: Life, Health (Stock)",23981,www.aia.com,fortune-global-500
+497,Talanx,Germany,Insurance: Property and Casualty (Stock),23954,www.talanx.com,fortune-global-500
+498,Zhejiang Hengyi Group,China,Chemicals,23222,www.hengyi.com,fortune-global-500
+499,Repsol,Spain,Petroleum Refining,22923,www.repsol.com,fortune-global-500
+500,Performance Food Group,U.S.,Wholesalers: Food and Grocery,22885,www.pfgc.com,fortune-global-500
+501,Zhejiang Rongsheng Holding Group,China,Chemicals,22750,www.rong-sheng.com,fortune-global-500
+502,OMV Group,Austria,Petroleum Refining,22434,www.omv.com,fortune-global-500
+503,Amer International Group,China,Metals,22398,www.amer.com.cn,fortune-global-500
+504,Aegon,Netherlands,"Insurance: Life, Health (Stock)",22271,www.aegon.com,fortune-global-500
+505,Aviva,Britain,"Insurance: Life, Health (Stock)",22062,www.aviva.com,fortune-global-500
+506,Bunge,U.S.,Food Production,22000,www.bunge.com,fortune-global-500
+507,Equinor,Norway,Petroleum Refining,21126,www.equinor.com,fortune-global-500
+508,Wuchan Zhongda Group,China,Trading,21012,www.wzgroup.cn,fortune-global-500
+509,Arrow Electronics,U.S.,Wholesalers: Electronics and Office Equipment,20700,www.arrow.com,fortune-global-500
+510,TongLing Nonferrous Metals Group,China,Metals,20164,www.tnmg.com.cn,fortune-global-500
+511,Fortum,Finland,Energy,19140,www.fortum.com,fortune-global-500
+512,LyondellBasell Industries,Netherlands,Chemicals,19100,www.lyondellbasell.com,fortune-global-500
+513,RWE,Germany,Utilities,18867,www.rwe.com,fortune-global-500
+514,Marathon Petroleum,U.S.,Petroleum Refining,17700,www.marathonpetroleum.com,fortune-global-500
+515,Suncor Energy,Canada,Petroleum Refining,16922,www.suncor.com,fortune-global-500
+516,Idemitsu Kosan,Japan,Petroleum Refining,16606,www.idemitsu.com,fortune-global-500
+517,CPC,Taiwan,Petroleum Refining,16366,www.cpc.com.tw,fortune-global-500
+518,Heraeus Holding,Germany,Metals,16159,www.heraeus.com,fortune-global-500
+519,Louis Dreyfus,Netherlands,Food Production,15737,www.ldc.com,fortune-global-500
+520,Samsung C&T,South Korea,Trading,15331,www.samsungcnt.com,fortune-global-500
+521,TIAA,U.S.,"Insurance: Life, Health (Mutual)",15065,www.tiaa.org,fortune-global-500
+522,Investor,Sweden,Diversified Financials,14812,www.investorab.com,fortune-global-500
+523,Medipal Holdings,Japan,Wholesalers: Health Care,14454,www.medipal.co.jp,fortune-global-500
+524,XMXYG,China,Trading,14372,www.xiangyu-group.com,fortune-global-500
+525,New York Life Insurance,U.S.,"Insurance: Life, Health (Mutual)",14344,www.newyorklife.com,fortune-global-500
+526,Phillips 66,U.S.,Petroleum Refining,14000,www.phillips66.com,fortune-global-500
+527,Swiss Re,Switzerland,Insurance: Property and Casualty (Stock),13985,www.swissre.com,fortune-global-500
+528,China National Aviation Fuel Group,China,Trading,13877,www.cnaf.com,fortune-global-500
+529,Energy Transfer,U.S.,Pipelines,12558,www.energytransfer.com,fortune-global-500
+530,Enbridge,Canada,Pipelines,11950,www.enbridge.com,fortune-global-500
+531,Netflix,U.S.,Entertainment,11300,www.netflix.com,fortune-global-500
+532,Hangzhou Iron and Steel Group,China,Metals,11179,www.hzsteel.com,fortune-global-500
+533,Umicore,Belgium,Chemicals,11050,www.umicore.com,fortune-global-500
+534,Legal & General Group,Britain,"Insurance: Life, Health (Stock)",10743,www.legalandgeneralgroup.com,fortune-global-500
+535,Massachusetts Mutual Life Insurance,U.S.,"Insurance: Life, Health (Mutual)",10052,www.massmutual.com,fortune-global-500
+536,CHS,U.S.,Food Production,9941,www.chsinc.com,fortune-global-500
+537,ConocoPhillips,U.S.,"Mining, Crude-Oil Production",9900,www.conocophillips.com,fortune-global-500
+538,Valero Energy,U.S.,Petroleum Refining,9804,www.valero.com,fortune-global-500
+539,Bharat Petroleum,India,Petroleum Refining,9193,www.bharatpetroleum.in,fortune-global-500
+540,Trafigura Group,Singapore,Trading,9031,www.trafigura.com,fortune-global-500
+541,Phoenix Group Holdings,Britain,"Insurance: Life, Health (Stock)",8045,www.thephoenixgroup.com,fortune-global-500
+542,Northwestern Mutual,U.S.,"Insurance: Life, Health (Mutual)",7585,www.northwesternmutual.com,fortune-global-500
+543,Fannie Mae,U.S.,Diversified Financials,7400,www.fanniemae.com,fortune-global-500
+544,Freddie Mac,U.S.,Diversified Financials,7301,www.freddiemac.com,fortune-global-500
+545,Enterprise Products Partners,U.S.,Pipelines,6911,www.enterpriseproducts.com,fortune-global-500
+546,Cenovus Energy,Canada,"Mining, Crude-Oil Production",5938,www.cenovus.com,fortune-global-500
+547,Samsung Life Insurance,South Korea,"Insurance: Life, Health (Stock)",4975,www.samsunglife.com,fortune-global-500
+548,World Fuel Services,U.S.,Energy,4414,www.wfscorp.com,fortune-global-500
+549,Plains GP Holdings,U.S.,Pipelines,4100,www.plains.com,fortune-global-500
+550,GS Caltex,South Korea,Petroleum Refining,3259,www.gscaltex.com,fortune-global-500
+551,StoneX Group,U.S.,Diversified Financials,3242,www.stonex.com,fortune-global-500
+552,Rajesh Exports,India,Trading,181,www.rajeshindia.com,fortune-global-500
+553,Agilent Technologies,United States,Health Care,,,s&p-500
+554,Airbnb,United States,Consumer Discretionary,,,s&p-500
+555,Arch Capital Group,United States,Financials,,,s&p-500
+556,Adobe Inc.,United States,Information Technology,,,s&p-500
+557,Analog Devices,United States,Information Technology,,,s&p-500
+558,Automatic Data Processing,United States,Industrials,,,s&p-500
+559,Autodesk,United States,Information Technology,,,s&p-500
+560,Ameren,United States,Utilities,,,s&p-500
+561,American Electric Power,United States,Utilities,,,s&p-500
+562,AES Corporation,United States,Utilities,,,s&p-500
+563,Aflac,United States,Financials,,,s&p-500
+564,Assurant,United States,Financials,,,s&p-500
+565,Arthur J. Gallagher & Co.,United States,Financials,,,s&p-500
+566,Akamai Technologies,United States,Information Technology,,,s&p-500
+567,Albemarle Corporation,United States,Materials,,,s&p-500
+568,Align Technology,United States,Health Care,,,s&p-500
+569,Allegion,United States,Industrials,,,s&p-500
+570,Applied Materials,United States,Information Technology,,,s&p-500
+571,Amcor,United States,Materials,,,s&p-500
+572,Advanced Micro Devices,United States,Information Technology,,,s&p-500
+573,Ametek,United States,Industrials,,,s&p-500
+574,Amgen,United States,Health Care,,,s&p-500
+575,Ameriprise Financial,United States,Financials,,,s&p-500
+576,American Tower,United States,Real Estate,,,s&p-500
+577,Arista Networks,United States,Information Technology,,,s&p-500
+578,Aon plc,United States,Financials,,,s&p-500
+579,A. O. Smith,United States,Industrials,,,s&p-500
+580,APA Corporation,United States,Energy,,,s&p-500
+581,Air Products,United States,Materials,,,s&p-500
+582,Apollo Global Management,United States,Financials,,,s&p-500
+583,AppLovin,United States,Communication Services,,,s&p-500
+584,Aptiv,United States,Consumer Discretionary,,,s&p-500
+585,Alexandria Real Estate Equities,United States,Real Estate,,,s&p-500
+586,Ares Management,United States,Financials,,,s&p-500
+587,Atmos Energy,United States,Utilities,,,s&p-500
+588,AvalonBay Communities,United States,Real Estate,,,s&p-500
+589,Broadcom,United States,Information Technology,,,s&p-500
+590,Avery Dennison,United States,Materials,,,s&p-500
+591,American Water Works,United States,Utilities,,,s&p-500
+592,Axon Enterprise,United States,Industrials,,,s&p-500
+593,Ball Corporation,United States,Materials,,,s&p-500
+594,Baxter International,United States,Health Care,,,s&p-500
+595,Becton Dickinson,United States,Health Care,,,s&p-500
+596,Franklin Resources,United States,Financials,,,s&p-500
+597,Brown–Forman,United States,Consumer Staples,,,s&p-500
+598,Bunge Global,United States,Consumer Staples,,,s&p-500
+599,Biogen,United States,Health Care,,,s&p-500
+600,Booking Holdings,United States,Consumer Discretionary,,,s&p-500
+601,Baker Hughes,United States,Energy,,,s&p-500
+602,Builders FirstSource,United States,Industrials,,,s&p-500
+603,BlackRock,United States,Financials,,,s&p-500
+604,BNY Mellon,United States,Financials,,,s&p-500
+605,Broadridge Financial Solutions,United States,Industrials,,,s&p-500
+606,Brown & Brown,United States,Financials,,,s&p-500
+607,Boston Scientific,United States,Health Care,,,s&p-500
+608,Blackstone Inc.,United States,Financials,,,s&p-500
+609,"BXP, Inc.",United States,Real Estate,,,s&p-500
+610,Carrier Global,United States,Industrials,,,s&p-500
+611,Casey's,United States,Consumer Staples,,,s&p-500
+612,Cboe Global Markets,United States,Financials,,,s&p-500
+613,CBRE Group,United States,Real Estate,,,s&p-500
+614,Crown Castle,United States,Real Estate,,,s&p-500
+615,Carnival Corporation,United States,Consumer Discretionary,,,s&p-500
+616,Cadence Design Systems,United States,Information Technology,,,s&p-500
+617,CDW Corporation,United States,Information Technology,,,s&p-500
+618,Constellation Energy,United States,Utilities,,,s&p-500
+619,CF Industries,United States,Materials,,,s&p-500
+620,Citizens Financial Group,United States,Financials,,,s&p-500
+621,Church & Dwight,United States,Consumer Staples,,,s&p-500
+622,C.H. Robinson,United States,Industrials,,,s&p-500
+623,Ciena,United States,Information Technology,,,s&p-500
+624,Cincinnati Financial,United States,Financials,,,s&p-500
+625,Colgate-Palmolive,United States,Consumer Staples,,,s&p-500
+626,Clorox,United States,Consumer Staples,,,s&p-500
+627,CME Group,United States,Financials,,,s&p-500
+628,Cummins,United States,Industrials,,,s&p-500
+629,CMS Energy,United States,Utilities,,,s&p-500
+630,CenterPoint Energy,United States,Utilities,,,s&p-500
+631,Capital One,United States,Financials,,,s&p-500
+632,Coherent Corp.,United States,Information Technology,,,s&p-500
+633,Coinbase,United States,Financials,,,s&p-500
+634,Cooper Companies (The),United States,Health Care,,,s&p-500
+635,Cencora,United States,Health Care,,,s&p-500
+636,Costco,United States,Consumer Staples,,,s&p-500
+637,Corpay,United States,Financials,,,s&p-500
+638,Copart,United States,Industrials,,,s&p-500
+639,Camden Property Trust,United States,Real Estate,,,s&p-500
+640,Charles River Laboratories,United States,Health Care,,,s&p-500
+641,CrowdStrike,United States,Information Technology,,,s&p-500
+642,CoStar Group,United States,Real Estate,,,s&p-500
+643,CSX Corporation,United States,Industrials,,,s&p-500
+644,Cintas,United States,Industrials,,,s&p-500
+645,Cognizant,United States,Information Technology,,,s&p-500
+646,Corteva,United States,Materials,,,s&p-500
+647,Carvana,United States,Consumer Discretionary,,,s&p-500
+648,Dominion Energy,United States,Utilities,,,s&p-500
+649,DoorDash,United States,Consumer Discretionary,,,s&p-500
+650,DuPont,United States,Industrials,,,s&p-500
+651,Datadog,United States,Information Technology,,,s&p-500
+652,Deckers Brands,United States,Consumer Discretionary,,,s&p-500
+653,Quest Diagnostics,United States,Health Care,,,s&p-500
+654,D. R. Horton,United States,Consumer Discretionary,,,s&p-500
+655,Walt Disney Company (The),United States,Communication Services,,,s&p-500
+656,Digital Realty,United States,Real Estate,,,s&p-500
+657,Healthpeak Properties,United States,Real Estate,,,s&p-500
+658,Dover Corporation,United States,Industrials,,,s&p-500
+659,Domino's,United States,Consumer Discretionary,,,s&p-500
+660,DTE Energy,United States,Utilities,,,s&p-500
+661,Duke Energy,United States,Utilities,,,s&p-500
+662,DaVita,United States,Health Care,,,s&p-500
+663,Devon Energy,United States,Energy,,,s&p-500
+664,Dexcom,United States,Health Care,,,s&p-500
+665,eBay Inc.,United States,Consumer Discretionary,,,s&p-500
+666,EchoStar,United States,Communication Services,,,s&p-500
+667,Ecolab,United States,Materials,,,s&p-500
+668,Consolidated Edison,United States,Utilities,,,s&p-500
+669,Equifax,United States,Industrials,,,s&p-500
+670,Everest Group,United States,Financials,,,s&p-500
+671,Edison International,United States,Utilities,,,s&p-500
+672,Estée Lauder Companies (The),United States,Consumer Staples,,,s&p-500
+673,Emcor,United States,Industrials,,,s&p-500
+674,Emerson Electric,United States,Industrials,,,s&p-500
+675,EOG Resources,United States,Energy,,,s&p-500
+676,Equinix,United States,Real Estate,,,s&p-500
+677,Equity Residential,United States,Real Estate,,,s&p-500
+678,EQT Corporation,United States,Energy,,,s&p-500
+679,Erie Indemnity,United States,Financials,,,s&p-500
+680,Eversource Energy,United States,Utilities,,,s&p-500
+681,Essex Property Trust,United States,Real Estate,,,s&p-500
+682,Eaton Corporation,United States,Industrials,,,s&p-500
+683,Entergy,United States,Utilities,,,s&p-500
+684,Evergy,United States,Utilities,,,s&p-500
+685,Edwards Lifesciences,United States,Health Care,,,s&p-500
+686,Expand Energy,United States,Energy,,,s&p-500
+687,Expeditors International,United States,Industrials,,,s&p-500
+688,Expedia Group,United States,Consumer Discretionary,,,s&p-500
+689,Extra Space Storage,United States,Real Estate,,,s&p-500
+690,Diamondback Energy,United States,Energy,,,s&p-500
+691,Fastenal,United States,Industrials,,,s&p-500
+692,Freeport-McMoRan,United States,Materials,,,s&p-500
+693,FactSet,United States,Financials,,,s&p-500
+694,FedEx Freight,United States,Industrials,,,s&p-500
+695,FirstEnergy,United States,Utilities,,,s&p-500
+696,Ferguson Enterprises,United States,Industrials,,,s&p-500
+697,"F5, Inc.",United States,Information Technology,,,s&p-500
+698,Fair Isaac,United States,Information Technology,,,s&p-500
+699,Fidelity National Information Services,United States,Financials,,,s&p-500
+700,Fiserv,United States,Financials,,,s&p-500
+701,Fifth Third Bancorp,United States,Financials,,,s&p-500
+702,Comfort Systems USA,United States,Industrials,,,s&p-500
+703,Fox Corporation (Class B),United States,Communication Services,,,s&p-500
+704,Fox Corporation (Class A),United States,Communication Services,,,s&p-500
+705,Federal Realty Investment Trust,United States,Real Estate,,,s&p-500
+706,First Solar,United States,Information Technology,,,s&p-500
+707,Fortinet,United States,Information Technology,,,s&p-500
+708,Fortive,United States,Industrials,,,s&p-500
+709,GoDaddy,United States,Information Technology,,,s&p-500
+710,GE Aerospace,United States,Industrials,,,s&p-500
+711,GE HealthCare,United States,Health Care,,,s&p-500
+712,Gen Digital,United States,Information Technology,,,s&p-500
+713,GE Vernova,United States,Industrials,,,s&p-500
+714,Gilead Sciences,United States,Health Care,,,s&p-500
+715,General Mills,United States,Consumer Staples,,,s&p-500
+716,Globe Life,United States,Financials,,,s&p-500
+717,Corning Inc.,United States,Information Technology,,,s&p-500
+718,Generac,United States,Industrials,,,s&p-500
+719,Alphabet Inc. (Class C),United States,Communication Services,,,s&p-500
+720,Alphabet Inc. (Class A),United States,Communication Services,,,s&p-500
+721,Genuine Parts Company,United States,Consumer Discretionary,,,s&p-500
+722,Global Payments,United States,Financials,,,s&p-500
+723,Garmin,United States,Consumer Discretionary,,,s&p-500
+724,W. W. Grainger,United States,Industrials,,,s&p-500
+725,Halliburton,United States,Energy,,,s&p-500
+726,Hasbro,United States,Consumer Discretionary,,,s&p-500
+727,Huntington Bancshares,United States,Financials,,,s&p-500
+728,Hartford (The),United States,Financials,,,s&p-500
+729,Huntington Ingalls Industries,United States,Industrials,,,s&p-500
+730,Hilton Worldwide,United States,Consumer Discretionary,,,s&p-500
+731,Honeywell Aerospace,United States,Industrials,,,s&p-500
+732,Robinhood Markets,United States,Financials,,,s&p-500
+733,Hewlett Packard Enterprise,United States,Information Technology,,,s&p-500
+734,Hormel Foods,United States,Consumer Staples,,,s&p-500
+735,Henry Schein,United States,Health Care,,,s&p-500
+736,Host Hotels & Resorts,United States,Real Estate,,,s&p-500
+737,Hershey Company (The),United States,Consumer Staples,,,s&p-500
+738,Hubbell Incorporated,United States,Industrials,,,s&p-500
+739,Howmet Aerospace,United States,Industrials,,,s&p-500
+740,Interactive Brokers,United States,Financials,,,s&p-500
+741,IBM,United States,Information Technology,,,s&p-500
+742,Intercontinental Exchange,United States,Financials,,,s&p-500
+743,Idexx Laboratories,United States,Health Care,,,s&p-500
+744,IDEX Corporation,United States,Industrials,,,s&p-500
+745,International Flavors & Fragrances,United States,Materials,,,s&p-500
+746,Incyte,United States,Health Care,,,s&p-500
+747,Intuit,United States,Information Technology,,,s&p-500
+748,Invitation Homes,United States,Real Estate,,,s&p-500
+749,International Paper,United States,Materials,,,s&p-500
+750,IQVIA,United States,Health Care,,,s&p-500
+751,Ingersoll Rand,United States,Industrials,,,s&p-500
+752,Iron Mountain,United States,Real Estate,,,s&p-500
+753,Intuitive Surgical,United States,Health Care,,,s&p-500
+754,Gartner,United States,Information Technology,,,s&p-500
+755,Illinois Tool Works,United States,Industrials,,,s&p-500
+756,Invesco,United States,Financials,,,s&p-500
+757,Jacobs Solutions,United States,Industrials,,,s&p-500
+758,J.B. Hunt,United States,Industrials,,,s&p-500
+759,Johnson Controls,United States,Industrials,,,s&p-500
+760,Jack Henry & Associates,United States,Financials,,,s&p-500
+761,Keurig Dr Pepper,United States,Consumer Staples,,,s&p-500
+762,KeyCorp,United States,Financials,,,s&p-500
+763,Keysight Technologies,United States,Information Technology,,,s&p-500
+764,Kraft Heinz,United States,Consumer Staples,,,s&p-500
+765,Kimco Realty,United States,Real Estate,,,s&p-500
+766,KKR & Co.,United States,Financials,,,s&p-500
+767,KLA Corporation,United States,Information Technology,,,s&p-500
+768,Kimberly-Clark,United States,Consumer Staples,,,s&p-500
+769,Kinder Morgan,United States,Energy,,,s&p-500
+770,Coca-Cola Company (The),United States,Consumer Staples,,,s&p-500
+771,Kenvue,United States,Consumer Staples,,,s&p-500
+772,Loews Corporation,United States,Financials,,,s&p-500
+773,Leidos,United States,Industrials,,,s&p-500
+774,Lennar,United States,Consumer Discretionary,,,s&p-500
+775,Labcorp,United States,Health Care,,,s&p-500
+776,L3Harris,United States,Industrials,,,s&p-500
+777,Lennox International,United States,Industrials,,,s&p-500
+778,Lumentum,United States,Information Technology,,,s&p-500
+779,Lilly (Eli),United States,Health Care,,,s&p-500
+780,Alliant Energy,United States,Utilities,,,s&p-500
+781,Lam Research,United States,Information Technology,,,s&p-500
+782,Lululemon Athletica,United States,Consumer Discretionary,,,s&p-500
+783,Southwest Airlines,United States,Industrials,,,s&p-500
+784,Las Vegas Sands,United States,Consumer Discretionary,,,s&p-500
+785,Live Nation Entertainment,United States,Communication Services,,,s&p-500
+786,Mastercard,United States,Financials,,,s&p-500
+787,Mid-America Apartment Communities,United States,Real Estate,,,s&p-500
+788,Marriott International,United States,Consumer Discretionary,,,s&p-500
+789,Masco,United States,Industrials,,,s&p-500
+790,Microchip Technology,United States,Information Technology,,,s&p-500
+791,Moody's Corporation,United States,Financials,,,s&p-500
+792,MGM Resorts,United States,Consumer Discretionary,,,s&p-500
+793,McCormick & Company,United States,Consumer Staples,,,s&p-500
+794,Martin Marietta Materials,United States,Materials,,,s&p-500
+795,Monster Beverage,United States,Consumer Staples,,,s&p-500
+796,Altria,United States,Consumer Staples,,,s&p-500
+797,Mosaic Company (The),United States,Materials,,,s&p-500
+798,Monolithic Power Systems,United States,Information Technology,,,s&p-500
+799,Moderna,United States,Health Care,,,s&p-500
+800,Marsh McLennan,United States,Financials,,,s&p-500
+801,Marvell Technology,United States,Information Technology,,,s&p-500
+802,MSCI,United States,Financials,,,s&p-500
+803,Motorola Solutions,United States,Information Technology,,,s&p-500
+804,M&T Bank,United States,Financials,,,s&p-500
+805,Mettler Toledo,United States,Health Care,,,s&p-500
+806,Micron Technology,United States,Information Technology,,,s&p-500
+807,Norwegian Cruise Line Holdings,United States,Consumer Discretionary,,,s&p-500
+808,"Nasdaq, Inc.",United States,Financials,,,s&p-500
+809,Nordson Corporation,United States,Industrials,,,s&p-500
+810,NextEra Energy,United States,Utilities,,,s&p-500
+811,Newmont,United States,Materials,,,s&p-500
+812,NiSource,United States,Utilities,,,s&p-500
+813,ServiceNow,United States,Information Technology,,,s&p-500
+814,NRG Energy,United States,Utilities,,,s&p-500
+815,Norfolk Southern,United States,Industrials,,,s&p-500
+816,NetApp,United States,Information Technology,,,s&p-500
+817,Northern Trust,United States,Financials,,,s&p-500
+818,Nvidia,United States,Information Technology,,,s&p-500
+819,"NVR, Inc.",United States,Consumer Discretionary,,,s&p-500
+820,News Corp (Class B),United States,Communication Services,,,s&p-500
+821,News Corp (Class A),United States,Communication Services,,,s&p-500
+822,NXP Semiconductors,United States,Information Technology,,,s&p-500
+823,Realty Income,United States,Real Estate,,,s&p-500
+824,Old Dominion,United States,Industrials,,,s&p-500
+825,Oneok,United States,Energy,,,s&p-500
+826,Omnicom Group,United States,Communication Services,,,s&p-500
+827,ON Semiconductor,United States,Information Technology,,,s&p-500
+828,Otis Worldwide,United States,Industrials,,,s&p-500
+829,Occidental Petroleum,United States,Energy,,,s&p-500
+830,Palo Alto Networks,United States,Information Technology,,,s&p-500
+831,Paychex,United States,Industrials,,,s&p-500
+832,Paccar,United States,Industrials,,,s&p-500
+833,PG&E Corporation,United States,Utilities,,,s&p-500
+834,Public Service Enterprise Group,United States,Utilities,,,s&p-500
+835,Principal Financial Group,United States,Financials,,,s&p-500
+836,Parker Hannifin,United States,Industrials,,,s&p-500
+837,PulteGroup,United States,Consumer Discretionary,,,s&p-500
+838,Packaging Corporation of America,United States,Materials,,,s&p-500
+839,Prologis,United States,Real Estate,,,s&p-500
+840,Palantir Technologies,United States,Information Technology,,,s&p-500
+841,PNC Financial Services,United States,Financials,,,s&p-500
+842,Pentair,United States,Industrials,,,s&p-500
+843,Pinnacle West Capital,United States,Utilities,,,s&p-500
+844,Insulet Corporation,United States,Health Care,,,s&p-500
+845,PPG Industries,United States,Materials,,,s&p-500
+846,PPL Corporation,United States,Utilities,,,s&p-500
+847,Public Storage,United States,Real Estate,,,s&p-500
+848,Paramount Skydance Corporation,United States,Communication Services,,,s&p-500
+849,PTC Inc.,United States,Information Technology,,,s&p-500
+850,Quanta Services,United States,Industrials,,,s&p-500
+851,PayPal,United States,Financials,,,s&p-500
+852,Qnity Electronics,United States,Information Technology,,,s&p-500
+853,Royal Caribbean Group,United States,Consumer Discretionary,,,s&p-500
+854,Regency Centers,United States,Real Estate,,,s&p-500
+855,Regeneron Pharmaceuticals,United States,Health Care,,,s&p-500
+856,Regions Financial Corporation,United States,Financials,,,s&p-500
+857,Raymond James Financial,United States,Financials,,,s&p-500
+858,Ralph Lauren Corporation,United States,Consumer Discretionary,,,s&p-500
+859,ResMed|,United States,Health Care,,,s&p-500
+860,Rockwell Automation,United States,Industrials,,,s&p-500
+861,"Rollins, Inc.",United States,Industrials,,,s&p-500
+862,Roper Technologies,United States,Information Technology,,,s&p-500
+863,Republic Services,United States,Industrials,,,s&p-500
+864,Revvity,United States,Health Care,,,s&p-500
+865,SBA Communications,United States,Real Estate,,,s&p-500
+866,Charles Schwab Corporation,United States,Financials,,,s&p-500
+867,Sherwin-Williams,United States,Materials,,,s&p-500
+868,J.M. Smucker Company (The),United States,Consumer Staples,,,s&p-500
+869,Schlumberger,United States,Energy,,,s&p-500
+870,Supermicro,United States,Information Technology,,,s&p-500
+871,Snap-on,United States,Industrials,,,s&p-500
+872,Sandisk,United States,Information Technology,,,s&p-500
+873,Synopsys,United States,Information Technology,,,s&p-500
+874,Southern Company,United States,Utilities,,,s&p-500
+875,Solventum,United States,Health Care,,,s&p-500
+876,Simon Property Group,United States,Real Estate,,,s&p-500
+877,S&P Global,United States,Financials,,,s&p-500
+878,Sempra,United States,Utilities,,,s&p-500
+879,Steris,United States,Health Care,,,s&p-500
+880,Steel Dynamics,United States,Materials,,,s&p-500
+881,State Street Corporation,United States,Financials,,,s&p-500
+882,Seagate Technology,United States,Information Technology,,,s&p-500
+883,Constellation Brands,United States,Consumer Staples,,,s&p-500
+884,Smurfit Westrock,United States,Materials,,,s&p-500
+885,Stanley Black & Decker,United States,Industrials,,,s&p-500
+886,Skyworks Solutions,United States,Information Technology,,,s&p-500
+887,Synchrony Financial,United States,Financials,,,s&p-500
+888,Stryker Corporation,United States,Health Care,,,s&p-500
+889,Molson Coors Beverage Company,United States,Consumer Staples,,,s&p-500
+890,TransDigm Group,United States,Industrials,,,s&p-500
+891,Teledyne Technologies,United States,Information Technology,,,s&p-500
+892,Bio-Techne,United States,Health Care,,,s&p-500
+893,TE Connectivity,United States,Information Technology,,,s&p-500
+894,Teradyne,United States,Information Technology,,,s&p-500
+895,Truist Financial,United States,Financials,,,s&p-500
+896,TKO Group Holdings,United States,Communication Services,,,s&p-500
+897,T-Mobile US,United States,Communication Services,,,s&p-500
+898,Texas Pacific Land Corporation,United States,Energy,,,s&p-500
+899,"Tapestry, Inc.",United States,Consumer Discretionary,,,s&p-500
+900,Targa Resources,United States,Energy,,,s&p-500
+901,Trimble Inc.,United States,Information Technology,,,s&p-500
+902,T. Rowe Price,United States,Financials,,,s&p-500
+903,Travelers Companies (The),United States,Financials,,,s&p-500
+904,Tractor Supply,United States,Consumer Discretionary,,,s&p-500
+905,Trane Technologies,United States,Industrials,,,s&p-500
+906,Trade Desk (The),United States,Communication Services,,,s&p-500
+907,Take-Two Interactive,United States,Communication Services,,,s&p-500
+908,Texas Instruments,United States,Information Technology,,,s&p-500
+909,Textron,United States,Industrials,,,s&p-500
+910,Tyler Technologies,United States,Information Technology,,,s&p-500
+911,United Airlines Holdings,United States,Industrials,,,s&p-500
+912,Uber,United States,Industrials,,,s&p-500
+913,"UDR, Inc.",United States,Real Estate,,,s&p-500
+914,Universal Health Services,United States,Health Care,,,s&p-500
+915,Ulta Beauty,United States,Consumer Discretionary,,,s&p-500
+916,Union Pacific Corporation,United States,Industrials,,,s&p-500
+917,United Rentals,United States,Industrials,,,s&p-500
+918,U.S. Bancorp,United States,Financials,,,s&p-500
+919,Visa Inc.,United States,Financials,,,s&p-500
+920,Veeva Systems,United States,Health Care,,,s&p-500
+921,Vici Properties,United States,Real Estate,,,s&p-500
+922,Veralto,United States,Industrials,,,s&p-500
+923,Vulcan Materials Company,United States,Materials,,,s&p-500
+924,Verisk Analytics,United States,Industrials,,,s&p-500
+925,Verisign,United States,Information Technology,,,s&p-500
+926,Vertiv,United States,Industrials,,,s&p-500
+927,Vertex Pharmaceuticals,United States,Health Care,,,s&p-500
+928,Vistra Corp.,United States,Utilities,,,s&p-500
+929,Ventas,United States,Real Estate,,,s&p-500
+930,Viatris,United States,Health Care,,,s&p-500
+931,Verizon,United States,Communication Services,,,s&p-500
+932,Wabtec,United States,Industrials,,,s&p-500
+933,Waters Corporation,United States,Health Care,,,s&p-500
+934,Warner Bros. Discovery,United States,Communication Services,,,s&p-500
+935,"Workday, Inc.",United States,Information Technology,,,s&p-500
+936,Western Digital,United States,Information Technology,,,s&p-500
+937,WEC Energy Group,United States,Utilities,,,s&p-500
+938,Welltower,United States,Real Estate,,,s&p-500
+939,Waste Management,United States,Industrials,,,s&p-500
+940,Williams Companies,United States,Energy,,,s&p-500
+941,W. R. Berkley Corporation,United States,Financials,,,s&p-500
+942,"Williams-Sonoma, Inc.",United States,Consumer Discretionary,,,s&p-500
+943,West Pharmaceutical Services,United States,Health Care,,,s&p-500
+944,Willis Towers Watson,United States,Financials,,,s&p-500
+945,Weyerhaeuser,United States,Real Estate,,,s&p-500
+946,Wynn Resorts,United States,Consumer Discretionary,,,s&p-500
+947,Xcel Energy,United States,Utilities,,,s&p-500
+948,ExxonMobil,United States,Energy,,,s&p-500
+949,Xylem Inc.,United States,Industrials,,,s&p-500
+950,"Block, Inc.",United States,Financials,,,s&p-500
+951,Yum! Brands,United States,Consumer Discretionary,,,s&p-500
+952,Zimmer Biomet,United States,Health Care,,,s&p-500
+953,Zebra Technologies,United States,Information Technology,,,s&p-500
+954,Zoetis,United States,Health Care,,,s&p-500
+955,Anthem,United States,,,,fortune-500-us
+956,DuPont de Nemours,United States,,,,fortune-500-us
+957,United Technologies,United States,,,,fortune-500-us
+958,Facebook,United States,,,,fortune-500-us
+959,AIG,United States,,,,fortune-500-us
+960,United Continental Holdings,United States,,,,fortune-500-us
+961,Tech Data,United States,,,,fortune-500-us
+962,USAA,United States,,,,fortune-500-us
+963,Twenty-First Century Fox,United States,,,,fortune-500-us
+964,Rite Aid,United States,,,,fortune-500-us
+965,INTL FCStone,United States,,,,fortune-500-us
+966,PBF Energy,United States,,,,fortune-500-us
+967,DXC Technology,United States,,,,fortune-500-us
+968,Eli Lilly,United States,,,,fortune-500-us
+969,CenturyLink,United States,,,,fortune-500-us
+970,Penske Automotive Group,United States,,,,fortune-500-us
+971,ManpowerGroup,United States,,,,fortune-500-us
+972,AutoNation,United States,,,,fortune-500-us
+973,Whirlpool,United States,,,,fortune-500-us
+974,WellCare Health Plans,United States,,,,fortune-500-us
+975,AECOM,United States,,,,fortune-500-us
+976,Synnex,United States,,,,fortune-500-us
+977,Hartford Financial Services,United States,,,,fortune-500-us
+978,Bank of New York Mellon,United States,,,,fortune-500-us
+979,Fluor,United States,,,,fortune-500-us
+980,Avnet,United States,,,,fortune-500-us
+981,Icahn Enterprises,United States,,,,fortune-500-us
+982,Molina Healthcare,United States,,,,fortune-500-us
+983,HollyFrontier,United States,,,,fortune-500-us
+984,NGL Energy Partners,United States,,,,fortune-500-us
+985,XPO Logistics,United States,,,,fortune-500-us
+986,C.H. Robinson Worldwide,United States,,,,fortune-500-us
+987,Lincoln National,United States,,,,fortune-500-us
+988,WestRock,United States,,,,fortune-500-us
+989,Cognizant Technology Solutions,United States,,,,fortune-500-us
+990,Nordstrom,United States,,,,fortune-500-us
+991,Supervalu,United States,,,,fortune-500-us
+992,Goodyear Tire & Rubber,United States,,,,fortune-500-us
+993,Jacobs Engineering Group,United States,,,,fortune-500-us
+994,Land O'Lakes,United States,,,,fortune-500-us
+995,United States Steel,United States,,,,fortune-500-us
+996,Community Health Systems,United States,,,,fortune-500-us
+997,Estee Lauder,United States,,,,fortune-500-us
+998,DISH Network,United States,,,,fortune-500-us
+999,Kellogg,United States,,,,fortune-500-us
+1000,Alcoa,United States,,,,fortune-500-us

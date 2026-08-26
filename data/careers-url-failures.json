@@ -1,0 +1,372 @@
+[
+  {
+    "name": "Walmart",
+    "url": "https://www.walmart.com/careers",
+    "status": "FAIL"
+  },
+  {
+    "name": "China National Petroleum",
+    "url": "https://www.cnpc.com.cn/careers",
+    "status": "FAIL(412)"
+  },
+  {
+    "name": "State Grid",
+    "url": "https://www.sgcc.com.cn/careers",
+    "status": "FAIL"
+  },
+  {
+    "name": "China Post Group",
+    "url": "https://www.chinapost.com.cn/careers",
+    "status": "FAIL(404)"
+  },
+  {
+    "name": "Volkswagen",
+    "url": "https://www.volkswagenag.com/careers",
+    "status": "FAIL(404)"
+  },
+  {
+    "name": "Deutsche Post DHL Group",
+    "url": "https://www.dpdhl.com/careers",
+    "status": "FAIL(404)"
+  },
+  {
+    "name": "Sinopec Group",
+    "url": "https://www.sinopec.com/careers",
+    "status": "FAIL"
+  },
+  {
+    "name": "Jinneng Holding Group",
+    "url": "https://www.dtcoalmine.com/careers",
+    "status": "FAIL"
+  },
+  {
+    "name": "Gazprom",
+    "url": "https://www.gazprom.com/careers",
+    "status": "FAIL"
+  },
+  {
+    "name": "China Mobile Communications",
+    "url": "https://www.10086.cn/careers",
+    "status": "FAIL"
+  },
+  {
+    "name": "Industrial & Commercial Bank of China",
+    "url": "https://www.icbc-ltd.com/careers",
+    "status": "FAIL(404)"
+  },
+  {
+    "name": "Edeka Zentrale",
+    "url": "https://www.verbund.edeka/careers",
+    "status": "FAIL(404)"
+  },
+  {
+    "name": "United Parcel Service",
+    "url": "https://www.ups.com/careers",
+    "status": "FAIL"
+  },
+  {
+    "name": "Jardine Matheson",
+    "url": "https://www.jardines.com/careers",
+    "status": "FAIL(404)"
+  },
+  {
+    "name": "China Telecommunications",
+    "url": "https://www.chinatelecom.com.cn/careers",
+    "status": "FAIL(412)"
+  },
+  {
+    "name": "Aviation Industry Corp. of China",
+    "url": "https://www.avic.com/careers",
+    "status": "FAIL(404)"
+  },
+  {
+    "name": "China Construction Bank",
+    "url": "https://www.ccb.com/careers",
+    "status": "FAIL"
+  },
+  {
+    "name": "Toyota Motor",
+    "url": "https://www.global.toyota/en//careers",
+    "status": "FAIL(404)"
+  },
+  {
+    "name": "Berkshire Hathaway",
+    "url": "https://www.berkshirehathaway.com/careers",
+    "status": "FAIL(404)"
+  },
+  {
+    "name": "China State Construction Engineering",
+    "url": "https://www.cscec.com/careers",
+    "status": "FAIL(404)"
+  },
+  {
+    "name": "Hitachi",
+    "url": "https://www.hitachi.com/careers",
+    "status": "FAIL(404)"
+  },
+  {
+    "name": "Rosneft Oil",
+    "url": "https://www.rosneft.com/careers",
+    "status": "FAIL(404)"
+  },
+  {
+    "name": "Ping An Insurance",
+    "url": "https://www.group.pingan.com/careers",
+    "status": "FAIL"
+  },
+  {
+    "name": "X5 Retail Group",
+    "url": "https://www.x5.ru/careers",
+    "status": "FAIL(404)"
+  },
+  {
+    "name": "TJX",
+    "url": "https://www.tjx.com/careers",
+    "status": "FAIL(403)"
+  },
+  {
+    "name": "Nippon Telegraph and Telephone",
+    "url": "https://www.group.ntt/careers",
+    "status": "FAIL(404)"
+  },
+  {
+    "name": "Carrefour",
+    "url": "https://www.carrefour.com/careers",
+    "status": "FAIL(403)"
+  },
+  {
+    "name": "China Energy Investment",
+    "url": "https://www.ceic.com/careers",
+    "status": "FAIL(404)"
+  },
+  {
+    "name": "China Railway Engineering Group",
+    "url": "https://www.crecg.com/careers",
+    "status": "FAIL(404)"
+  },
+  {
+    "name": "Pacific Construction Group",
+    "url": "https://www.cpcg.com.cn/careers",
+    "status": "FAIL(404)"
+  },
+  {
+    "name": "CK Hutchison Holdings",
+    "url": "https://www.ckh.com.hk/careers",
+    "status": "FAIL(404)"
+  },
+  {
+    "name": "BYD",
+    "url": "https://www.byd.com/careers",
+    "status": "FAIL(404)"
+  },
+  {
+    "name": "AEON",
+    "url": "https://www.aeon.info/careers",
+    "status": "FAIL(404)"
+  },
+  {
+    "name": "Costco Wholesale",
+    "url": "https://www.costco.com/careers",
+    "status": "FAIL"
+  },
+  {
+    "name": "Sberbank",
+    "url": "https://www.sberbank.ru/careers",
+    "status": "FAIL"
+  },
+  {
+    "name": "China Southern Power Grid",
+    "url": "https://www.csg.cn/careers",
+    "status": "FAIL(403)"
+  },
+  {
+    "name": "Stellantis",
+    "url": "https://www.stellantis.com/careers",
+    "status": "FAIL(404)"
+  },
+  {
+    "name": "Sumitomo Electric Industries",
+    "url": "https://www.global-sei.com/careers",
+    "status": "FAIL"
+  },
+  {
+    "name": "Fresenius",
+    "url": "https://www.fresenius.com/careers",
+    "status": "FAIL(403)"
+  },
+  {
+    "name": "Nestl\u00e9",
+    "url": "https://www.nestle.com/careers",
+    "status": "FAIL(403)"
+  },
+  {
+    "name": "Lowe's",
+    "url": "https://www.lowes.com/careers",
+    "status": "FAIL(403)"
+  },
+  {
+    "name": "China Merchants Group",
+    "url": "https://www.cmhk.com/careers",
+    "status": "FAIL(404)"
+  },
+  {
+    "name": "La Poste",
+    "url": "https://www.groupelaposte.com/careers",
+    "status": "FAIL(410)"
+  },
+  {
+    "name": "HCA Healthcare",
+    "url": "https://www.hcahealthcare.com/careers",
+    "status": "FAIL(403)"
+  },
+  {
+    "name": "Shandong Energy Group",
+    "url": "https://www.shandong-energy.com/careers",
+    "status": "FAIL(404)"
+  },
+  {
+    "name": "China United Network Communications",
+    "url": "https://www.chinaunicom-a.com/careers",
+    "status": "FAIL"
+  },
+  {
+    "name": "Panasonic Holdings",
+    "url": "https://www.holdings.panasonic/global/careers",
+    "status": "FAIL"
+  },
+  {
+    "name": "Jabil",
+    "url": "https://www.jabil.com/careers",
+    "status": "FAIL(404)"
+  },
+  {
+    "name": "Japan Post Holdings",
+    "url": "https://www.japanpost.jp/careers",
+    "status": "FAIL(404)"
+  },
+  {
+    "name": "Sinochem Holdings",
+    "url": "https://www.sinochem.com/careers",
+    "status": "FAIL(403)"
+  },
+  {
+    "name": "China Communications Construction",
+    "url": "https://www.ccccltd.cn/careers",
+    "status": "FAIL(521)"
+  },
+  {
+    "name": "Vinci",
+    "url": "https://www.vinci.com/careers",
+    "status": "FAIL(404)"
+  },
+  {
+    "name": "China North Industries Group",
+    "url": "https://www.norincogroup.com.cn/careers",
+    "status": "FAIL"
+  },
+  {
+    "name": "China State Shipbuilding",
+    "url": "https://www.cssc.net.cn/careers",
+    "status": "FAIL"
+  },
+  {
+    "name": "Woolworths Group",
+    "url": "https://www.woolworthsgroup.com.au/careers",
+    "status": "FAIL(404)"
+  },
+  {
+    "name": "Honda Motor",
+    "url": "https://www.global.honda//careers",
+    "status": "FAIL"
+  },
+  {
+    "name": "AT&T",
+    "url": "https://www.att.com/careers",
+    "status": "FAIL(403)"
+  },
+  {
+    "name": "China Electronics Technology Group",
+    "url": "https://www.cetc.com.cn/careers",
+    "status": "FAIL(404)"
+  },
+  {
+    "name": "Shanxi Coking Coal Group",
+    "url": "https://www.sxcc.com.cn/careers",
+    "status": "FAIL(404)"
+  },
+  {
+    "name": "Sinopharm",
+    "url": "https://www.sinopharm.com/careers",
+    "status": "FAIL(403)"
+  },
+  {
+    "name": "Finatis",
+    "url": "https://www.finatis.fr/careers",
+    "status": "FAIL(403)"
+  },
+  {
+    "name": "Albertsons",
+    "url": "https://www.albertsonscompanies.com/careers",
+    "status": "FAIL(403)"
+  },
+  {
+    "name": "Huawei Investment & Holding",
+    "url": "https://www.huawei.com/careers",
+    "status": "FAIL(404)"
+  },
+  {
+    "name": "Banco Santander",
+    "url": "https://www.santander.com/careers",
+    "status": "FAIL(404)"
+  },
+  {
+    "name": "China Minmetals",
+    "url": "https://www.minmetals.com/careers",
+    "status": "FAIL(404)"
+  },
+  {
+    "name": "China Electronics",
+    "url": "https://www.cec.com.cn/careers",
+    "status": "FAIL(404)"
+  },
+  {
+    "name": "Continental",
+    "url": "https://www.continental.com/careers",
+    "status": "FAIL(404)"
+  },
+  {
+    "name": "BNP Paribas",
+    "url": "https://www.group.bnpparibas/careers",
+    "status": "FAIL(403)"
+  },
+  {
+    "name": "Comcast",
+    "url": "https://www.comcastcorporation.com/careers",
+    "status": "FAIL"
+  },
+  {
+    "name": "People's Insurance Co. of China",
+    "url": "https://www.picc.com.cn/careers",
+    "status": "FAIL(403)"
+  },
+  {
+    "name": "China Life Insurance",
+    "url": "https://www.chinalife.com.cn/careers",
+    "status": "FAIL"
+  },
+  {
+    "name": "PowerChina",
+    "url": "https://www.powerchina.cn/careers",
+    "status": "FAIL(404)"
+  },
+  {
+    "name": "Am\u00e9rica M\u00f3vil",
+    "url": "https://www.americamovil.com/careers",
+    "status": "FAIL(403)"
+  },
+  {
+    "name": "China National Nuclear",
+    "url": "https://www.cnnc.com.cn/careers",
+    "status": "FAIL(412)"
+  }
+]

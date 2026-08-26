@@ -1,0 +1,35 @@
+# Config-driven scrapers for the items engine. Run with: jobcollect scrape
+#
+# Modes:
+#   row_selector  - each matching element IS an item (list pages; no detail fetch)
+#   item_selector - matched links are detail pages, fetched and extracted
+# Fields use CSS selectors; prefix with "xpath:" for XPath; "@attr" extracts an
+# attribute (e.g. "time@datetime"). Unspecified fields fall back to heuristics
+# (h1/title, meta description, JSON-LD, trafilatura main-content extraction).
+
+scrapers:
+  # --- Row mode: Hacker News front page (each <tr class="athing"> is an item) ---
+  - name: "hacker_news_front"
+    start_url: "https://news.ycombinator.com"
+    category: "news"
+    row_selector: "tr.athing"
+    fields:
+      title: "span.titleline a"
+      url: "span.titleline a@href"
+    next_selector: "a.morelink"
+    max_pages: 2
+    max_items: 60
+
+  # --- Link mode: GitHub Blog (article links -> detail pages) ---
+  - name: "github_blog"
+    start_url: "https://github.blog/"
+    category: "blog"
+    item_selector: "h2 a, h3 a"
+    item_url_pattern: "github\\.blog/"
+    fields:
+      title: "h1"
+      content: "article"
+      published_at: "time@datetime"
+    max_pages: 1
+    max_items: 15
+    domain: "github.blog"

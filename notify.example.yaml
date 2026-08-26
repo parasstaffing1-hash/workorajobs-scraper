@@ -1,0 +1,15 @@
+# Daily digest delivery via apprise (https://github.com/caronc/apprise).
+# Each entry is an apprise service URL. See the apprise wiki for formats:
+#   https://github.com/caronc/apprise/wiki
+#
+# Email:     "mailtos://user:pass@smtp.example.com:465?from=me@example.com&to=you@example.com"
+# Slack:     "slack://TOKEN/#channel"   (or slack://WEBHOOK_URL)
+# Telegram:  "tgram://BOT_TOKEN/TARGET"
+# ntfy:      "ntfy://topic"
+# Discord:   "discord://WEBHOOK_ID/WEBHOOK_TOKEN"
+#
+# URLs can also be supplied via the environment variable JOBCOLLECT_NOTIFY_URLS
+# (comma-separated), which is handy in cron/Docker.
+
+urls:
+  - "ntfy://jobcollector-demo"

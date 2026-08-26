@@ -1,0 +1,2 @@
+[console_scripts]
+jobcollect = jobcollector.cli:main

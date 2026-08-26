@@ -1,0 +1,37 @@
+# General-purpose RSS/Atom feeds for the items engine.
+# Manage with: jobcollect feed add/list/fetch
+
+feeds:
+- name: Hacker News
+  url: https://hnrss.org/frontpage
+  category: news
+  tags:
+  - tech
+- name: BBC World
+  url: https://feeds.bbci.co.uk/news/world/rss.xml
+  category: news
+  tags:
+  - world
+- name: Simon Willison's Weblog
+  url: https://simonwillison.net/atom/everything/
+  category: blog
+  tags:
+  - tech
+  - python
+- name: Ars Technica
+  url: https://feeds.arstechnica.com/arstechnica/index
+  category: news
+  tags:
+  - tech
+- name: Schneier on Security
+  url: https://www.schneier.com/feed/atom
+  category: security
+  tags: []
+- name: The Verge
+  url: https://www.theverge.com/rss/index.xml
+  category: tech
+  tags: []
+- name: Lobsters
+  url: https://lobste.rs/rss
+  category: tech
+  tags: []

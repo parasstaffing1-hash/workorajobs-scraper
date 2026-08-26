@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { width: 350px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #0f172a; color: #e2e8f0; }
+    .header { background: linear-gradient(135deg, #1e40af, #7c3aed); padding: 16px; text-align: center; }
+    .header h1 { font-size: 18px; font-weight: 700; }
+    .header p { font-size: 11px; color: #c4b5fd; margin-top: 4px; }
+    .content { padding: 16px; }
+    .form-group { margin-bottom: 12px; }
+    .form-group label { display: block; font-size: 12px; color: #94a3b8; margin-bottom: 4px; }
+    .form-group input, .form-group textarea { width: 100%; padding: 8px 12px; border-radius: 6px; border: 1px solid #334155; background: #1e293b; color: #e2e8f0; font-size: 13px; }
+    .form-group input:focus, .form-group textarea:focus { outline: none; border-color: #3b82f6; }
+    .btn { width: 100%; padding: 10px; border: none; border-radius: 6px; font-size: 14px; font-weight: 600; cursor: pointer; margin-bottom: 8px; }
+    .btn-primary { background: #3b82f6; color: white; }
+    .btn-primary:hover { background: #2563eb; }
+    .btn-success { background: #10b981; color: white; }
+    .btn-success:hover { background: #059669; }
+    .btn-outline { background: transparent; border: 1px solid #334155; color: #94a3b8; }
+    .btn-outline:hover { border-color: #3b82f6; color: #e2e8f0; }
+    .status { padding: 8px; border-radius: 6px; font-size: 12px; text-align: center; margin-top: 8px; display: none; }
+    .status.success { display: block; background: #065f46; color: #6ee7b7; }
+    .status.error { display: block; background: #991b1b; color: #fca5a5; }
+    .job-preview { background: #1e293b; border-radius: 8px; padding: 12px; margin-bottom: 12px; border: 1px solid #334155; }
+    .job-preview h3 { font-size: 14px; margin-bottom: 4px; }
+    .job-preview p { font-size: 12px; color: #94a3b8; }
+    .settings { margin-top: 12px; padding-top: 12px; border-top: 1px solid #334155; }
+    .settings h3 { font-size: 13px; margin-bottom: 8px; }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <h1>🎯 LeadFlow</h1>
+    <p>One-click job saving</p>
+  </div>
+  <div class="content">
+    <div class="job-preview" id="jobPreview">
+      <h3 id="jobTitle">Loading...</h3>
+      <p id="jobCompany">Detecting job info...</p>
+    </div>
+
+    <div class="form-group">
+      <label>Tags (comma separated)</label>
+      <input type="text" id="tags" placeholder="e.g. high-priority, remote, react">
+    </div>
+
+    <div class="form-group">
+      <label>Notes</label>
+      <textarea id="notes" rows="2" placeholder="Your notes about this job..."></textarea>
+    </div>
+
+    <button class="btn btn-success" id="saveBtn">⭐ Save to LeadFlow</button>
+    <button class="btn btn-outline" id="applyBtn">🚀 Auto-Apply</button>
+
+    <div class="status" id="status"></div>
+
+    <div class="settings">
+      <h3>⚙️ Settings</h3>
+      <div class="form-group">
+        <label>LeadFlow API URL</label>
+        <input type="text" id="apiUrl" placeholder="http://localhost:8000" value="http://localhost:8000">
+      </div>
+    </div>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>

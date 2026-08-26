@@ -1,0 +1,121 @@
+# Job collector configuration.
+# Copy to companies.yaml and edit. Run `jobcollect init-config` to do this for you.
+
+# ---------------------------------------------------------------------------
+# Public job-board APIs (free, no API key required)
+# ---------------------------------------------------------------------------
+boards:
+  - remotive      # https://remotive.com/remote-jobs
+  - remotive|python,java,typescript,react
+  - remotive|backend engineer,frontend engineer,full stack developer
+  - remoteok      # https://remoteok.com
+  - remoteok|software engineer,python,react
+  - arbeitnow     # https://www.arbeitnow.com (Germany-focused, in English)
+  - jobicy        # https://jobicy.com
+
+# ---------------------------------------------------------------------------
+# RSS/Atom feeds: many companies and aggregators publish job feeds.
+#   name    - label used in the DB (also the default company name)
+#   url     - the feed URL
+#   company - optional: override the company name attached to entries
+# ---------------------------------------------------------------------------
+rss_feeds:
+  - name: "We Work Remotely (programming)"
+    url: "https://weworkremotely.com/categories/remote-programming-jobs.rss"
+  - name: "Jobspresso"
+    url: "https://jobspresso.co/feed/"
+  - name: "Hacker News (Who's Hiring)"
+    url: "https://hnrss.org/jobs"
+
+# ---------------------------------------------------------------------------
+# ATS-hosted career boards via the platforms' official public APIs (no keys).
+# Same endpoints used by the open-source job-board-aggregator project.
+# ---------------------------------------------------------------------------
+
+greenhouse:     # https://boards-api.greenhouse.io/v1/boards/<slug>/jobs
+  - stripe
+  - airbnb
+  - instacart
+
+ashby:          # https://api.ashbyhq.com/posting-api/job-board/<slug>
+  - linear
+  - 1password
+  - notion
+
+bamboohr:       # https://<slug>.bamboohr.com/careers/list
+  - cbm
+
+lever:          # https://api.lever.co/v0/postings/<slug> (some tenants still live)
+  - 15five
+
+# Workday slug format: "company|wd{n}|site_id"
+# e.g. 7Eleven  -> https://7eleven.wd3.myworkdayjobs.com/wday/cxs/7eleven/7eleven/jobs
+workday:
+  - "7eleven|wd3|7eleven"
+  - "23andme|wd5|23"
+
+# TCS official iBegin job portal (ibegin.tcsapps.com) — keyless JSON API.
+# Slug "label|fresh_days": keeps only openings whose apply-by date falls within
+# the next N days (the API exposes no posting date). A filtered slug is a
+# separate source (tcs:tcs-7), so the daily fresh feed never expires a full
+# archive. Use a bare "tcs" slug for one-off full pulls (--limit 5000).
+tcs:
+  - tcs|7
+
+# ---------------------------------------------------------------------------
+# Company career pages crawled generically.
+#   careers_url     - starting page (the careers / jobs listing)
+#   domain          - only links on this host are followed (defaults to the
+#                     careers_url host)
+#   link_selector   - optional CSS selector that targets job links exactly
+#                     (bypasses the generic keyword filter)
+#   link_pattern    - optional regex matched against candidate hrefs
+#   exclude_keywords- substrings that disqualify a link (blog posts, etc.)
+#   max_pages       - max job-detail pages fetched per company per run
+#   use_js          - true to render with Playwright (SPA sites); requires
+#                     `pip install 'jobcollector[js]'` + `playwright install chromium`
+# ---------------------------------------------------------------------------
+smartrecruiters:
+  - canva
+workable:
+  - huzzle
+breezy:
+  - duolingo
+teamtailor:
+  - storytel
+hirehive:
+  - hirehive
+recruitee:
+  - auditdata
+rise:
+  - public
+# Keyed aggregators (need free API keys, see api_keys below):
+adzuna:
+  - us
+  - gb
+  - in
+usajobs:
+  - public
+# Keyless enterprise HTML boards:
+jobvite:
+  - carfax
+icims:
+  - here
+api_keys:
+  adzuna_app_id: ""
+  adzuna_api_key: ""
+  usajobs_api_key: ""
+  usajobs_user_agent: ""
+
+companies:
+  - name: "Mozilla"
+    careers_url: "https://www.mozilla.org/en-US/careers/listings/"
+    domain: "mozilla.org"
+
+  - name: "Canonical"
+    careers_url: "https://canonical.com/careers/all"
+    domain: "canonical.com"
+
+  - name: "Red Hat"
+    careers_url: "https://jobs.redhat.com"
+    domain: "jobs.redhat.com"

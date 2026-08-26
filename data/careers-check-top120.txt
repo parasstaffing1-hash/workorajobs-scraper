@@ -1,0 +1,124 @@
+   1 OK           https://www.mozilla.org/en-US/careers/listings/         -> https://www.mozilla.org/en-US/careers/listings/
+   2 OK           https://canonical.com/careers/all                       -> https://canonical.com/careers/all
+   3 REDIRECT     https://jobs.redhat.com                                 -> https://www.redhat.com/en/jobs
+   4 FAIL         https://www.walmart.com/careers                         -> ConnectError: [Errno 11001] getaddrinfo failed
+   5 REDIRECT     https://www.amazon.com/careers                          -> https://amazon.jobs/en/
+   6 FAIL(412)    https://www.cnpc.com.cn/careers                         -> https://www.cnpc.com.cn/careers
+   7 FAIL         https://www.sgcc.com.cn/careers                         -> ConnectTimeout: timed out
+   8 REDIRECT     https://www.foxconn.com/careers                         -> https://www.foxconn.com/zh-tw
+   9 FAIL(404)    https://www.chinapost.com.cn/careers                    -> https://www.chinapost.com.cn/careers
+  10 FAIL(404)    https://www.volkswagenag.com/careers                    -> https://www.volkswagen-group.com/careers
+  11 REDIRECT     https://www.accenture.com/careers                       -> https://www.accenture.com/in-en/careers
+  12 OK           https://www.usps.com/careers                            -> https://www.usps.com/careers/
+  13 FAIL(404)    https://www.dpdhl.com/careers                           -> https://group.dhl.com/careers
+  14 FAIL         https://www.sinopec.com/careers                         -> ConnectTimeout: timed out
+  15 OK           https://www.fedex.com/careers                           -> https://www.fedex.com/careers
+  16 FAIL         https://www.dtcoalmine.com/careers                      -> ConnectTimeout: timed out
+  17 REDIRECT     https://www.homedepot.com/careers                       -> https://careers.homedepot.com/job-search-results/
+  18 FAIL         https://www.gazprom.com/careers                         -> ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)
+  19 OK           https://www.abchina.com/careers                         -> https://www.abchina.com/careers/
+  20 FAIL         https://www.10086.cn/careers                            -> ConnectError: [SSL: UNSAFE_LEGACY_RENEGOTIATION_DISABLED] unsafe legacy renegotiation disabled (_ssl.c:1032)
+  21 REDIRECT     https://www.target.com/careers                          -> https://corporate.target.com/careers
+  22 FAIL(404)    https://www.icbc-ltd.com/careers                        -> https://www.icbc-ltd.com/careers
+  23 REDIRECT     https://www.thekrogerco.com/careers                     -> https://www.krogerfamilycareers.com/en/sites/CX_2001
+  24 FAIL(404)    https://www.verbund.edeka/careers                       -> https://verbund.edeka/careers/
+  25 OK           https://www.bosch.com/careers                           -> https://www.bosch.com/careers/
+  26 FAIL         https://www.ups.com/careers                             -> ReadTimeout: The read operation timed out
+  27 FAIL(404)    https://www.jardines.com/careers                        -> https://www.jardines.com/careers
+  28 FAIL(412)    https://www.chinatelecom.com.cn/careers                 -> https://www.chinatelecom.com.cn/careers
+  29 REDIRECT     https://www.jd.com/careers                              -> https://global.jd.com
+  30 REDIRECT     https://www.starbucks.com/careers                       -> https://careers.starbucks.com
+  31 FAIL(404)    https://www.avic.com/careers                            -> https://www.avic.com/careers
+  32 FAIL         https://www.ccb.com/careers                             -> ConnectError: [SSL: UNSAFE_LEGACY_RENEGOTIATION_DISABLED] unsafe legacy renegotiation disabled (_ssl.c:1032)
+  33 FAIL(404)    https://www.global.toyota/en//careers                   -> https://global.toyota/en/careers/
+  34 FAIL(404)    https://www.berkshirehathaway.com/careers               -> https://www.berkshirehathaway.com/careers
+  35 FAIL(404)    https://www.cscec.com/careers                           -> https://www.cscec.com/careers
+  36 FAIL(404)    https://www.hitachi.com/careers                         -> https://www.hitachi.com/careers
+  37 OK           https://www.crcc.cn/careers                             -> https://www.crcc.cn/careers
+  38 REDIRECT     https://www.crc.com.hk/careers                          -> https://www.crc.com.hk/404.html
+  39 FAIL(404)    https://www.rosneft.com/careers                         -> https://www.rosneft.com/careers
+  40 FAIL         https://www.group.pingan.com/careers                    -> ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.group.pingan.com'. (_ssl.c:1032)
+  41 REDIRECT     https://www.unitedhealthgroup.com/careers               -> https://www.unitedhealthgroup.com/careers/en/work.html
+  42 OK           https://www.ril.com/careers                             -> https://www.ril.com/careers
+  43 FAIL(404)    https://www.x5.ru/careers                               -> https://www.x5.ru/careers
+  44 FAIL(403)    https://www.tjx.com/careers                             -> https://www.tjx.com/careers
+  45 FAIL(404)    https://www.group.ntt/careers                           -> https://www.group.ntt/careers
+  46 REDIRECT     https://www.deutschebahn.com/careers                    -> https://db.jobs/de-de
+  47 FAIL(403)    https://www.carrefour.com/careers                       -> https://www.carrefour.com/careers
+  48 FAIL(404)    https://www.ceic.com/careers                            -> https://www.ceic.com/careers
+  49 FAIL(404)    https://www.crecg.com/careers                           -> https://www.crecg.com/careers
+  50 FAIL(404)    https://www.cpcg.com.cn/careers                         -> https://www.cpcg.com.cn/careers
+  51 REDIRECT     https://www.pepsico.com/careers                         -> https://www.pepsico.com/en/careers
+  52 REDIRECT     https://www.boc.cn/careers                              -> https://www.boc.cn/custserv/cs1/msg/200909/t20090928_846317.html
+  53 REDIRECT     https://www.siemens.com/careers                         -> https://www.siemens.com/en-us/company/jobs/
+  54 FAIL(404)    https://www.ckh.com.hk/careers                          -> https://www.ckh.com.hk/careers/
+  55 OK           https://www.ibm.com/careers                             -> https://www.ibm.com/careers
+  56 FAIL(404)    https://www.byd.com/careers                             -> https://www.byd.com/careers
+  57 FAIL(404)    https://www.aeon.info/careers                           -> https://www.aeon.info/careers
+  58 FAIL         https://www.costco.com/careers                          -> ReadTimeout: The read operation timed out
+  59 FAIL         https://www.sberbank.ru/careers                         -> ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1032)
+  60 FAIL(403)    https://www.csg.cn/careers                              -> https://www.csg.cn/careers/
+  61 FAIL(404)    https://www.stellantis.com/careers                      -> https://www.stellantis.com/careers
+  62 FAIL         https://www.global-sei.com/careers                      -> ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.global-sei.com'. (_ssl.c:1032)
+  63 FAIL(403)    https://www.fresenius.com/careers                       -> https://www.fresenius.com/careers
+  64 FAIL(403)    https://www.nestle.com/careers                          -> https://www.nestle.com/careers
+  65 OK           https://www.jpmorganchase.com/careers                   -> https://www.jpmorganchase.com/careers
+  66 REDIRECT     https://www.sncf.com/careers                            -> https://www.groupe-sncf.com/fr
+  67 FAIL(403)    https://www.lowes.com/careers                           -> https://www.lowes.com/careers
+  68 REDIRECT     https://www.samsung.com/careers                         -> https://www.samsung.com/in/about-us/careers/
+  69 FAIL(404)    https://www.cmhk.com/careers                            -> https://www.cmhk.com/careers
+  70 REDIRECT     https://www.aholddelhaize.com/careers                   -> https://aholddelhaize.com/careers
+  71 REDIRECT     https://www.walgreensbootsalliance.com/careers          -> https://jobs.walgreens.com/en
+  72 REDIRECT     https://www.cvshealth.com/careers                       -> https://jobs.cvshealth.com/us/en
+  73 REDIRECT     https://www.alibabagroup.com/careers                    -> https://www.alibabagroup.com/en-US/careers
+  74 REDIRECT     https://jbs.com.br/careers                              -> https://www.jbs.com.br/en/careers/
+  75 REDIRECT     https://www.wellsfargo.com/careers                      -> https://www.wellsfargojobs.com?utm_medium=www-redirect&utm_source=careers
+  76 FAIL(410)    https://www.groupelaposte.com/careers                   -> https://www.lapostegroupe.com/catchAll/careers
+  77 REDIRECT     https://www.sbi.co.in/careers                           -> https://www.sbi.co.in/web/careers
+  78 FAIL(403)    https://www.hcahealthcare.com/careers                   -> https://www.hcahealthcare.com/careers
+  79 FAIL(404)    https://www.shandong-energy.com/careers                 -> https://www.shandong-energy.com/careers
+  80 FAIL         https://www.chinaunicom-a.com/careers                   -> ConnectTimeout: _ssl.c:1015: The handshake operation timed out
+  81 FAIL         https://www.holdings.panasonic/global/careers           -> ConnectError: [Errno 11001] getaddrinfo failed
+  82 FAIL(404)    https://www.jabil.com/careers                           -> https://www.jabil.com/careers.html
+  83 FAIL(404)    https://www.japanpost.jp/careers                        -> https://www.japanpost.jp/careers/
+  84 OK           https://www.publix.com/careers                          -> https://www.publix.com/careers
+  85 OK           https://www.tescoplc.com/careers                        -> https://www.tescoplc.com/careers
+  86 OK           https://www.baowugroup.com/careers                      -> https://www.baowugroup.com/careers
+  87 REDIRECT     https://www.citigroup.com/careers                       -> https://jobs.citi.com/
+  88 FAIL(403)    https://www.sinochem.com/careers                        -> https://www.sinochem.com/careers
+  89 FAIL(521)    https://www.ccccltd.cn/careers                          -> https://www.ccccltd.cn/careers
+  90 OK           https://www.hsbc.com/careers                            -> https://www.hsbc.com/careers
+  91 FAIL(404)    https://www.vinci.com/careers                           -> https://www.vinci.com/careers
+  92 REDIRECT     https://www.telekom.com/careers                         -> https://careers.telekom.com/en
+  93 OK           https://www.weston.ca/careers                           -> https://www.weston.ca/careers
+  94 FAIL         https://www.norincogroup.com.cn/careers                 -> ConnectTimeout: timed out
+  95 FAIL         https://www.cssc.net.cn/careers                         -> ConnectError: [SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1032)
+  96 FAIL(404)    https://www.woolworthsgroup.com.au/careers              -> https://www.woolworthsgroup.com.au/careers
+  97 REDIRECT     https://www.bankofamerica.com/careers                   -> https://careers.bankofamerica.com/en-us
+  98 REDIRECT     https://www.cnbm.com.cn/careers                         -> https://www.cnbm.com.cn/
+  99 FAIL         https://www.global.honda//careers                       -> ConnectError: [Errno 11001] getaddrinfo failed
+ 100 FAIL(403)    https://www.att.com/careers                             -> http://about.att.com/sites/careers
+ 101 FAIL(404)    https://www.cetc.com.cn/careers                         -> https://www.cetc.com.cn/careers
+ 102 FAIL(404)    https://www.sxcc.com.cn/careers                         -> https://www.sxcc.com.cn/careers
+ 103 FAIL(403)    https://www.sinopharm.com/careers                       -> https://www.sinopharm.com/careers
+ 104 FAIL(403)    https://www.finatis.fr/careers                          -> https://www.finatis.fr/careers
+ 105 FAIL(403)    https://www.albertsonscompanies.com/careers             -> https://www.albertsonscompanies.com/careers/
+ 106 FAIL(404)    https://www.huawei.com/careers                          -> https://www.huawei.com/careers
+ 107 FAIL(404)    https://www.santander.com/careers                       -> https://www.santander.com/careers
+ 108 FAIL(404)    https://www.minmetals.com/careers                       -> https://www.minmetals.com/careers
+ 109 FAIL(404)    https://www.cec.com.cn/careers                          -> https://www.cec.com.cn/careers
+ 110 FAIL(404)    https://www.continental.com/careers                     -> https://www.continental.com/careers/
+ 111 FAIL(403)    https://www.group.bnpparibas/careers                    -> https://www.group.bnpparibas/careers
+ 112 FAIL         https://www.comcastcorporation.com/careers              -> ReadTimeout: The read operation timed out
+ 113 FAIL(403)    https://www.picc.com.cn/careers                         -> https://www.picc.com.cn/careers
+ 114 REDIRECT     https://www.global.canon/careers                        -> https://global.canon/en/
+ 115 REDIRECT     https://www.ford.com/careers                            -> https://www.careers.ford.com
+ 116 FAIL         https://www.chinalife.com.cn/careers                    -> ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)
+ 117 FAIL(404)    https://www.powerchina.cn/careers                       -> https://www.powerchina.cn/careers
+ 118 FAIL(403)    https://www.americamovil.com/careers                    -> https://www.americamovil.com/careers/
+ 119 FAIL(412)    https://www.cnnc.com.cn/careers                         -> https://www.cnnc.com.cn/careers
+ 120 REDIRECT     https://www.microsoft.com/careers                       -> https://www.bing.com?ref=aka&shorturl=9849952
+
+=== summary ===
+total=120 ok=15 redirect=31 fail=74
+failures written to C:\Users\Administrator\Documents\ATS\data\careers-url-failures.json

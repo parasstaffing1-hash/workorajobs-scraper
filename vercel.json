@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "name": "workorajobs",
+  "builds": [
+    {
+      "src": "api/index.py",
+      "use": "@vercel/python"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/static/(.*)",
+      "dest": "/static/$1"
+    },
+    {
+      "src": "/robots.txt",
+      "dest": "/api/index.py"
+    },
+    {
+      "src": "/sitemap.xml",
+      "dest": "/api/index.py"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/api/index.py"
+    }
+  ]
+}

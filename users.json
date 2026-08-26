@@ -1,0 +1,8 @@
+{
+  "testuser": {
+    "password_hash": "13d249f2cb4127b40cfa757866850278793f814ded3c587fe5889e889a7a9f6c",
+    "role": "user",
+    "created": "2026-08-26T08:36:14.238474+00:00",
+    "api_key": "6d11370de276a6f49142af5b6c8b2b53"
+  }
+}

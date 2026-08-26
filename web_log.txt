@@ -1,0 +1,1121 @@
+[01:29:54] ==================================================
+[01:29:54] WEB SCRAPER — 20 browser contexts, 8.0h max
+[01:29:54] ==================================================
+[01:29:54] Total work items: 54,684
+[01:29:54] Done: 0, Remaining: 54,684
+[01:36:17] Loaded 318,850 existing dedup keys
+[01:36:18] DB: 318,850 | Fresh7d: 318,850 | Gap: 681,150
+[01:36:18] Launching 20 browser workers on 54,684 items...
+[01:38:00]   W00 + 16 indeed:terraform engineer|Noida pg=60
+[01:38:01]   W16 + 16 indeed:terraform engineer|Boston pg=0
+[01:38:01]   W05 + 16 indeed:mobile developer|Chicago pg=20
+[01:38:01]   W09 + 16 indeed:security engineer|New York pg=90
+[01:38:02]   W11 + 17 indeed:container engineer|Austin pg=0
+[01:38:02]   W15 + 16 indeed:LLM engineer|Chennai pg=60
+[01:38:02]   W18 + 16 indeed:platform developer|Pune pg=30
+[01:38:02]   W04 + 16 indeed:video engineer|San Fran pg=50
+[01:38:02]   W17 + 16 indeed:tech lead|Tel Aviv pg=50
+[01:38:02]   W02 + 16 indeed:IT recruiter|New York pg=90
+[01:38:02]   W13 + 16 indeed:backend developer|Pune pg=90
+[01:38:10]   [200] +180 new | DB=319,030 | Fresh7d=319,030 | 97/min | Gap=680,970
+[01:38:45]   [400] +183 new | DB=319,033 | Fresh7d=319,033 | 75/min | Gap=680,967
+[01:41:56]   [600] +183 new | DB=319,033 | Fresh7d=319,033 | 32/min | Gap=680,967
+[01:42:37]   [800] +183 new | DB=319,033 | Fresh7d=319,033 | 29/min | Gap=680,967
+[01:42:38]   [1,000] +183 new | DB=319,033 | Fresh7d=319,033 | 29/min | Gap=680,967
+[01:42:41]   [1,200] +183 new | DB=319,033 | Fresh7d=319,033 | 29/min | Gap=680,967
+[01:42:42]   [1,400] +183 new | DB=319,033 | Fresh7d=319,033 | 29/min | Gap=680,967
+[01:42:44]   [1,600] +183 new | DB=319,033 | Fresh7d=319,033 | 28/min | Gap=680,967
+[01:42:55]   [1,800] +183 new | DB=319,033 | Fresh7d=319,033 | 28/min | Gap=680,967
+[01:43:38]   [2,000] +183 new | DB=319,033 | Fresh7d=319,033 | 25/min | Gap=680,967
+[01:45:07]   [2,200] +183 new | DB=319,033 | Fresh7d=319,033 | 21/min | Gap=680,967
+[01:48:00]   [2,400] +183 new | DB=319,033 | Fresh7d=319,033 | 16/min | Gap=680,967
+[01:48:43]   [2,600] +183 new | DB=319,184 | Fresh7d=319,240 | 15/min | Gap=680,816
+[01:48:45]   [2,800] +183 new | DB=319,307 | Fresh7d=319,307 | 15/min | Gap=680,693
+[01:48:47]   [3,000] +183 new | DB=319,307 | Fresh7d=319,307 | 15/min | Gap=680,693
+[01:48:48]   [3,200] +183 new | DB=319,307 | Fresh7d=319,307 | 15/min | Gap=680,693
+[01:48:49]   [3,400] +183 new | DB=319,307 | Fresh7d=319,307 | 15/min | Gap=680,693
+[01:48:49]   [3,600] +183 new | DB=319,307 | Fresh7d=319,307 | 15/min | Gap=680,693
+[01:48:52]   [3,800] +183 new | DB=319,307 | Fresh7d=319,307 | 15/min | Gap=680,693
+[01:48:55]   [4,000] +183 new | DB=319,307 | Fresh7d=319,307 | 15/min | Gap=680,693
+[01:48:57]   [4,200] +183 new | DB=319,336 | Fresh7d=319,336 | 14/min | Gap=680,664
+[01:48:58]   [4,400] +183 new | DB=319,336 | Fresh7d=319,336 | 14/min | Gap=680,664
+[01:49:01]   [4,600] +183 new | DB=319,336 | Fresh7d=319,336 | 14/min | Gap=680,664
+[01:53:29]   [4,800] +183 new | DB=319,336 | Fresh7d=319,336 | 11/min | Gap=680,664
+[01:54:18]   [5,000] +183 new | DB=319,830 | Fresh7d=319,830 | 10/min | Gap=680,170
+[01:54:21]   [5,200] +183 new | DB=319,878 | Fresh7d=319,878 | 10/min | Gap=680,122
+[01:54:21]   [5,400] +183 new | DB=319,902 | Fresh7d=319,902 | 10/min | Gap=680,098
+[01:54:22]   [5,600] +183 new | DB=319,902 | Fresh7d=319,902 | 10/min | Gap=680,098
+[01:54:24]   [5,800] +183 new | DB=319,902 | Fresh7d=319,902 | 10/min | Gap=680,098
+[01:54:25]   [6,000] +183 new | DB=319,902 | Fresh7d=319,902 | 10/min | Gap=680,098
+[01:54:27]   [6,200] +183 new | DB=319,949 | Fresh7d=319,949 | 10/min | Gap=680,051
+[01:54:27]   [6,400] +183 new | DB=319,949 | Fresh7d=319,949 | 10/min | Gap=680,051
+[01:54:28]   [6,600] +183 new | DB=319,949 | Fresh7d=319,949 | 10/min | Gap=680,051
+[01:54:30]   [6,800] +183 new | DB=319,949 | Fresh7d=319,949 | 10/min | Gap=680,051
+[01:54:32]   [7,000] +183 new | DB=319,949 | Fresh7d=319,949 | 10/min | Gap=680,051
+[01:55:59]   [7,200] +183 new | DB=319,973 | Fresh7d=319,973 | 9/min | Gap=680,027
+[01:59:05]   [7,400] +183 new | DB=320,243 | Fresh7d=320,243 | 8/min | Gap=679,757
+[01:59:15]   [7,600] +183 new | DB=320,695 | Fresh7d=320,695 | 8/min | Gap=679,305
+[01:59:16]   [7,800] +183 new | DB=320,695 | Fresh7d=320,695 | 8/min | Gap=679,305
+[01:59:17]   [8,000] +183 new | DB=320,695 | Fresh7d=320,695 | 8/min | Gap=679,305
+[01:59:19]   [8,200] +183 new | DB=320,695 | Fresh7d=320,695 | 8/min | Gap=679,305
+[01:59:20]   [8,400] +183 new | DB=320,695 | Fresh7d=320,695 | 8/min | Gap=679,305
+[01:59:22]   [8,600] +183 new | DB=320,695 | Fresh7d=320,695 | 8/min | Gap=679,305
+[01:59:24]   [8,800] +183 new | DB=320,695 | Fresh7d=320,695 | 8/min | Gap=679,305
+[01:59:31]   [9,000] +183 new | DB=320,695 | Fresh7d=320,695 | 8/min | Gap=679,305
+[01:59:33]   [9,200] +183 new | DB=320,695 | Fresh7d=320,695 | 8/min | Gap=679,305
+[01:59:36]   [9,400] +183 new | DB=320,695 | Fresh7d=320,695 | 8/min | Gap=679,305
+[01:59:39]   [9,600] +183 new | DB=320,695 | Fresh7d=320,695 | 8/min | Gap=679,305
+[02:00:08]   [9,800] +183 new | DB=320,697 | Fresh7d=320,697 | 8/min | Gap=679,303
+[02:00:10]   [10,000] +183 new | DB=320,707 | Fresh7d=320,707 | 8/min | Gap=679,293
+[02:00:13]   [10,200] +183 new | DB=320,707 | Fresh7d=320,707 | 8/min | Gap=679,293
+[02:00:32]   [10,400] +183 new | DB=320,707 | Fresh7d=320,707 | 8/min | Gap=679,293
+[02:00:37]   [10,600] +183 new | DB=320,707 | Fresh7d=320,707 | 8/min | Gap=679,293
+[02:00:42]   [10,800] +183 new | DB=320,739 | Fresh7d=320,739 | 7/min | Gap=679,261
+[02:00:44]   [11,000] +183 new | DB=320,739 | Fresh7d=320,739 | 7/min | Gap=679,261
+[02:00:47]   [11,200] +183 new | DB=320,739 | Fresh7d=320,739 | 7/min | Gap=679,261
+[02:03:15]   [11,400] +183 new | DB=320,789 | Fresh7d=320,789 | 7/min | Gap=679,211
+[02:03:53]   [11,600] +183 new | DB=321,225 | Fresh7d=321,243 | 7/min | Gap=678,775
+[02:03:55]   [11,800] +183 new | DB=321,404 | Fresh7d=321,404 | 7/min | Gap=678,596
+[02:03:56]   [12,000] +183 new | DB=321,404 | Fresh7d=321,404 | 7/min | Gap=678,596
+[02:03:58]   [12,200] +183 new | DB=321,404 | Fresh7d=321,404 | 7/min | Gap=678,596
+[02:04:01]   [12,400] +183 new | DB=321,404 | Fresh7d=321,404 | 7/min | Gap=678,596
+[02:04:03]   [12,600] +183 new | DB=321,404 | Fresh7d=321,404 | 7/min | Gap=678,596
+[02:04:07]   [12,800] +183 new | DB=321,439 | Fresh7d=321,439 | 7/min | Gap=678,561
+[02:04:12]   [13,000] +183 new | DB=321,439 | Fresh7d=321,439 | 7/min | Gap=678,561
+[02:04:16]   [13,200] +183 new | DB=321,439 | Fresh7d=321,439 | 7/min | Gap=678,561
+[02:04:19]   [13,400] +183 new | DB=321,439 | Fresh7d=321,439 | 7/min | Gap=678,561
+[02:04:21]   [13,600] +183 new | DB=321,447 | Fresh7d=321,447 | 7/min | Gap=678,553
+[02:04:25]   [13,800] +183 new | DB=321,472 | Fresh7d=321,472 | 7/min | Gap=678,528
+[02:04:26]   [14,000] +183 new | DB=321,472 | Fresh7d=321,472 | 7/min | Gap=678,528
+[02:04:28]   [14,200] +183 new | DB=321,472 | Fresh7d=321,472 | 6/min | Gap=678,528
+[02:04:32]   [14,400] +183 new | DB=321,497 | Fresh7d=321,497 | 6/min | Gap=678,503
+[02:04:53]   [14,600] +183 new | DB=321,499 | Fresh7d=321,499 | 6/min | Gap=678,501
+[02:05:01]   [14,800] +183 new | DB=321,569 | Fresh7d=321,569 | 6/min | Gap=678,431
+[02:05:45]   [15,000] +183 new | DB=321,600 | Fresh7d=321,600 | 6/min | Gap=678,400
+[02:06:17]   [15,200] +183 new | DB=321,680 | Fresh7d=321,680 | 6/min | Gap=678,320
+[02:06:49]   [15,400] +183 new | DB=321,875 | Fresh7d=321,912 | 6/min | Gap=678,125
+[02:07:04]   [15,600] +183 new | DB=322,053 | Fresh7d=322,053 | 6/min | Gap=677,947
+[02:07:06]   [15,800] +183 new | DB=322,073 | Fresh7d=322,073 | 6/min | Gap=677,927
+[02:07:07]   [16,000] +183 new | DB=322,073 | Fresh7d=322,073 | 6/min | Gap=677,927
+[02:07:10]   [16,200] +183 new | DB=322,101 | Fresh7d=322,101 | 6/min | Gap=677,899
+[02:07:12]   [16,400] +183 new | DB=322,101 | Fresh7d=322,101 | 6/min | Gap=677,899
+[02:07:15]   [16,600] +183 new | DB=322,117 | Fresh7d=322,117 | 6/min | Gap=677,883
+[02:07:16]   [16,800] +183 new | DB=322,137 | Fresh7d=322,137 | 6/min | Gap=677,863
+[02:07:19]   [17,000] +183 new | DB=322,137 | Fresh7d=322,137 | 6/min | Gap=677,863
+[02:07:20]   [17,200] +183 new | DB=322,137 | Fresh7d=322,137 | 6/min | Gap=677,863
+[02:07:29]   [17,400] +183 new | DB=322,177 | Fresh7d=322,177 | 6/min | Gap=677,823
+[02:07:31]   [17,600] +183 new | DB=322,208 | Fresh7d=322,208 | 6/min | Gap=677,792
+[02:07:32]   [17,800] +183 new | DB=322,208 | Fresh7d=322,208 | 6/min | Gap=677,792
+[02:07:36]   [18,000] +183 new | DB=322,208 | Fresh7d=322,208 | 6/min | Gap=677,792
+[02:07:38]   [18,200] +183 new | DB=322,253 | Fresh7d=322,253 | 6/min | Gap=677,747
+[02:07:41]   [18,400] +183 new | DB=322,253 | Fresh7d=322,253 | 6/min | Gap=677,747
+[02:07:44]   [18,600] +183 new | DB=322,253 | Fresh7d=322,253 | 6/min | Gap=677,747
+[02:08:34]   [18,800] +183 new | DB=322,356 | Fresh7d=322,356 | 6/min | Gap=677,644
+[02:10:30]   [19,200] +183 new | DB=323,467 | Fresh7d=323,477 | 5/min | Gap=676,533
+[02:10:30]   [19,400] +183 new | DB=323,844 | Fresh7d=323,844 | 5/min | Gap=676,156
+[02:10:30]   [19,600] +183 new | DB=323,844 | Fresh7d=323,844 | 5/min | Gap=676,156
+[02:10:31]   [19,800] +183 new | DB=323,844 | Fresh7d=323,844 | 5/min | Gap=676,156
+[02:10:31]   [20,000] +183 new | DB=323,844 | Fresh7d=323,844 | 5/min | Gap=676,156
+[02:10:32]   [20,200] +183 new | DB=323,900 | Fresh7d=323,900 | 5/min | Gap=676,100
+[02:10:32]   [20,400] +183 new | DB=323,900 | Fresh7d=323,900 | 5/min | Gap=676,100
+[02:10:33]   [20,600] +183 new | DB=323,900 | Fresh7d=323,900 | 5/min | Gap=676,100
+[02:10:33]   [20,800] +183 new | DB=323,900 | Fresh7d=323,900 | 5/min | Gap=676,100
+[02:10:34]   [21,000] +183 new | DB=323,900 | Fresh7d=323,900 | 5/min | Gap=676,100
+[02:10:34]   [21,200] +183 new | DB=323,900 | Fresh7d=323,900 | 5/min | Gap=676,100
+[02:10:35]   [21,400] +183 new | DB=323,900 | Fresh7d=323,900 | 5/min | Gap=676,100
+[02:10:35]   [21,600] +183 new | DB=323,900 | Fresh7d=323,900 | 5/min | Gap=676,100
+[02:10:36]   [21,800] +183 new | DB=323,900 | Fresh7d=323,900 | 5/min | Gap=676,100
+[02:10:37]   [22,000] +183 new | DB=323,900 | Fresh7d=323,900 | 5/min | Gap=676,100
+[02:10:37]   [22,200] +183 new | DB=323,900 | Fresh7d=323,900 | 5/min | Gap=676,100
+[02:10:38]   [22,400] +183 new | DB=323,900 | Fresh7d=323,900 | 5/min | Gap=676,100
+[02:10:39]   [22,600] +183 new | DB=324,017 | Fresh7d=324,017 | 5/min | Gap=675,983
+[02:10:39]   [22,800] +183 new | DB=324,017 | Fresh7d=324,017 | 5/min | Gap=675,983
+[02:10:40]   [23,000] +183 new | DB=324,017 | Fresh7d=324,017 | 5/min | Gap=675,983
+[02:10:41]   [23,200] +183 new | DB=324,017 | Fresh7d=324,017 | 5/min | Gap=675,983
+[02:10:42]   [23,400] +183 new | DB=324,028 | Fresh7d=324,041 | 5/min | Gap=675,972
+[02:10:43]   [23,600] +183 new | DB=324,091 | Fresh7d=324,091 | 5/min | Gap=675,909
+[02:10:44]   [23,800] +183 new | DB=324,099 | Fresh7d=324,099 | 5/min | Gap=675,901
+[02:10:45]   [24,000] +183 new | DB=324,104 | Fresh7d=324,104 | 5/min | Gap=675,896
+[02:10:46]   [24,200] +183 new | DB=324,119 | Fresh7d=324,119 | 5/min | Gap=675,881
+[02:10:47]   [24,400] +183 new | DB=324,119 | Fresh7d=324,119 | 5/min | Gap=675,881
+[02:10:50]   [24,600] +183 new | DB=324,119 | Fresh7d=324,159 | 5/min | Gap=675,881
+[02:10:51]   [24,800] +183 new | DB=324,159 | Fresh7d=324,159 | 5/min | Gap=675,841
+[02:10:52]   [25,000] +183 new | DB=324,181 | Fresh7d=324,181 | 5/min | Gap=675,819
+[02:10:52]   [25,200] +183 new | DB=324,181 | Fresh7d=324,181 | 5/min | Gap=675,819
+[02:10:53]   [25,400] +183 new | DB=324,181 | Fresh7d=324,181 | 5/min | Gap=675,819
+[02:10:54]   [25,600] +183 new | DB=324,233 | Fresh7d=324,233 | 5/min | Gap=675,767
+[02:10:55]   [25,800] +183 new | DB=324,348 | Fresh7d=324,348 | 5/min | Gap=675,652
+[02:10:56]   [26,000] +183 new | DB=324,350 | Fresh7d=324,350 | 5/min | Gap=675,650
+[02:10:57]   [26,200] +183 new | DB=324,350 | Fresh7d=324,350 | 5/min | Gap=675,650
+[02:10:57]   [26,400] +183 new | DB=324,396 | Fresh7d=324,396 | 5/min | Gap=675,604
+[02:10:58]   [26,600] +183 new | DB=324,396 | Fresh7d=324,396 | 5/min | Gap=675,604
+[02:10:59]   [26,800] +183 new | DB=324,396 | Fresh7d=324,396 | 5/min | Gap=675,604
+[02:11:00]   [27,000] +183 new | DB=324,396 | Fresh7d=324,396 | 5/min | Gap=675,604
+[02:11:02]   [27,200] +183 new | DB=324,396 | Fresh7d=324,396 | 5/min | Gap=675,604
+[02:11:04]   [27,400] +183 new | DB=324,396 | Fresh7d=324,396 | 5/min | Gap=675,604
+[02:11:05]   [27,600] +183 new | DB=324,396 | Fresh7d=324,396 | 5/min | Gap=675,604
+[02:11:06]   [27,800] +183 new | DB=324,396 | Fresh7d=324,396 | 5/min | Gap=675,604
+[02:11:08]   [28,000] +183 new | DB=324,396 | Fresh7d=324,396 | 5/min | Gap=675,604
+[02:11:09]   [28,200] +183 new | DB=324,462 | Fresh7d=324,462 | 5/min | Gap=675,538
+[02:11:10]   [28,400] +183 new | DB=324,462 | Fresh7d=324,480 | 5/min | Gap=675,538
+[02:11:11]   [28,600] +183 new | DB=324,480 | Fresh7d=324,480 | 5/min | Gap=675,520
+[02:11:12]   [28,800] +183 new | DB=324,480 | Fresh7d=324,480 | 5/min | Gap=675,520
+[02:11:12]   [29,000] +183 new | DB=324,480 | Fresh7d=324,480 | 5/min | Gap=675,520
+[02:11:13]   [29,200] +183 new | DB=324,480 | Fresh7d=324,480 | 5/min | Gap=675,520
+[02:11:14]   [29,400] +183 new | DB=324,480 | Fresh7d=324,480 | 5/min | Gap=675,520
+[02:11:15]   [29,600] +183 new | DB=324,482 | Fresh7d=324,482 | 5/min | Gap=675,518
+[02:11:15]   [29,800] +183 new | DB=324,482 | Fresh7d=324,482 | 5/min | Gap=675,518
+[02:11:16]   [30,000] +183 new | DB=324,482 | Fresh7d=324,482 | 5/min | Gap=675,518
+[02:11:17]   [30,200] +183 new | DB=324,482 | Fresh7d=324,482 | 5/min | Gap=675,518
+[02:11:18]   [30,400] +183 new | DB=324,534 | Fresh7d=324,534 | 5/min | Gap=675,466
+[02:11:19]   [30,600] +183 new | DB=324,534 | Fresh7d=324,534 | 5/min | Gap=675,466
+[02:11:20]   [30,800] +183 new | DB=324,534 | Fresh7d=324,534 | 5/min | Gap=675,466
+[02:11:22]   [31,000] +183 new | DB=324,568 | Fresh7d=324,568 | 5/min | Gap=675,432
+[02:11:23]   [31,200] +183 new | DB=324,623 | Fresh7d=324,623 | 5/min | Gap=675,377
+[02:11:26]   [31,400] +183 new | DB=324,629 | Fresh7d=324,629 | 5/min | Gap=675,371
+[02:11:27]   [31,600] +183 new | DB=324,629 | Fresh7d=324,629 | 5/min | Gap=675,371
+[02:11:30]   [31,800] +183 new | DB=324,629 | Fresh7d=324,629 | 5/min | Gap=675,371
+[02:11:31]   [32,000] +183 new | DB=324,629 | Fresh7d=324,629 | 5/min | Gap=675,371
+[02:11:32]   [32,200] +183 new | DB=324,629 | Fresh7d=324,629 | 5/min | Gap=675,371
+[02:11:33]   [32,400] +183 new | DB=324,629 | Fresh7d=324,629 | 5/min | Gap=675,371
+[02:11:34]   [32,600] +183 new | DB=324,679 | Fresh7d=324,679 | 5/min | Gap=675,321
+[02:11:36]   [32,800] +183 new | DB=324,679 | Fresh7d=324,679 | 5/min | Gap=675,321
+[02:11:37]   [33,000] +183 new | DB=324,679 | Fresh7d=324,679 | 5/min | Gap=675,321
+[02:11:37]   [33,200] +183 new | DB=324,679 | Fresh7d=324,679 | 5/min | Gap=675,321
+[02:11:38]   [33,400] +183 new | DB=324,679 | Fresh7d=324,679 | 5/min | Gap=675,321
+[02:11:39]   [33,600] +183 new | DB=324,735 | Fresh7d=324,735 | 5/min | Gap=675,265
+[02:11:41]   [33,800] +183 new | DB=324,741 | Fresh7d=324,741 | 5/min | Gap=675,259
+[02:11:42]   [34,000] +183 new | DB=324,741 | Fresh7d=324,741 | 5/min | Gap=675,259
+[02:11:42]   [34,200] +183 new | DB=324,746 | Fresh7d=324,746 | 5/min | Gap=675,254
+[02:11:44]   [34,400] +183 new | DB=324,746 | Fresh7d=324,746 | 5/min | Gap=675,254
+[02:11:45]   [34,600] +183 new | DB=324,761 | Fresh7d=324,761 | 5/min | Gap=675,239
+[02:11:45]   [34,800] +183 new | DB=324,761 | Fresh7d=324,761 | 5/min | Gap=675,239
+[02:11:46]   [35,000] +183 new | DB=324,761 | Fresh7d=324,761 | 5/min | Gap=675,239
+[02:11:48]   [35,200] +183 new | DB=324,773 | Fresh7d=324,773 | 5/min | Gap=675,227
+[02:11:50]   [35,400] +183 new | DB=324,773 | Fresh7d=324,773 | 5/min | Gap=675,227
+[02:11:51]   [35,600] +183 new | DB=324,773 | Fresh7d=324,773 | 5/min | Gap=675,227
+[02:11:52]   [35,800] +183 new | DB=324,773 | Fresh7d=324,773 | 5/min | Gap=675,227
+[02:11:54]   [36,000] +183 new | DB=324,789 | Fresh7d=324,789 | 5/min | Gap=675,211
+[02:11:56]   [36,200] +183 new | DB=324,798 | Fresh7d=324,798 | 5/min | Gap=675,202
+[02:11:57]   [36,400] +183 new | DB=324,798 | Fresh7d=324,798 | 5/min | Gap=675,202
+[02:11:58]   [36,600] +183 new | DB=324,814 | Fresh7d=324,814 | 5/min | Gap=675,186
+[02:11:59]   [36,800] +183 new | DB=324,814 | Fresh7d=324,814 | 5/min | Gap=675,186
+[02:12:01]   [37,000] +183 new | DB=324,815 | Fresh7d=324,815 | 5/min | Gap=675,185
+[02:12:02]   [37,200] +183 new | DB=324,839 | Fresh7d=324,839 | 5/min | Gap=675,161
+[02:12:03]   [37,400] +183 new | DB=324,863 | Fresh7d=324,863 | 5/min | Gap=675,137
+[02:12:05]   [37,600] +183 new | DB=324,863 | Fresh7d=324,863 | 5/min | Gap=675,137
+[02:12:08]   [37,800] +183 new | DB=324,863 | Fresh7d=324,863 | 5/min | Gap=675,137
+[02:12:10]   [38,000] +183 new | DB=324,879 | Fresh7d=324,879 | 5/min | Gap=675,121
+[02:12:11]   [38,200] +183 new | DB=324,879 | Fresh7d=324,879 | 5/min | Gap=675,121
+[02:12:13]   [38,400] +183 new | DB=324,879 | Fresh7d=324,879 | 5/min | Gap=675,121
+[02:12:14]   [38,600] +183 new | DB=324,879 | Fresh7d=324,879 | 5/min | Gap=675,121
+[02:12:15]   [38,800] +183 new | DB=324,879 | Fresh7d=324,879 | 5/min | Gap=675,121
+[02:12:16]   [39,000] +183 new | DB=324,890 | Fresh7d=324,890 | 5/min | Gap=675,110
+[02:12:18]   [39,200] +183 new | DB=324,890 | Fresh7d=324,890 | 5/min | Gap=675,110
+[02:12:24]   [39,400] +183 new | DB=325,145 | Fresh7d=325,145 | 5/min | Gap=674,855
+[02:12:25]   [39,600] +183 new | DB=325,145 | Fresh7d=325,145 | 5/min | Gap=674,855
+[02:12:26]   [39,800] +183 new | DB=325,145 | Fresh7d=325,145 | 5/min | Gap=674,855
+[02:12:27]   [40,000] +183 new | DB=325,177 | Fresh7d=325,177 | 5/min | Gap=674,823
+[02:12:29]   [40,200] +183 new | DB=325,179 | Fresh7d=325,179 | 5/min | Gap=674,821
+[02:12:30]   [40,400] +183 new | DB=325,200 | Fresh7d=325,200 | 5/min | Gap=674,800
+[02:12:30]   [40,600] +183 new | DB=325,200 | Fresh7d=325,200 | 5/min | Gap=674,800
+[02:12:32]   [40,800] +183 new | DB=325,230 | Fresh7d=325,230 | 5/min | Gap=674,770
+[02:12:33]   [41,000] +183 new | DB=325,230 | Fresh7d=325,230 | 5/min | Gap=674,770
+[02:12:34]   [41,200] +183 new | DB=325,246 | Fresh7d=325,246 | 5/min | Gap=674,754
+[02:12:34]   [41,400] +183 new | DB=325,246 | Fresh7d=325,246 | 5/min | Gap=674,754
+[02:12:36]   [41,600] +183 new | DB=325,399 | Fresh7d=325,399 | 5/min | Gap=674,601
+[02:12:36]   [41,800] +183 new | DB=325,421 | Fresh7d=325,421 | 5/min | Gap=674,579
+[02:12:38]   [42,000] +183 new | DB=325,448 | Fresh7d=325,448 | 5/min | Gap=674,552
+[02:12:39]   [42,200] +183 new | DB=325,456 | Fresh7d=325,456 | 5/min | Gap=674,544
+[02:13:22]   [42,400] +183 new | DB=325,457 | Fresh7d=325,457 | 5/min | Gap=674,543
+[02:14:04]   [42,600] +183 new | DB=325,723 | Fresh7d=325,723 | 5/min | Gap=674,277
+[02:15:08]   [42,800] +183 new | DB=325,794 | Fresh7d=325,925 | 5/min | Gap=674,206
+[02:15:29]   [43,000] +183 new | DB=326,247 | Fresh7d=326,247 | 5/min | Gap=673,753
+[02:15:29]   [43,200] +183 new | DB=326,247 | Fresh7d=326,247 | 5/min | Gap=673,753
+[02:15:30]   [43,400] +183 new | DB=326,260 | Fresh7d=326,260 | 5/min | Gap=673,740
+[02:15:30]   [43,600] +183 new | DB=326,332 | Fresh7d=326,332 | 5/min | Gap=673,668
+[02:15:31]   [43,800] +183 new | DB=326,399 | Fresh7d=326,399 | 5/min | Gap=673,601
+[02:15:32]   [44,000] +183 new | DB=326,399 | Fresh7d=326,399 | 5/min | Gap=673,601
+[02:15:33]   [44,200] +183 new | DB=326,399 | Fresh7d=326,399 | 5/min | Gap=673,601
+[02:15:34]   [44,400] +183 new | DB=326,399 | Fresh7d=326,399 | 5/min | Gap=673,601
+[02:15:34]   [44,600] +183 new | DB=326,399 | Fresh7d=326,399 | 5/min | Gap=673,601
+[02:15:35]   [44,800] +183 new | DB=326,399 | Fresh7d=326,399 | 5/min | Gap=673,601
+[02:15:35]   [45,000] +183 new | DB=326,399 | Fresh7d=326,399 | 5/min | Gap=673,601
+[02:15:37]   [45,200] +183 new | DB=326,399 | Fresh7d=326,399 | 5/min | Gap=673,601
+[02:15:38]   [45,400] +183 new | DB=326,456 | Fresh7d=326,456 | 5/min | Gap=673,544
+[02:15:39]   [45,600] +183 new | DB=326,456 | Fresh7d=326,456 | 5/min | Gap=673,544
+[02:15:40]   [45,800] +183 new | DB=326,456 | Fresh7d=326,456 | 5/min | Gap=673,544
+[02:15:42]   [46,000] +183 new | DB=326,485 | Fresh7d=326,485 | 5/min | Gap=673,515
+[02:15:47]   [46,200] +183 new | DB=326,492 | Fresh7d=326,492 | 5/min | Gap=673,508
+[02:15:57]   [46,400] +183 new | DB=326,545 | Fresh7d=326,545 | 5/min | Gap=673,455
+[02:15:59]   [46,600] +183 new | DB=326,615 | Fresh7d=326,615 | 5/min | Gap=673,385
+[02:16:01]   [46,800] +183 new | DB=326,676 | Fresh7d=326,676 | 5/min | Gap=673,324
+[02:16:01]   [47,000] +183 new | DB=326,773 | Fresh7d=326,773 | 5/min | Gap=673,227
+[02:16:02]   [47,200] +183 new | DB=326,773 | Fresh7d=326,773 | 5/min | Gap=673,227
+[02:16:02]   [47,400] +183 new | DB=326,773 | Fresh7d=326,773 | 5/min | Gap=673,227
+[02:16:04]   [47,600] +183 new | DB=326,773 | Fresh7d=326,773 | 5/min | Gap=673,227
+[02:16:07]   [47,800] +183 new | DB=326,783 | Fresh7d=326,783 | 5/min | Gap=673,217
+[02:16:08]   [48,000] +183 new | DB=326,783 | Fresh7d=326,783 | 5/min | Gap=673,217
+[02:16:19]   [48,200] +183 new | DB=326,811 | Fresh7d=326,811 | 5/min | Gap=673,189
+[02:16:19]   [48,400] +183 new | DB=326,811 | Fresh7d=326,811 | 5/min | Gap=673,189
+[02:16:20]   [48,600] +183 new | DB=326,821 | Fresh7d=326,821 | 5/min | Gap=673,179
+[02:16:20]   [48,800] +183 new | DB=326,821 | Fresh7d=326,821 | 5/min | Gap=673,179
+[02:16:21]   [49,000] +183 new | DB=326,821 | Fresh7d=326,821 | 5/min | Gap=673,179
+[02:16:23]   [49,200] +183 new | DB=326,881 | Fresh7d=326,881 | 5/min | Gap=673,119
+[02:16:24]   [49,400] +183 new | DB=326,881 | Fresh7d=326,881 | 5/min | Gap=673,119
+[02:16:25]   [49,600] +183 new | DB=326,885 | Fresh7d=326,885 | 5/min | Gap=673,115
+[02:16:27]   [49,800] +183 new | DB=327,089 | Fresh7d=327,089 | 5/min | Gap=672,911
+[02:16:29]   [50,000] +183 new | DB=327,141 | Fresh7d=327,141 | 5/min | Gap=672,859
+[02:16:32]   [50,200] +183 new | DB=327,186 | Fresh7d=327,186 | 5/min | Gap=672,814
+[02:16:38]   [50,400] +183 new | DB=327,242 | Fresh7d=327,242 | 5/min | Gap=672,758
+[02:16:39]   [50,600] +183 new | DB=327,270 | Fresh7d=327,270 | 5/min | Gap=672,730
+[02:16:40]   [50,800] +183 new | DB=327,572 | Fresh7d=327,648 | 5/min | Gap=672,428
+[02:16:41]   [51,000] +183 new | DB=327,676 | Fresh7d=327,676 | 5/min | Gap=672,324
+[02:16:41]   [51,200] +183 new | DB=327,936 | Fresh7d=327,936 | 5/min | Gap=672,064
+[02:16:51]   [51,400] +183 new | DB=327,936 | Fresh7d=327,936 | 5/min | Gap=672,064
+[02:19:12] ==================================================
+[02:19:12] WEB SCRAPER — 20 browser contexts, 8.0h max
+[02:19:12] ==================================================
+[02:19:12] Total work items: 54,684
+[02:19:12] Done: 50,000, Remaining: 4,684
+[02:19:12] Loaded 327,936 existing dedup keys
+[02:19:12] DB: 327,936 | Fresh7d: 327,936 | Gap: 672,064
+[02:19:12] Launching 20 browser workers on 4,684 items...
+[02:20:16]   W19 +  7 indeed:principal engineer|Delhi pg=0
+[02:20:21]   W03 + 16 indeed:compiler engineer|San Fran pg=90
+[02:20:25]   W10 + 16 indeed:MLOps engineer|Singapor pg=30
+[02:20:41]   W15 + 16 indeed:automation enginee|Miami pg=60
+[02:21:21]   W04 + 16 indeed:software developer|Remote pg=60
+[02:21:21]   W09 + 16 indeed:platform developer|Remote pg=60
+[02:21:21]   W01 + 16 indeed:tech lead|Los Ange pg=10
+[02:21:21]   W07 + 16 indeed:MLOps engineer|London pg=30
+[02:21:26]   [200] +58 new | DB=328,092 | Fresh7d=328,092 | 26/min | Gap=671,908
+[02:21:27]   W00 + 16 indeed:backend engineer|Singapor pg=50
+[02:21:55]   [400] +138 new | DB=328,111 | Fresh7d=328,111 | 51/min | Gap=671,889
+[02:23:34]   [600] +138 new | DB=328,165 | Fresh7d=328,165 | 32/min | Gap=671,835
+[02:23:35]   [800] +138 new | DB=328,271 | Fresh7d=328,271 | 32/min | Gap=671,729
+[02:24:50]   [1,000] +138 new | DB=328,340 | Fresh7d=328,340 | 25/min | Gap=671,660
+[02:25:05]   [1,200] +138 new | DB=328,340 | Fresh7d=328,340 | 23/min | Gap=671,660
+[02:26:50]   [1,400] +138 new | DB=328,440 | Fresh7d=328,440 | 18/min | Gap=671,560
+[02:29:13]   [1,600] +138 new | DB=328,543 | Fresh7d=328,543 | 14/min | Gap=671,457
+[02:29:41]   [1,800] +138 new | DB=328,943 | Fresh7d=328,943 | 13/min | Gap=671,057
+[02:29:42]   [2,000] +138 new | DB=329,022 | Fresh7d=329,022 | 13/min | Gap=670,978
+[02:29:42]   [2,200] +138 new | DB=329,022 | Fresh7d=329,022 | 13/min | Gap=670,978
+[02:31:20]   [2,400] +138 new | DB=329,022 | Fresh7d=329,022 | 11/min | Gap=670,978
+[02:31:37]   [2,600] +138 new | DB=329,136 | Fresh7d=329,136 | 11/min | Gap=670,864
+[02:31:37]   [2,800] +138 new | DB=329,136 | Fresh7d=329,136 | 11/min | Gap=670,864
+[02:31:39]   [3,000] +138 new | DB=329,136 | Fresh7d=329,136 | 11/min | Gap=670,864
+[02:31:42]   [3,200] +138 new | DB=329,136 | Fresh7d=329,136 | 11/min | Gap=670,864
+[02:31:46]   [3,400] +138 new | DB=329,139 | Fresh7d=329,139 | 11/min | Gap=670,861
+[02:31:51]   [3,600] +138 new | DB=329,139 | Fresh7d=329,139 | 11/min | Gap=670,861
+[02:31:54]   [3,800] +138 new | DB=329,139 | Fresh7d=329,139 | 11/min | Gap=670,861
+[02:31:58]   [4,000] +138 new | DB=329,139 | Fresh7d=329,139 | 11/min | Gap=670,861
+[02:32:03]   [4,200] +138 new | DB=329,239 | Fresh7d=329,239 | 11/min | Gap=670,761
+[02:32:08]   [4,400] +138 new | DB=329,239 | Fresh7d=329,239 | 11/min | Gap=670,761
+[02:32:14]   [4,600] +138 new | DB=329,239 | Fresh7d=329,239 | 11/min | Gap=670,761
+[16:39:17] ==================================================
+[16:39:18] WEB SCRAPER — 20 browser contexts, 8.0h max
+[16:39:18] ==================================================
+[16:39:18] Total work items: 54,684
+[16:39:18] Done: 50,000, Remaining: 4,684
+[16:39:38] Loaded 450,765 existing dedup keys
+[16:40:34] DB: 450,765 | Fresh7d: 450,765 | Gap: 549,235
+[16:40:34] Launching 20 browser workers on 4,684 items...
+[11:11:31]   W05 + 16 indeed:game developer|Austin pg=20
+[11:11:33]   W10 + 16 indeed:aws engineer|Austin pg=30
+[11:11:34]   W08 + 16 indeed:solutions architec|Boston pg=90
+[11:11:37]   W11 + 16 indeed:unity developer|Chennai pg=0
+[11:11:37]   W18 + 16 indeed:machine learning e|San Fran pg=0
+[11:11:37]   W07 + 16 indeed:devops engineer|New York pg=30
+[11:11:39]   W16 + 16 indeed:cybersecurity anal|Sydney pg=10
+[11:11:40]   W00 + 16 indeed:machine learning e|London pg=10
+[11:11:41]   W06 + 16 indeed:MLOps engineer|Chicago pg=60
+[11:11:43]   W19 + 13 indeed:storage engineer|Chicago pg=60
+[11:11:43]   W14 + 16 indeed:video engineer| pg=50
+[11:12:12]   W03 + 16 indeed:network engineer|Boston pg=40
+[11:19:36]   [200] +193 new | DB=450,969 | Fresh7d=450,979 | 1930/min | Gap=549,031
+[11:19:44]   [400] +193 new | DB=451,123 | Fresh7d=451,123 | 1930/min | Gap=548,877
+[11:29:01] ==================================================
+[11:29:01] WEB SCRAPER — 20 browser contexts, 8.0h max
+[11:29:01] ==================================================
+[11:29:01] Total work items: 54,684
+[11:29:01] Done: 50,000, Remaining: 4,684
+[11:29:15] Loaded 452,846 existing dedup keys
+[11:29:16] DB: 452,885 | Fresh7d: 452,885 | Gap: 547,115
+[11:29:16] Launching 20 browser workers on 4,684 items...
+[11:32:21]   W04 + 16 indeed:cloud architect|Los Ange pg=40
+[11:32:22]   W09 + 16 indeed:react native devel|Austin pg=30
+[11:32:35]   W01 + 16 indeed:.NET developer|San Fran pg=70
+[11:32:42]   W00 + 16 indeed:NLP engineer|Chicago pg=50
+[11:33:09]   W05 + 16 indeed:IT recruiter|Noida pg=90
+[11:33:10]   W17 + 16 indeed:kotlin developer|Pune pg=70
+[11:33:10]   W07 + 16 indeed:terraform engineer| pg=50
+[11:33:10]   W14 + 16 indeed:kernel engineer|Remote pg=0
+[11:33:11]   W19 + 10 indeed:MLE|Sydney pg=60
+[11:33:11]   W06 + 16 indeed:ruby developer|Noida pg=0
+[11:33:11]   W18 + 16 indeed:robotics engineer|Seattle pg=50
+[11:33:12]   W08 + 16 indeed:robotics engineer|Seattle pg=70
+[11:36:03]   W17 FATAL: 
+[11:37:28]   [400] +189 new | DB=453,581 | Fresh7d=453,581 | 23/min | Gap=546,419
+[11:37:32]   [600] +189 new | DB=453,849 | Fresh7d=453,849 | 23/min | Gap=546,151
+[11:38:46]   [800] +189 new | DB=453,954 | Fresh7d=453,954 | 20/min | Gap=546,046
+[11:45:14]   [1,000] +189 new | DB=453,954 | Fresh7d=453,954 | 12/min | Gap=546,046
+[11:47:27]   [1,200] +189 new | DB=453,954 | Fresh7d=453,954 | 10/min | Gap=546,046
+[11:47:28]   [1,400] +189 new | DB=453,954 | Fresh7d=453,954 | 10/min | Gap=546,046
+[11:47:30]   [1,600] +189 new | DB=453,954 | Fresh7d=453,954 | 10/min | Gap=546,046
+[11:47:30]   [1,800] +189 new | DB=453,954 | Fresh7d=453,954 | 10/min | Gap=546,046
+[11:48:21]   [2,000] +189 new | DB=453,954 | Fresh7d=453,954 | 10/min | Gap=546,046
+[11:59:01] ==================================================
+[11:59:01] WEB SCRAPER — 20 browser contexts, 8.0h max
+[11:59:01] ==================================================
+[11:59:01] Total work items: 54,684
+[11:59:01] Done: 50,000, Remaining: 4,684
+[11:59:05] Loaded 457,529 existing dedup keys
+[11:59:39] DB: 457,529 | Fresh7d: 457,529 | Gap: 542,471
+[11:59:39] Launching 20 browser workers on 4,684 items...
+[12:00:23]   W01 + 16 indeed:QA engineer|Toronto pg=30
+[12:00:23]   W15 +  7 indeed:devrel|Seattle pg=90
+[12:00:24]   W00 + 16 indeed:NLP engineer|Tel Aviv pg=40
+[12:00:25]   W18 + 16 indeed:SDE|Dubai pg=30
+[12:00:26]   W16 + 16 indeed:java developer|Chennai pg=90
+[12:00:26]   W09 + 16 indeed:security engineer|Chennai pg=70
+[12:00:27]   W19 + 16 indeed:principal engineer|Sydney pg=50
+[12:00:30]   W10 + 16 indeed:ML platform engine|Mumbai pg=0
+[12:00:34]   W17 + 16 indeed:backend engineer|Atlanta pg=0
+[12:00:38]   W08 + 16 indeed:terraform engineer|New York pg=40
+[12:00:38]   W12 + 16 indeed:python developer|Noida pg=50
+[12:00:39]   W14 + 16 indeed:payments engineer|New York pg=50
+[12:00:48]   W11 + 16 indeed:devrel|New York pg=20
+[12:04:59]   [200] +199 new | DB=457,728 | Fresh7d=457,728 | 37/min | Gap=542,272
+[12:05:00]   W06 + 16 indeed:unity developer|Bangalor pg=10
+[12:05:03]   [400] +199 new | DB=457,744 | Fresh7d=457,744 | 37/min | Gap=542,256
+[12:05:05]   [600] +199 new | DB=457,744 | Fresh7d=457,744 | 37/min | Gap=542,256
+[12:05:08]   [800] +199 new | DB=457,744 | Fresh7d=457,744 | 36/min | Gap=542,256
+[12:05:11]   [1,000] +199 new | DB=457,744 | Fresh7d=457,744 | 36/min | Gap=542,256
+[12:05:17]   [1,200] +199 new | DB=457,744 | Fresh7d=457,744 | 35/min | Gap=542,256
+[12:05:22]   [1,400] +215 new | DB=457,744 | Fresh7d=457,744 | 38/min | Gap=542,256
+[12:05:47]   [1,600] +215 new | DB=457,744 | Fresh7d=457,744 | 35/min | Gap=542,256
+[12:06:08]   [1,800] +215 new | DB=457,744 | Fresh7d=457,744 | 33/min | Gap=542,256
+[12:06:27]   [2,000] +215 new | DB=457,744 | Fresh7d=457,744 | 32/min | Gap=542,256
+[12:06:48]   [2,200] +215 new | DB=457,744 | Fresh7d=457,744 | 30/min | Gap=542,256
+[12:07:06]   [2,400] +215 new | DB=457,744 | Fresh7d=457,744 | 29/min | Gap=542,256
+[12:07:25]   [2,600] +215 new | DB=457,744 | Fresh7d=457,744 | 28/min | Gap=542,256
+[12:07:44]   [2,800] +215 new | DB=457,744 | Fresh7d=457,744 | 27/min | Gap=542,256
+[12:08:00]   [3,000] +215 new | DB=457,744 | Fresh7d=457,744 | 26/min | Gap=542,256
+[12:09:01] ==================================================
+[12:09:01] WEB SCRAPER — 20 browser contexts, 8.0h max
+[12:09:01] ==================================================
+[12:09:01] Total work items: 54,684
+[12:09:01] Done: 50,000, Remaining: 4,684
+[12:09:02] Loaded 458,049 existing dedup keys
+[12:09:02] DB: 458,049 | Fresh7d: 458,049 | Gap: 541,951
+[12:09:02] Launching 20 browser workers on 4,684 items...
+[12:09:24]   W00 + 16 indeed:devrel|Noida pg=60
+[12:09:30]   W09 + 16 indeed:go developer|Pune pg=10
+[12:09:30]   W19 + 16 indeed:Angular developer|Mumbai pg=70
+[12:09:31]   W08 + 16 indeed:data analyst|Chennai pg=70
+[12:09:33]   W17 + 16 indeed:MLOps engineer|Chicago pg=30
+[12:09:33]   W07 + 16 indeed:python developer|Chennai pg=80
+[12:09:42]   W06 + 16 indeed:swift developer|Chicago pg=20
+[12:09:49]   W14 + 16 indeed:API engineer|Remote pg=70
+[12:09:49]   W10 + 16 indeed:kubernetes enginee|Miami pg=80
+[12:09:49]   W18 + 16 indeed:staff engineer|San Fran pg=50
+[12:09:50]   W02 + 16 indeed:technical lead|Miami pg=60
+[12:09:56]   W12 + 16 indeed:identity engineer|Pune pg=80
+[12:09:57]   W11 + 16 indeed:unity developer|San Fran pg=30
+[12:09:58]   W01 + 16 indeed:ruby developer|Tel Aviv pg=80
+[12:10:12]   W13 + 16 indeed:ML platform engine|Tel Aviv pg=10
+[12:13:14]   [200] +245 new | DB=458,793 | Fresh7d=458,793 | 58/min | Gap=541,207
+[12:13:19]   W15 + 16 indeed:software developer|Gurgaon pg=0
+[12:13:36]   [400] +245 new | DB=459,227 | Fresh7d=459,227 | 54/min | Gap=540,773
+[12:13:40]   [600] +245 new | DB=459,227 | Fresh7d=459,227 | 53/min | Gap=540,773
+[12:13:42]   [800] +245 new | DB=459,227 | Fresh7d=459,227 | 52/min | Gap=540,773
+[12:13:46]   [1,000] +261 new | DB=459,284 | Fresh7d=459,284 | 55/min | Gap=540,716
+[12:14:24]   [1,200] +261 new | DB=459,879 | Fresh7d=459,879 | 49/min | Gap=540,121
+[12:15:07]   [1,400] +261 new | DB=460,168 | Fresh7d=460,168 | 43/min | Gap=539,832
+[12:15:55]   [1,600] +261 new | DB=460,168 | Fresh7d=460,168 | 38/min | Gap=539,832
+[12:16:39]   [1,800] +261 new | DB=460,168 | Fresh7d=460,168 | 34/min | Gap=539,832
+[12:17:17]   [2,000] +261 new | DB=460,168 | Fresh7d=460,168 | 32/min | Gap=539,832
+[12:18:03]   [2,200] +261 new | DB=460,168 | Fresh7d=460,168 | 29/min | Gap=539,832
+[12:18:47]   [2,400] +261 new | DB=460,168 | Fresh7d=460,168 | 27/min | Gap=539,832
+[12:19:35]   [2,600] +261 new | DB=460,168 | Fresh7d=460,168 | 25/min | Gap=539,832
+[12:20:16]   [2,800] +261 new | DB=460,168 | Fresh7d=460,168 | 23/min | Gap=539,832
+[12:20:26]   [3,000] +261 new | DB=460,168 | Fresh7d=460,168 | 23/min | Gap=539,832
+[12:20:39]   [3,200] +261 new | DB=460,303 | Fresh7d=460,303 | 22/min | Gap=539,697
+[12:20:51]   [3,400] +261 new | DB=460,303 | Fresh7d=460,303 | 22/min | Gap=539,697
+[12:21:06]   [3,600] +261 new | DB=460,303 | Fresh7d=460,303 | 22/min | Gap=539,697
+[12:21:15]   [3,800] +261 new | DB=460,303 | Fresh7d=460,303 | 21/min | Gap=539,697
+[12:21:23]   [4,000] +261 new | DB=460,303 | Fresh7d=460,303 | 21/min | Gap=539,697
+[12:21:31]   [4,200] +261 new | DB=460,303 | Fresh7d=460,303 | 21/min | Gap=539,697
+[12:21:40]   [4,400] +261 new | DB=460,303 | Fresh7d=460,303 | 21/min | Gap=539,697
+[12:21:50]   [4,600] +261 new | DB=460,303 | Fresh7d=460,303 | 20/min | Gap=539,697
+[12:29:02] ==================================================
+[12:29:02] WEB SCRAPER — 20 browser contexts, 8.0h max
+[12:29:02] ==================================================
+[12:29:02] Total work items: 54,684
+[12:29:02] Done: 50,000, Remaining: 4,684
+[12:29:07] Loaded 460,303 existing dedup keys
+[12:29:41] DB: 460,303 | Fresh7d: 460,303 | Gap: 539,697
+[12:29:41] Launching 20 browser workers on 4,684 items...
+[12:30:22]   W06 + 16 indeed:compiler engineer|Denver pg=10
+[12:30:23]   W12 + 16 indeed:linux engineer|Chennai pg=0
+[12:30:23]   W01 + 16 indeed:generative AI engi|Denver pg=50
+[12:30:23]   W11 + 16 indeed:product manager|Singapor pg=20
+[12:30:25]   W05 + 16 indeed:react developer|Noida pg=90
+[12:30:33]   W18 + 16 indeed:product manager|Bangalor pg=30
+[12:30:34]   W04 + 16 indeed:.NET developer|Dubai pg=80
+[12:30:35]   W03 + 16 indeed:software engineer|San Fran pg=30
+[12:30:36]   W10 + 16 indeed:developer experien|London pg=90
+[12:30:37]   W14 + 16 indeed:frontend developer|London pg=40
+[12:35:11]   [200] +164 new | DB=460,467 | Fresh7d=460,467 | 30/min | Gap=539,533
+[12:37:32]   [400] +164 new | DB=460,467 | Fresh7d=460,467 | 21/min | Gap=539,533
+[12:37:34]   [600] +164 new | DB=460,467 | Fresh7d=460,467 | 21/min | Gap=539,533
+[12:37:38]   [800] +164 new | DB=460,467 | Fresh7d=460,467 | 21/min | Gap=539,533
+[12:37:42]   [1,000] +164 new | DB=460,467 | Fresh7d=460,467 | 20/min | Gap=539,533
+[12:37:45]   [1,200] +164 new | DB=460,467 | Fresh7d=460,467 | 20/min | Gap=539,533
+[12:37:47]   [1,400] +164 new | DB=460,467 | Fresh7d=460,467 | 20/min | Gap=539,533
+[12:37:50]   [1,600] +164 new | DB=460,467 | Fresh7d=460,467 | 20/min | Gap=539,533
+[12:39:03] ==================================================
+[12:39:03] WEB SCRAPER — 20 browser contexts, 8.0h max
+[12:39:03] ==================================================
+[12:39:03] Total work items: 54,684
+[12:39:03] Done: 50,000, Remaining: 4,684
+[12:39:07] Loaded 460,467 existing dedup keys
+[12:39:07] DB: 460,467 | Fresh7d: 460,467 | Gap: 539,533
+[12:39:07] Launching 20 browser workers on 4,684 items...
+[12:39:53]   W03 + 16 indeed:kotlin developer|Gurgaon pg=90
+[12:39:54]   W09 + 16 indeed:terraform engineer|Seattle pg=20
+[12:39:56]   W17 + 16 indeed:rust developer|Hyderaba pg=90
+[12:39:58]   W07 + 16 indeed:technical lead|Austin pg=80
+[12:40:03]   W10 + 16 indeed:quantitative devel| pg=50
+[12:40:07]   W13 + 16 indeed:quantitative devel|Dubai pg=20
+[12:40:07]   W06 + 16 indeed:IT recruiter|Denver pg=40
+[12:40:07]   W11 + 16 indeed:devops engineer|Los Ange pg=10
+[12:40:08]   W05 + 16 indeed:business analyst|Austin pg=70
+[12:40:08]   W16 + 16 indeed:IT recruiter|San Fran pg=80
+[12:40:11]   W00 + 16 indeed:python developer|Dubai pg=60
+[12:40:12]   W15 + 16 indeed:go developer| pg=30
+[12:40:33]   [200] +195 new | DB=461,159 | Fresh7d=461,159 | 137/min | Gap=538,841
+[12:49:01] ==================================================
+[12:49:01] WEB SCRAPER — 20 browser contexts, 8.0h max
+[12:49:01] ==================================================
+[12:49:01] Total work items: 54,684
+[12:49:01] Done: 50,000, Remaining: 4,684
+[12:49:08] Loaded 464,699 existing dedup keys
+[12:49:09] DB: 464,699 | Fresh7d: 464,699 | Gap: 535,301
+[12:49:09] Launching 20 browser workers on 4,684 items...
+[12:50:44]   W02 + 15 indeed:quantitative devel|Atlanta pg=30
+[12:50:57]   W08 + 16 indeed:data engineer|Sydney pg=90
+[12:50:57]   W17 + 16 indeed:frontend developer|Los Ange pg=40
+[12:50:58]   W11 + 16 indeed:storage engineer|Remote pg=20
+[12:50:59]   W01 + 16 indeed:senior software en|Bangalor pg=90
+[12:50:59]   W13 + 16 indeed:kotlin developer|Seattle pg=10
+[12:51:00]   W00 + 16 indeed:react developer|Mumbai pg=60
+[12:51:00]   W14 + 16 indeed:ML platform engine|San Fran pg=40
+[12:51:00]   W10 + 16 indeed:kubernetes enginee|Noida pg=50
+[12:51:00]   W15 + 16 indeed:python developer|Chicago pg=20
+[12:51:01]   W06 + 16 indeed:AI engineer|Hyderaba pg=60
+[12:51:01]   W04 + 16 indeed:network engineer|Noida pg=0
+[12:51:02]   W03 + 16 indeed:computer vision en|Chicago pg=30
+[12:51:02]   W09 + 16 indeed:cloud architect|San Fran pg=30
+[12:51:03]   W19 + 16 indeed:data engineer|Seattle pg=60
+[12:51:03]   W12 + 16 indeed:Angular developer|San Fran pg=20
+[12:51:04]   W07 + 16 indeed:firmware engineer|San Fran pg=80
+[12:51:04]   W05 + 16 indeed:network engineer|Atlanta pg=90
+[12:51:05]   W16 + 16 indeed:QA engineer|Los Ange pg=20
+[12:56:36]   [200] +303 new | DB=465,474 | Fresh7d=465,474 | 41/min | Gap=534,526
+[12:59:01] ==================================================
+[12:59:01] WEB SCRAPER — 20 browser contexts, 8.0h max
+[12:59:01] ==================================================
+[12:59:01] Total work items: 54,684
+[12:59:01] Done: 50,000, Remaining: 4,684
+[12:59:11] Loaded 467,028 existing dedup keys
+[12:59:12] DB: 467,104 | Fresh7d: 467,104 | Gap: 532,896
+[12:59:12] Launching 20 browser workers on 4,684 items...
+[12:59:58]   W12 +  6 indeed:payments engineer|Seattle pg=60
+[13:00:59]   W10 + 16 indeed:container engineer|Vancouve pg=20
+[13:01:11]   W03 + 16 indeed:SRE| pg=50
+[13:01:13]   W01 + 16 indeed:aws engineer|Seattle pg=10
+[13:01:15]   W04 + 16 indeed:C++ engineer|Austin pg=50
+[13:01:17]   W19 + 16 indeed:compiler engineer|Gurgaon pg=60
+[13:01:20]   W09 + 16 indeed:graphics engineer|Chicago pg=70
+[13:01:21]   W06 + 16 indeed:SRE|Singapor pg=50
+[13:01:22]   W15 + 16 indeed:technical lead|Singapor pg=70
+[13:01:22]   W17 + 16 indeed:cloud architect|Denver pg=90
+[13:01:23]   W11 + 16 indeed:quantitative devel|Pune pg=30
+[13:01:23]   W18 + 16 indeed:node.js developer|Chennai pg=80
+[13:01:24]   W13 + 16 indeed:unity developer|Austin pg=30
+[13:01:25]   W14 + 16 indeed:data engineer|San Fran pg=80
+[13:01:25]   W05 + 16 indeed:linux engineer|Dubai pg=90
+[13:01:26]   W00 + 16 indeed:developer experien|Bangalor pg=30
+[13:06:22]   [200] +251 new | DB=467,836 | Fresh7d=467,836 | 35/min | Gap=532,164
+[13:06:35]   [400] +251 new | DB=469,190 | Fresh7d=469,190 | 34/min | Gap=530,810
+[13:06:36]   [600] +251 new | DB=469,190 | Fresh7d=469,190 | 34/min | Gap=530,810
+[13:06:38]   [800] +251 new | DB=469,190 | Fresh7d=469,190 | 34/min | Gap=530,810
+[13:06:40]   [1,000] +251 new | DB=469,190 | Fresh7d=469,190 | 34/min | Gap=530,810
+[13:06:42]   [1,200] +251 new | DB=469,190 | Fresh7d=469,190 | 33/min | Gap=530,810
+[13:06:46]   [1,400] +251 new | DB=469,190 | Fresh7d=469,190 | 33/min | Gap=530,810
+[13:06:57]   [1,600] +251 new | DB=469,190 | Fresh7d=469,190 | 32/min | Gap=530,810
+[13:07:01]   [1,800] +251 new | DB=469,190 | Fresh7d=469,190 | 32/min | Gap=530,810
+[13:07:24]   [2,000] +251 new | DB=469,190 | Fresh7d=469,190 | 31/min | Gap=530,810
+[13:07:30]   [2,200] +251 new | DB=469,190 | Fresh7d=469,190 | 30/min | Gap=530,810
+[13:07:45]   [2,400] +251 new | DB=469,190 | Fresh7d=469,190 | 29/min | Gap=530,810
+[13:08:03]   [2,600] +251 new | DB=469,190 | Fresh7d=469,190 | 28/min | Gap=530,810
+[13:08:26]   [2,800] +251 new | DB=469,190 | Fresh7d=469,190 | 27/min | Gap=530,810
+[13:08:44]   [3,000] +251 new | DB=469,190 | Fresh7d=469,190 | 26/min | Gap=530,810
+[13:09:00]   [3,200] +251 new | DB=469,190 | Fresh7d=469,190 | 26/min | Gap=530,810
+[13:09:19]   [3,400] +251 new | DB=469,190 | Fresh7d=469,190 | 25/min | Gap=530,810
+[13:09:36]   [3,600] +251 new | DB=469,190 | Fresh7d=469,190 | 24/min | Gap=530,810
+[13:09:56]   [3,800] +251 new | DB=469,190 | Fresh7d=469,190 | 23/min | Gap=530,810
+[13:10:16]   [4,000] +251 new | DB=469,190 | Fresh7d=469,190 | 23/min | Gap=530,810
+[13:10:25]   [4,200] +251 new | DB=469,190 | Fresh7d=469,190 | 22/min | Gap=530,810
+[13:10:43]   [4,400] +251 new | DB=469,190 | Fresh7d=469,190 | 22/min | Gap=530,810
+[13:11:01]   [4,600] +251 new | DB=469,190 | Fresh7d=469,190 | 21/min | Gap=530,810
+[13:59:01] ==================================================
+[13:59:01] WEB SCRAPER — 20 browser contexts, 8.0h max
+[13:59:01] ==================================================
+[13:59:01] Total work items: 54,684
+[13:59:02] Done: 50,000, Remaining: 4,684
+[13:59:09] Loaded 483,380 existing dedup keys
+[13:59:13] DB: 483,676 | Fresh7d: 483,676 | Gap: 516,324
+[13:59:13] Launching 20 browser workers on 4,684 items...
+[14:00:09]   W04 + 16 indeed:software developer|Miami pg=20
+[14:00:28]   W12 + 16 indeed:database engineer|Denver pg=20
+[14:00:29]   W10 + 16 indeed:full stack develop|San Fran pg=90
+[14:00:29]   W00 + 16 indeed:compiler engineer|Dubai pg=0
+[14:00:29]   W08 + 10 indeed:Angular developer|Austin pg=60
+[14:00:31]   W03 + 16 indeed:java developer|Seattle pg=80
+[14:00:34]   W14 + 16 indeed:developer experien|Los Ange pg=0
+[14:00:35]   W06 + 16 indeed:database engineer|New York pg=0
+[14:00:46]   [200] +122 new | DB=484,187 | Fresh7d=484,187 | 79/min | Gap=515,813
+[14:05:39]   [400] +122 new | DB=484,187 | Fresh7d=484,187 | 19/min | Gap=515,813
+[14:05:53]   [600] +122 new | DB=486,704 | Fresh7d=486,777 | 18/min | Gap=513,296
+[14:06:14]   [800] +122 new | DB=486,777 | Fresh7d=486,777 | 17/min | Gap=513,223
+[14:06:34]   [1,000] +122 new | DB=486,777 | Fresh7d=486,777 | 17/min | Gap=513,223
+[14:06:43]   [1,200] +122 new | DB=486,777 | Fresh7d=486,777 | 16/min | Gap=513,223
+[14:06:55]   [1,400] +122 new | DB=486,777 | Fresh7d=486,777 | 16/min | Gap=513,223
+[14:07:12]   [1,600] +122 new | DB=486,777 | Fresh7d=486,777 | 15/min | Gap=513,223
+[14:07:25]   [1,800] +122 new | DB=486,777 | Fresh7d=486,777 | 15/min | Gap=513,223
+[14:08:11]   [2,000] +122 new | DB=487,250 | Fresh7d=487,250 | 14/min | Gap=512,750
+[14:09:06]   [2,200] +122 new | DB=487,250 | Fresh7d=487,250 | 12/min | Gap=512,750
+[14:09:53]   [2,400] +122 new | DB=487,250 | Fresh7d=487,250 | 11/min | Gap=512,750
+[14:10:41]   [2,600] +122 new | DB=487,250 | Fresh7d=487,250 | 11/min | Gap=512,750
+[14:11:39]   [2,800] +122 new | DB=487,250 | Fresh7d=487,250 | 10/min | Gap=512,750
+[14:12:29]   [3,000] +122 new | DB=487,250 | Fresh7d=487,250 | 9/min | Gap=512,750
+[14:13:30]   [3,200] +122 new | DB=487,250 | Fresh7d=487,250 | 9/min | Gap=512,750
+[14:19:01] ==================================================
+[14:19:01] WEB SCRAPER — 20 browser contexts, 8.0h max
+[14:19:01] ==================================================
+[14:19:01] Total work items: 54,684
+[14:19:01] Done: 50,000, Remaining: 4,684
+[14:19:02] Loaded 493,282 existing dedup keys
+[14:19:02] DB: 493,282 | Fresh7d: 493,282 | Gap: 506,718
+[14:19:03] Launching 20 browser workers on 4,684 items...
+[14:19:21]   W10 + 16 indeed:linux engineer|Noida pg=40
+[14:19:25]   W01 +  8 indeed:react developer|Miami pg=40
+[14:19:27]   W09 + 16 indeed:AI engineer|Atlanta pg=80
+[14:19:29]   W04 + 16 indeed:aws engineer|Mumbai pg=80
+[14:19:32]   W15 + 16 indeed:business analyst|Tel Aviv pg=50
+[14:20:00]   W05 + 16 indeed:graphics engineer|Austin pg=70
+[14:20:03]   W18 + 16 indeed:backend engineer|Seattle pg=50
+[14:20:03]   W11 + 16 indeed:kernel engineer|Seattle pg=10
+[14:20:03]   W19 + 16 indeed:go developer|Vancouve pg=90
+[14:20:04]   W17 + 16 indeed:streaming engineer|Dubai pg=90
+[14:20:04]   W12 + 16 indeed:distributed system|Boston pg=30
+[14:20:05]   W00 + 16 indeed:azure engineer|Mumbai pg=30
+[14:20:05]   W07 + 16 indeed:senior software en|Remote pg=20
+[14:20:06]   W06 + 16 indeed:game developer|Remote pg=10
+[14:20:06]   W14 + 16 indeed:swift developer|Mumbai pg=70
+[14:20:07]   W02 + 11 indeed:Angular developer|Delhi pg=10
+[14:20:07]   W08 + 16 indeed:ML platform engine|Singapor pg=30
+[14:20:09]   W03 + 16 indeed:ruby developer|Pune pg=60
+[14:20:36]   W03 FATAL: 
+[14:23:10]   [400] +280 new | DB=495,180 | Fresh7d=495,180 | 68/min | Gap=504,820
+[14:23:27]   [600] +280 new | DB=497,296 | Fresh7d=497,296 | 64/min | Gap=502,704
+[14:23:47]   [800] +280 new | DB=497,396 | Fresh7d=497,396 | 59/min | Gap=502,604
+[14:24:01]   [1,000] +280 new | DB=497,660 | Fresh7d=497,666 | 56/min | Gap=502,340
+[14:24:13]   [1,200] +280 new | DB=497,696 | Fresh7d=497,696 | 54/min | Gap=502,304
+[14:24:18]   [1,400] +280 new | DB=498,129 | Fresh7d=498,129 | 53/min | Gap=501,871
+[14:24:28]   [1,600] +280 new | DB=498,217 | Fresh7d=498,217 | 52/min | Gap=501,783
+[14:24:37]   [1,800] +280 new | DB=498,262 | Fresh7d=498,262 | 50/min | Gap=501,738
+[14:24:51]   [2,000] +280 new | DB=498,350 | Fresh7d=498,350 | 48/min | Gap=501,650
+[14:25:06]   [2,200] +280 new | DB=498,592 | Fresh7d=498,632 | 46/min | Gap=501,408
+[14:25:23]   [2,400] +284 new | DB=498,826 | Fresh7d=498,826 | 45/min | Gap=501,174
+[14:25:49]   [2,600] +284 new | DB=499,008 | Fresh7d=499,008 | 42/min | Gap=500,992
+[14:26:03]   [2,800] +284 new | DB=499,164 | Fresh7d=499,164 | 41/min | Gap=500,836
+[14:26:07]   [3,000] +284 new | DB=499,243 | Fresh7d=499,243 | 40/min | Gap=500,757
+[14:26:23]   [3,200] +284 new | DB=499,243 | Fresh7d=499,341 | 39/min | Gap=500,757
+[14:26:51]   [3,400] +284 new | DB=499,645 | Fresh7d=499,732 | 36/min | Gap=500,355
+[14:27:34]   [3,600] +284 new | DB=500,255 | Fresh7d=500,255 | 33/min | Gap=499,745
+[14:27:49]   [3,800] +284 new | DB=500,580 | Fresh7d=500,580 | 32/min | Gap=499,420
+[14:28:00]   [4,000] +284 new | DB=500,754 | Fresh7d=500,754 | 32/min | Gap=499,246
+[14:28:01]   [4,200] +284 new | DB=500,754 | Fresh7d=500,754 | 32/min | Gap=499,246
+[14:28:02]   [4,400] +284 new | DB=500,754 | Fresh7d=500,754 | 32/min | Gap=499,246
+[14:28:02]   [4,600] +284 new | DB=500,754 | Fresh7d=500,754 | 32/min | Gap=499,246
+[20:39:06] ==================================================
+[20:39:06] WEB SCRAPER — 20 browser contexts, 8.0h max
+[20:39:06] ==================================================
+[20:39:06] Total work items: 54,684
+[20:39:06] Done: 50,000, Remaining: 4,684
+[20:39:20] Loaded 517,615 existing dedup keys
+[20:40:03] DB: 517,615 | Fresh7d: 517,615 | Gap: 482,385
+[20:40:03] Launching 20 browser workers on 4,684 items...
+[15:10:49]   W19 + 16 indeed:SRE|Chicago pg=40
+[15:10:49]   W18 + 16 indeed:SDE|Gurgaon pg=20
+[15:10:49]   W08 + 16 indeed:ML platform engine| pg=0
+[15:10:50]   W09 + 16 indeed:SRE|Noida pg=80
+[15:10:50]   W11 + 16 indeed:web developer|Miami pg=60
+[15:10:51]   W13 + 16 indeed:PHP developer|Chicago pg=80
+[15:10:51]   W04 + 16 indeed:platform developer|Delhi pg=0
+[15:10:52]   W00 + 16 indeed:tech lead|Dubai pg=60
+[15:10:52]   W15 + 16 indeed:technical lead|Seattle pg=60
+[15:10:52]   W07 + 16 indeed:backend developer|Los Ange pg=30
+[15:10:55]   W01 + 16 indeed:backend developer|Denver pg=50
+[15:10:59]   W17 + 16 indeed:UX designer|Remote pg=20
+[15:11:00]   W06 + 16 indeed:business analyst|Seattle pg=90
+[15:11:00]   W12 + 16 indeed:react developer|Pune pg=30
+[15:11:04]   W05 + 16 indeed:data platform engi|Tel Aviv pg=60
+[15:11:04]   W14 + 16 indeed:linux engineer|Dubai pg=70
+[15:11:04]   W10 + 16 indeed:web3 developer|Tel Aviv pg=60
+[15:11:04]   W16 + 16 indeed:identity engineer|Boston pg=50
+[15:11:04]   W18 + 16 indeed:cybersecurity anal|Chennai pg=40
+[15:11:04]   W02 + 16 indeed:azure engineer|Denver pg=40
+[15:11:04]   W13 + 16 indeed:SRE|Hyderaba pg=0
+[15:11:04]   W19 + 16 indeed:NLP engineer|New York pg=20
+[15:11:04]   W07 + 16 indeed:solutions architec|Boston pg=0
+[15:11:04]   W09 + 16 indeed:platform engineer|Dubai pg=40
+[15:11:04]   W15 + 16 indeed:blockchain develop|Pune pg=80
+[15:11:04]   W03 + 16 indeed:web3 developer|Bangalor pg=70
+[15:11:04]   W11 + 15 indeed:software developer|Singapor pg=10
+[15:11:04]   W00 + 16 indeed:python developer|Vancouve pg=70
+[15:11:11]   W08 + 16 indeed:security engineer|Seattle pg=0
+[15:11:36]   W04 + 12 indeed:Angular developer|Boston pg=70
+[15:11:36]   W11 + 16 indeed:node.js developer|Noida pg=20
+[15:11:36]   W09 + 14 indeed:mobile developer|Sydney pg=10
+[15:11:37]   W00 + 16 indeed:microservices engi|Miami pg=10
+[15:11:37]   W08 +  8 indeed:robotics engineer|Delhi pg=90
+[15:11:37]   W13 + 16 indeed:microservices engi|Mumbai pg=90
+[15:11:38]   W06 + 16 indeed:distributed system|Sydney pg=40
+[15:11:38]   W05 + 15 indeed:web developer|Pune pg=0
+[15:11:38]   W16 + 16 indeed:streaming engineer|Tel Aviv pg=0
+[15:11:39]   W01 + 16 indeed:frontend developer|Dubai pg=90
+[15:11:39]   W07 + 16 indeed:UX designer|Denver pg=60
+[15:11:40]   W12 + 16 indeed:ML platform engine|Toronto pg=70
+[15:11:40]   W10 + 16 indeed:full stack develop|Dubai pg=10
+[15:11:40]   W02 + 16 indeed:software engineer|Remote pg=90
+[15:12:01]   W15 + 16 indeed:principal engineer|Mumbai pg=50
+[15:12:03]   W03 + 16 indeed:quantitative devel|Dubai pg=70
+[15:12:03]   W18 + 16 indeed:swift developer|Atlanta pg=60
+[15:12:03]   W14 + 16 indeed:terraform engineer|Singapor pg=50
+[15:12:03]   W19 + 16 indeed:solidity developer|Pune pg=90
+[15:12:03]   W06 + 16 indeed:solutions architec|San Fran pg=0
+[15:12:03]   W17 + 16 indeed:staff engineer|Vancouve pg=70
+[15:12:03]   W09 + 16 indeed:flutter developer|Hyderaba pg=60
+[15:12:03]   W00 + 16 indeed:C++ engineer|Pune pg=70
+[15:12:03]   W13 + 16 indeed:web3 developer|Austin pg=40
+[15:12:04]   W02 + 16 indeed:backend developer|Vancouve pg=80
+[15:12:04]   W04 + 16 indeed:scrum master|Chicago pg=50
+[15:12:05]   W01 + 16 indeed:scrum master|Miami pg=60
+[15:12:05]   W10 + 16 indeed:SDE|Mumbai pg=10
+[15:12:20]   W16 + 16 indeed:full stack develop|Vancouve pg=70
+[15:12:20]   W08 + 16 indeed:data analyst|Austin pg=20
+[15:12:26]   [200] +918 new | DB=518,549 | Fresh7d=518,549 | 9180/min | Gap=481,451
+[15:12:27]   W14 + 16 indeed:unity developer|Seattle pg=50
+[15:12:28]   W03 + 17 indeed:container engineer|San Fran pg=0
+[15:12:57]   W15 + 18 indeed:frontend developer|Miami pg=0
+[15:13:00]   W12 + 16 indeed:MLE| pg=30
+[15:19:01] ==================================================
+[15:19:01] WEB SCRAPER — 20 browser contexts, 8.0h max
+[15:19:01] ==================================================
+[15:19:01] Total work items: 54,684
+[15:19:01] Done: 50,000, Remaining: 4,684
+[15:19:06] Loaded 518,616 existing dedup keys
+[15:20:01] DB: 518,616 | Fresh7d: 518,616 | Gap: 481,384
+[15:20:01] Launching 20 browser workers on 4,684 items...
+[15:29:01] ==================================================
+[15:29:01] WEB SCRAPER — 20 browser contexts, 8.0h max
+[15:29:01] ==================================================
+[15:29:01] Total work items: 54,684
+[15:29:01] Done: 50,000, Remaining: 4,684
+[15:29:05] Loaded 524,543 existing dedup keys
+[15:29:38] DB: 524,543 | Fresh7d: 524,543 | Gap: 475,457
+[15:29:38] Launching 20 browser workers on 4,684 items...
+[15:30:55]   W15 + 16 indeed:django developer|Vancouve pg=0
+[15:31:05]   W13 + 16 indeed:C++ engineer|Gurgaon pg=80
+[15:31:05]   W04 + 17 indeed:game developer|San Fran pg=0
+[15:31:06]   W12 + 16 indeed:senior software en|Toronto pg=10
+[15:31:24]   W10 + 16 indeed:azure engineer|Miami pg=50
+[15:31:25]   W08 + 16 indeed:react developer|Atlanta pg=40
+[15:31:25]   W02 + 12 indeed:Angular developer|Sydney pg=80
+[15:31:27]   W00 + 16 indeed:solutions architec|Denver pg=20
+[15:39:40]   [200] +127 new | DB=525,889 | Fresh7d=525,889 | 13/min | Gap=474,111
+[15:43:14]   [400] +127 new | DB=525,889 | Fresh7d=525,889 | 9/min | Gap=474,111
+[15:46:38]   [600] +127 new | DB=527,379 | Fresh7d=527,379 | 7/min | Gap=472,621
+[15:48:58]   [800] +127 new | DB=528,232 | Fresh7d=528,232 | 7/min | Gap=471,768
+[15:50:54]   [1,000] +127 new | DB=528,257 | Fresh7d=528,257 | 6/min | Gap=471,743
+[15:52:11]   [1,200] +127 new | DB=528,257 | Fresh7d=528,384 | 6/min | Gap=471,743
+[15:54:31]   [1,400] +127 new | DB=529,609 | Fresh7d=529,609 | 5/min | Gap=470,391
+[15:56:03]   [1,600] +127 new | DB=531,390 | Fresh7d=531,390 | 5/min | Gap=468,610
+[15:56:06]   [1,800] +127 new | DB=531,878 | Fresh7d=531,878 | 5/min | Gap=468,122
+[15:57:26]   [2,000] +127 new | DB=532,065 | Fresh7d=532,065 | 5/min | Gap=467,935
+[15:58:59]   [2,200] +127 new | DB=533,772 | Fresh7d=533,772 | 4/min | Gap=466,228
+[15:59:01]   [2,400] +127 new | DB=533,896 | Fresh7d=533,937 | 4/min | Gap=466,104
+[15:59:02]   [2,600] +127 new | DB=534,396 | Fresh7d=534,396 | 4/min | Gap=465,604
+[15:59:03]   [2,800] +127 new | DB=534,396 | Fresh7d=534,396 | 4/min | Gap=465,604
+[15:59:04]   [3,000] +127 new | DB=534,434 | Fresh7d=534,434 | 4/min | Gap=465,566
+[15:59:15]   [3,200] +127 new | DB=534,434 | Fresh7d=534,434 | 4/min | Gap=465,566
+[15:59:15]   [3,400] +127 new | DB=534,434 | Fresh7d=534,434 | 4/min | Gap=465,566
+[15:59:16]   [3,600] +127 new | DB=534,494 | Fresh7d=534,494 | 4/min | Gap=465,506
+[15:59:16]   [3,800] +127 new | DB=534,494 | Fresh7d=534,494 | 4/min | Gap=465,506
+[15:59:17]   [4,000] +127 new | DB=534,494 | Fresh7d=534,494 | 4/min | Gap=465,506
+[15:59:17]   [4,200] +127 new | DB=534,494 | Fresh7d=534,494 | 4/min | Gap=465,506
+[15:59:19]   [4,400] +127 new | DB=534,530 | Fresh7d=534,530 | 4/min | Gap=465,470
+[15:59:20]   [4,600] +127 new | DB=534,530 | Fresh7d=534,530 | 4/min | Gap=465,470
+[16:00:05] ==================================================
+[16:00:05] COMPLETE | Iterations: 4,684 | New: +127
+[16:00:05] DB: 534,881 | Fresh7d: 534,881 | Gap: 465,119
+[16:00:05] Time: 30.4min | Rate: 4/min
+[16:00:05] ==================================================
+[16:09:01] ==================================================
+[16:09:01] WEB SCRAPER — 20 browser contexts, 8.0h max
+[16:09:01] ==================================================
+[16:09:01] Total work items: 54,684
+[16:09:01] Done: 50,000, Remaining: 4,684
+[16:09:04] Loaded 540,357 existing dedup keys
+[16:09:05] DB: 540,391 | Fresh7d: 540,391 | Gap: 459,609
+[16:09:05] Launching 20 browser workers on 4,684 items...
+[16:09:48]   W12 + 16 indeed:ML platform engine|Dubai pg=80
+[16:09:48]   W16 + 16 indeed:terraform engineer| pg=50
+[16:09:49]   W05 + 16 indeed:full stack develop|Chennai pg=40
+[16:09:49]   W14 + 16 indeed:DevOps|Dubai pg=20
+[16:09:49]   W06 + 16 indeed:aws engineer|New York pg=40
+[16:09:49]   W08 + 16 indeed:ruby developer|Chennai pg=20
+[16:09:50]   W02 + 16 indeed:cybersecurity anal|Seattle pg=10
+[16:09:50]   W00 + 16 indeed:game developer|Singapor pg=70
+[16:09:50]   W17 + 15 indeed:swift developer|Hyderaba pg=10
+[16:09:50]   W18 + 15 indeed:cybersecurity anal|Miami pg=50
+[16:09:51]   W10 + 16 indeed:frontend engineer|Singapor pg=90
+[16:09:51]   W19 + 16 indeed:systems engineer|Mumbai pg=40
+[16:14:46]   [200] +197 new | DB=540,588 | Fresh7d=540,588 | 35/min | Gap=459,412
+[16:14:49]   W07 + 16 indeed:security engineer|Vancouve pg=40
+[16:18:16]   [400] +197 new | DB=540,604 | Fresh7d=540,604 | 21/min | Gap=459,396
+[16:18:18]   [600] +197 new | DB=540,607 | Fresh7d=540,607 | 21/min | Gap=459,393
+[16:18:21]   [800] +197 new | DB=540,607 | Fresh7d=540,607 | 21/min | Gap=459,393
+[16:19:02] ==================================================
+[16:19:02] WEB SCRAPER — 20 browser contexts, 8.0h max
+[16:19:02] ==================================================
+[16:19:02] Total work items: 54,684
+[16:19:02] Done: 50,000, Remaining: 4,684
+[16:19:03] Loaded 540,649 existing dedup keys
+[16:19:04] DB: 540,649 | Fresh7d: 540,649 | Gap: 459,351
+[16:19:04] Launching 20 browser workers on 4,684 items...
+[16:19:56]   W19 + 16 indeed:C++ engineer|Tel Aviv pg=30
+[16:19:57]   W06 + 16 indeed:streaming engineer|Singapor pg=60
+[16:19:58]   W00 + 16 indeed:robotics engineer|Hyderaba pg=0
+[16:19:58]   W15 + 16 indeed:graphics engineer|Atlanta pg=70
+[16:20:05]   W01 + 16 indeed:backend developer|Remote pg=20
+[16:20:12]   W09 + 16 indeed:ruby developer|San Fran pg=10
+[16:20:25]   W13 + 16 indeed:data scientist|Boston pg=30
+[16:20:25]   W18 + 16 indeed:cloud engineer|Mumbai pg=80
+[16:20:28]   W10 + 16 indeed:kernel engineer|Hyderaba pg=20
+[16:20:30]   W05 + 16 indeed:product manager|Austin pg=0
+[16:21:33]   W07 + 15 indeed:graphics engineer|Tel Aviv pg=90
+[16:22:08]   W11 + 16 indeed:platform developer|Miami pg=70
+[16:22:12]   W02 + 16 indeed:MLOps engineer|San Fran pg=60
+[16:22:15]   W17 + 16 indeed:automation enginee|Chennai pg=10
+[16:22:17]   W04 + 16 indeed:staff engineer|Denver pg=30
+[16:22:18]   W03 + 16 indeed:API engineer|Sydney pg=80
+[16:22:19]   W08 + 16 indeed:SDE|Tel Aviv pg=10
+[16:26:55]   [200] +167 new | DB=541,308 | Fresh7d=541,320 | 21/min | Gap=458,692
+[16:27:39]   [400] +182 new | DB=542,567 | Fresh7d=542,567 | 21/min | Gap=457,433
+[16:27:47]   [600] +278 new | DB=542,698 | Fresh7d=542,698 | 32/min | Gap=457,302
+[16:28:04]   [800] +278 new | DB=542,868 | Fresh7d=542,900 | 31/min | Gap=457,132
+[16:28:14]   [1,000] +278 new | DB=543,063 | Fresh7d=543,063 | 30/min | Gap=456,937
+[16:28:24]   [1,200] +278 new | DB=543,350 | Fresh7d=543,350 | 30/min | Gap=456,650
+[16:28:33]   [1,400] +278 new | DB=543,527 | Fresh7d=543,527 | 29/min | Gap=456,473
+[16:28:55]   [1,600] +278 new | DB=543,754 | Fresh7d=543,778 | 28/min | Gap=456,246
+[16:30:41]   [1,800] +278 new | DB=543,811 | Fresh7d=543,854 | 24/min | Gap=456,189
+[16:39:01] ==================================================
+[16:39:01] WEB SCRAPER — 20 browser contexts, 8.0h max
+[16:39:01] ==================================================
+[16:39:01] Total work items: 54,684
+[16:39:01] Done: 0, Remaining: 54,684
+[16:39:02] Loaded 547,538 existing dedup keys
+[16:39:03] DB: 547,538 | Fresh7d: 547,538 | Gap: 452,462
+[16:39:03] Launching 20 browser workers on 54,684 items...
+[16:39:51]   W01 + 16 indeed:software engineer|Pune pg=90
+[16:39:52]   W13 + 17 indeed:technical lead|Austin pg=0
+[16:39:52]   W00 + 16 indeed:platform developer|Hyderaba pg=50
+[16:39:52]   W19 + 16 indeed:swift developer|Pune pg=0
+[16:39:52]   W06 + 16 indeed:tech lead|Gurgaon pg=20
+[16:39:52]   W18 + 16 indeed:IT recruiter|Denver pg=20
+[16:39:52]   W16 + 16 indeed:java developer|Dubai pg=20
+[16:39:52]   W10 + 16 indeed:java developer|Dubai pg=50
+[16:39:52]   W11 + 16 indeed:go developer| pg=50
+[16:39:52]   W15 + 16 indeed:solidity developer|Singapor pg=30
+[16:39:53]   W07 + 16 indeed:platform engineer|Remote pg=40
+[16:39:53]   W02 + 16 indeed:MLOps engineer|Tel Aviv pg=80
+[16:39:53]   W08 + 16 indeed:quantitative devel|Mumbai pg=0
+[16:39:53]   W03 + 16 indeed:software developer|Sydney pg=80
+[16:39:57]   W05 + 16 indeed:tech lead|London pg=0
+[16:40:03]   W04 + 16 indeed:scrum master|Chennai pg=0
+[16:40:19]   [200] +263 new | DB=547,963 | Fresh7d=547,963 | 208/min | Gap=452,037
+[16:40:47]   [400] +263 new | DB=548,034 | Fresh7d=548,034 | 151/min | Gap=451,966
+[16:43:51]   [600] +263 new | DB=548,193 | Fresh7d=548,201 | 55/min | Gap=451,807
+[16:43:53]   [800] +263 new | DB=548,217 | Fresh7d=548,217 | 54/min | Gap=451,783
+[16:43:55]   [1,000] +263 new | DB=548,217 | Fresh7d=548,217 | 54/min | Gap=451,783
+[16:43:57]   [1,200] +263 new | DB=548,217 | Fresh7d=548,217 | 54/min | Gap=451,783
+[16:44:00]   [1,400] +263 new | DB=548,217 | Fresh7d=548,217 | 53/min | Gap=451,783
+[16:44:02]   [1,600] +263 new | DB=548,217 | Fresh7d=548,217 | 53/min | Gap=451,783
+[16:44:26]   [1,800] +263 new | DB=548,277 | Fresh7d=548,277 | 49/min | Gap=451,723
+[16:44:53]   [2,000] +263 new | DB=548,277 | Fresh7d=548,277 | 45/min | Gap=451,723
+[16:45:21]   [2,200] +263 new | DB=548,360 | Fresh7d=548,360 | 42/min | Gap=451,640
+[16:45:54]   [2,400] +263 new | DB=548,385 | Fresh7d=548,385 | 38/min | Gap=451,615
+[16:46:21]   [2,600] +263 new | DB=548,415 | Fresh7d=548,415 | 36/min | Gap=451,585
+[16:46:53]   [2,800] +263 new | DB=548,510 | Fresh7d=548,510 | 34/min | Gap=451,490
+[22:19:06] ==================================================
+[22:19:06] WEB SCRAPER — 20 browser contexts, 8.0h max
+[22:19:06] ==================================================
+[22:19:06] Total work items: 54,684
+[22:19:06] Done: 2,934, Remaining: 51,750
+[22:19:13] Loaded 548,596 existing dedup keys
+[22:19:55] DB: 548,596 | Fresh7d: 548,596 | Gap: 451,404
+[22:19:55] Launching 20 browser workers on 51,750 items...
+[16:50:48]   W05 + 16 indeed:C++ engineer| pg=40
+[16:50:48]   W16 + 16 indeed:frontend developer|Chennai pg=30
+[16:50:48]   W10 + 16 indeed:container engineer|Denver pg=0
+[16:50:48]   W13 + 16 indeed:systems engineer|Miami pg=50
+[16:50:48]   W19 + 16 indeed:firmware engineer|Denver pg=40
+[16:50:49]   W00 + 16 indeed:mobile developer|Gurgaon pg=30
+[16:50:49]   W12 + 16 indeed:cloud architect|Tel Aviv pg=80
+[16:50:49]   W04 + 16 indeed:cloud engineer| pg=0
+[16:50:50]   W09 + 16 indeed:data platform engi|Boston pg=0
+[16:50:50]   W01 + 16 indeed:machine learning e|Dubai pg=20
+[16:50:53]   W02 + 16 indeed:staff engineer|Seattle pg=0
+[16:51:08]   [200] +183 new | DB=548,779 | Fresh7d=548,779 | 1830/min | Gap=451,221
+[16:51:39]   [400] +183 new | DB=548,779 | Fresh7d=548,779 | 1830/min | Gap=451,221
+[16:52:09]   [600] +183 new | DB=548,779 | Fresh7d=548,779 | 1830/min | Gap=451,221
+[16:52:47]   [800] +183 new | DB=548,779 | Fresh7d=548,779 | 1830/min | Gap=451,221
+[16:53:25]   [1,000] +183 new | DB=548,779 | Fresh7d=548,779 | 1830/min | Gap=451,221
+[16:55:02]   [1,200] +183 new | DB=548,779 | Fresh7d=548,779 | 1830/min | Gap=451,221
+[16:56:35]   [1,400] +183 new | DB=548,779 | Fresh7d=548,779 | 1830/min | Gap=451,221
+[16:56:38]   [1,600] +183 new | DB=548,779 | Fresh7d=548,779 | 1830/min | Gap=451,221
+[16:56:47]   [1,800] +183 new | DB=548,779 | Fresh7d=548,779 | 1830/min | Gap=451,221
+[16:56:52]   [2,000] +183 new | DB=548,779 | Fresh7d=548,779 | 1830/min | Gap=451,221
+[16:57:34]   [2,200] +183 new | DB=548,779 | Fresh7d=548,779 | 1830/min | Gap=451,221
+[16:58:09]   [2,400] +183 new | DB=548,779 | Fresh7d=548,779 | 1830/min | Gap=451,221
+[16:58:55]   [2,600] +183 new | DB=548,779 | Fresh7d=548,779 | 1830/min | Gap=451,221
+[16:59:37]   [2,800] +183 new | DB=548,779 | Fresh7d=548,779 | 1830/min | Gap=451,221
+[17:00:30]   [3,000] +183 new | DB=548,779 | Fresh7d=548,779 | 1830/min | Gap=451,221
+[17:01:02]   [3,200] +183 new | DB=548,779 | Fresh7d=548,779 | 1830/min | Gap=451,221
+[17:08:30]   [3,400] +183 new | DB=548,781 | Fresh7d=548,781 | 1830/min | Gap=451,219
+[17:12:13]   [3,600] +183 new | DB=549,370 | Fresh7d=549,370 | 1830/min | Gap=450,630
+[17:19:02] ==================================================
+[17:19:02] WEB SCRAPER — 20 browser contexts, 8.0h max
+[17:19:02] ==================================================
+[17:19:02] Total work items: 54,684
+[17:19:02] Done: 8,814, Remaining: 45,870
+[17:19:02] Loaded 549,385 existing dedup keys
+[17:19:03] DB: 549,385 | Fresh7d: 549,385 | Gap: 450,615
+[17:19:03] Launching 20 browser workers on 45,870 items...
+[17:19:55]   W19 +  9 indeed:linux engineer|London pg=50
+[17:19:55]   W01 + 16 indeed:django developer|Vancouve pg=50
+[17:19:55]   W12 + 16 indeed:Angular developer|Mumbai pg=80
+[17:19:55]   W18 + 16 indeed:frontend developer|Chennai pg=90
+[17:19:56]   W15 + 16 indeed:kernel engineer|Dubai pg=80
+[17:19:56]   W11 + 16 indeed:senior software en|Boston pg=70
+[17:19:56]   W02 + 16 indeed:backend developer|London pg=0
+[17:19:56]   W07 + 16 indeed:graphics engineer|Dubai pg=50
+[17:19:57]   W16 + 16 indeed:backend developer|Dubai pg=20
+[17:19:57]   W04 + 16 indeed:react developer|Mumbai pg=10
+[17:19:58]   W06 + 16 indeed:devops engineer|Mumbai pg=30
+[17:19:59]   W00 + 16 indeed:backend developer|Los Ange pg=80
+[17:19:59]   W17 + 16 indeed:data engineer|Chennai pg=90
+[17:20:04]   W10 + 16 indeed:technical lead|Austin pg=20
+[17:24:45]   [200] +224 new | DB=549,609 | Fresh7d=549,609 | 39/min | Gap=450,391
+[18:09:01] ==================================================
+[18:09:01] WEB SCRAPER — 20 browser contexts, 8.0h max
+[18:09:01] ==================================================
+[18:09:02] Total work items: 54,684
+[18:09:02] Done: 11,095, Remaining: 43,589
+[18:19:25] ==================================================
+[18:19:25] WEB SCRAPER — 20 browser contexts, 8.0h max
+[18:19:25] ==================================================
+[18:19:25] Total work items: 54,684
+[18:19:25] Done: 11,095, Remaining: 43,589
+[18:19:47] Loaded 552,295 existing dedup keys
+[18:21:14] DB: 552,295 | Fresh7d: 552,295 | Gap: 447,705
+[18:21:14] Launching 20 browser workers on 43,589 items...
+[18:25:39]   W10 + 16 indeed:UX designer|Chicago pg=10
+[18:25:40]   W08 + 16 indeed:react developer|Pune pg=90
+[18:25:43]   W05 + 16 indeed:machine learning e|Austin pg=60
+[18:25:43]   W19 + 16 indeed:software developer|San Fran pg=0
+[18:25:46]   W17 + 16 indeed:platform developer|Remote pg=0
+[18:25:48]   W12 + 16 indeed:go developer|Chennai pg=0
+[18:25:51]   W13 + 16 indeed:identity engineer|Boston pg=90
+[18:25:53]   W11 + 16 indeed:web3 developer|Atlanta pg=0
+[18:29:27]   [200] +0 new | DB=553,127 | Fresh7d=553,127 | 0/min | Gap=446,873
+[18:29:38]   W02 + 16 indeed:DevOps|Mumbai pg=60
+[18:29:40]   W09 + 16 indeed:devops engineer|Chennai pg=90
+[18:31:20]   [400] +130 new | DB=553,159 | Fresh7d=553,159 | 13/min | Gap=446,841
+[18:31:33]   [600] +130 new | DB=553,170 | Fresh7d=553,170 | 13/min | Gap=446,830
+[18:31:36]   [800] +130 new | DB=553,170 | Fresh7d=553,170 | 13/min | Gap=446,830
+[18:31:41]   [1,000] +162 new | DB=553,170 | Fresh7d=553,170 | 16/min | Gap=446,830
+[18:31:46]   [1,200] +162 new | DB=553,203 | Fresh7d=553,203 | 15/min | Gap=446,797
+[18:32:11]   [1,400] +162 new | DB=553,266 | Fresh7d=553,266 | 15/min | Gap=446,734
+[18:32:57]   [1,600] +162 new | DB=553,302 | Fresh7d=553,302 | 14/min | Gap=446,698
+[18:33:03]   [1,800] +162 new | DB=553,360 | Fresh7d=553,367 | 14/min | Gap=446,640
+[18:33:11]   [2,000] +162 new | DB=553,411 | Fresh7d=553,411 | 14/min | Gap=446,589
+[18:33:24]   [2,200] +162 new | DB=553,435 | Fresh7d=553,435 | 13/min | Gap=446,565
+[18:33:34]   [2,400] +162 new | DB=553,435 | Fresh7d=553,435 | 13/min | Gap=446,565
+[18:33:55]   [2,600] +162 new | DB=553,548 | Fresh7d=553,548 | 13/min | Gap=446,452
+[18:34:07]   [2,800] +164 new | DB=553,596 | Fresh7d=553,596 | 13/min | Gap=446,404
+[18:34:24]   [3,000] +164 new | DB=553,735 | Fresh7d=553,735 | 12/min | Gap=446,265
+[18:34:35]   [3,200] +164 new | DB=553,766 | Fresh7d=553,766 | 12/min | Gap=446,234
+[18:39:01] ==================================================
+[18:39:01] WEB SCRAPER — 20 browser contexts, 8.0h max
+[18:39:01] ==================================================
+[18:39:01] Total work items: 54,684
+[18:39:01] Done: 14,423, Remaining: 40,261
+[18:39:02] Loaded 553,792 existing dedup keys
+[18:39:03] DB: 553,792 | Fresh7d: 553,792 | Gap: 446,208
+[18:39:03] Launching 20 browser workers on 40,261 items...
+[18:39:23]   W00 +  6 indeed:react developer|Delhi pg=80
+[18:40:12]   W10 + 16 indeed:data analyst|New York pg=60
+[18:40:15]   W01 + 16 indeed:senior software en|Boston pg=90
+[18:40:16]   W13 + 16 indeed:devops engineer|Dubai pg=80
+[18:40:16]   W14 + 16 indeed:NLP engineer|Mumbai pg=0
+[18:40:31]   W03 + 16 indeed:.NET developer|Chicago pg=90
+[18:40:35]   W12 + 16 indeed:automation enginee|Atlanta pg=0
+[18:40:38]   W16 + 16 indeed:azure engineer|Atlanta pg=20
+[18:40:39]   W07 + 16 indeed:MLOps engineer|Atlanta pg=40
+[18:40:40]   W02 + 16 indeed:terraform engineer|Denver pg=60
+[18:41:00]   W08 + 16 indeed:API engineer|Gurgaon pg=90
+[18:41:01]   W09 + 16 indeed:mobile developer|Dubai pg=60
+[18:41:03]   W15 + 16 indeed:IT recruiter|Denver pg=60
+[18:45:40]   [200] +203 new | DB=553,995 | Fresh7d=553,995 | 31/min | Gap=446,005
+[18:46:01]   [400] +203 new | DB=554,124 | Fresh7d=554,124 | 29/min | Gap=445,876
+[18:46:03]   [600] +203 new | DB=554,128 | Fresh7d=554,128 | 29/min | Gap=445,872
+[18:46:05]   [800] +203 new | DB=554,128 | Fresh7d=554,128 | 29/min | Gap=445,872
+[18:46:07]   [1,000] +203 new | DB=554,128 | Fresh7d=554,128 | 29/min | Gap=445,872
+[18:46:30]   [1,200] +203 new | DB=554,225 | Fresh7d=554,225 | 27/min | Gap=445,775
+[18:47:28]   [1,400] +203 new | DB=554,416 | Fresh7d=554,416 | 24/min | Gap=445,584
+[18:48:25]   [1,600] +203 new | DB=554,416 | Fresh7d=554,416 | 22/min | Gap=445,584
+[18:53:18]   [1,800] +203 new | DB=554,419 | Fresh7d=554,419 | 14/min | Gap=445,581
+[18:55:33]   [2,000] +203 new | DB=554,419 | Fresh7d=554,439 | 12/min | Gap=445,581
+[18:55:35]   [2,200] +203 new | DB=554,530 | Fresh7d=554,556 | 12/min | Gap=445,470
+[18:55:37]   [2,400] +203 new | DB=554,745 | Fresh7d=554,745 | 12/min | Gap=445,255
+[18:55:41]   [2,600] +203 new | DB=554,745 | Fresh7d=554,745 | 12/min | Gap=445,255
+[18:55:43]   [2,800] +203 new | DB=554,745 | Fresh7d=554,745 | 12/min | Gap=445,255
+[18:55:45]   [3,000] +203 new | DB=554,889 | Fresh7d=554,889 | 12/min | Gap=445,111
+[18:56:40]   [3,200] +203 new | DB=555,609 | Fresh7d=555,609 | 12/min | Gap=444,391
+[18:57:51]   [3,400] +203 new | DB=556,168 | Fresh7d=556,168 | 11/min | Gap=443,832
+[18:59:01] ==================================================
+[18:59:02] WEB SCRAPER — 20 browser contexts, 8.0h max
+[18:59:02] ==================================================
+[18:59:02] Total work items: 54,684
+[18:59:02] Done: 17,862, Remaining: 36,822
+[18:59:24] Loaded 556,184 existing dedup keys
+[18:59:25] DB: 556,347 | Fresh7d: 556,347 | Gap: 443,653
+[18:59:25] Launching 20 browser workers on 36,822 items...
+[18:59:47]   W07 FATAL: 'PlaywrightContextManager' object has no attribute '_playwright'
+[18:59:51]   W00 FATAL: 'PlaywrightContextManager' object has no attribute '_playwright'
+[18:59:57]   W08 + 11 indeed:graphics engineer|Austin pg=30
+[19:00:08]   W15 + 16 indeed:data platform engi|Chicago pg=80
+[19:00:15]   W19 + 15 indeed:AI engineer|Noida pg=10
+[19:00:22]   W05 + 16 indeed:react native devel|Chennai pg=80
+[19:00:33]   W13 + 16 indeed:C++ engineer|Pune pg=0
+[19:00:41]   W04 + 16 indeed:node.js developer|Austin pg=10
+[19:00:54]   W10 + 16 indeed:network engineer| pg=80
+[19:00:56]   W03 + 16 indeed:SDE|Chicago pg=90
+[19:01:03]   W12 + 16 indeed:backend developer|Atlanta pg=80
+[19:01:17]   W18 + 16 indeed:aws engineer| pg=0
+[19:05:58]   [200] +161 new | DB=556,606 | Fresh7d=556,606 | 25/min | Gap=443,394
+[19:09:01] ==================================================
+[19:09:01] WEB SCRAPER — 20 browser contexts, 8.0h max
+[19:09:01] ==================================================
+[19:09:01] Total work items: 54,684
+[19:09:02] Done: 19,240, Remaining: 35,444
+[19:09:06] Loaded 556,808 existing dedup keys
+[19:09:56] DB: 556,808 | Fresh7d: 556,808 | Gap: 443,192
+[19:09:56] Launching 20 browser workers on 35,444 items...
+[19:11:16]   W14 + 16 indeed:API engineer|Denver pg=70
+[19:11:29]   W07 + 16 indeed:azure engineer|Miami pg=60
+[19:11:35]   W19 + 16 indeed:identity engineer|Noida pg=90
+[19:11:38]   W05 + 16 indeed:LLM engineer|Chicago pg=50
+[19:11:41]   W17 + 16 indeed:mobile developer|Vancouve pg=50
+[19:11:44]   W02 + 16 indeed:data scientist|Los Ange pg=30
+[19:11:47]   W04 + 16 indeed:NLP engineer|Pune pg=50
+[19:11:47]   W12 + 16 indeed:MLOps engineer|London pg=50
+[19:11:48]   W09 + 16 indeed:computer vision en|London pg=80
+[19:11:48]   W00 + 16 indeed:cybersecurity anal|Miami pg=80
+[19:11:49]   W03 + 16 indeed:developer experien|Seattle pg=10
+[19:11:53]   W18 + 16 indeed:node.js developer|Dubai pg=70
+[19:11:53]   W06 + 16 indeed:streaming engineer|Noida pg=10
+[19:11:53]   W01 + 16 indeed:frontend engineer|Noida pg=80
+[19:19:01] ==================================================
+[19:19:01] WEB SCRAPER — 20 browser contexts, 8.0h max
+[19:19:01] ==================================================
+[19:19:01] Total work items: 54,684
+[19:19:01] Done: 20,166, Remaining: 34,518
+[19:19:02] Loaded 557,676 existing dedup keys
+[19:19:08] DB: 557,676 | Fresh7d: 557,676 | Gap: 442,324
+[19:19:08] Launching 20 browser workers on 34,518 items...
+[19:19:21]   W16 + 16 indeed:platform developer|Sydney pg=10
+[19:19:23]   W05 + 16 indeed:principal engineer|Austin pg=40
+[19:19:26]   W11 + 16 indeed:kernel engineer|Austin pg=60
+[19:19:50]   W08 + 16 indeed:react native devel|Denver pg=50
+[19:19:52]   W17 + 16 indeed:payments engineer|Singapor pg=60
+[19:20:06]   W13 + 16 indeed:DevOps|Los Ange pg=20
+[19:20:06]   W09 + 16 indeed:video engineer|Mumbai pg=10
+[19:20:06]   W03 + 16 indeed:senior software en|Bangalor pg=50
+[19:20:06]   W14 + 16 indeed:mobile developer|Los Ange pg=90
+[19:20:06]   W12 + 15 indeed:scrum master|Miami pg=90
+[19:20:07]   W02 + 16 indeed:ruby developer|Tel Aviv pg=10
+[19:20:07]   W06 + 16 indeed:network engineer|Austin pg=0
+[19:20:07]   W01 + 16 indeed:.NET developer| pg=40
+[19:20:07]   W04 + 16 indeed:senior software en|Remote pg=70
+[19:20:08]   W15 + 16 indeed:kotlin developer|Tel Aviv pg=70
+[19:20:08]   W00 + 16 indeed:.NET developer|Austin pg=80
+[19:24:30]   [200] +261 new | DB=557,944 | Fresh7d=557,944 | 49/min | Gap=442,056
+[19:24:34]   [400] +261 new | DB=558,231 | Fresh7d=558,231 | 48/min | Gap=441,769
+[19:24:36]   [600] +261 new | DB=558,231 | Fresh7d=558,231 | 48/min | Gap=441,769
+[19:24:38]   [800] +261 new | DB=558,231 | Fresh7d=558,231 | 47/min | Gap=441,769
+[19:24:39]   [1,000] +261 new | DB=558,231 | Fresh7d=558,231 | 47/min | Gap=441,769
+[19:24:43]   [1,200] +261 new | DB=558,231 | Fresh7d=558,231 | 47/min | Gap=441,769
+[19:24:47]   [1,400] +261 new | DB=558,231 | Fresh7d=558,231 | 46/min | Gap=441,769
+[19:24:48]   [1,600] +261 new | DB=558,231 | Fresh7d=558,231 | 46/min | Gap=441,769
+[19:24:51]   [1,800] +261 new | DB=558,231 | Fresh7d=558,231 | 46/min | Gap=441,769
+[19:24:58]   [2,000] +261 new | DB=558,231 | Fresh7d=558,231 | 45/min | Gap=441,769
+[19:25:02]   [2,200] +261 new | DB=558,251 | Fresh7d=558,251 | 44/min | Gap=441,749
+[19:25:06]   [2,400] +261 new | DB=558,251 | Fresh7d=558,251 | 44/min | Gap=441,749
+[19:25:10]   [2,600] +261 new | DB=558,251 | Fresh7d=558,251 | 43/min | Gap=441,749
+[19:25:16]   [2,800] +261 new | DB=558,271 | Fresh7d=558,271 | 43/min | Gap=441,729
+[19:25:18]   [3,000] +261 new | DB=558,271 | Fresh7d=558,271 | 42/min | Gap=441,729
+[19:25:22]   [3,200] +261 new | DB=558,271 | Fresh7d=558,271 | 42/min | Gap=441,729
+[19:25:25]   [3,400] +261 new | DB=558,271 | Fresh7d=558,271 | 42/min | Gap=441,729
+[19:25:29]   [3,600] +261 new | DB=558,271 | Fresh7d=558,271 | 41/min | Gap=441,729
+[19:25:31]   [3,800] +261 new | DB=558,271 | Fresh7d=558,271 | 41/min | Gap=441,729
+[19:25:34]   [4,000] +261 new | DB=558,281 | Fresh7d=558,281 | 41/min | Gap=441,719
+[19:25:36]   [4,200] +261 new | DB=558,281 | Fresh7d=558,281 | 40/min | Gap=441,719
+[19:25:38]   [4,400] +261 new | DB=558,281 | Fresh7d=558,281 | 40/min | Gap=441,719
+[19:25:42]   [4,600] +261 new | DB=558,281 | Fresh7d=558,281 | 40/min | Gap=441,719
+[19:25:45]   [4,800] +261 new | DB=558,281 | Fresh7d=558,281 | 39/min | Gap=441,719
+[19:25:48]   [5,000] +261 new | DB=558,281 | Fresh7d=558,281 | 39/min | Gap=441,719
+[19:25:52]   [5,200] +261 new | DB=558,281 | Fresh7d=558,281 | 39/min | Gap=441,719
+[19:25:54]   [5,400] +261 new | DB=558,281 | Fresh7d=558,281 | 39/min | Gap=441,719
+[19:25:57]   [5,600] +261 new | DB=558,281 | Fresh7d=558,281 | 38/min | Gap=441,719
+[19:26:01]   [5,800] +261 new | DB=558,281 | Fresh7d=558,281 | 38/min | Gap=441,719
+[19:26:05]   [6,000] +261 new | DB=558,281 | Fresh7d=558,281 | 37/min | Gap=441,719
+[19:26:10]   [6,200] +261 new | DB=558,281 | Fresh7d=558,281 | 37/min | Gap=441,719
+[19:26:17]   [6,400] +261 new | DB=558,281 | Fresh7d=558,281 | 36/min | Gap=441,719
+[19:26:23]   [6,600] +261 new | DB=558,281 | Fresh7d=558,281 | 36/min | Gap=441,719
+[19:26:26]   [6,800] +261 new | DB=558,281 | Fresh7d=558,281 | 36/min | Gap=441,719
+[19:26:29]   [7,000] +261 new | DB=558,281 | Fresh7d=558,281 | 35/min | Gap=441,719
+[19:26:33]   [7,200] +261 new | DB=558,297 | Fresh7d=558,297 | 35/min | Gap=441,703
+[19:26:40]   [7,400] +261 new | DB=558,297 | Fresh7d=558,297 | 35/min | Gap=441,703
+[19:26:55]   [7,600] +261 new | DB=558,297 | Fresh7d=558,297 | 33/min | Gap=441,703
+[19:27:01]   [7,800] +261 new | DB=558,315 | Fresh7d=558,315 | 33/min | Gap=441,685
+[19:27:03]   [8,000] +261 new | DB=558,315 | Fresh7d=558,315 | 33/min | Gap=441,685
+[19:27:07]   [8,200] +261 new | DB=558,315 | Fresh7d=558,315 | 33/min | Gap=441,685
+[19:27:12]   [8,400] +261 new | DB=558,315 | Fresh7d=558,315 | 32/min | Gap=441,685

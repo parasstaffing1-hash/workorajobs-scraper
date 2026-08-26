@@ -1,0 +1,2878 @@
+[23:00:47] ============================================================
+[23:00:47] MEGA UNIFIED SCRAPER — All sources, continuous loop
+[23:00:47] ============================================================
+[23:00:47] DB: 617,986 | Gap: 382,014
+[23:00:48] Loaded 617,986 dedup keys
+[23:00:48] Work items: 32,601 total, 32,601 remaining
+[23:00:48] Launching 30 workers on 32,601 items...
+[23:00:55]   W14 +  6 dice:Kubernetes|Miami
+[23:00:57]   W09 +  5 dice:software engineer|Los Angeles
+[23:00:59]   W07 + 10 dice:Swift|Washington D
+[23:01:00]   W03 +  8 dice:generative AI|San Jose
+[23:01:02]   W15 + 13 dice:UX designer|
+[23:01:05]   W17 +  3 dice:go developer|
+[23:01:06]   W07 +  9 dice:game developer|
+[23:01:06] ============================================================
+[23:01:06] MEGA UNIFIED SCRAPER — All sources, continuous loop
+[23:01:06] ============================================================
+[23:01:06] DB: 618,047 | Gap: 381,953
+[23:01:07] Loaded 618,047 dedup keys
+[23:01:07] Work items: 32,601 total, 32,601 remaining
+[23:01:07] Launching 30 workers on 32,601 items...
+[23:01:13]   W00 +  6 dice:embedded systems eng|Austin
+[23:01:13]   W03 +  3 dice:swift developer|Remote
+[23:01:13]   W27 +  5 dice:JavaScript|Denver
+[23:01:14]   W15 + 10 simplyhired:product manager|Denver
+[23:01:15]   W28 +  8 simplyhired:business analyst|Remote
+[23:01:15]   W25 +  6 dice:business analyst|Dallas
+[23:01:15]   W00 +  6 dice:Rust|San Jose
+[23:01:17]   W05 + 19 simplyhired:intern|Austin
+[23:01:17]   [200] +95 | DB=618,121 | 199/min | Gap=381,879 | dice:111 jobspy:6 simplyhired:83
+[23:01:17]   W20 +  3 simplyhired:AI engineer|Houston
+[23:01:17]   W21 + 18 simplyhired:GCP|Austin
+[23:01:18]   W23 +  5 dice:security engineer|San Francisc
+[23:01:19]   W05 + 14 simplyhired:engineering manager|Seattle
+[23:01:19]   W27 + 12 dice:security engineer|
+[23:01:20]   W20 +  5 simplyhired:Deep Learning|Raleigh
+[23:01:20]   W21 +  3 simplyhired:JavaScript|Dallas
+[23:01:23]   W29 +  3 dice:aws engineer|Dallas
+[23:01:24]   W08 +  4 dice:Angular|New York
+[23:01:25]   W24 +  6 simplyhired:Python|Chicago
+[23:01:25]   W01 +  6 simplyhired:platform engineer|Amsterdam
+[23:01:25]   W23 + 18 dice:data analyst|Austin
+[23:01:26]   W19 +  4 simplyhired:node.js developer|Seattle
+[23:01:26]   W13 +  3 dice:backend engineer|San Jose
+[23:01:28]   W26 +  8 dice:Next.js|
+[23:01:30]   W08 +  7 dice:senior software engi|Boston
+[23:01:31]   W02 + 14 dice:platform engineer|San Jose
+[23:01:32]   W21 + 13 dice:work from home|Dallas
+[23:01:33]   W26 +  9 dice:embedded systems eng|Boston
+[23:01:33]   W12 + 18 simplyhired:cloud architect|Seattle
+[23:01:33]   W14 +  9 simplyhired:Principal Engineer|Denver
+[23:01:33]   [200] +143 | DB=618,490 | 326/min | Gap=381,510 | dice:129 simplyhired:81
+[23:01:35]   W17 + 15 simplyhired:GCP|Boston
+[23:01:35]   W14 +  6 simplyhired:senior software engi|Denver
+[23:01:36]   W26 +  3 dice:Docker|San Francisc
+[23:01:36]   W17 + 13 simplyhired:C++ engineer|Dallas
+[23:01:36]   W24 +  9 dice:AI engineer|Remote
+[23:01:36]   W19 + 15 dice:scrum master|Boston
+[23:01:37]   W20 + 12 dice:firmware engineer|
+[23:01:38]   W21 +  7 simplyhired:data engineer|Remote
+[23:01:39]   W00 + 10 simplyhired:iOS developer|San Francisc
+[23:01:40]   W20 +  3 simplyhired:aws engineer|Dallas
+[23:01:41]   W02 +  3 simplyhired:C#|Chicago
+[23:01:41]   W27 +  5 dice:Java|New York
+[23:01:43]   [400] +225 | DB=618,596 | 248/min | Gap=381,404 | dice:221 jobspy:10 simplyhired:169
+[23:01:43]   W14 +  4 simplyhired:software developer|Washington D
+[23:01:45]   W17 +  3 simplyhired:SRE|Los Angeles
+[23:01:45]   W06 +  4 simplyhired:PHP developer|Remote
+[23:01:46]   W05 +  4 simplyhired:MLOps|San Jose
+[23:01:47]   W04 +  9 simplyhired:platform engineer|Houston
+[23:01:47]   W21 +  4 dice:gcp engineer|
+[23:01:48]   W26 +  3 simplyhired:azure engineer|Los Angeles
+[23:01:48]   W02 +  8 dice:NLP engineer|Remote
+[23:01:50]   W21 +  4 dice:Angular developer|
+[23:01:54]   [HEARTBEAT] DB=618,668 | iters=448 new=245 | 1min elapsed | Gap=381,332
+[23:01:54]   W07 +  4 dice:python developer|Dallas
+[23:01:54]   W07 +  6 simplyhired:Deep Learning|Austin
+[23:01:57]   W08 +  5 dice:UX designer|Houston
+[23:01:59]   W23 +  4 simplyhired:TypeScript|Phoenix
+[23:02:00]   W10 ATS +14 from 1 boards
+[23:02:00]   W21 +  3 dice:firmware engineer|Boston
+[23:02:00]   W08 +  3 dice:AI engineer|Austin
+[23:02:03]   W00 +  4 dice:ruby developer|Washington D
+[23:02:04]   W24 + 12 dice:Lead Engineer|New York
+[23:02:04]   W21 +  3 simplyhired:AI engineer|Austin
+[23:02:05]   W00 +  5 simplyhired:Azure|Dublin
+[23:02:08]   W07 +  7 simplyhired:remote|Remote
+[23:02:09]   W06 +  3 dice:UX designer|Houston
+[23:02:09]   W09 +  4 dice:Java|Tampa
+[23:02:10]   [400] +306 | DB=618,850 | 292/min | Gap=381,150
+[23:02:11]   W19 +  5 dice:TypeScript|Remote
+[23:02:11]   W03 +  4 dice:Lead Engineer|Phoenix
+[23:02:12]   W17 +  3 simplyhired:technical lead|New York
+[23:02:12]   W09 + 10 simplyhired:Principal Engineer|Houston
+[23:02:12]   [HEARTBEAT] DB=618,874 | iters=414 new=319 | 1min elapsed | Gap=381,126
+[23:02:12]   W19 +  3 dice:Terraform|San Jose
+[23:02:13]   W21 +  7 dice:software engineer|Atlanta
+[23:02:13]   W05 +  5 dice:Lead Engineer|Washington D
+[23:02:13]   W07 +  3 dice:data engineer|Chicago
+[23:02:15]   W15 +  5 dice:GCP|New York
+[23:02:16]   W14 +  9 dice:embedded systems eng|San Jose
+[23:02:16]   W19 +  4 dice:Scala|New York
+[23:02:16]   W16 ATS +60 from 2 boards
+[23:02:18]   W15 ATS +97 from 2 boards
+[23:02:19]   W12 +  9 simplyhired:infrastructure engin|San Jose
+[23:02:20]   W26 +  3 dice:Principal Engineer|Remote
+[23:02:20]   W26 +  7 simplyhired:GCP|Phoenix
+[23:02:21]   W23 +  6 dice:Lead Engineer|Boston
+[23:02:22]   W00 + 15 dice:scrum master|Atlanta
+[23:02:23]   W04 +  7 dice:Java|
+[23:02:24]   [600] +410 | DB=618,973 | 256/min | Gap=381,027 | ats_discover:11 dice:336 jobspy:16 simplyhired:238
+[23:02:26]   W17 +  7 simplyhired:engineering manager|Portland
+[23:02:26]   W18 ATS +100 from 1 boards
+[23:02:26]   W14 +  3 dice:kotlin developer|San Francisc
+[23:02:26]   W16 +  3 dice:React|Miami
+[23:02:27]   W12 + 17 dice:data analyst|Washington D
+[23:02:27]   W23 +  5 dice:UX designer|Washington D
+[23:02:27]   W20 +  3 dice:rust developer|Chicago
+[23:02:28]   W18 ATS +10 from 1 boards
+[23:02:28]   W13 ATS +2 from 2 boards
+[23:02:29]   W16 +  3 dice:software engineer|Miami
+[23:02:30]   W26 +  6 dice:software developer|
+[23:02:31]   W00 ATS +1 from 1 boards
+[23:02:31]   W11 +  5 simplyhired:iOS developer|New York
+[23:02:33]   W22 +  7 dice:NLP engineer|New York
+[23:02:34]   W23 +  4 dice:terraform engineer|Denver
+[23:02:34]   W24 + 10 simplyhired:embedded systems eng|Remote
+[23:02:36]   W05 ATS +8 from 1 boards
+[23:02:37]   W00 +  4 dice:intern|San Francisc
+[23:02:37]   W28 +  3 simplyhired:work from home|Delhi
+[23:02:37]   W03 +  3 dice:AWS|Atlanta
+[23:02:37]   W04 +  3 dice:full stack developer|Seattle
+[23:02:37]   W10 +  8 simplyhired:iOS developer|Dublin
+[23:02:37]   W14 + 14 dice:SWE|
+[23:02:37]   W24 +  5 dice:spring boot develope|San Jose
+[23:02:37]   W22 +  4 dice:urgent hiring|Phoenix
+[23:02:38]   W17 + 11 simplyhired:data analyst|Phoenix
+[23:02:38]   W27 +  6 dice:Terraform|
+[23:02:40]   W27 +  3 dice:MLOps|Dallas
+[23:02:44]   W10 +  4 simplyhired:AWS|
+[23:02:44]   W13 +  6 simplyhired:infrastructure engin|Madrid
+[23:02:45]   W20 + 11 dice:frontend developer|Washington D
+[23:02:49]   W08 ATS +56 from 1 boards
+[23:02:49]   [600] +709 | DB=619,244 | 416/min | Gap=380,756
+[23:02:50]   W02 +  6 simplyhired:Vue.js|Atlanta
+[23:02:52]   W28 + 14 simplyhired:business analyst|Austin
+[23:02:53]   W11 ATS +1 from 1 boards
+[23:02:54]   [HEARTBEAT] DB=619,269 | iters=771 new=541 | 2min elapsed | Gap=380,731
+[23:03:01]   W09 +  3 dice:infrastructure engin|Raleigh
+[23:03:04]   W05 +  5 dice:embedded systems eng|Seattle
+[23:03:06]   W16 +  9 simplyhired:Lead Engineer|Washington D
+[23:03:07]   [800] +558 | DB=619,307 | 242/min | Gap=380,693 | ats_discover:16 dice:445 jobspy:26 simplyhired:313
+[23:03:07]   W17 +  3 dice:GCP|Remote
+[23:03:09]   W15 + 12 dice:Principal Engineer|Austin
+[23:03:12]   [HEARTBEAT] DB=619,422 | iters=694 new=744 | 2min elapsed | Gap=380,578
+[23:03:13]   W18 + 13 simplyhired:cloud architect|Raleigh
+[23:03:15]   W08 + 16 dice:product manager|New York
+[23:03:16]   W03 +  7 dice:Angular developer|Remote
+[23:03:20]   W21 ATS +22 from 1 boards
+[23:03:21]   W07 +  3 simplyhired:contract|Remote
+[23:03:27]   W05 +  5 dice:go developer|Washington D
+[23:03:27]   W06 +  3 dice:SDE|Houston
+[23:03:28]   W14 +  7 dice:Deep Learning|
+[23:03:29]   W20 +  4 dice:Terraform|Remote
+[23:03:30]   W16 +  5 simplyhired:work from home|Madrid
+[23:03:30]   W15 +  9 simplyhired:contract|London
+[23:03:31]   W07 +  6 dice:Kubernetes|Dallas
+[23:03:38]   W11 +  5 dice:C++ engineer|Boston
+[23:03:39]   W18 +  3 dice:technical lead|New York
+[23:03:39]   W27 + 14 dice:intern|New York
+[23:03:40]   W07 +  6 dice:JavaScript|Remote
+[23:03:40]   [800] +804 | DB=619,886 | 315/min | Gap=380,114 | ats_discover:13 dice:471 itjobs:1 jobicy:1 jobspy:19 simplyhired:296
+[23:03:41]   W27 ATS +100 from 1 boards
+[23:03:42]   W03 +  6 dice:JavaScript|Seattle
+[23:03:42]   W29 ATS +100 from 1 boards
+[23:03:44]   W26 +  4 dice:software engineer|Denver
+[23:03:46]   W02 + 13 dice:data scientist|New York
+[23:03:47]   W02 ATS +26 from 1 boards
+[23:03:48]   W16 +  4 simplyhired:SRE|Raleigh
+[23:03:49]   W17 +  6 simplyhired:Principal Engineer|Vancouver
+[23:03:49]   W04 ATS +100 from 1 boards
+[23:03:53]   W13 + 20 simplyhired:intern|Phoenix
+[23:03:53]   W07 +  3 dice:NLP engineer|New York
+[23:03:53]   W04 +  5 dice:junior software engi|San Francisc
+[23:03:54]   [HEARTBEAT] DB=620,025 | iters=970 new=777 | 3min elapsed | Gap=379,975
+[23:03:54]   W24 ATS +48 from 2 boards
+[23:03:55]   W20 +  3 dice:software engineer|Houston
+[23:03:56]   W00 +  5 simplyhired:SRE|San Francisc
+[23:04:01]   W17 ATS +56 from 2 boards
+[23:04:01]   W14 +  8 dice:azure engineer|Remote
+[23:04:02]   W05 +  4 dice:staff engineer|Raleigh
+[23:04:03]   W10 +  5 dice:firmware engineer|
+[23:04:03]   [1,000] +846 | DB=620,132 | 261/min | Gap=379,868 | ats_discover:23 dice:549 jobspy:40 simplyhired:388
+[23:04:04]   W21 +  8 simplyhired:Deep Learning|Seattle
+[23:04:04]   W15 ATS +15 from 1 boards
+[23:04:05]   W05 +  6 dice:Terraform|Boston
+[23:04:07]   W22 +  4 dice:Terraform|Boston
+[23:04:07]   W00 +  9 dice:.NET developer|Washington D
+[23:04:08]   W14 +  6 dice:Docker|San Jose
+[23:04:08]   W23 +  7 dice:scrum master|Charlotte
+[23:04:09]   W07 +  8 dice:TypeScript|New York
+[23:04:09]   W25 +  3 simplyhired:data scientist|Denver
+[23:04:11]   W14 + 11 dice:software engineer|
+[23:04:12]   [HEARTBEAT] DB=620,204 | iters=953 new=1,175 | 3min elapsed | Gap=379,796
+[23:04:13]   W24 +  8 dice:frontend developer|Remote
+[23:04:13]   W05 + 19 simplyhired:urgent hiring|Houston
+[23:04:13]   W08 ATS +44 from 2 boards
+[23:04:14]   W06 +  4 dice:Lead Engineer|Charlotte
+[23:04:15]   W19 ATS +2 from 1 boards
+[23:04:16]   W12 +  3 dice:data engineer|Remote
+[23:04:23]   W01 ATS +66 from 1 boards
+[23:04:24]   [1,000] +1,285 | DB=620,240 | 392/min | Gap=379,760 | ats_discover:19 dice:585 itjobs:1 jobicy:1 jobspy:28 simplyhired:366
+[23:04:24]   W12 +  7 simplyhired:senior software engi|San Francisc
+[23:04:26]   W00 ATS +19 from 1 boards
+[23:04:31]   W00 +  4 dice:intern|San Francisc
+[23:04:31]   W15 + 14 simplyhired:contract|
+[23:04:33]   W25 +  6 dice:Docker|Chicago
+[23:04:35]   W09 +  4 dice:software engineer|Boston
+[23:04:37]   W15 +  3 dice:JavaScript|Charlotte
+[23:04:40]   W09 +  3 dice:data engineer|New York
+[23:04:41]   W01 ATS +1 from 1 boards
+[23:04:42]   W28 ATS +9 from 1 boards
+[23:04:42]   W09 +  3 dice:Vue.js|San Jose
+[23:04:44]   W09 + 10 dice:embedded systems eng|Denver
+[23:04:51]   W22 +  3 dice:GCP|Boston
+[23:04:51]   [1,200] +971 | DB=620,382 | 240/min | Gap=379,618 | ats_discover:29 dice:657 jobspy:51 simplyhired:463
+[23:04:52]   W11 + 14 simplyhired:engineering manager|Amsterdam
+[23:04:53]   W17 ATS +25 from 2 boards
+[23:04:54]   [HEARTBEAT] DB=620,399 | iters=1,223 new=987 | 4min elapsed | Gap=379,601
+[23:04:55]   W18 +  3 dice:cloud engineer|San Jose
+[23:04:57]   W03 +  3 dice:Rust|Seattle
+[23:04:57]   W22 +  4 dice:remote|Remote
+[23:05:04]   W10 ATS +45 from 1 boards
+[23:05:05]   W02 +  3 simplyhired:database engineer|Dublin
+[23:05:07]   W27 +  6 simplyhired:Android developer|Boston
+[23:05:09]   W23 +100 arbeitnow:|
+[23:05:09]   W02 + 10 dice:embedded systems eng|Austin
+[23:05:11]   W29 ATS +100 from 1 boards
+[23:05:11]   W27 +  4 dice:UX designer|San Francisc
+[23:05:11]   [1,300] +1,215 | DB=620,711 | 278/min | Gap=379,289
+[23:05:11]   W16 +  7 dice:software engineer|Washington D
+[23:05:12]   W23 + 10 dice:AI engineer|New York
+[23:05:12]   [HEARTBEAT] DB=620,730 | iters=1,192 new=1,433 | 4min elapsed | Gap=379,270
+[23:05:12]   W27 +  4 dice:TypeScript|Seattle
+[23:05:13]   W08 +  3 simplyhired:Deep Learning|Tampa
+[23:05:13]   W03 + 12 simplyhired:devops engineer|Austin
+[23:05:13]   [1,200] +1,445 | DB=620,749 | 352/min | Gap=379,251 | ats_discover:25 dice:696 itjobs:1 jobicy:1 jobspy:32 simplyhired:445
+[23:05:13]   W10 +  3 dice:JavaScript|Los Angeles
+[23:05:14]   W27 +  4 dice:MLOps|Seattle
+[23:05:17]   W00 +  5 dice:SDE|San Jose
+[23:05:20]   W17 +  5 dice:Deep Learning|Seattle
+[23:05:24]   W20 +  7 simplyhired:SRE|San Francisc
+[23:05:24]   W13 +  3 simplyhired:devops engineer|Austin
+[23:05:25]   W26 + 17 simplyhired:cloud architect|Atlanta
+[23:05:27]   W26 +  7 simplyhired:spring boot develope|New York
+[23:05:28]   [1,400] +1,275 | DB=620,940 | 273/min | Gap=379,060 | arbeitnow:1 ats_discover:31 dice:771 jobspy:58 simplyhired:539
+[23:05:29]   W06 +  6 dice:data engineer|Seattle
+[23:05:30]   W26 + 10 dice:junior software engi|Washington D
+[23:05:31]   W15 +  4 dice:rust developer|Dallas
+[23:05:34]   W19 +  4 simplyhired:rust developer|Austin
+[23:05:38]   W18 +  3 dice:mobile developer|Washington D
+[23:05:41]   W16 + 10 dice:blockchain developer|Remote
+[23:05:43]   W29 +  6 dice:mobile developer|Denver
+[23:05:44]   W28 +  4 simplyhired:.NET developer|Boston
+[23:05:44]   W21 + 16 simplyhired:business analyst|Nashville
+[23:05:49]   W21 +  8 simplyhired:urgent hiring|Los Angeles
+[23:05:50]   W05 ATS +77 from 2 boards
+[23:05:53]   W04 ATS +5 from 1 boards
+[23:05:54]   [HEARTBEAT] DB=621,054 | iters=1,540 new=1,342 | 5min elapsed | Gap=378,946
+[23:05:57]   W04 +  4 simplyhired:NLP engineer|Atlanta
+[23:05:58]   W18 + 13 dice:engineering manager|Boston
+[23:06:01]   W26 +  5 dice:Machine Learning|San Jose
+[23:06:05]   W27 +  5 simplyhired:AWS|Boston
+[23:06:05]   [1,400] +1,588 | DB=621,217 | 319/min | Gap=378,783 | ats_discover:29 dice:810 itjobs:1 jobicy:1 jobspy:40 simplyhired:519
+[23:06:05]   W11 +  3 dice:java developer|San Jose
+[23:06:10]   [1,600] +1,371 | DB=621,228 | 255/min | Gap=378,772 | arbeitnow:1 ats_discover:33 dice:886 jobspy:63 simplyhired:618
+[23:06:10]   W16 ATS +100 from 1 boards
+[23:06:11]   W29 +  8 dice:SRE|Remote
+[23:06:12]   [HEARTBEAT] DB=621,236 | iters=1,427 new=1,703 | 5min elapsed | Gap=378,764
+[23:06:13]   W00 ATS +2 from 1 boards
+[23:06:13]   W11 +  4 simplyhired:machine learning eng|
+[23:06:14]   W23 +  6 dice:iOS developer|Remote
+[23:06:14]   W02 ATS +27 from 1 boards
+[23:06:14]   W05 +  8 simplyhired:cloud architect|
+[23:06:15]   W15 +  8 dice:engineering manager|Chicago
+[23:06:18]   W24 +  5 dice:computer vision engi|Remote
+[23:06:21]   W21 +  7 simplyhired:data scientist|San Francisc
+[23:06:23]   W09 ATS +31 from 2 boards
+[23:06:24]   W05 +  7 simplyhired:QA engineer|Manchester
+[23:06:26]   W12 ATS +2 from 1 boards
+[23:06:26]   W20 ATS +4 from 1 boards
+[23:06:30]   W20 ATS +3 from 1 boards
+[23:06:31]   W11 +  6 dice:Vue.js|Remote
+[23:06:34]   W10 + 12 simplyhired:senior software engi|Remote
+[23:06:34]   W03 +  5 dice:SDE|Seattle
+[23:06:35]   W12 + 14 dice:junior software engi|Washington D
+[23:06:39]   W13 +  9 dice:Lead Engineer|Boston
+[23:06:40]   W13 +  3 dice:data engineer|Miami
+[23:06:42]   W05 +  8 dice:scrum master|San Francisc
+[23:06:42]   W25 +  7 dice:intern|Raleigh
+[23:06:43]   W19 +  5 dice:database engineer|Washington D
+[23:06:46]   W16 +  9 simplyhired:GCP|Boston
+[23:06:56]   W21 +  6 simplyhired:urgent hiring|Seattle
+[23:06:56]   W26 +175 arbeitnow:|
+[23:06:57]   W12 +  4 simplyhired:security engineer|Miami
+[23:06:57]   W04 + 10 simplyhired:infrastructure engin|Toronto
+[23:06:57]   W16 +  9 simplyhired:contract|Dublin
+[23:06:57]   W00 +  9 simplyhired:C++ engineer|Dublin
+[23:06:57]   [HEARTBEAT] DB=621,600 | iters=1,782 new=1,723 | 6min elapsed | Gap=378,400
+[23:06:57]   W13 + 12 simplyhired:SRE|New York
+[23:06:58]   [1,600] +1,792 | DB=621,613 | 306/min | Gap=378,387 | ats_discover:36 dice:912 itjobs:1 jobicy:1 jobspy:47 simplyhired:604
+[23:07:01]   [1,800] +1,724 | DB=621,613 | 278/min | Gap=378,387 | arbeitnow:2 ats_discover:40 dice:985 itjobs:1 jobspy:69 simplyhired:703
+[23:07:01]   W17 +  5 simplyhired:Angular developer|Remote
+[23:07:02]   W23 +  4 dice:machine learning eng|New York
+[23:07:03]   W25 +  6 simplyhired:platform engineer|Los Angeles
+[23:07:03]   W23 +  9 dice:machine learning eng|New York
+[23:07:03]   W21 +  4 simplyhired:Scala|Chicago
+[23:07:08]   W13 +  3 simplyhired:data analyst|Portland
+[23:07:11]   W26 ATS +1 from 1 boards
+[23:07:12]   [HEARTBEAT] DB=621,651 | iters=1,656 new=1,815 | 6min elapsed | Gap=378,349
+[23:07:15]   W08 +  5 dice:Android developer|
+[23:07:17]   W25 +  3 simplyhired:NLP engineer|Miami
+[23:07:18]   W27 ATS +110 from 2 boards
+[23:07:18]   W24 +  3 simplyhired:work from home|Melbourne
+[23:07:23]   W26 +  3 dice:infrastructure engin|Atlanta
+[23:07:23]   W12 + 13 simplyhired:security engineer|Austin
+[23:07:29]   W13 + 11 dice:database engineer|Remote
+[23:07:34]   W01 +  9 dice:engineering manager|Remote
+[23:07:37]   W27 + 10 simplyhired:data engineer|New York
+[23:07:38]   W24 +  3 dice:intern|Miami
+[23:07:39]   W05 ATS +4 from 1 boards
+[23:07:39]   W26 + 11 dice:LLM engineer|San Francisc
+[23:07:40]   W07 +  4 dice:platform engineer|Remote
+[23:07:42]   W22 +  4 dice:AI engineer|Dallas
+[23:07:42]   W10 +  5 dice:kubernetes engineer|Boston
+[23:07:42]   W21 +  4 simplyhired:spring boot develope|Washington D
+[23:07:43]   W22 +  4 dice:aws engineer|Remote
+[23:07:44]   [1,800] +1,993 | DB=621,870 | 301/min | Gap=378,130 | ats_discover:43 dice:1021 itjobs:1 jobicy:1 jobspy:56 simplyhired:678
+[23:07:46]   W23 +  3 dice:Java|Miami
+[23:07:46]   [2,000] +1,789 | DB=621,897 | 257/min | Gap=378,103 | arbeitnow:2 ats_discover:45 dice:1086 itjobs:1 jobspy:75 simplyhired:791
+[23:07:46]   W00 +  9 dice:JavaScript|Washington D
+[23:07:46]   W20 +  5 simplyhired:data analyst|San Francisc
+[23:07:48]   W22 +  3 dice:software engineer|Atlanta
+[23:07:48]   W07 +  4 simplyhired:python developer|Chicago
+[23:07:48]   W20 +  6 dice:Kubernetes|New York
+[23:07:49]   W27 +  5 dice:remote|Los Angeles
+[23:07:50]   W16 +  3 dice:react developer|Boston
+[23:07:51]   W25 +  8 simplyhired:technical lead|Toronto
+[23:07:51]   W22 +  8 dice:JavaScript|Seattle
+[23:07:52]   W12 ATS +2 from 1 boards
+[23:07:54]   W08 +  3 simplyhired:staff engineer|Seattle
+[23:07:57]   [HEARTBEAT] DB=621,957 | iters=2,053 new=1,825 | 7min elapsed | Gap=378,043
+[23:07:58]   W04 +  3 simplyhired:JavaScript|Sydney
+[23:07:58]   W00 + 20 simplyhired:intern|London
+[23:08:02]   W08 +  8 dice:security engineer|Charlotte
+[23:08:03]   W09 +  4 simplyhired:LLM engineer|
+[23:08:04]   W27 +  5 dice:C#|Atlanta
+[23:08:06]   W25 +  8 simplyhired:contract|Vancouver
+[23:08:10]   W10 +  3 dice:Terraform|Raleigh
+[23:08:11]   W00 +  3 simplyhired:AWS|Dublin
+[23:08:12]   [HEARTBEAT] DB=622,021 | iters=1,957 new=2,038 | 7min elapsed | Gap=377,979
+[23:08:13]   W13 ATS +22 from 1 boards
+[23:08:13]   W16 + 13 simplyhired:Scala|Manchester
+[23:08:13]   W26 +  5 simplyhired:Docker|Los Angeles
+[23:08:14]   W13 + 14 dice:intern|Washington D
+[23:08:18]   W17 +  5 dice:UX designer|Miami
+[23:08:18]   W01 +  4 simplyhired:firmware engineer|Tampa
+[23:08:19]   W01 +  6 dice:blockchain developer|San Francisc
+[23:08:20]   W11 ATS +1 from 1 boards
+[23:08:22]   [2,200] +1,925 | DB=622,072 | 255/min | Gap=377,928 | arbeitnow:2 ats_discover:48 dice:1211 itjobs:1 jobspy:81 simplyhired:857
+[23:08:26]   [2,000] +2,062 | DB=622,075 | 282/min | Gap=377,925 | ats_discover:47 dice:1145 itjobs:1 jobicy:1 jobspy:63 simplyhired:743
+[23:08:27]   W12 +  5 dice:Python|New York
+[23:08:27]   W14 + 10 dice:business analyst|Chicago
+[23:08:29]   W22 +  4 dice:JavaScript|San Francisc
+[23:08:30]   W18 +  5 dice:computer vision engi|San Jose
+[23:08:32]   W09 +  3 dice:staff engineer|Tampa
+[23:08:37]   W11 +  5 simplyhired:cloud architect|Remote
+[23:08:37]   W18 +  8 dice:database engineer|New York
+[23:08:39]   W18 +  3 dice:kubernetes engineer|Boston
+[23:08:39]   W13 +  5 simplyhired:technical lead|Manchester
+[23:08:41]   W11 +  7 simplyhired:Principal Engineer|Atlanta
+[23:08:42]   W14 +  9 dice:senior software engi|Dallas
+[23:08:42]   W16 + 14 simplyhired:intern|San Jose
+[23:08:43]   W19 +  6 dice:AI engineer|Atlanta
+[23:08:44]   W15 + 13 dice:Go|New York
+[23:08:44]   W23 ATS +100 from 1 boards
+[23:08:45]   W11 +  3 simplyhired:python developer|Atlanta
+[23:08:50]   W23 +  4 dice:Lead Engineer|Portland
+[23:08:51]   [2,100] +2,109 | DB=622,281 | 273/min | Gap=377,719
+[23:08:53]   W27 +  8 simplyhired:staff engineer|Washington D
+[23:08:53]   W12 +  8 dice:staff engineer|Denver
+[23:08:53]   W09 +  8 dice:Lead Engineer|Raleigh
+[23:08:53]   W22 +  9 simplyhired:work from home|Austin
+[23:08:57]   W15 +  5 simplyhired:embedded systems eng|Charlotte
+[23:08:57]   [HEARTBEAT] DB=622,323 | iters=2,341 new=2,125 | 8min elapsed | Gap=377,677
+[23:08:58]   W20 +  3 dice:remote|Seattle
+[23:08:58]   W02 +  5 simplyhired:LLM engineer|Boston
+[23:09:01]   W29 +  8 dice:mobile developer|
+[23:09:02]   W17 +  3 dice:infrastructure engin|Washington D
+[23:09:02]   W09 +  3 dice:SRE|San Francisc
+[23:09:03]   W02 +  3 simplyhired:infrastructure engin|Boston
+[23:09:04]   W24 ATS +5 from 1 boards
+[23:09:04]   W26 +  5 dice:Deep Learning|San Francisc
+[23:09:06]   W10 +  3 dice:devops engineer|San Jose
+[23:09:10]   W06 +  3 dice:fastapi developer|Remote
+[23:09:10]   [2,200] +2,172 | DB=622,375 | 270/min | Gap=377,625 | ats_discover:52 dice:1254 itjobs:1 jobicy:1 jobspy:69 simplyhired:823
+[23:09:11]   W03 ATS +70 from 2 boards
+[23:09:12]   [HEARTBEAT] DB=622,375 | iters=2,213 new=2,242 | 8min elapsed | Gap=377,625
+[23:09:12]   W13 +  3 dice:hiring now|Toronto
+[23:09:13]   W23 +  3 dice:QA engineer|Portland
+[23:09:13]   W06 ATS +5 from 1 boards
+[23:09:14]   W23 +  4 dice:Scala|Chicago
+[23:09:14]   W27 +  9 simplyhired:SDE|
+[23:09:14]   [2,400] +2,149 | DB=622,398 | 255/min | Gap=377,602 | arbeitnow:2 ats_discover:51 dice:1318 itjobs:1 jobspy:95 simplyhired:933
+[23:09:15]   W25 + 10 dice:Principal Engineer|San Jose
+[23:09:19]   W01 +  6 simplyhired:data scientist|Raleigh
+[23:09:19]   W15 +  5 dice:Java|Chicago
+[23:09:20]   W01 +  8 simplyhired:intern|Vancouver
+[23:09:20]   W04 + 12 dice:junior software engi|Austin
+[23:09:23]   W05 ATS +3 from 2 boards
+[23:09:24]   W20 ATS +2 from 1 boards
+[23:09:25]   W04 +  4 simplyhired:generative AI|Charlotte
+[23:09:27]   W20 +  3 dice:Lead Engineer|Portland
+[23:09:31]   W17 + 15 simplyhired:technical lead|Austin
+[23:09:32]   W07 +  4 simplyhired:security engineer|Dublin
+[23:09:35]   W15 + 11 dice:Docker|New York
+[23:09:36]   W04 + 10 simplyhired:Lead Engineer|Charlotte
+[23:09:40]   W13 +  3 simplyhired:python developer|Houston
+[23:09:43]   W11 ATS +1 from 1 boards
+[23:09:47]   W18 +  6 simplyhired:cloud architect|San Jose
+[23:09:47]   W06 +  3 dice:software engineer|Tampa
+[23:09:47]   W25 +  6 simplyhired:security engineer|Houston
+[23:09:47]   W12 + 14 dice:product manager|Remote
+[23:09:49]   W26 +  8 dice:Go|Seattle
+[23:09:50]   W09 ATS +26 from 2 boards
+[23:09:50]   W02 +  5 dice:iOS developer|Boston
+[23:09:50]   W27 +  3 simplyhired:iOS developer|
+[23:09:52]   [2,600] +2,250 | DB=622,596 | 248/min | Gap=377,404 | arbeitnow:2 ats_discover:60 dice:1431 itjobs:1 jobspy:98 simplyhired:1008
+[23:09:53]   [2,400] +2,355 | DB=622,596 | 269/min | Gap=377,404 | ats_discover:56 dice:1361 itjobs:1 jobicy:1 jobspy:77 simplyhired:904
+[23:09:54]   W06 +  3 dice:junior software engi|Seattle
+[23:09:54]   W09 +  3 simplyhired:SWE|Charlotte
+[23:09:55]   W05 +  5 simplyhired:Lead Engineer|San Jose
+[23:09:57]   [HEARTBEAT] DB=622,607 | iters=2,629 new=2,258 | 9min elapsed | Gap=377,393
+[23:09:59]   W19 + 19 simplyhired:engineering manager|Manchester
+[23:10:01]   W07 +  8 dice:NLP engineer|Phoenix
+[23:10:03]   W11 +  4 dice:security engineer|Los Angeles
+[23:10:05]   W10 + 11 simplyhired:Principal Engineer|New York
+[23:10:05]   W16 +  5 simplyhired:mobile developer|Phoenix
+[23:10:06]   W25 + 10 dice:Azure|Remote
+[23:10:08]   W20 +  4 simplyhired:Lead Engineer|Nashville
+[23:10:09]   W00 ATS +5 from 1 boards
+[23:10:19]   W07 +  9 simplyhired:intern|Phoenix
+[23:10:19]   W03 +  7 dice:Docker|Remote
+[23:10:19]   W16 + 20 simplyhired:engineering manager|Boston
+[23:10:19]   [HEARTBEAT] DB=622,722 | iters=2,495 new=2,420 | 9min elapsed | Gap=377,278
+[23:10:19]   W29 +  4 dice:Azure|New York
+[23:10:19]   W15 +  4 simplyhired:node.js developer|Denver
+[23:10:21]   W12 +  8 simplyhired:staff engineer|London
+[23:10:21]   W01 + 12 simplyhired:technical lead|Dublin
+[23:10:22]   W13 +  3 dice:Python|Charlotte
+[23:10:24]   W01 +  4 dice:react developer|
+[23:10:27]   W07 +  3 simplyhired:Python|Charlotte
+[23:10:28]   W19 + 11 simplyhired:Deep Learning|Dallas
+[23:10:29]   W26 +  6 dice:staff engineer|Washington D
+[23:10:31]   W01 +  4 dice:rust developer|Austin
+[23:10:31]   W28 +  7 dice:senior software engi|Remote
+[23:10:32]   W02 +  6 dice:machine learning eng|San Jose
+[23:10:33]   W18 +  7 dice:GCP|Washington D
+[23:10:33]   W28 +  7 simplyhired:machine learning eng|Houston
+[23:10:35]   [2,600] +2,479 | DB=622,825 | 262/min | Gap=377,175 | ats_discover:61 dice:1479 itjobs:1 jobicy:1 jobspy:83 simplyhired:975
+[23:10:36]   W04 +  3 simplyhired:AI engineer|Washington D
+[23:10:37]   W26 +  4 dice:React|Remote
+[23:10:37]   [2,800] +2,359 | DB=622,830 | 240/min | Gap=377,170 | arbeitnow:2 ats_discover:62 dice:1535 itjobs:1 jobspy:108 simplyhired:1092
+[23:10:42]   W04 +  3 dice:QA engineer|Toronto
+[23:10:42]   W20 +  9 dice:intern|Washington D
+[23:10:44]   W15 +  4 dice:infrastructure engin|Boston
+[23:10:45]   W15 +  3 simplyhired:django developer|New York
+[23:10:46]   W20 +  8 dice:technical lead|
+[23:10:50]   W14 +  7 dice:junior software engi|Chicago
+[23:10:50]   W13 ATS +1 from 1 boards
+[23:10:55]   W13 +  4 dice:Scala|Remote
+[23:10:57]   [HEARTBEAT] DB=622,922 | iters=2,885 new=2,392 | 10min elapsed | Gap=377,078
+[23:11:01]   W27 +  6 dice:infrastructure engin|
+[23:11:01]   W18 +  3 dice:Angular developer|Washington D
+[23:11:04]   W18 +  9 simplyhired:work from home|
+[23:11:06]   W12 + 11 dice:business analyst|New York
+[23:11:07]   W25 +  5 dice:product manager|Chicago
+[23:11:07]   W18 +  9 dice:remote|Washington D
+[23:11:07]   W26 +  4 dice:MLOps|
+[23:11:09]   W24 +  3 dice:Machine Learning|
+[23:11:09]   W18 +  6 dice:terraform engineer|San Jose
+[23:11:10]   W14 +  6 dice:azure engineer|Seattle
+[23:11:11]   W28 +  4 simplyhired:Java|Atlanta
+[23:11:11]   W14 +  3 dice:data scientist|Raleigh
+[23:11:14]   W25 +  4 dice:python developer|San Jose
+[23:11:15]   [2,800] +2,583 | DB=623,006 | 255/min | Gap=376,994 | ats_discover:62 dice:1592 itjobs:1 jobicy:1 jobspy:88 simplyhired:1056
+[23:11:16]   W19 +  4 simplyhired:Next.js|Atlanta
+[23:11:17]   W01 +  6 simplyhired:QA engineer|San Jose
+[23:11:18]   W04 +  3 dice:Lead Engineer|Atlanta
+[23:11:19]   W02 +  4 dice:mobile developer|Boston
+[23:11:19]   W19 +  3 dice:Docker|Nashville
+[23:11:19]   [HEARTBEAT] DB=623,028 | iters=2,818 new=2,588 | 10min elapsed | Gap=376,972
+[23:11:20]   W29 +  8 dice:scrum master|San Jose
+[23:11:21]   W01 +  3 dice:cloud architect|Chicago
+[23:11:21]   [3,000] +2,435 | DB=623,042 | 231/min | Gap=376,958
+[23:11:23]   W29 + 19 simplyhired:hiring now|Dallas
+[23:11:24]   W04 +  5 simplyhired:go developer|Nashville
+[23:11:27]   W22 +  6 simplyhired:staff engineer|Chicago
+[23:11:28]   W21 ATS +2 from 1 boards
+[23:11:29]   W26 +  3 simplyhired:Angular|Dallas
+[23:11:29]   W29 +  4 dice:Angular|San Jose
+[23:11:32]   W21 +  3 dice:cloud engineer|Austin
+[23:11:32]   W22 +  5 simplyhired:aws engineer|London
+[23:11:34]   W25 + 20 simplyhired:scrum master|Denver
+[23:11:34]   W19 +  5 simplyhired:cloud architect|Los Angeles
+[23:11:34]   W00 ATS +16 from 1 boards
+[23:11:35]   W19 +  3 simplyhired:python developer|Chicago
+[23:11:35]   W15 +  4 dice:azure engineer|Miami
+[23:11:36]   W04 +  9 dice:C++ engineer|
+[23:11:38]   W20 ATS +12 from 1 boards
+[23:11:39]   W04 +  4 dice:Docker|Denver
+[23:11:39]   W16 ATS +8 from 1 boards
+[23:11:39]   W29 +  9 simplyhired:AWS|Austin
+[23:11:39]   W16 +  7 dice:technical lead|San Jose
+[23:11:40]   W23 ATS +1 from 1 boards
+[23:11:41]   W16 +  3 dice:python developer|Washington D
+[23:11:43]   W05 ATS +100 from 1 boards
+[23:11:45]   W18 +  3 dice:terraform engineer|Chicago
+[23:11:49]   W22 +  4 dice:Java|
+[23:11:51]   W10 +  4 dice:machine learning eng|San Jose
+[23:11:51]   W08 +  4 dice:Machine Learning|Dallas
+[23:11:54]   [3,000] +2,672 | DB=623,405 | 248/min | Gap=376,595 | ats_discover:68 dice:1718 itjobs:1 jobicy:1 jobspy:92 simplyhired:1120
+[23:11:54]   W29 + 14 simplyhired:product manager|Los Angeles
+[23:11:55]   W07 ATS +100 from 1 boards
+[23:11:57]   W29 +  5 dice:Java|New York
+[23:11:57]   [HEARTBEAT] DB=623,425 | iters=3,192 new=2,667 | 11min elapsed | Gap=376,575
+[23:11:58]   W09 +  3 dice:platform engineer|
+[23:11:59]   W29 +  7 dice:computer vision engi|Washington D
+[23:11:59]   [3,200] +2,675 | DB=623,438 | 239/min | Gap=376,562 | arbeitnow:2 ats_discover:75 dice:1771 findwork:1 itjobs:1 jobspy:124 simplyhired:1228
+[23:12:02]   W24 + 13 simplyhired:QA engineer|San Francisc
+[23:12:05]   W29 +  8 dice:senior software engi|Remote
+[23:12:06]   W16 +  5 dice:staff engineer|San Francisc
+[23:12:07]   W01 +  6 simplyhired:work from home|Los Angeles
+[23:12:08]   W18 +  3 dice:Next.js|Remote
+[23:12:11]   W29 +  4 simplyhired:QA engineer|Vancouver
+[23:12:18]   W05 +  5 simplyhired:LLM engineer|New York
+[23:12:19]   W09 +  4 simplyhired:AI engineer|Boston
+[23:12:19]   [HEARTBEAT] DB=623,616 | iters=3,109 new=2,791 | 11min elapsed | Gap=376,384
+[23:12:21]   W23 ATS +9 from 1 boards
+[23:12:21]   W14 +  4 dice:rust developer|Los Angeles
+[23:12:23]   W23 +  7 dice:scrum master|Austin
+[23:12:24]   W14 + 18 dice:intern|New York
+[23:12:24]   W10 + 17 dice:technical lead|Washington D
+[23:12:26]   W28 +  5 simplyhired:scrum master|Atlanta
+[23:12:28]   W14 +  9 dice:UX designer|Washington D
+[23:12:29]   W04 +  7 simplyhired:Deep Learning|San Francisc
+[23:12:30]   W15 +  7 dice:software engineer|Boston
+[23:12:31]   W17 + 12 simplyhired:intern|Nashville
+[23:12:31]   W00 +  3 simplyhired:kotlin developer|Seattle
+[23:12:31]   W21 +  8 dice:firmware engineer|New York
+[23:12:34]   W26 +  4 dice:firmware engineer|Dallas
+[23:12:39]   [3,200] +2,837 | DB=623,867 | 246/min | Gap=376,133 | ats_discover:73 dice:1832 itjobs:1 jobicy:1 jobspy:97 simplyhired:1196
+[23:12:39]   W11 +  4 simplyhired:generative AI|London
+[23:12:40]   W20 +  8 simplyhired:Deep Learning|Remote
+[23:12:40]   W27 + 10 dice:contract|Remote
+[23:12:40]   W00 +  5 simplyhired:business analyst|New York
+[23:12:40]   [3,400] +2,827 | DB=623,895 | 238/min | Gap=376,105 | arbeitnow:2 ats_discover:77 dice:1878 findwork:1 itjobs:1 jobspy:129 simplyhired:1312
+[23:12:42]   W13 ATS +100 from 1 boards
+[23:12:44]   W00 +  6 dice:swift developer|Austin
+[23:12:44]   W27 +  6 dice:UX designer|San Francisc
+[23:12:47]   W16 +  3 dice:data engineer|Raleigh
+[23:12:47]   W20 ATS +102 from 2 boards
+[23:12:49]   W19 + 10 simplyhired:GCP|Raleigh
+[23:12:50]   W09 +  4 simplyhired:work from home|New York
+[23:12:52]   W28 ATS +9 from 1 boards
+[23:12:55]   W21 +  3 simplyhired:Kotlin|Dallas
+[23:12:57]   [HEARTBEAT] DB=623,974 | iters=3,481 new=2,961 | 12min elapsed | Gap=376,026
+[23:12:58]   W07 ATS +3 from 1 boards
+[23:13:00]   W03 +  4 simplyhired:AWS|Miami
+[23:13:00]   W02 +  7 dice:cloud engineer|
+[23:13:02]   W03 +  9 dice:technical lead|Charlotte
+[23:13:03]   W11 +  4 simplyhired:QA engineer|Austin
+[23:13:07]   W14 +  4 simplyhired:Go|Nashville
+[23:13:07]   W19 + 18 simplyhired:Scala|Prague
+[23:13:20]   [HEARTBEAT] DB=624,061 | iters=3,398 new=3,002 | 12min elapsed | Gap=375,939
+[23:13:20]   [3,400] +3,002 | DB=624,061 | 246/min | Gap=375,939 | ats_discover:80 dice:1942 itjobs:1 jobicy:1 jobspy:102 simplyhired:1274
+[23:13:20]   W16 ATS +25 from 1 boards
+[23:13:20]   W20 +  5 simplyhired:kubernetes engineer|San Francisc
+[23:13:20]   W25 +  3 dice:terraform engineer|Dallas
+[23:13:20]   W23 +  3 dice:remote|San Jose
+[23:13:23]   W05 ATS +11 from 1 boards
+[23:13:23]   W06 +  3 dice:java developer|Dallas
+[23:13:26]   W14 + 15 dice:security engineer|Washington D
+[23:13:27]   W10 + 18 simplyhired:contract|Raleigh
+[23:13:31]   W14 ATS +2 from 1 boards
+[23:13:32]   W25 ATS +31 from 1 boards
+[23:13:36]   W20 +  6 simplyhired:generative AI|Seattle
+[23:13:36]   W05 + 18 simplyhired:security engineer|Denver
+[23:13:36]   [3,600] +3,081 | DB=624,144 | 241/min | Gap=375,856 | arbeitnow:2 ats_discover:86 dice:1985 findwork:1 itjobs:1 jobspy:142 simplyhired:1393
+[23:13:41]   W12 +  7 dice:Terraform|New York
+[23:13:44]   W24 + 10 dice:Rust|San Francisc
+[23:13:45]   W20 +  6 dice:platform engineer|New York
+[23:13:47]   W17 +  5 simplyhired:hiring now|Washington D
+[23:13:48]   W27 ATS +8 from 2 boards
+[23:13:48]   W05 +  4 dice:Swift|
+[23:13:48]   W19 +  8 simplyhired:contract|Nashville
+[23:13:48]   W18 +  7 dice:LLM engineer|Austin
+[23:13:49]   W27 +  4 simplyhired:Kubernetes|San Francisc
+[23:13:54]   W22 +  3 simplyhired:devops engineer|Seattle
+[23:13:56]   W04 +  6 simplyhired:Scala|Berlin
+[23:13:57]   W10 +  3 simplyhired:GCP|Seattle
+[23:13:57]   [HEARTBEAT] DB=624,238 | iters=3,694 new=3,130 | 13min elapsed | Gap=375,762
+[23:13:59]   W25 +  4 dice:backend engineer|
+[23:14:03]   W21 +  3 simplyhired:Azure|Los Angeles
+[23:14:02]   W18 +  6 simplyhired:iOS developer|Washington D
+[23:14:04]   W03 + 10 dice:blockchain developer|New York
+[23:14:06]   W20 +  3 simplyhired:embedded systems eng|Phoenix
+[23:14:06]   W19 +  7 dice:software engineer|Remote
+[23:14:07]   [3,600] +3,118 | DB=624,285 | 240/min | Gap=375,715 | ats_discover:87 dice:2052 itjobs:1 jobicy:1 jobspy:110 simplyhired:1349
+[23:14:07]   W19 +  3 dice:azure engineer|Austin
+[23:14:07]   W22 +  9 dice:junior software engi|Phoenix
+[23:14:07]   W23 +  7 dice:.NET developer|Remote
+[23:14:09]   W10 +  3 simplyhired:embedded systems eng|
+[23:14:10]   W26 +  9 simplyhired:Principal Engineer|Washington D
+[23:14:10]   W24 +  3 simplyhired:Terraform|Los Angeles
+[23:14:11]   W09 ATS +7 from 1 boards
+[23:14:11]   W16 +  3 simplyhired:Swift|Austin
+[23:14:11]   W27 +  4 dice:engineering manager|Raleigh
+[23:14:12]   W18 ATS +2 from 1 boards
+[23:14:12]   W11 +  6 simplyhired:Scala|Atlanta
+[23:14:12]   W19 +  3 dice:Machine Learning|San Jose
+[23:14:13]   W23 +  4 dice:AI engineer|Phoenix
+[23:14:14]   W23 +  5 dice:Python|New York
+[23:14:18]   W19 +  5 simplyhired:scrum master|Charlotte
+[23:14:18]   W11 +  3 dice:business analyst|Raleigh
+[23:14:19]   [3,800] +3,185 | DB=624,358 | 236/min | Gap=375,642 | arbeitnow:2 ats_discover:95 dice:2093 findwork:1 itjobs:1 jobspy:149 simplyhired:1459
+[23:14:20]   [HEARTBEAT] DB=624,359 | iters=3,647 new=3,172 | 13min elapsed | Gap=375,641
+[23:14:21]   [3,650] +3,172 | DB=624,361 | 240/min | Gap=375,639
+[23:14:22]   W28 ATS +2 from 1 boards
+[23:14:22]   W06 +  4 dice:python developer|Washington D
+[23:14:25]   W02 +  4 simplyhired:Docker|Dallas
+[23:14:27]   W10 +  5 dice:software engineer|Los Angeles
+[23:14:29]   W19 +  6 dice:data engineer|Remote
+[23:14:30]   W20 + 10 simplyhired:GCP|London
+[23:14:31]   W12 ATS +1 from 1 boards
+[23:14:31]   [3,700] +3,193 | DB=624,397 | 238/min | Gap=375,603
+[23:14:32]   W20 + 13 simplyhired:rust developer|New York
+[23:14:34]   W29 ATS +2 from 1 boards
+[23:14:36]   W10 + 15 dice:Principal Engineer|Washington D
+[23:14:36]   W15 +  5 dice:Deep Learning|Seattle
+[23:14:36]   W00 +  8 simplyhired:AWS|Toronto
+[23:14:38]   W02 + 10 dice:embedded systems eng|Los Angeles
+[23:14:41]   W20 +  5 dice:mobile developer|New York
+[23:14:44]   W01 +  4 dice:product manager|San Francisc
+[23:14:45]   W08 ATS +2 from 1 boards
+[23:14:45]   W19 + 10 simplyhired:urgent hiring|Dallas
+[23:14:47]   W08 + 12 dice:UX designer|Remote
+[23:14:48]   W14 +  9 dice:generative AI|Chicago
+[23:14:50]   W01 ATS +1 from 1 boards
+[23:14:53]   W04 ATS +41 from 3 boards
+[23:14:55]   W01 +  7 simplyhired:Python|
+[23:14:55]   W11 +  3 simplyhired:Android developer|Washington D
+[23:14:56]   [3,800] +3,271 | DB=624,552 | 237/min | Gap=375,448 | ats_discover:97 dice:2149 itjobs:1 jobicy:1 jobspy:120 simplyhired:1432
+[23:14:56]   W04 +  4 simplyhired:LLM engineer|Los Angeles
+[23:14:56]   W02 +  3 simplyhired:frontend developer|Charlotte
+[23:14:56]   W07 +  9 dice:AI engineer|Boston
+[23:14:57]   W22 +  3 dice:java developer|New York
+[23:14:57]   [HEARTBEAT] DB=624,571 | iters=3,974 new=3,299 | 14min elapsed | Gap=375,429
+[23:14:58]   W05 +  5 dice:rust developer|
+[23:15:01]   W14 +  5 dice:software engineer|Remote
+[23:15:01]   W23 ATS +5 from 1 boards
+[23:15:04]   [4,000] +3,304 | DB=624,585 | 232/min | Gap=375,415 | arbeitnow:2 ats_discover:99 dice:2200 findwork:1 itjobs:1 jobspy:156 simplyhired:1542
+[23:15:07]   W17 +  7 simplyhired:engineering manager|London
+[23:15:13]   W13 + 19 simplyhired:intern|Sydney
+[23:15:14]   W03 +  4 dice:AI engineer|Chicago
+[23:15:14]   W25 ATS +1 from 1 boards
+[23:15:15]   W17 +  4 simplyhired:gcp engineer|Chicago
+[23:15:17]   W29 +  8 simplyhired:Go|Denver
+[23:15:19]   W24 ATS +100 from 1 boards
+[23:15:20]   W17 + 11 dice:SWE|Washington D
+[23:15:20]   [HEARTBEAT] DB=624,751 | iters=3,896 new=3,415 | 14min elapsed | Gap=375,249
+[23:15:20]   W19 +  7 dice:software engineer|Austin
+[23:15:23]   W28 +  6 dice:firmware engineer|Austin
+[23:15:23]   W24 +  4 dice:hiring now|Remote
+[23:15:28]   W11 + 11 simplyhired:QA engineer|Atlanta
+[23:15:29]   W28 +  7 dice:junior software engi|Charlotte
+[23:15:32]   W11 +  3 dice:UX designer|Dallas
+[23:15:32]   W13 +  7 dice:senior software engi|Washington D
+[23:15:33]   W22 +  7 dice:mobile developer|Houston
+[23:15:34]   W12 +  3 dice:software developer|Washington D
+[23:15:36]   W08 +  4 simplyhired:AWS|Chicago
+[23:15:36]   W24 +  4 dice:hiring now|San Francisc
+[23:15:37]   [4,000] +3,464 | DB=624,835 | 239/min | Gap=375,165 | ats_discover:102 dice:2270 itjobs:1 jobicy:1 jobspy:125 simplyhired:1501
+[23:15:37]   W27 +  3 simplyhired:SWE|Washington D
+[23:15:39]   W12 +  4 simplyhired:QA engineer|San Francisc
+[23:15:42]   W01 +  6 simplyhired:QA engineer|Washington D
+[23:15:45]   W07 +  4 dice:LLM engineer|Denver
+[23:15:46]   [4,200] +3,394 | DB=624,859 | 227/min | Gap=375,141 | arbeitnow:2 ats_discover:102 dice:2318 findwork:1 itjobs:1 jobspy:166 simplyhired:1610
+[23:15:46]   W25 + 13 dice:intern|
+[23:15:47]   W14 ATS +1 from 1 boards
+[23:15:47]   W02 +  4 dice:Angular|Charlotte
+[23:15:50]   W13 +  7 dice:generative AI|
+[23:15:52]   W17 +  6 dice:generative AI|Austin
+[23:15:52]   W20 +  7 simplyhired:machine learning eng|San Francisc
+[23:15:52]   W17 +  6 dice:staff engineer|Los Angeles
+[23:15:53]   W07 +  6 dice:remote|Denver
+[23:15:53]   W28 + 10 dice:SDE|Vancouver
+[23:15:55]   W03 +  4 dice:Android developer|Dallas
+[23:15:56]   W14 +  4 dice:AWS|Charlotte
+[23:15:57]   W06 +  8 dice:Swift|San Jose
+[23:15:57]   [HEARTBEAT] DB=625,043 | iters=4,257 new=3,458 | 15min elapsed | Gap=374,957
+[23:15:57]   W14 +  3 dice:Principal Engineer|Charlotte
+[23:15:58]   W15 ATS +1 from 1 boards
+[23:15:58]   W00 +  4 dice:SDE|Toronto
+[23:16:01]   W13 +  7 dice:AI engineer|San Jose
+[23:16:04]   W04 ATS +100 from 1 boards
+[23:16:04]   W10 + 19 simplyhired:intern|Houston
+[23:16:04]   W19 +  3 simplyhired:iOS developer|
+[23:16:05]   W04 + 10 simplyhired:contract|Raleigh
+[23:16:06]   W08 +  9 simplyhired:C++ engineer|Remote
+[23:16:07]   W15 + 16 dice:engineering manager|Remote
+[23:16:09]   W21 +  5 dice:software engineer|San Jose
+[23:16:11]   W12 +  5 dice:Lead Engineer|Charlotte
+[23:16:12]   W02 +  6 dice:UX designer|Austin
+[23:16:15]   W07 +  5 simplyhired:Terraform|Chicago
+[23:16:15]   W14 +  7 dice:intern|Houston
+[23:16:15]   W25 +  9 simplyhired:data engineer|
+[23:16:17]   [4,200] +3,660 | DB=625,263 | 241/min | Gap=374,737
+[23:16:20]   [HEARTBEAT] DB=625,263 | iters=4,216 new=3,660 | 15min elapsed | Gap=374,737
+[23:16:23]   W12 +  6 dice:MLOps|Boston
+[23:16:27]   W23 ATS +100 from 1 boards
+[23:16:28]   W20 +  9 dice:web developer|
+[23:16:33]   W12 +  6 dice:software engineer|Dallas
+[23:16:33]   W06 +  5 dice:embedded systems eng|Boston
+[23:16:35]   [4,400] +3,632 | DB=625,325 | 230/min | Gap=374,675 | arbeitnow:2 ats_discover:108 dice:2430 findwork:1 itjobs:1 jobspy:176 simplyhired:1682
+[23:16:35]   W25 ATS +13 from 1 boards
+[23:16:36]   W16 +  3 simplyhired:AWS|Atlanta
+[23:16:36]   W27 +  4 dice:staff engineer|Atlanta
+[23:16:37]   W17 +  7 dice:software engineer|Seattle
+[23:16:37]   W10 +  7 simplyhired:computer vision engi|Boston
+[23:16:38]   W26 +  6 simplyhired:LLM engineer|Atlanta
+[23:16:39]   W24 ATS +3 from 1 boards
+[23:16:41]   W04 +  4 simplyhired:Principal Engineer|New York
+[23:16:42]   W20 + 14 simplyhired:data engineer|Seattle
+[23:16:42]   W05 + 10 dice:intern|Austin
+[23:16:46]   W24 + 17 simplyhired:intern|Austin
+[23:16:46]   W10 +  8 simplyhired:fastapi developer|San Francisc
+[23:16:46]   W20 +  4 dice:hiring now|Charlotte
+[23:16:48]   W02 +  6 dice:Docker|Dallas
+[23:16:50]   W21 +  4 simplyhired:SRE|New York
+[23:16:53]   W22 +  7 simplyhired:Swift|
+[23:16:57]   W03 + 11 dice:hiring now|
+[23:16:57]   W08 ATS +105 from 2 boards
+[23:16:57]   [HEARTBEAT] DB=625,558 | iters=4,512 new=3,813 | 16min elapsed | Gap=374,442
+[23:16:58]   [4,400] +3,753 | DB=625,560 | 237/min | Gap=374,440 | ats_discover:108 dice:2498 itjobs:1 jobicy:1 jobspy:141 simplyhired:1651
+[23:17:01]   W16 +  7 dice:technical lead|
+[23:17:02]   W24 +  3 simplyhired:Python|Nashville
+[23:17:02]   W16 +  4 dice:staff engineer|Seattle
+[23:17:04]   W27 +  4 simplyhired:Angular developer|New York
+[23:17:04]   W04 +  4 simplyhired:machine learning eng|New York
+[23:17:05]   W18 +  3 dice:UX designer|New York
+[23:17:08]   W25 +  7 dice:Terraform|San Jose
+[23:17:08]   W11 +  6 dice:security engineer|Boston
+[23:17:09]   W06 +  8 dice:C#|Chicago
+[23:17:10]   W11 +  8 simplyhired:business analyst|Austin
+[23:17:10]   W27 +  8 dice:business analyst|Houston
+[23:17:12]   [4,600] +3,860 | DB=625,632 | 235/min | Gap=374,368 | arbeitnow:2 ats_discover:116 dice:2553 findwork:1 itjobs:1 jobspy:180 simplyhired:1747
+[23:17:13]   W02 +  6 simplyhired:platform engineer|Charlotte
+[23:17:13]   W15 + 15 simplyhired:Lead Engineer|Remote
+[23:17:13]   W24 +  9 simplyhired:security engineer|Chicago
+[23:17:13]   W24 ATS +7 from 1 boards
+[23:17:17]   W18 +  3 dice:AI engineer|Remote
+[23:17:19]   W02 +  3 simplyhired:PHP developer|San Jose
+[23:17:20]   [HEARTBEAT] DB=625,774 | iters=4,503 new=3,805 | 16min elapsed | Gap=374,226
+[23:17:23]   W21 + 14 simplyhired:engineering manager|Nashville
+[23:17:24]   W17 +  4 simplyhired:Rust|Seattle
+[23:17:24]   W01 +  3 simplyhired:Deep Learning|San Jose
+[23:17:25]   W13 +  9 dice:embedded systems eng|
+[23:17:28]   W13 +  9 dice:cloud architect|Washington D
+[23:17:29]   W11 + 13 simplyhired:engineering manager|San Jose
+[23:17:35]   W05 +  7 dice:GCP|Remote
+[23:17:37]   W28 +  3 simplyhired:urgent hiring|Dublin
+[23:17:40]   [4,600] +3,858 | DB=625,859 | 233/min | Gap=374,141 | ats_discover:112 dice:2610 itjobs:1 jobicy:1 jobspy:150 simplyhired:1726
+[23:17:47]   W20 ATS +9 from 1 boards
+[23:17:48]   W19 ATS +196 from 2 boards
+[23:17:49]   W28 +  5 dice:Swift|Washington D
+[23:17:50]   W25 ATS +1 from 1 boards
+[23:17:53]   W07 +  8 simplyhired:cloud engineer|Amsterdam
+[23:17:53]   W23 +  5 dice:firmware engineer|Houston
+[23:18:00]   W05 +  5 simplyhired:azure engineer|
+[23:18:03]   W29 +  7 dice:Kubernetes|Dallas
+[23:18:03]   [HEARTBEAT] DB=626,007 | iters=4,807 new=4,109 | 17min elapsed | Gap=373,993
+[23:18:03]   [4,800] +4,109 | DB=626,007 | 238/min | Gap=373,993 | arbeitnow:2 ats_discover:120 dice:2668 findwork:1 itjobs:1 jobspy:186 simplyhired:1831
+[23:18:07]   W04 +  8 dice:MLOps|San Francisc
+[23:18:07]   W20 +  7 simplyhired:C++ engineer|Austin
+[23:18:09]   W27 +  7 dice:python developer|Remote
+[23:18:09]   W14 ATS +10 from 2 boards
+[23:18:10]   W02 +  6 simplyhired:SRE|Boston
+[23:18:12]   W11 + 14 dice:security engineer|Washington D
+[23:18:15]   W22 +  6 dice:TypeScript|Washington D
+[23:18:17]   W21 +  4 simplyhired:mobile developer|Boston
+[23:18:17]   W06 ATS +3 from 2 boards
+[23:18:17]   W01 ATS +1 from 1 boards
+[23:18:19]   W17 +  8 dice:security engineer|
+[23:18:20]   [HEARTBEAT] DB=626,078 | iters=4,786 new=3,929 | 17min elapsed | Gap=373,922
+[23:18:22]   W16 + 12 simplyhired:data analyst|Houston
+[23:18:23]   [4,800] +3,929 | DB=626,093 | 228/min | Gap=373,907 | ats_discover:119 dice:2717 itjobs:1 jobicy:2 jobspy:161 simplyhired:1800
+[23:18:26]   W24 +  8 dice:scrum master|New York
+[23:18:27]   W06 + 11 simplyhired:intern|Tampa
+[23:18:28]   W18 +  6 simplyhired:business analyst|Vancouver
+[23:18:37]   W28 +  3 simplyhired:django developer|Remote
+[23:18:37]   W01 +  7 simplyhired:urgent hiring|Houston
+[23:18:39]   W24 +  4 simplyhired:data analyst|London
+[23:18:41]   W24 +  3 simplyhired:database engineer|Chicago
+[23:18:46]   [5,000] +4,230 | DB=626,284 | 236/min | Gap=373,716
+[23:18:47]   W19 + 10 dice:senior software engi|New York
+[23:18:47]   W28 +  6 dice:SRE|Remote
+[23:18:49]   W28 +  8 dice:Azure|Remote
+[23:18:49]   W18 + 15 dice:scrum master|Remote
+[23:18:50]   W02 + 11 dice:junior software engi|Remote
+[23:18:53]   W03 +  3 dice:senior software engi|Austin
+[23:18:53]   W11 +  4 dice:mobile developer|Raleigh
+[23:18:53]   W24 +  3 simplyhired:GCP|Miami
+[23:18:54]   W16 + 20 simplyhired:business analyst|Chicago
+[23:18:56]   W06 + 14 simplyhired:contract|Amsterdam
+[23:18:58]   W22 +  4 dice:software engineer|Seattle
+[23:19:03]   [HEARTBEAT] DB=626,403 | iters=5,075 new=4,267 | 18min elapsed | Gap=373,597
+[23:19:04]   W13 ATS +1 from 1 boards
+[23:19:07]   W28 +  9 simplyhired:C++ engineer|Washington D
+[23:19:09]   [5,000] +4,010 | DB=626,506 | 222/min | Gap=373,494 | ats_discover:124 dice:2832 itjobs:1 jobicy:2 jobspy:165 simplyhired:1876
+[23:19:15]   W23 ATS +83 from 2 boards
+[23:19:16]   W23 + 16 simplyhired:UX designer|Seattle
+[23:19:17]   W29 ATS +150 from 3 boards
+[23:19:17]   W19 +  7 dice:C++ engineer|Remote
+[23:19:18]   W06 +  7 dice:infrastructure engin|Los Angeles
+[23:19:18]   W10 + 12 simplyhired:cloud architect|New York
+[23:19:20]   [HEARTBEAT] DB=626,560 | iters=5,044 new=4,260 | 18min elapsed | Gap=373,440
+[23:19:20]   W29 +  7 dice:embedded systems eng|Denver
+[23:19:20]   W23 +  6 dice:kubernetes engineer|New York
+[23:19:24]   W15 + 13 dice:engineering manager|San Francisc
+[23:19:24]   W16 +  5 simplyhired:Principal Engineer|Austin
+[23:19:24]   W20 + 10 simplyhired:rust developer|Los Angeles
+[23:19:25]   W17 +  5 dice:Docker|Remote
+[23:19:27]   W13 +  3 simplyhired:Terraform|Remote
+[23:19:29]   W04 + 14 simplyhired:intern|Dallas
+[23:19:32]   W11 +  4 dice:generative AI|Charlotte
+[23:19:32]   W28 +  6 dice:staff engineer|Phoenix
+[23:19:32]   W25 ATS +2 from 1 boards
+[23:19:32]   W03 +  4 dice:Docker|Atlanta
+[23:19:32]   [5,200] +4,345 | DB=626,651 | 232/min | Gap=373,349 | arbeitnow:2 ats_discover:132 dice:2888 findwork:1 itjobs:1 jobspy:200 simplyhired:1976
+[23:19:35]   W16 +  4 dice:technical lead|Phoenix
+[23:19:35]   W07 +  4 dice:mobile developer|Los Angeles
+[23:19:35]   W01 +  4 simplyhired:Kubernetes|Washington D
+[23:19:38]   W04 +  5 dice:MLOps|New York
+[23:19:43]   W17 +  3 dice:GCP|Dallas
+[23:19:45]   W02 +  6 simplyhired:data engineer|San Francisc
+[23:19:47]   W03 ATS +3 from 2 boards
+[23:19:48]   W08 ATS +1 from 1 boards
+[23:19:49]   [5,200] +4,323 | DB=626,692 | 231/min | Gap=373,308 | ats_discover:132 dice:2950 itjobs:1 jobicy:2 jobspy:170 simplyhired:1945
+[23:19:50]   W17 +  3 simplyhired:Next.js|Boston
+[23:19:53]   W19 +  5 simplyhired:Azure|Remote
+[23:19:53]   W15 +  7 dice:JavaScript|Washington D
+[23:19:53]   W27 +  3 dice:backend engineer|Remote
+[23:19:54]   W03 +  5 dice:Lead Engineer|Tampa
+[23:19:58]   W24 +  9 dice:data analyst|Remote
+[23:20:03]   W12 + 20 simplyhired:contract|Miami
+[23:20:03]   W10 + 11 dice:work from home|Remote
+[23:20:04]   [HEARTBEAT] DB=626,764 | iters=5,358 new=4,402 | 19min elapsed | Gap=373,236
+[23:20:05]   W06 +  3 dice:intern|Los Angeles
+[23:20:06]   W23 +  4 dice:JavaScript|San Jose
+[23:20:07]   W09 ATS +7 from 1 boards
+[23:20:12]   W25 +  8 dice:software engineer|Washington D
+[23:20:13]   [5,400] +4,413 | DB=626,793 | 227/min | Gap=373,207 | arbeitnow:2 ats_discover:137 dice:3012 findwork:1 itjobs:1 jobspy:206 simplyhired:2042
+[23:20:19]   W22 +  4 simplyhired:Python|Boston
+[23:20:19]   W18 +  4 dice:spring boot develope|Remote
+[23:20:20]   [HEARTBEAT] DB=626,807 | iters=5,340 new=4,385 | 19min elapsed | Gap=373,193
+[23:20:21]   W11 +  5 simplyhired:embedded systems eng|Chicago
+[23:20:23]   W16 +  3 dice:full stack developer|Washington D
+[23:20:24]   W10 +  3 dice:security engineer|Raleigh
+[23:20:25]   W09 +  4 dice:platform engineer|Atlanta
+[23:20:26]   W22 +  3 dice:junior software engi|Austin
+[23:20:31]   W12 + 11 dice:SWE|San Jose
+[23:20:31]   W22 + 10 dice:remote|Dallas
+[23:20:31]   W00 +  3 dice:spring boot develope|Remote
+[23:20:31]   W02 +  4 dice:technical lead|Seattle
+[23:20:31]   W27 +  4 dice:business analyst|New York
+[23:20:35]   [5,400] +4,410 | DB=626,912 | 226/min | Gap=373,088 | ats_discover:135 dice:3061 itjobs:1 jobicy:2 jobspy:178 simplyhired:2024
+[23:20:37]   [5,500] +4,461 | DB=626,913 | 225/min | Gap=373,087
+[23:20:38]   W22 +  8 dice:JavaScript|Nashville
+[23:20:38]   W03 + 16 dice:hiring now|Washington D
+[23:20:39]   W13 +  3 dice:embedded systems eng|Miami
+[23:20:40]   W16 +  9 dice:Rust|New York
+[23:20:42]   W15 ATS +44 from 1 boards
+[23:20:43]   W20 +  3 simplyhired:cloud engineer|Remote
+[23:20:48]   W08 +  7 dice:machine learning eng|San Francisc
+[23:20:48]   W16 +  4 dice:senior software engi|Seattle
+[23:20:49]   W16 + 12 dice:staff engineer|Boston
+[23:20:50]   W03 +  9 dice:remote|Phoenix
+[23:20:55]   W26 +  4 dice:Machine Learning|San Francisc
+[23:20:55]   W27 +  8 dice:Deep Learning|Washington D
+[23:20:55]   W05 +  4 simplyhired:Python|San Francisc
+[23:20:55]   W23 +  4 dice:hiring now|New York
+[23:20:56]   W09 + 11 simplyhired:infrastructure engin|Washington D
+[23:20:57]   W13 +  6 simplyhired:data engineer|Washington D
+[23:20:59]   [5,600] +4,545 | DB=627,047 | 225/min | Gap=372,953 | arbeitnow:2 ats_discover:143 dice:3119 findwork:1 itjobs:1 jobspy:212 simplyhired:2122
+[23:20:59]   W03 +  4 dice:game developer|Seattle
+[23:21:00]   W18 ATS +2 from 1 boards
+[23:21:04]   [HEARTBEAT] DB=627,054 | iters=5,619 new=4,551 | 20min elapsed | Gap=372,946
+[23:21:05]   W22 + 12 simplyhired:contract|Seattle
+[23:21:06]   W29 ATS +11 from 1 boards
+[23:21:08]   W23 +  4 dice:Swift|Chicago
+[23:21:08]   W20 ATS +6 from 1 boards
+[23:21:08]   W08 +  5 dice:blockchain developer|Montreal
+[23:21:10]   W20 + 12 simplyhired:Principal Engineer|Seattle
+[23:21:12]   W14 +  6 dice:computer vision engi|
+[23:21:19]   W04 +  7 simplyhired:data scientist|Austin
+[23:21:22]   [HEARTBEAT] DB=627,190 | iters=5,599 new=4,546 | 20min elapsed | Gap=372,810
+[23:21:22]   [5,600] +4,546 | DB=627,190 | 225/min | Gap=372,810 | ats_discover:142 dice:3169 itjobs:1 jobicy:2 jobspy:186 simplyhired:2102
+[23:21:24]   W03 +  4 simplyhired:embedded systems eng|Raleigh
+[23:21:24]   W20 +  8 simplyhired:computer vision engi|Los Angeles
+[23:21:25]   W15 +  6 simplyhired:Python|Phoenix
+[23:21:25]   W25 +  4 simplyhired:PHP developer|Seattle
+[23:21:32]   W29 + 15 dice:work from home|Washington D
+[23:21:33]   W01 +  7 dice:junior software engi|San Jose
+[23:21:34]   W17 ATS +78 from 3 boards
+[23:21:37]   W05 +  3 dice:kubernetes engineer|San Francisc
+[23:21:42]   W29 +  8 dice:business analyst|Washington D
+[23:21:42]   W28 +  4 dice:Docker|Washington D
+[23:21:43]   W15 +  3 simplyhired:generative AI|Amsterdam
+[23:21:45]   W13 +  3 simplyhired:web developer|New York
+[23:21:45]   W26 +  6 dice:computer vision engi|Denver
+[23:21:45]   W12 +  3 dice:hiring now|San Jose
+[23:21:46]   W29 +  5 dice:security engineer|Remote
+[23:21:48]   [5,800] +4,706 | DB=627,381 | 224/min | Gap=372,619 | arbeitnow:2 ats_discover:149 dice:3229 findwork:1 itjobs:1 jobspy:219 simplyhired:2199
+[23:21:49]   W02 ATS +73 from 1 boards
+[23:21:52]   W13 +  3 simplyhired:Machine Learning|Nashville
+[23:21:52]   W11 +  4 dice:Principal Engineer|Seattle
+[23:21:52]   W26 ATS +17 from 1 boards
+[23:21:54]   W10 ATS +1 from 1 boards
+[23:21:54]   [5,800] +4,622 | DB=627,489 | 222/min | Gap=372,511 | ats_discover:145 dice:3285 itjobs:1 jobicy:2 jobspy:197 simplyhired:2170
+[23:21:54]   W07 +  3 dice:devops engineer|Washington D
+[23:21:55]   W04 +  9 dice:remote|Chicago
+[23:21:56]   W16 +  4 simplyhired:software engineer|Washington D
+[23:21:56]   W03 +  4 dice:staff engineer|Atlanta
+[23:21:56]   W26 +  7 dice:C#|Boston
+[23:22:02]   W20 +  9 dice:SRE|
+[23:22:02]   W16 + 14 dice:security engineer|Dallas
+[23:22:04]   [HEARTBEAT] DB=627,547 | iters=5,852 new=4,806 | 21min elapsed | Gap=372,453
+[23:22:07]   W23 +  4 dice:Rust|Boston
+[23:22:10]   W24 +  5 dice:Machine Learning|Washington D
+[23:22:12]   W28 +  9 simplyhired:product manager|Tampa
+[23:22:15]   W29 +  3 dice:swift developer|Houston
+[23:22:17]   W11 +  3 dice:Azure|Dallas
+[23:22:18]   W01 +  5 simplyhired:business analyst|Denver
+[23:22:18]   W15 + 17 simplyhired:Scala|Amsterdam
+[23:22:18]   W20 +  8 simplyhired:remote|San Jose
+[23:22:22]   [HEARTBEAT] DB=627,627 | iters=5,909 new=4,679 | 21min elapsed | Gap=372,373
+[23:22:23]   W02 +  6 dice:Terraform|Dallas
+[23:22:25]   W05 +  8 dice:senior software engi|
+[23:22:26]   W05 +  3 dice:C#|Boston
+[23:22:26]   W22 ATS +2 from 4 boards
+[23:22:28]   W09 ATS +100 from 1 boards
+[23:22:30]   W04 +  7 simplyhired:remote|Remote
+[23:22:30]   W29 +  4 dice:swift developer|Chicago
+[23:22:33]   [6,000] +4,968 | DB=627,667 | 228/min | Gap=372,333 | arbeitnow:2 ats_discover:156 dice:3347 findwork:1 itjobs:1 jobspy:227 simplyhired:2266
+[23:22:36]   W18 ATS +2 from 1 boards
+[23:22:42]   W29 +  3 simplyhired:UX designer|Remote
+[23:22:42]   W27 +  3 simplyhired:senior software engi|Raleigh
+[23:22:43]   W15 +  3 dice:cloud architect|Washington D
+[23:22:45]   [6,000] +4,713 | DB=627,702 | 218/min | Gap=372,298 | ats_discover:148 dice:3386 itjobs:1 jobicy:2 jobspy:212 simplyhired:2251
+[23:22:47]   W15 +  9 simplyhired:product manager|Sydney
+[23:22:48]   W00 ATS +14 from 1 boards
+[23:22:48]   W27 +  6 dice:security engineer|Dallas
+[23:22:49]   W16 + 11 simplyhired:kubernetes engineer|Washington D
+[23:22:49]   W26 +  6 simplyhired:database engineer|Charlotte
+[23:22:50]   W25 + 12 simplyhired:Principal Engineer|San Jose
+[23:22:51]   W06 + 10 dice:technical lead|
+[23:22:52]   W00 +  7 simplyhired:computer vision engi|Nashville
+[23:22:52]   W23 + 17 simplyhired:technical lead|Denver
+[23:22:53]   W01 +  5 simplyhired:data engineer|New York
+[23:22:53]   W08 + 12 dice:data scientist|Washington D
+[23:22:56]   W16 +  4 dice:firmware engineer|Chicago
+[23:22:56]   W22 ATS +33 from 3 boards
+[23:22:59]   W02 +  3 simplyhired:business analyst|Nashville
+[23:23:05]   W10 +  4 dice:Swift|Los Angeles
+[23:23:05]   [HEARTBEAT] DB=627,867 | iters=6,135 new=5,009 | 22min elapsed | Gap=372,133
+[23:23:06]   W23 +  5 dice:product manager|Austin
+[23:23:07]   W03 +  3 dice:data analyst|Miami
+[23:23:07]   W10 +  5 simplyhired:devops engineer|Remote
+[23:23:09]   W06 +  8 dice:firmware engineer|San Jose
+[23:23:13]   W25 + 12 simplyhired:C++ engineer|Atlanta
+[23:23:14]   W06 +  9 dice:Principal Engineer|Denver
+[23:23:15]   W04 ATS +10 from 1 boards
+[23:23:16]   W10 +  5 dice:QA engineer|San Jose
+[23:23:16]   W17 ATS +4 from 1 boards
+[23:23:16]   [6,200] +4,881 | DB=628,036 | 220/min | Gap=371,964
+[23:23:17]   W28 +  3 dice:Kubernetes|Phoenix
+[23:23:19]   W05 ATS +8 from 1 boards
+[23:23:20]   W14 ATS +97 from 1 boards
+[23:23:22]   [HEARTBEAT] DB=628,057 | iters=6,223 new=4,888 | 22min elapsed | Gap=371,943
+[23:23:22]   W27 ATS +16 from 1 boards
+[23:23:23]   [6,200] +5,166 | DB=628,058 | 229/min | Gap=371,942 | arbeitnow:2 ats_discover:167 dice:3459 findwork:1 itjobs:1 jobspy:235 simplyhired:2335
+[23:23:28]   W11 ATS +6 from 1 boards
+[23:23:30]   W11 +  5 simplyhired:kotlin developer|San Francisc
+[23:23:31]   W09 +  6 dice:frontend developer|Remote
+[23:23:35]   W09 +  3 dice:software engineer|Charlotte
+[23:23:35]   W05 + 13 simplyhired:intern|San Jose
+[23:23:35]   W11 +  8 simplyhired:contract|San Jose
+[23:23:38]   W02 +  8 simplyhired:SDE|San Jose
+[23:23:39]   W26 + 11 simplyhired:blockchain developer|New York
+[23:23:43]   W11 ATS +6 from 1 boards
+[23:23:48]   W01 +  4 dice:security engineer|San Jose
+[23:23:50]   W27 +  5 dice:software developer|Washington D
+[23:23:52]   W25 ATS +6 from 1 boards
+[23:23:54]   W28 +  5 dice:product manager|Charlotte
+[23:23:57]   W00 +  8 dice:SRE|Washington D
+[23:23:58]   W01 + 15 dice:data scientist|New York
+[23:24:02]   [6,400] +4,972 | DB=628,287 | 217/min | Gap=371,713 | ats_discover:160 dice:3649 itjobs:1 jobicy:2 jobspy:225 simplyhired:2363
+[23:24:03]   W21 +  4 simplyhired:django developer|Boston
+[23:24:05]   W08 +  7 dice:JavaScript|New York
+[23:24:05]   [HEARTBEAT] DB=628,307 | iters=6,363 new=5,229 | 23min elapsed | Gap=371,693
+[23:24:11]   W12 ATS +2 from 1 boards
+[23:24:12]   W11 +  6 dice:data engineer|Remote
+[23:24:14]   W12 +  4 dice:database engineer|Charlotte
+[23:24:14]   [6,400] +5,241 | DB=628,327 | 224/min | Gap=371,673 | arbeitnow:2 ats_discover:175 dice:3563 findwork:1 itjobs:1 jobspy:242 simplyhired:2416
+[23:24:14]   W11 + 10 simplyhired:security engineer|Austin
+[23:24:15]   W13 + 10 simplyhired:Principal Engineer|Dublin
+[23:24:15]   W07 ATS +7 from 1 boards
+[23:24:18]   W26 ATS +1 from 1 boards
+[23:24:22]   [HEARTBEAT] DB=628,367 | iters=6,490 new=5,011 | 23min elapsed | Gap=371,633
+[23:24:24]   W10 ATS +101 from 2 boards
+[23:24:24]   W20 +  3 simplyhired:Azure|Los Angeles
+[23:24:24]   W01 +  5 dice:intern|Miami
+[23:24:29]   W27 +  7 dice:SDE|
+[23:24:31]   W09 +  3 simplyhired:firmware engineer|New York
+[23:24:32]   W12 +  9 simplyhired:platform engineer|Atlanta
+[23:24:33]   W02 +  7 dice:full stack developer|
+[23:24:33]   W10 +  4 simplyhired:SRE|
+[23:24:42]   W27 +  4 simplyhired:infrastructure engin|Nashville
+[23:24:44]   W13 +  4 dice:generative AI|Boston
+[23:24:45]   W02 + 10 dice:Rust|New York
+[23:24:45]   W19 +  4 dice:product manager|Los Angeles
+[23:24:47]   W25 + 14 simplyhired:product manager|Toronto
+[23:24:51]   W13 +  3 dice:QA engineer|San Jose
+[23:24:52]   W01 + 16 dice:product manager|New York
+[23:24:53]   W11 +  5 dice:software engineer|New York
+[23:24:53]   [6,600] +5,352 | DB=628,647 | 222/min | Gap=371,353 | arbeitnow:2 ats_discover:179 dice:3669 findwork:1 itjobs:1 jobspy:245 simplyhired:2503
+[23:24:54]   W25 +  4 dice:junior software engi|Nashville
+[23:24:55]   W18 + 10 simplyhired:intern|Denver
+[23:24:56]   W04 +  8 simplyhired:NLP engineer|Houston
+[23:24:56]   W25 +  3 dice:data scientist|Phoenix
+[23:24:58]   [6,600] +5,142 | DB=628,693 | 216/min | Gap=371,307
+[23:24:59]   W15 +  8 simplyhired:security engineer|London
+[23:25:02]   W25 + 11 dice:Principal Engineer|San Jose
+[23:25:03]   W28 ATS +100 from 1 boards
+[23:25:05]   W11 +  4 dice:database engineer|New York
+[23:25:05]   W04 +  3 dice:LLM engineer|Remote
+[23:25:07]   [HEARTBEAT] DB=628,795 | iters=6,670 new=5,383 | 24min elapsed | Gap=371,205
+[23:25:08]   W00 ATS +53 from 2 boards
+[23:25:10]   W04 +  7 dice:junior software engi|Raleigh
+[23:25:12]   W01 ATS +7 from 1 boards
+[23:25:12]   W04 +  5 dice:UX designer|Raleigh
+[23:25:13]   W20 +  4 dice:SDE|San Francisc
+[23:25:17]   W03 ATS +1 from 1 boards
+[23:25:19]   W19 + 10 dice:data analyst|
+[23:25:19]   W14 +  4 dice:intern|Nashville
+[23:25:20]   W28 +  5 simplyhired:Python|Atlanta
+[23:25:21]   W18 ATS +26 from 2 boards
+[23:25:22]   [HEARTBEAT] DB=628,840 | iters=6,731 new=5,325 | 24min elapsed | Gap=371,160
+[23:25:23]   W07 ATS +3 from 2 boards
+[23:25:25]   W07 ATS +71 from 2 boards
+[23:25:28]   W15 +  3 simplyhired:data analyst|Washington D
+[23:25:30]   W27 +  8 dice:platform engineer|New York
+[23:25:31]   W10 +  3 dice:C#|San Francisc
+[23:25:33]   W10 + 10 dice:data scientist|
+[23:25:33]   W27 +  9 dice:C++ engineer|New York
+[23:25:35]   [6,800] +5,352 | DB=628,879 | 219/min | Gap=371,121 | ats_discover:177 dice:3867 itjobs:1 jobicy:2 jobspy:244 simplyhired:2510
+[23:25:35]   [6,800] +5,531 | DB=628,879 | 223/min | Gap=371,121 | arbeitnow:2 ats_discover:183 dice:3783 findwork:1 itjobs:1 jobspy:254 simplyhired:2576
+[23:25:36]   W27 +  7 simplyhired:business analyst|Chicago
+[23:25:36]   W00 ATS +10 from 1 boards
+[23:25:37]   W08 +  5 simplyhired:QA engineer|Dallas
+[23:25:38]   W19 +  5 dice:MLOps|San Jose
+[23:25:40]   W15 +  4 simplyhired:remote|Toronto
+[23:25:46]   W05 +  8 simplyhired:Azure|Phoenix
+[23:25:47]   W05 +  5 simplyhired:business analyst|Vancouver
+[23:25:49]   W07 + 16 simplyhired:QA engineer|New York
+[23:25:52]   W26 +  6 simplyhired:Java|
+[23:25:57]   W04 +  4 dice:senior software engi|Los Angeles
+[23:26:03]   W15 +  6 simplyhired:data analyst|New York
+[23:26:07]   W15 +  5 simplyhired:Scala|San Jose
+[23:26:10]   W11 +  8 dice:senior software engi|Denver
+[23:26:10]   [HEARTBEAT] DB=628,988 | iters=6,974 new=5,596 | 25min elapsed | Gap=371,012
+[23:26:13]   W24 +  5 dice:hiring now|Dallas
+[23:26:14]   [7,000] +5,605 | DB=628,998 | 220/min | Gap=371,002 | arbeitnow:2 ats_discover:186 dice:3891 findwork:2 itjobs:1 jobspy:261 simplyhired:2657
+[23:26:15]   W24 +  3 dice:Next.js|Remote
+[23:26:20]   W21 + 12 simplyhired:QA engineer|Raleigh
+[23:26:22]   [HEARTBEAT] DB=629,015 | iters=6,967 new=5,408 | 25min elapsed | Gap=370,985
+[23:26:23]   W03 +  3 dice:Deep Learning|San Francisc
+[23:26:25]   W05 +  5 simplyhired:computer vision engi|Raleigh
+[23:26:26]   W17 +  4 dice:python developer|New York
+[23:26:30]   W16 +  3 dice:GCP|Austin
+[23:26:30]   W26 +  7 dice:scrum master|Phoenix
+[23:26:31]   [7,000] +5,425 | DB=629,039 | 214/min | Gap=370,961 | ats_discover:184 dice:3970 itjobs:1 jobicy:2 jobspy:249 simplyhired:2595
+[23:26:33]   W05 + 11 simplyhired:Swift|Atlanta
+[23:26:34]   W26 +  3 dice:azure engineer|Atlanta
+[23:26:38]   W00 +  4 simplyhired:security engineer|Charlotte
+[23:26:43]   W08 + 14 simplyhired:contract|Lisbon
+[23:26:43]   W05 +  5 simplyhired:PHP developer|New York
+[23:26:50]   W07 +  5 simplyhired:Python|San Jose
+[23:26:52]   W13 +100 arbeitnow:|
+[23:26:53]   W05 + 18 dice:intern|Washington D
+[23:26:53]   W19 +  3 dice:JavaScript|Austin
+[23:26:58]   W11 + 15 simplyhired:technical lead|Atlanta
+[23:26:58]   W25 +  4 simplyhired:data analyst|Atlanta
+[23:26:59]   W09 + 12 dice:business analyst|
+[23:27:01]   W21 +  4 dice:platform engineer|
+[23:27:01]   [7,200] +5,675 | DB=629,352 | 216/min | Gap=370,648 | arbeitnow:2 ats_discover:188 dice:4009 findwork:2 itjobs:1 jobspy:267 simplyhired:2731
+[23:27:03]   W21 +  4 dice:embedded systems eng|Tampa
+[23:27:05]   W22 +  4 dice:technical lead|Boston
+[23:27:05]   W26 +  4 simplyhired:spring boot develope|Denver
+[23:27:08]   W26 +  4 dice:blockchain developer|Washington D
+[23:27:09]   W11 +  3 dice:LLM engineer|
+[23:27:10]   [HEARTBEAT] DB=629,445 | iters=7,229 new=5,678 | 26min elapsed | Gap=370,555
+[23:27:13]   W03 +  5 dice:LLM engineer|Chicago
+[23:27:17]   [7,250] +5,681 | DB=629,464 | 215/min | Gap=370,536
+[23:27:17]   W20 ATS +6 from 1 boards
+[23:27:21]   [7,200] +5,626 | DB=629,473 | 214/min | Gap=370,527 | arbeitnow:1 ats_discover:193 dice:4082 itjobs:1 jobicy:2 jobspy:254 simplyhired:2667
+[23:27:22]   [HEARTBEAT] DB=629,473 | iters=7,201 new=5,626 | 26min elapsed | Gap=370,527
+[23:27:23]   W21 +  3 simplyhired:senior software engi|Los Angeles
+[23:27:23]   W10 + 15 simplyhired:security engineer|Dallas
+[23:27:25]   W07 +  6 dice:business analyst|Los Angeles
+[23:27:29]   W06 +  3 dice:Lead Engineer|Seattle
+[23:27:30]   W24 ATS +58 from 1 boards
+[23:27:30]   W12 +  5 dice:software engineer|New York
+[23:27:30]   W21 +  3 dice:embedded systems eng|San Francisc
+[23:27:34]   W22 +  5 simplyhired:business analyst|Seattle
+[23:27:37]   W03 +  3 simplyhired:python developer|Austin
+[23:27:38]   W10 ATS +9 from 1 boards
+[23:27:41]   [7,400] +5,778 | DB=629,562 | 215/min | Gap=370,438 | arbeitnow:2 ats_discover:197 dice:4125 findwork:2 itjobs:1 jobspy:272 simplyhired:2801
+[23:27:43]   W06 ATS +100 from 1 boards
+[23:27:46]   W11 +  8 simplyhired:cloud architect|Seattle
+[23:27:50]   W15 ATS +1 from 2 boards
+[23:27:54]   W25 +  4 simplyhired:work from home|Remote
+[23:27:54]   W04 +  3 dice:kubernetes engineer|Chicago
+[23:27:56]   W28 + 11 dice:hiring now|Washington D
+[23:27:58]   W08 +  3 simplyhired:data engineer|Houston
+[23:27:58]   W27 +  4 dice:MLOps|San Jose
+[23:28:00]   W13 +  3 simplyhired:Next.js|Nashville
+[23:28:03]   W11 +  7 simplyhired:Python|Washington D
+[23:28:06]   W29 +  3 dice:business analyst|Austin
+[23:28:08]   W14 ATS +32 from 1 boards
+[23:28:10]   W10 +  7 simplyhired:Azure|Atlanta
+[23:28:10]   [HEARTBEAT] DB=629,637 | iters=7,511 new=5,848 | 27min elapsed | Gap=370,363
+[23:28:12]   W24 +  6 simplyhired:AWS|Nashville
+[23:28:13]   [7,400] +5,801 | DB=629,646 | 214/min | Gap=370,354 | arbeitnow:1 ats_discover:202 dice:4196 itjobs:1 jobicy:2 jobspy:260 simplyhired:2739
+[23:28:21]   W04 ATS +2 from 2 boards
+[23:28:22]   [HEARTBEAT] DB=629,651 | iters=7,442 new=5,804 | 27min elapsed | Gap=370,349
+[23:28:22]   W23 ATS +2 from 1 boards
+[23:28:28]   W24 + 17 simplyhired:QA engineer|Los Angeles
+[23:28:30]   W29 +  5 dice:computer vision engi|
+[23:28:33]   [7,600] +5,862 | DB=629,677 | 211/min | Gap=370,323 | arbeitnow:2 ats_discover:203 dice:4226 findwork:2 itjobs:1 jobspy:279 simplyhired:2887
+[23:28:34]   W04 + 15 simplyhired:Principal Engineer|Chicago
+[23:28:42]   W04 + 18 simplyhired:product manager|Dallas
+[23:28:45]   W17 +  3 dice:kotlin developer|San Jose
+[23:28:46]   W04 +  5 dice:infrastructure engin|Seattle
+[23:28:47]   W12 ATS +9 from 1 boards
+[23:28:50]   W20 +  8 dice:hiring now|Boston
+[23:28:50]   W26 +  7 dice:Lead Engineer|Los Angeles
+[23:28:54]   W16 +  4 dice:Terraform|Remote
+[23:28:59]   W06 +  4 dice:intern|Dallas
+[23:29:01]   W07 +  5 simplyhired:Azure|San Jose
+[23:29:08]   W22 +  3 simplyhired:go developer|Boston
+[23:29:08]   W11 +  6 simplyhired:Deep Learning|New York
+[23:29:08]   W03 + 11 dice:data analyst|
+[23:29:08]   [7,600] +5,905 | DB=630,001 | 211/min | Gap=369,999 | arbeitnow:1 ats_discover:213 dice:4305 itjobs:1 jobicy:2 jobspy:265 simplyhired:2813
+[23:29:10]   [HEARTBEAT] DB=630,001 | iters=7,746 new=5,908 | 28min elapsed | Gap=369,999
+[23:29:16]   W07 ATS +2 from 1 boards
+[23:29:20]   W19 +  3 dice:Principal Engineer|
+[23:29:22]   [HEARTBEAT] DB=630,024 | iters=7,659 new=5,915 | 28min elapsed | Gap=369,976
+[23:29:22]   W29 +  3 dice:database engineer|
+[23:29:22]   W02 +  5 simplyhired:embedded systems eng|Sydney
+[23:29:22]   W08 +  6 dice:Principal Engineer|Chicago
+[23:29:23]   W05 + 11 simplyhired:business analyst|Washington D
+[23:29:23]   [7,800] +5,931 | DB=630,051 | 208/min | Gap=369,949 | arbeitnow:2 ats_discover:214 dice:4334 findwork:2 itjobs:1 jobspy:286 simplyhired:2961
+[23:29:24]   W18 +  6 dice:QA engineer|Boston
+[23:29:27]   W05 ATS +14 from 1 boards
+[23:29:30]   W29 +  3 simplyhired:kubernetes engineer|Atlanta
+[23:29:32]   W28 +  3 dice:senior software engi|Dallas
+[23:29:32]   W05 +  8 dice:LLM engineer|Boston
+[23:29:32]   W03 +  3 dice:Java|Raleigh
+[23:29:33]   W06 +  3 simplyhired:.NET developer|Atlanta
+[23:29:34]   W09 ATS +73 from 2 boards
+[23:29:36]   W24 +  3 simplyhired:Machine Learning|London
+[23:29:38]   W21 +  4 dice:intern|Raleigh
+[23:29:38]   W01 ATS +13 from 1 boards
+[23:29:41]   W10 ATS +100 from 1 boards
+[23:29:42]   W00 ATS +12 from 2 boards
+[23:29:50]   [7,800] +5,981 | DB=630,103 | 208/min | Gap=369,897 | arbeitnow:1 ats_discover:221 dice:4418 findwork:1 itjobs:1 jobicy:2 jobspy:273 simplyhired:2883
+[23:29:51]   W08 + 20 simplyhired:GCP|New York
+[23:29:54]   W06 ATS +1 from 1 boards
+[23:29:56]   W28 +  4 simplyhired:SDE|Remote
+[23:29:56]   W19 + 10 dice:junior software engi|Denver
+[23:29:56]   W27 +  3 dice:Swift|Atlanta
+[23:30:02]   W01 +  3 dice:GCP|Charlotte
+[23:30:06]   W05 +  6 simplyhired:C++ engineer|Dallas
+[23:30:06]   [8,000] +6,153 | DB=630,157 | 210/min | Gap=369,843 | arbeitnow:2 ats_discover:219 dice:4453 findwork:2 itjobs:1 jobspy:292 simplyhired:3031
+[23:30:06]   W07 +  7 dice:remote|Dallas
+[23:30:08]   W02 +  4 dice:C#|Seattle
+[23:30:08]   W08 +  4 dice:database engineer|Nashville
+[23:30:10]   W07 +  4 dice:Next.js|New York
+[23:30:10]   [HEARTBEAT] DB=630,183 | iters=8,013 new=6,162 | 29min elapsed | Gap=369,817
+[23:30:13]   W19 +  9 dice:technical lead|Denver
+[23:30:16]   W18 +  3 dice:security engineer|Los Angeles
+[23:30:21]   W21 + 13 simplyhired:AWS|London
+[23:30:22]   [HEARTBEAT] DB=630,224 | iters=7,963 new=6,053 | 29min elapsed | Gap=369,776
+[23:30:22]   W06 +  3 dice:C#|Chicago
+[23:30:26]   W19 +  4 simplyhired:Next.js|Dallas
+[23:30:27]   W21 +  7 dice:java developer|Washington D
+[23:30:29]   W00 +  6 dice:Go|Austin
+[23:30:29]   W13 +  5 simplyhired:NLP engineer|Austin
+[23:30:33]   [8,000] +6,058 | DB=630,268 | 206/min | Gap=369,732 | arbeitnow:1 ats_discover:227 dice:4533 findwork:1 itjobs:1 jobicy:2 jobspy:276 simplyhired:2959
+[23:30:35]   W24 +  9 dice:database engineer|Dallas
+[23:30:42]   W24 +  5 simplyhired:TypeScript|Washington D
+[23:30:42]   W18 + 12 simplyhired:contract|San Francisc
+[23:30:43]   W09 +  3 dice:firmware engineer|Seattle
+[23:30:44]   W13 +  6 simplyhired:firmware engineer|Dallas
+[23:30:52]   W16 +  8 dice:cloud engineer|
+[23:30:52]   [8,200] +6,230 | DB=630,409 | 207/min | Gap=369,591 | arbeitnow:2 ats_discover:220 dice:4553 findwork:2 itjobs:1 jobspy:296 simplyhired:3126
+[23:30:55]   W08 +  4 dice:python developer|Charlotte
+[23:31:06]   W02 +  4 simplyhired:engineering manager|Toronto
+[23:31:07]   W19 +  3 simplyhired:go developer|Washington D
+[23:31:07]   W11 +  5 simplyhired:data scientist|Seattle
+[23:31:10]   W01 + 18 simplyhired:GCP|Denver
+[23:31:10]   W23 + 12 simplyhired:generative AI|Houston
+[23:31:10]   W24 +  5 dice:Machine Learning|Dallas
+[23:31:10]   [HEARTBEAT] DB=630,576 | iters=8,269 new=6,275 | 30min elapsed | Gap=369,424
+[23:31:11]   W05 +  3 dice:engineering manager|Atlanta
+[23:31:11]   W10 +  4 dice:QA engineer|Atlanta
+[23:31:11]   [8,200] +6,116 | DB=630,585 | 203/min | Gap=369,415 | arbeitnow:1 ats_discover:227 dice:4655 findwork:1 itjobs:1 jobicy:2 jobspy:285 simplyhired:3028
+[23:31:11]   W16 + 10 simplyhired:data analyst|
+[23:31:12]   W27 ATS +120 from 4 boards
+[23:31:12]   W00 +  6 dice:UX designer|San Francisc
+[23:31:14]   W23 ATS +16 from 1 boards
+[23:31:20]   W05 +  4 simplyhired:aws engineer|Seattle
+[23:31:21]   W02 +  5 simplyhired:game developer|New York
+[23:31:22]   W00 +  7 dice:C#|Los Angeles
+[23:31:22]   [HEARTBEAT] DB=630,621 | iters=8,231 new=6,149 | 30min elapsed | Gap=369,379
+[23:31:24]   W17 +  4 dice:senior software engi|Boston
+[23:31:24]   W03 +  4 simplyhired:Java|Washington D
+[23:31:24]   W18 +  3 simplyhired:Terraform|Houston
+[23:31:33]   W08 + 13 simplyhired:Scala|Los Angeles
+[23:31:33]   W17 +  4 simplyhired:contract|Delhi
+[23:31:33]   W12 +  3 simplyhired:kotlin developer|Atlanta
+[23:31:33]   W22 ATS +7 from 1 boards
+[23:31:33]   W20 + 12 simplyhired:business analyst|Delhi
+[23:31:37]   [8,400] +6,443 | DB=630,699 | 209/min | Gap=369,301 | arbeitnow:2 ats_discover:224 dice:4676 findwork:2 itjobs:1 jobspy:302 simplyhired:3193
+[23:31:40]   W22 +  5 simplyhired:business analyst|Charlotte
+[23:31:40]   W13 +  6 dice:JavaScript|Austin
+[23:31:54]   W02 ATS +58 from 1 boards
+[23:32:02]   W00 ATS +23 from 1 boards
+[23:32:02]   [8,400] +6,213 | DB=630,763 | 201/min | Gap=369,237
+[23:32:03]   W24 ATS +2 from 1 boards
+[23:32:05]   W20 +  8 dice:remote|Remote
+[23:32:05]   [8,500] +6,529 | DB=630,773 | 209/min | Gap=369,227
+[23:32:07]   W09 +  4 simplyhired:.NET developer|Chicago
+[23:32:07]   W14 +  6 dice:Android developer|Washington D
+[23:32:07]   W29 +  6 dice:engineering manager|San Francisc
+[23:32:08]   W21 +  3 simplyhired:contract|Tampa
+[23:32:10]   [HEARTBEAT] DB=630,800 | iters=8,536 new=6,538 | 31min elapsed | Gap=369,200
+[23:32:11]   W23 ATS +2 from 1 boards
+[23:32:13]   W12 + 17 simplyhired:Scala|Warsaw
+[23:32:13]   W04 ATS +10 from 1 boards
+[23:32:16]   W12 +  7 dice:software developer|Seattle
+[23:32:18]   W12 +  5 dice:full stack developer|Washington D
+[23:32:19]   W15 + 10 simplyhired:data analyst|Remote
+[23:32:19]   W22 +  8 simplyhired:Azure|
+[23:32:20]   W16 +  8 dice:LLM engineer|Seattle
+[23:32:22]   [HEARTBEAT] DB=630,864 | iters=8,491 new=6,269 | 31min elapsed | Gap=369,136
+[23:32:22]   [8,600] +6,580 | DB=630,864 | 208/min | Gap=369,136 | arbeitnow:2 ats_discover:229 dice:4795 findwork:2 itjobs:1 jobspy:311 simplyhired:3260
+[23:32:26]   W12 +  5 simplyhired:hiring now|Los Angeles
+[23:32:30]   W08 + 10 dice:business analyst|Boston
+[23:32:30]   W03 +100 arbeitnow:|
+[23:32:32]   W07 +  4 dice:cloud architect|New York
+[23:32:33]   W13 +  3 simplyhired:Kubernetes|Phoenix
+[23:32:35]   W00 ATS +29 from 1 boards
+[23:32:39]   W06 + 11 dice:cloud architect|
+[23:32:42]   W06 +  9 simplyhired:technical lead|Raleigh
+[23:32:43]   W01 ATS +1 from 1 boards
+[23:32:45]   W13 +  3 simplyhired:senior software engi|Austin
+[23:32:47]   W16 ATS +71 from 1 boards
+[23:32:47]   [8,600] +6,318 | DB=631,198 | 200/min | Gap=368,802 | arbeitnow:1 ats_discover:239 dice:4861 findwork:1 itjobs:1 jobicy:2 jobspy:295 simplyhired:3200
+[23:32:59]   W26 +  5 simplyhired:C++ engineer|
+[23:32:59]   W18 +  3 simplyhired:business analyst|Raleigh
+[23:32:59]   W19 +  3 dice:data scientist|Portland
+[23:32:59]   W03 +  3 simplyhired:game developer|
+[23:33:02]   W28 +  5 dice:business analyst|Chicago
+[23:33:04]   W10 ATS +100 from 2 boards
+[23:33:05]   W14 + 13 simplyhired:intern|Atlanta
+[23:33:05]   W01 + 10 dice:staff engineer|Remote
+[23:33:06]   W20 +  7 dice:business analyst|Dallas
+[23:33:07]   W23 +  8 simplyhired:generative AI|Madrid
+[23:33:07]   W07 +  5 simplyhired:database engineer|Remote
+[23:33:08]   W06 +  3 dice:Angular|Washington D
+[23:33:10]   W14 +  6 dice:web developer|Washington D
+[23:33:10]   [HEARTBEAT] DB=631,282 | iters=8,782 new=6,946 | 32min elapsed | Gap=368,718
+[23:33:12]   W05 +  6 simplyhired:security engineer|Melbourne
+[23:33:12]   W16 +  3 dice:aws engineer|
+[23:33:12]   W20 +  7 dice:junior software engi|
+[23:33:12]   W12 +  5 dice:senior software engi|
+[23:33:13]   W14 +  3 dice:devops engineer|Dallas
+[23:33:13]   W01 +  3 dice:scrum master|Atlanta
+[23:33:14]   [8,800] +6,950 | DB=631,352 | 214/min | Gap=368,648 | arbeitnow:3 ats_discover:236 dice:4902 findwork:3 itjobs:1 jobspy:323 simplyhired:3332
+[23:33:15]   W29 +  8 dice:security engineer|Chicago
+[23:33:15]   W05 +  4 simplyhired:Machine Learning|Dublin
+[23:33:15]   W17 + 13 simplyhired:data analyst|Austin
+[23:33:16]   W12 +  5 simplyhired:C#|Washington D
+[23:33:16]   W04 + 18 simplyhired:remote|Nashville
+[23:33:21]   W27 +  8 simplyhired:business analyst|Atlanta
+[23:33:22]   [HEARTBEAT] DB=631,411 | iters=8,748 new=6,401 | 32min elapsed | Gap=368,589
+[23:33:25]   W16 +  5 simplyhired:GCP|Denver
+[23:33:29]   W12 +  8 dice:intern|Austin
+[23:33:32]   W02 ATS +48 from 1 boards
+[23:33:33]   W11 +  3 simplyhired:fastapi developer|New York
+[23:33:35]   W17 +  3 dice:Lead Engineer|Denver
+[23:33:35]   W05 +  4 dice:Scala|Washington D
+[23:33:35]   W26 +  3 dice:infrastructure engin|Dallas
+[23:33:35]   [8,800] +6,412 | DB=631,453 | 197/min | Gap=368,547 | arbeitnow:1 ats_discover:242 dice:4977 findwork:1 itjobs:1 jobicy:2 jobspy:300 simplyhired:3276
+[23:33:36]   W21 +  3 dice:software engineer|San Francisc
+[23:33:37]   W19 +  3 dice:staff engineer|Phoenix
+[23:33:37]   W27 +  5 simplyhired:data analyst|Raleigh
+[23:33:38]   W11 +  4 simplyhired:machine learning eng|Miami
+[23:33:39]   W06 +  6 dice:generative AI|Dallas
+[23:33:43]   W08 ATS +8 from 1 boards
+[23:33:44]   W11 + 10 simplyhired:technical lead|Phoenix
+[23:33:49]   W05 +  6 dice:junior software engi|Seattle
+[23:33:51]   W19 +  6 simplyhired:Machine Learning|Miami
+[23:33:51]   W14 + 12 simplyhired:data scientist|Washington D
+[23:33:51]   W02 +  3 simplyhired:product manager|New York
+[23:33:51]   [9,000] +7,101 | DB=631,526 | 215/min | Gap=368,474 | arbeitnow:3 ats_discover:240 dice:5009 findwork:3 itjobs:1 jobicy:1 jobspy:332 simplyhired:3414
+[23:33:53]   W07 +  3 simplyhired:platform engineer|Miami
+[23:33:57]   W17 +  6 dice:Machine Learning|
+[23:34:00]   W12 +  3 simplyhired:computer vision engi|Nashville
+[23:34:00]   W09 +  4 dice:AI engineer|San Jose
+[23:34:05]   W26 + 15 simplyhired:cloud architect|Boston
+[23:34:05]   W13 + 11 simplyhired:Lead Engineer|San Francisc
+[23:34:05]   W19 + 10 dice:hiring now|New York
+[23:34:10]   W17 +  5 simplyhired:AWS|Delhi
+[23:34:10]   [HEARTBEAT] DB=631,614 | iters=9,100 new=7,142 | 33min elapsed | Gap=368,386
+[23:34:13]   W03 +  3 simplyhired:machine learning eng|Charlotte
+[23:34:13]   W17 +  4 dice:cloud architect|Washington D
+[23:34:13]   W29 +  4 dice:embedded systems eng|San Jose
+[23:34:17]   W13 + 13 simplyhired:computer vision engi|
+[23:34:20]   W24 ATS +6 from 1 boards
+[23:34:22]   [HEARTBEAT] DB=631,742 | iters=8,991 new=6,497 | 33min elapsed | Gap=368,258
+[23:34:22]   W27 +  4 dice:intern|Miami
+[23:34:22]   W01 +  4 dice:staff engineer|Austin
+[23:34:22]   W00 +  7 dice:react developer|New York
+[23:34:24]   [9,000] +6,505 | DB=631,761 | 195/min | Gap=368,239 | arbeitnow:1 ats_discover:251 dice:5089 findwork:1 itjobs:1 jobicy:2 jobspy:309 simplyhired:3346
+[23:34:24]   W24 +  3 dice:Swift|New York
+[23:34:31]   W19 +  3 simplyhired:.NET developer|Dublin
+[23:34:32]   W15 + 14 simplyhired:technical lead|Charlotte
+[23:34:33]   W16 ATS +1 from 1 boards
+[23:34:35]   [9,200] +7,163 | DB=631,886 | 212/min | Gap=368,114 | arbeitnow:3 ats_discover:242 dice:5125 findwork:3 itjobs:1 jobicy:1 jobspy:335 simplyhired:3490
+[23:34:39]   W16 +  4 simplyhired:hiring now|Tampa
+[23:34:42]   W25 ATS +13 from 2 boards
+[23:34:42]   W22 ATS +100 from 1 boards
+[23:34:45]   W25 ATS +15 from 1 boards
+[23:34:47]   W00 +  4 dice:cloud engineer|San Francisc
+[23:34:50]   W19 +  5 simplyhired:LLM engineer|
+[23:34:53]   W10 +  8 dice:staff engineer|Remote
+[23:34:56]   W19 +  4 dice:LLM engineer|Dallas
+[23:35:05]   W04 + 16 simplyhired:QA engineer|Houston
+[23:35:07]   W29 +  9 simplyhired:remote|Nashville
+[23:35:07]   W27 +  3 simplyhired:frontend developer|Raleigh
+[23:35:08]   W10 ATS +97 from 1 boards
+[23:35:10]   [HEARTBEAT] DB=632,084 | iters=9,344 new=7,396 | 34min elapsed | Gap=367,916
+[23:35:11]   [9,200] +6,590 | DB=632,084 | 193/min | Gap=367,916 | arbeitnow:1 ats_discover:260 dice:5201 findwork:1 itjobs:1 jobicy:2 jobspy:320 simplyhired:3414
+[23:35:11]   W29 ATS +2 from 1 boards
+[23:35:11]   [9,350] +7,398 | DB=632,084 | 215/min | Gap=367,916
+[23:35:12]   W02 +  6 dice:scrum master|New York
+[23:35:20]   W11 ATS +100 from 1 boards
+[23:35:21]   W03 + 17 dice:data analyst|New York
+[23:35:23]   [HEARTBEAT] DB=632,216 | iters=9,237 new=6,591 | 34min elapsed | Gap=367,784
+[23:35:24]   W15 ATS +8 from 3 boards
+[23:35:26]   [9,400] +7,534 | DB=632,227 | 218/min | Gap=367,773 | arbeitnow:3 ats_discover:250 dice:5239 findwork:3 itjobs:1 jobicy:1 jobspy:343 simplyhired:3560
+[23:35:28]   W04 +  3 dice:data engineer|Atlanta
+[23:35:30]   W06 ATS +1 from 1 boards
+[23:35:31]   W11 +  8 simplyhired:urgent hiring|Miami
+[23:35:31]   W00 +  5 dice:rust developer|Denver
+[23:35:33]   W17 ATS +5 from 1 boards
+[23:35:36]   W01 ATS +101 from 3 boards
+[23:35:38]   W21 +  3 dice:infrastructure engin|Atlanta
+[23:35:42]   W25 +  3 dice:infrastructure engin|Chicago
+[23:35:53]   W05 +  5 dice:JavaScript|Dallas
+[23:35:53]   W02 +  3 simplyhired:product manager|Madrid
+[23:35:55]   W20 +  3 dice:full stack developer|Dallas
+[23:35:55]   W02 +  6 simplyhired:Go|Dublin
+[23:35:56]   W18 ATS +13 from 1 boards
+[23:35:59]   W06 + 15 simplyhired:game developer|Chicago
+[23:36:02]   W07 +  5 simplyhired:contract|Manchester
+[23:36:02]   W04 +  3 simplyhired:backend engineer|Boston
+[23:36:03]   W13 + 17 dice:intern|Boston
+[23:36:04]   W02 +  5 simplyhired:java developer|Washington D
+[23:36:05]   W16 ATS +34 from 1 boards
+[23:36:06]   [9,400] +6,803 | DB=632,468 | 194/min | Gap=367,532 | arbeitnow:1 ats_discover:269 dice:5292 findwork:2 itjobs:1 jobicy:2 jobspy:331 simplyhired:3502
+[23:36:07]   W05 +  4 simplyhired:QA engineer|Raleigh
+[23:36:11]   W07 ATS +3 from 1 boards
+[23:36:12]   W15 +  3 simplyhired:Docker|Remote
+[23:36:12]   [HEARTBEAT] DB=632,477 | iters=9,590 new=7,594 | 35min elapsed | Gap=367,523
+[23:36:12]   W10 +  6 dice:Lead Engineer|Atlanta
+[23:36:12]   W22 ATS +7 from 1 boards
+[23:36:13]   W08 ATS +9 from 1 boards
+[23:36:14]   [9,600] +7,595 | DB=632,499 | 214/min | Gap=367,501 | arbeitnow:3 ats_discover:259 dice:5353 findwork:3 itjobs:1 jobicy:1 jobspy:352 simplyhired:3629
+[23:36:15]   W12 + 19 simplyhired:scrum master|Austin
+[23:36:16]   W24 +  5 dice:Principal Engineer|Los Angeles
+[23:36:17]   W23 +  9 dice:scrum master|Atlanta
+[23:36:18]   W14 ATS +6 from 1 boards
+[23:36:19]   W20 ATS +3 from 1 boards
+[23:36:24]   W24 +  7 dice:JavaScript|Dallas
+[23:36:24]   [HEARTBEAT] DB=632,524 | iters=9,479 new=6,854 | 35min elapsed | Gap=367,476
+[23:36:24]   W28 +  7 simplyhired:firmware engineer|Houston
+[23:36:26]   W23 +  7 simplyhired:Swift|Dallas
+[23:36:26]   W02 +  3 dice:Angular|Atlanta
+[23:36:27]   W25 +  8 dice:Principal Engineer|Atlanta
+[23:36:27]   W23 +  4 dice:Principal Engineer|Nashville
+[23:36:28]   W26 + 10 dice:generative AI|Washington D
+[23:36:28]   W02 +  8 simplyhired:product manager|Phoenix
+[23:36:29]   W05 +  3 dice:senior software engi|Remote
+[23:36:33]   W22 +  3 simplyhired:security engineer|Raleigh
+[23:36:34]   W29 ATS +37 from 1 boards
+[23:36:35]   W19 ATS +2 from 1 boards
+[23:36:38]   [9,700] +7,675 | DB=632,602 | 214/min | Gap=367,398
+[23:36:41]   W01 ATS +26 from 1 boards
+[23:36:41]   W15 +  7 simplyhired:business analyst|Los Angeles
+[23:36:44]   W25 +  7 simplyhired:LLM engineer|Seattle
+[23:36:47]   W17 ATS +12 from 1 boards
+[23:36:48]   W02 +  3 dice:JavaScript|Charlotte
+[23:36:51]   W26 +  4 dice:Scala|San Jose
+[23:36:53]   [9,600] +6,931 | DB=632,642 | 194/min | Gap=367,358 | arbeitnow:1 ats_discover:278 dice:5389 findwork:2 itjobs:1 jobicy:2 jobspy:339 simplyhired:3588
+[23:36:56]   W26 +  3 dice:frontend developer|
+[23:36:56]   W18 +  4 dice:Lead Engineer|Nashville
+[23:36:56]   [9,800] +7,710 | DB=632,651 | 213/min | Gap=367,349 | arbeitnow:3 ats_discover:265 dice:5473 findwork:3 itjobs:1 jobicy:1 jobspy:360 simplyhired:3694
+[23:36:59]   W06 +  3 dice:junior software engi|Portland
+[23:36:59]   W02 +  3 dice:Machine Learning|New York
+[23:36:59]   W03 +  3 simplyhired:gcp engineer|Boston
+[23:37:09]   W25 +  9 dice:AI engineer|New York
+[23:37:13]   W01 ATS +15 from 1 boards
+[23:37:13]   [HEARTBEAT] DB=632,728 | iters=9,849 new=7,731 | 36min elapsed | Gap=367,272
+[23:37:14]   W07 + 10 simplyhired:technical lead|Los Angeles
+[23:37:14]   W00 ATS +2 from 1 boards
+[23:37:16]   W05 +  3 simplyhired:node.js developer|Seattle
+[23:37:16]   W11 ATS +19 from 1 boards
+[23:37:17]   W06 +  3 dice:scrum master|Raleigh
+[23:37:19]   W11 + 14 dice:data analyst|Chicago
+[23:37:24]   [HEARTBEAT] DB=632,771 | iters=9,772 new=6,997 | 36min elapsed | Gap=367,229
+[23:37:26]   W15 ATS +1 from 1 boards
+[23:37:29]   [9,800] +6,998 | DB=632,772 | 192/min | Gap=367,228 | arbeitnow:1 ats_discover:285 dice:5512 findwork:2 itjobs:1 jobicy:2 jobspy:344 simplyhired:3653
+[23:37:30]   W11 +  3 simplyhired:devops engineer|Boston
+[23:37:30]   W14 +  3 dice:firmware engineer|Boston
+[23:37:30]   W00 +  4 simplyhired:infrastructure engin|San Francisc
+[23:37:31]   W17 ATS +25 from 1 boards
+[23:37:36]   W04 +  7 simplyhired:hiring now|Dallas
+[23:37:36]   W10 +  4 dice:business analyst|Charlotte
+[23:37:36]   W11 +  4 dice:gcp engineer|Remote
+[23:37:37]   W05 ATS +10 from 1 boards
+[23:37:48]   [10,000] +7,775 | DB=632,815 | 210/min | Gap=367,185 | arbeitnow:3 ats_discover:272 dice:5588 findwork:3 itjobs:1 jobicy:1 jobspy:371 simplyhired:3761
+[23:37:50]   W24 +  9 simplyhired:work from home|Sydney
+[23:37:54]   W07 +  5 simplyhired:MLOps|Washington D
+[23:37:57]   W10 +  5 simplyhired:go developer|Boston
+[23:37:57]   W01 + 10 simplyhired:urgent hiring|Atlanta
+[23:37:58]   W14 +  9 dice:intern|Charlotte
+[23:37:58]   W07 +  6 dice:platform engineer|Dallas
+[23:37:59]   W23 +  5 simplyhired:staff engineer|Melbourne
+[23:38:00]   W08 +  3 simplyhired:SDE|San Jose
+[23:38:00]   W21 +  5 dice:JavaScript|Chicago
+[23:38:01]   W23 +  8 dice:senior software engi|Washington D
+[23:38:13]   [HEARTBEAT] DB=632,898 | iters=10,119 new=7,826 | 37min elapsed | Gap=367,102
+[23:38:14]   W24 ATS +2 from 1 boards
+[23:38:16]   W27 +  3 dice:software developer|Austin
+[23:38:18]   W11 +  4 simplyhired:AWS|Seattle
+[23:38:24]   [HEARTBEAT] DB=632,908 | iters=9,986 new=7,082 | 37min elapsed | Gap=367,092
+[23:38:28]   [10,000] +7,083 | DB=632,910 | 190/min | Gap=367,090 | arbeitnow:1 ats_discover:294 dice:5616 findwork:2 itjobs:1 jobicy:2 jobspy:359 simplyhired:3725
+[23:38:29]   [10,200] +7,836 | DB=632,910 | 208/min | Gap=367,090 | arbeitnow:3 ats_discover:277 dice:5712 findwork:3 itjobs:1 jobicy:1 jobspy:377 simplyhired:3826
+[23:38:37]   W24 +  4 simplyhired:embedded systems eng|Houston
+[23:38:38]   W28 +  9 dice:intern|Denver
+[23:38:42]   W18 +  3 simplyhired:scrum master|Dallas
+[23:38:42]   W07 +  5 dice:hiring now|Austin
+[23:38:45]   W21 +  9 dice:intern|Los Angeles
+[23:38:45]   W24 +  3 simplyhired:infrastructure engin|Amsterdam
+[23:38:46]   W20 +  4 dice:urgent hiring|
+[23:38:46]   W14 +  4 dice:urgent hiring|Seattle
+[23:38:46]   W22 +  7 simplyhired:go developer|New York
+[23:38:50]   W13 +  4 simplyhired:Vue.js|Denver
+[23:38:51]   W19 +  6 simplyhired:embedded systems eng|Dublin
+[23:38:52]   W17 +  6 simplyhired:SRE|Washington D
+[23:38:52]   W01 ATS +5 from 2 boards
+[23:38:57]   W05 +  4 dice:azure engineer|Denver
+[23:38:57]   W07 +  3 simplyhired:spring boot develope|San Francisc
+[23:38:59]   W19 +  4 dice:blockchain developer|Nashville
+[23:39:00]   W26 ATS +2 from 2 boards
+[23:39:07]   W03 +  7 dice:data scientist|
+[23:39:09]   [10,400] +7,912 | DB=633,019 | 206/min | Gap=366,981 | arbeitnow:3 ats_discover:283 dice:5826 findwork:3 itjobs:1 jobicy:1 jobspy:386 simplyhired:3897
+[23:39:13]   [10,200] +7,122 | DB=633,022 | 187/min | Gap=366,978 | arbeitnow:1 ats_discover:303 dice:5719 findwork:2 itjobs:1 jobicy:2 jobspy:365 simplyhired:3807
+[23:39:13]   [HEARTBEAT] DB=633,022 | iters=10,415 new=7,913 | 38min elapsed | Gap=366,978
+[23:39:14]   W26 +  6 dice:hiring now|Denver
+[23:39:15]   W16 +  3 dice:infrastructure engin|Washington D
+[23:39:16]   W10 +  4 simplyhired:technical lead|Amsterdam
+[23:39:18]   W23 ATS +1 from 1 boards
+[23:39:18]   W06 +  8 dice:QA engineer|Dallas
+[23:39:19]   W26 +  3 dice:React|San Francisc
+[23:39:21]   W15 + 18 dice:intern|
+[23:39:21]   W21 +  4 dice:generative AI|Phoenix
+[23:39:21]   W04 +  4 dice:software engineer|Dallas
+[23:39:22]   W09 +  6 simplyhired:Azure|Manchester
+[23:39:25]   [HEARTBEAT] DB=633,093 | iters=10,254 new=7,163 | 38min elapsed | Gap=366,907
+[23:39:29]   W22 +  9 dice:junior software engi|Houston
+[23:39:33]   W27 +  6 simplyhired:SDE|Seattle
+[23:39:36]   W10 + 18 simplyhired:business analyst|Boston
+[23:39:42]   W19 +  3 simplyhired:SWE|Phoenix
+[23:39:44]   W11 +  7 dice:senior software engi|San Jose
+[23:39:49]   W06 +  3 dice:Lead Engineer|Tampa
+[23:39:49]   W23 +  6 simplyhired:product manager|Washington D
+[23:39:51]   [10,600] +7,980 | DB=633,367 | 204/min | Gap=366,633 | arbeitnow:3 ats_discover:287 dice:5936 findwork:3 itjobs:1 jobicy:1 jobspy:392 simplyhired:3977
+[23:39:58]   [10,400] +7,191 | DB=633,405 | 185/min | Gap=366,595 | arbeitnow:1 ats_discover:307 dice:5832 findwork:2 itjobs:1 jobicy:2 jobspy:375 simplyhired:3880
+[23:39:58]   W08 ATS +3 from 1 boards
+[23:39:59]   W25 ATS +38 from 2 boards
+[23:40:03]   W20 +  6 dice:Vue.js|New York
+[23:40:07]   W11 +  7 simplyhired:Scala|Seattle
+[23:40:09]   W20 +  8 dice:platform engineer|San Jose
+[23:40:09]   W16 +  6 dice:MLOps|Remote
+[23:40:09]   W08 ATS +111 from 3 boards
+[23:40:09]   W14 +  3 simplyhired:Scala|Dallas
+[23:40:10]   W01 ATS +96 from 1 boards
+[23:40:13]   [HEARTBEAT] DB=633,611 | iters=10,678 new=8,033 | 39min elapsed | Gap=366,389
+[23:40:15]   W22 +  3 dice:JavaScript|New York
+[23:40:18]   W29 + 14 simplyhired:UX designer|San Francisc
+[23:40:18]   W22 + 10 simplyhired:platform engineer|Dallas
+[23:40:18]   W23 ATS +100 from 1 boards
+[23:40:18]   W21 +  4 dice:go developer|Washington D
+[23:40:19]   W19 +  5 dice:C++ engineer|Washington D
+[23:40:21]   W02 +  7 simplyhired:contract|San Francisc
+[23:40:23]   W26 +  4 dice:UX designer|Boston
+[23:40:25]   [HEARTBEAT] DB=633,668 | iters=10,536 new=7,472 | 39min elapsed | Gap=366,332
+[23:40:26]   W15 +  3 dice:TypeScript|Dallas
+[23:40:31]   W15 +  6 dice:hiring now|Atlanta
+[23:40:35]   W13 ATS +67 from 1 boards
+[23:40:36]   W02 +  3 dice:C#|San Francisc
+[23:40:37]   W29 +  7 dice:scrum master|Los Angeles
+[23:40:39]   W05 +  3 dice:Python|Nashville
+[23:40:40]   W29 +  6 dice:engineering manager|Phoenix
+[23:40:40]   [10,800] +8,220 | DB=633,800 | 206/min | Gap=366,200 | arbeitnow:3 ats_discover:294 dice:6041 findwork:3 itjobs:1 jobicy:1 jobspy:401 simplyhired:4056
+[23:40:41]   [10,600] +7,493 | DB=633,800 | 189/min | Gap=366,200
+[23:40:42]   W03 +  4 dice:JavaScript|Chicago
+[23:40:46]   W06 +  6 dice:web developer|Remote
+[23:40:51]   W04 +  8 simplyhired:QA engineer|Los Angeles
+[23:40:52]   W09 ATS +1 from 1 boards
+[23:40:56]   W11 +  4 dice:terraform engineer|Denver
+[23:40:56]   W13 +  3 dice:SWE|Remote
+[23:40:58]   W21 ATS +1 from 1 boards
+[23:40:59]   W02 +  6 dice:work from home|San Francisc
+[23:41:02]   W09 +  3 simplyhired:intern|Boston
+[23:41:03]   W16 +  3 simplyhired:react developer|
+[23:41:03]   W08 +  3 dice:data engineer|Phoenix
+[23:41:06]   W23 + 11 simplyhired:engineering manager|Raleigh
+[23:41:09]   W09 +  6 simplyhired:Rust|New York
+[23:41:09]   W15 +  7 simplyhired:SRE|Tampa
+[23:41:13]   [HEARTBEAT] DB=633,880 | iters=10,945 new=8,256 | 40min elapsed | Gap=366,120
+[23:41:19]   [10,800] +7,538 | DB=633,880 | 188/min | Gap=366,120 | arbeitnow:1 ats_discover:314 dice:6071 findwork:3 itjobs:1 jobicy:2 jobspy:391 simplyhired:4017
+[23:41:20]   W09 + 13 dice:staff engineer|Los Angeles
+[23:41:20]   W03 +  4 simplyhired:MLOps|Phoenix
+[23:41:24]   W04 + 11 dice:Lead Engineer|Chicago
+[23:41:25]   [HEARTBEAT] DB=633,912 | iters=10,830 new=7,562 | 40min elapsed | Gap=366,088
+[23:41:28]   W11 +  6 simplyhired:Vue.js|New York
+[23:41:29]   W13 +  3 dice:Docker|Phoenix
+[23:41:29]   [11,000] +8,267 | DB=633,921 | 203/min | Gap=366,079 | arbeitnow:3 ats_discover:297 dice:6153 findwork:3 itjobs:1 jobicy:1 jobspy:405 simplyhired:4139
+[23:41:32]   W23 +  6 dice:data scientist|San Francisc
+[23:41:33]   W01 +  5 dice:business analyst|Chicago
+[23:41:34]   W17 +  4 simplyhired:Go|New York
+[23:41:37]   W17 +  5 dice:JavaScript|San Jose
+[23:41:42]   W26 +  4 dice:junior software engi|Dallas
+[23:41:43]   W04 +  4 simplyhired:devops engineer|San Francisc
+[23:41:51]   W05 ATS +100 from 1 boards
+[23:41:53]   W17 +  4 simplyhired:Swift|Phoenix
+[23:41:58]   W04 +  4 dice:senior software engi|San Francisc
+[23:42:04]   W28 +  5 simplyhired:machine learning eng|Manchester
+[23:42:04]   W21 + 12 dice:staff engineer|Denver
+[23:42:06]   W15 +  3 simplyhired:NLP engineer|San Francisc
+[23:42:08]   W12 +  6 dice:staff engineer|Austin
+[23:42:09]   W26 +  3 dice:Azure|Atlanta
+[23:42:11]   W00 +  9 simplyhired:engineering manager|Phoenix
+[23:42:11]   W20 +  4 dice:Kubernetes|San Jose
+[23:42:11]   [11,200] +8,433 | DB=634,023 | 204/min | Gap=365,977 | arbeitnow:3 ats_discover:304 dice:6256 findwork:3 itjobs:1 jobicy:1 jobspy:413 simplyhired:4219
+[23:42:12]   [11,000] +7,604 | DB=634,026 | 185/min | Gap=365,974 | arbeitnow:1 ats_discover:322 dice:6192 findwork:3 itjobs:1 jobicy:2 jobspy:397 simplyhired:4082
+[23:42:13]   [HEARTBEAT] DB=634,029 | iters=11,207 new=8,434 | 41min elapsed | Gap=365,971
+[23:42:16]   W28 +  6 dice:C#|San Jose
+[23:42:16]   W26 +  7 dice:staff engineer|Chicago
+[23:42:19]   W06 +  4 dice:data scientist|Houston
+[23:42:19]   W08 +  3 simplyhired:TypeScript|Denver
+[23:42:20]   W22 +  3 dice:MLOps|Boston
+[23:42:22]   W02 ATS +2 from 3 boards
+[23:42:22]   [11,050] +7,628 | DB=634,155 | 185/min | Gap=365,845
+[23:42:25]   W18 +  3 simplyhired:remote|Austin
+[23:42:25]   W17 +  3 dice:Docker|Los Angeles
+[23:42:25]   [HEARTBEAT] DB=634,181 | iters=11,068 new=7,637 | 41min elapsed | Gap=365,819
+[23:42:27]   W02 +  5 dice:scrum master|Denver
+[23:42:29]   W00 +  3 dice:cloud engineer|Dallas
+[23:42:41]   W13 + 13 simplyhired:intern|Boston
+[23:42:43]   W04 +  3 simplyhired:Principal Engineer|Chicago
+[23:42:48]   W17 ATS +16 from 1 boards
+[23:42:48]   W22 + 13 dice:UX designer|Remote
+[23:42:50]   W11 + 11 simplyhired:firmware engineer|Washington D
+[23:42:52]   [11,200] +7,659 | DB=634,252 | 183/min | Gap=365,748 | arbeitnow:1 ats_discover:331 dice:6295 findwork:3 itjobs:1 jobicy:2 jobspy:408 simplyhired:4160
+[23:42:56]   W24 ATS +100 from 1 boards
+[23:42:58]   W25 ATS +1 from 1 boards
+[23:43:00]   W07 ATS +1 from 1 boards
+[23:43:05]   W02 + 15 simplyhired:security engineer|Boston
+[23:43:06]   [11,400] +8,619 | DB=634,295 | 204/min | Gap=365,705 | arbeitnow:3 ats_discover:312 dice:6361 findwork:3 itjobs:1 jobicy:1 jobspy:418 simplyhired:4301
+[23:43:09]   W10 +  3 dice:AI engineer|Washington D
+[23:43:12]   W00 +  7 simplyhired:technical lead|Boston
+[23:43:13]   W07 + 10 simplyhired:technical lead|Atlanta
+[23:43:14]   [HEARTBEAT] DB=634,327 | iters=11,437 new=8,642 | 42min elapsed | Gap=365,673
+[23:43:17]   W01 ATS +6 from 2 boards
+[23:43:17]   W22 ATS +8 from 1 boards
+[23:43:17]   [11,450] +8,657 | DB=634,329 | 204/min | Gap=365,671
+[23:43:20]   W11 +100 arbeitnow:|
+[23:43:22]   W27 +  3 simplyhired:data scientist|New York
+[23:43:22]   W01 + 10 dice:firmware engineer|San Francisc
+[23:43:24]   W19 +  8 dice:senior software engi|San Jose
+[23:43:24]   W27 + 10 simplyhired:platform engineer|Melbourne
+[23:43:25]   [HEARTBEAT] DB=634,470 | iters=11,350 new=7,789 | 42min elapsed | Gap=365,530
+[23:43:28]   W01 +  3 dice:frontend developer|Portland
+[23:43:32]   W26 ATS +8 from 1 boards
+[23:43:34]   W14 +  4 dice:infrastructure engin|Dallas
+[23:43:40]   [11,400] +7,802 | DB=634,487 | 183/min | Gap=365,513 | arbeitnow:2 ats_discover:333 dice:6404 findwork:3 itjobs:1 jobicy:2 jobspy:418 simplyhired:4237
+[23:43:44]   W10 +  4 dice:blockchain developer|Remote
+[23:43:45]   W04 + 10 simplyhired:contract|
+[23:43:46]   W20 ATS +5 from 3 boards
+[23:43:49]   W27 +  4 dice:firmware engineer|Los Angeles
+[23:43:49]   W03 +  4 dice:QA engineer|San Francisc
+[23:43:50]   W13 +  4 dice:SDE|Dallas
+[23:43:51]   [11,600] +8,707 | DB=634,522 | 202/min | Gap=365,478 | arbeitnow:3 ats_discover:319 dice:6477 findwork:3 itjobs:1 jobicy:1 jobspy:426 simplyhired:4370
+[23:43:51]   W23 +  6 dice:C#|New York
+[23:43:54]   W01 +  3 simplyhired:Deep Learning|Atlanta
+[23:43:54]   W02 +  4 dice:C#|Nashville
+[23:43:54]   W26 +  6 simplyhired:staff engineer|Boston
+[23:43:56]   W02 +  3 dice:platform engineer|San Francisc
+[23:43:59]   W23 +  3 simplyhired:infrastructure engin|Austin
+[23:43:59]   W19 +  4 dice:UX designer|Dallas
+[23:44:01]   W23 +  4 dice:intern|Phoenix
+[23:44:03]   W14 +  8 dice:Lead Engineer|San Francisc
+[23:44:07]   W15 + 11 simplyhired:contract|Miami
+[23:44:07]   W23 +  5 dice:Machine Learning|New York
+[23:44:12]   W26 +  3 simplyhired:intern|Vancouver
+[23:44:12]   W06 +  4 dice:blockchain developer|Houston
+[23:44:13]   W14 +  4 dice:data engineer|San Francisc
+[23:44:14]   [HEARTBEAT] DB=634,627 | iters=11,700 new=8,752 | 43min elapsed | Gap=365,373
+[23:44:14]   W03 +  9 dice:Principal Engineer|San Jose
+[23:44:18]   [11,600] +7,874 | DB=634,638 | 182/min | Gap=365,362 | arbeitnow:2 ats_discover:339 dice:6521 findwork:3 itjobs:1 jobicy:2 jobspy:426 simplyhired:4306
+[23:44:24]   W23 +  5 dice:engineering manager|San Jose
+[23:44:28]   W29 +  6 simplyhired:SRE|Nashville
+[23:44:28]   [HEARTBEAT] DB=634,668 | iters=11,636 new=7,881 | 43min elapsed | Gap=365,332
+[23:44:29]   W09 +  7 simplyhired:QA engineer|Atlanta
+[23:44:33]   [11,800] +8,776 | DB=634,682 | 201/min | Gap=365,318 | arbeitnow:3 ats_discover:323 dice:6602 findwork:3 itjobs:1 jobicy:1 jobspy:434 simplyhired:4433
+[23:44:35]   W29 ATS +26 from 2 boards
+[23:44:37]   W12 + 12 dice:intern|Phoenix
+[23:44:41]   W05 +  7 dice:security engineer|New York
+[23:44:43]   W16 ATS +9 from 1 boards
+[23:44:45]   W14 +  5 dice:staff engineer|Portland
+[23:44:47]   W07 +  5 simplyhired:infrastructure engin|Dallas
+[23:44:48]   W06 +  9 simplyhired:technical lead|San Jose
+[23:44:48]   W07 +  6 simplyhired:Android developer|Seattle
+[23:44:50]   W11 +  5 dice:game developer|Los Angeles
+[23:44:56]   W08 + 10 dice:game developer|Raleigh
+[23:45:01]   W22 + 16 dice:data analyst|Washington D
+[23:45:01]   [11,800] +7,948 | DB=634,766 | 181/min | Gap=365,234 | arbeitnow:2 ats_discover:342 dice:6627 findwork:3 itjobs:1 jobicy:2 jobspy:433 simplyhired:4391
+[23:45:07]   W13 + 11 simplyhired:urgent hiring|Remote
+[23:45:08]   W14 + 12 dice:intern|Chicago
+[23:45:10]   W09 +  4 simplyhired:GCP|
+[23:45:13]   W22 +  4 dice:junior software engi|Phoenix
+[23:45:14]   [HEARTBEAT] DB=634,904 | iters=11,952 new=8,850 | 44min elapsed | Gap=365,096
+[23:45:16]   W13 +  5 simplyhired:SRE|Chicago
+[23:45:16]   W01 ATS +100 from 1 boards
+[23:45:17]   W19 +  4 simplyhired:JavaScript|Austin
+[23:45:21]   W13 +  3 dice:Python|New York
+[23:45:21]   [12,000] +8,959 | DB=634,923 | 201/min | Gap=365,077 | arbeitnow:3 ats_discover:329 dice:6715 findwork:3 itjobs:2 jobicy:1 jobspy:446 simplyhired:4502
+[23:45:28]   [HEARTBEAT] DB=634,923 | iters=11,932 new=7,974 | 44min elapsed | Gap=365,077
+[23:45:33]   W29 +  3 dice:business analyst|Boston
+[23:45:34]   W13 +  3 dice:C#|Portland
+[23:45:36]   W01 +  7 simplyhired:Docker|Boston
+[23:45:36]   W05 +  4 dice:Principal Engineer|Nashville
+[23:45:40]   [12,000] +7,981 | DB=634,944 | 179/min | Gap=365,056 | arbeitnow:2 ats_discover:344 dice:6738 findwork:3 itjobs:1 jobicy:2 jobspy:441 simplyhired:4469
+[23:45:41]   W02 +  4 simplyhired:SRE|Raleigh
+[23:45:41]   W05 +  4 simplyhired:kotlin developer|San Jose
+[23:45:45]   W06 ATS +1 from 1 boards
+[23:45:47]   W19 +  9 simplyhired:Principal Engineer|
+[23:46:02]   W08 +  8 dice:Deep Learning|New York
+[23:46:02]   W11 +  4 simplyhired:engineering manager|Tampa
+[23:46:03]   [12,200] +9,006 | DB=635,003 | 199/min | Gap=364,997 | arbeitnow:3 ats_discover:334 dice:6836 findwork:3 itjobs:2 jobicy:1 jobspy:453 simplyhired:4568
+[23:46:04]   W15 +  4 dice:mobile developer|Washington D
+[23:46:07]   W22 +  3 dice:scrum master|Tampa
+[23:46:11]   W18 ATS +3 from 2 boards
+[23:46:14]   W10 +  5 dice:business analyst|Austin
+[23:46:14]   [HEARTBEAT] DB=635,021 | iters=12,257 new=9,020 | 45min elapsed | Gap=364,979
+[23:46:14]   W17 +  3 simplyhired:TypeScript|Austin
+[23:46:18]   W16 ATS +1 from 1 boards
+[23:46:19]   W27 + 12 simplyhired:product manager|Austin
+[23:46:19]   W23 + 14 simplyhired:Principal Engineer|Remote
+[23:46:20]   W10 ATS +6 from 1 boards
+[23:46:20]   [12,200] +8,024 | DB=635,059 | 177/min | Gap=364,941 | arbeitnow:2 ats_discover:346 dice:6859 findwork:3 itjobs:2 jobicy:2 jobspy:445 simplyhired:4541
+[23:46:23]   W02 +  3 dice:Docker|Boston
+[23:46:23]   W10 +  3 simplyhired:database engineer|Chicago
+[23:46:28]   W04 ATS +1 from 1 boards
+[23:46:29]   [HEARTBEAT] DB=635,070 | iters=12,230 new=8,031 | 45min elapsed | Gap=364,930
+[23:46:36]   W22 +  3 simplyhired:machine learning eng|Phoenix
+[23:46:37]   W06 ATS +15 from 1 boards
+[23:46:40]   W18 +  3 dice:Lead Engineer|Boston
+[23:46:44]   [12,400] +9,049 | DB=635,190 | 197/min | Gap=364,810 | arbeitnow:3 ats_discover:339 dice:6949 findwork:3 itjobs:2 jobicy:1 jobspy:460 simplyhired:4649
+[23:46:50]   W06 + 10 simplyhired:kotlin developer|Austin
+[23:46:50]   W17 +  5 simplyhired:Lead Engineer|Charlotte
+[23:47:01]   W01 +  5 dice:Deep Learning|Chicago
+[23:47:01]   W12 +  3 dice:embedded systems eng|New York
+[23:47:01]   W17 +  3 simplyhired:platform engineer|Austin
+[23:47:01]   W16 +  3 simplyhired:product manager|Portland
+[23:47:03]   [12,400] +8,076 | DB=635,233 | 176/min | Gap=364,767 | arbeitnow:2 ats_discover:350 dice:6972 findwork:3 itjobs:2 jobicy:2 jobspy:453 simplyhired:4616
+[23:47:04]   W24 + 15 dice:work from home|Chicago
+[23:47:04]   W12 +  4 dice:database engineer|San Jose
+[23:47:11]   W22 +  6 dice:platform engineer|Washington D
+[23:47:11]   W28 + 10 dice:product manager|Portland
+[23:47:12]   W09 +  3 dice:AI engineer|Seattle
+[23:47:12]   W02 +  8 dice:QA engineer|New York
+[23:47:14]   [HEARTBEAT] DB=635,284 | iters=12,533 new=9,094 | 46min elapsed | Gap=364,716
+[23:47:24]   W18 +  5 simplyhired:swift developer|Dublin
+[23:47:25]   W10 +  4 simplyhired:GCP|Nashville
+[23:47:25]   W28 +  4 dice:generative AI|Atlanta
+[23:47:25]   W14 ATS +100 from 1 boards
+[23:47:26]   W24 + 78 arbeitnow:|
+[23:47:29]   [HEARTBEAT] DB=635,391 | iters=12,531 new=8,191 | 46min elapsed | Gap=364,609
+[23:47:31]   [12,600] +9,203 | DB=635,402 | 197/min | Gap=364,598 | arbeitnow:3 ats_discover:342 dice:7057 findwork:3 itjobs:2 jobicy:1 jobspy:467 simplyhired:4725
+[23:47:37]   W29 + 10 dice:UX designer|New York
+[23:47:47]   W19 +  8 dice:devops engineer|Washington D
+[23:47:49]   W08 +  3 dice:AWS|Dallas
+[23:47:50]   [12,600] +8,205 | DB=635,522 | 176/min | Gap=364,478 | arbeitnow:3 ats_discover:353 dice:7081 findwork:3 itjobs:2 jobicy:2 jobspy:453 simplyhired:4708
+[23:47:50]   W15 ATS +8 from 2 boards
+[23:47:57]   W19 ATS +5 from 1 boards
+[23:47:57]   W03 +  4 dice:.NET developer|
+[23:47:57]   W06 +  6 dice:embedded systems eng|Washington D
+[23:48:01]   W15 + 11 dice:engineering manager|San Francisc
+[23:48:10]   W00 ATS +4 from 3 boards
+[23:48:10]   W25 + 13 dice:engineering manager|New York
+[23:48:12]   W00 +  7 simplyhired:business analyst|Dallas
+[23:48:14]   W18 +  7 simplyhired:Go|New York
+[23:48:18]   W15 +  6 simplyhired:technical lead|Austin
+[23:48:18]   [HEARTBEAT] DB=635,733 | iters=12,783 new=9,241 | 47min elapsed | Gap=364,267
+[23:48:19]   W22 +  6 simplyhired:QA engineer|Houston
+[23:48:19]   W28 ATS +38 from 2 boards
+[23:48:20]   [12,800] +9,247 | DB=635,740 | 195/min | Gap=364,260 | arbeitnow:3 ats_discover:350 dice:7160 findwork:3 itjobs:2 jobicy:1 jobspy:475 simplyhired:4806
+[23:48:26]   W13 +  6 simplyhired:data engineer|San Francisc
+[23:48:26]   W11 ATS +102 from 2 boards
+[23:48:29]   [HEARTBEAT] DB=635,751 | iters=12,772 new=8,409 | 47min elapsed | Gap=364,249
+[23:48:31]   W14 ATS +91 from 1 boards
+[23:48:33]   W03 +  3 dice:hiring now|Los Angeles
+[23:48:34]   [12,800] +8,500 | DB=635,758 | 179/min | Gap=364,242 | arbeitnow:3 ats_discover:361 dice:7196 findwork:3 itjobs:2 jobicy:2 jobspy:460 simplyhired:4773
+[23:48:39]   W03 +  3 simplyhired:hiring now|Houston
+[23:48:39]   W00 +  3 dice:scrum master|Houston
+[23:48:40]   W00 + 19 simplyhired:engineering manager|Los Angeles
+[23:48:40]   W14 +  5 simplyhired:firmware engineer|San Francisc
+[23:48:41]   W00 +  3 simplyhired:JavaScript|New York
+[23:48:43]   [12,900] +9,262 | DB=635,794 | 193/min | Gap=364,206
+[23:48:46]   W25 ATS +5 from 1 boards
+[23:48:46]   W00 +  5 simplyhired:Machine Learning|Houston
+[23:48:48]   W03 +  3 simplyhired:embedded systems eng|Melbourne
+[23:48:55]   W00 +  9 dice:infrastructure engin|
+[23:48:58]   W13 +  8 simplyhired:Principal Engineer|Melbourne
+[23:48:59]   W11 +  3 simplyhired:MLOps|Houston
+[23:48:59]   W17 +  3 simplyhired:embedded systems eng|Manchester
+[23:49:00]   W26 ATS +5 from 2 boards
+[23:49:04]   W27 +  5 dice:.NET developer|Charlotte
+[23:49:10]   W21 ATS +2 from 1 boards
+[23:49:10]   W12 +  3 dice:azure engineer|Tampa
+[23:49:10]   [13,000] +9,311 | DB=635,858 | 193/min | Gap=364,142 | arbeitnow:3 ats_discover:355 dice:7271 findwork:3 itjobs:2 jobicy:1 jobspy:480 simplyhired:4891
+[23:49:18]   [13,000] +8,559 | DB=635,863 | 178/min | Gap=364,137 | arbeitnow:3 ats_discover:367 dice:7302 findwork:3 itjobs:2 jobicy:2 jobspy:470 simplyhired:4851
+[23:49:18]   [HEARTBEAT] DB=635,863 | iters=13,039 new=9,313 | 48min elapsed | Gap=364,137
+[23:49:19]   W02 +  3 dice:software engineer|Chicago
+[23:49:21]   W25 +  8 dice:engineering manager|Seattle
+[23:49:23]   W01 ATS +3 from 1 boards
+[23:49:26]   W09 + 10 dice:firmware engineer|Seattle
+[23:49:28]   W12 ATS +2 from 1 boards
+[23:49:28]   [13,050] +8,576 | DB=635,892 | 177/min | Gap=364,108
+[23:49:31]   W17 +  4 simplyhired:AWS|Houston
+[23:49:31]   [HEARTBEAT] DB=635,897 | iters=13,062 new=8,577 | 48min elapsed | Gap=364,103
+[23:49:36]   W09 + 13 simplyhired:GCP|San Francisc
+[23:49:36]   W21 +  5 dice:software engineer|Washington D
+[23:49:54]   W27 +  8 dice:Principal Engineer|Dallas
+[23:49:58]   W19 ATS +2 from 2 boards
+[23:50:01]   [13,200] +9,344 | DB=635,955 | 190/min | Gap=364,045 | arbeitnow:3 ats_discover:364 dice:7370 findwork:3 itjobs:2 jobicy:1 jobspy:489 simplyhired:4968
+[23:50:01]   W07 ATS +14 from 1 boards
+[23:50:10]   W02 + 15 dice:staff engineer|San Jose
+[23:50:10]   W09 +  7 dice:data engineer|Dallas
+[23:50:10]   W19 +  6 simplyhired:product manager|
+[23:50:10]   [13,200] +8,639 | DB=635,984 | 176/min | Gap=364,016 | arbeitnow:3 ats_discover:374 dice:7416 findwork:3 itjobs:2 jobicy:2 jobspy:479 simplyhired:4931
+[23:50:11]   W24 +  7 dice:C++ engineer|San Jose
+[23:50:12]   W04 +  8 dice:work from home|Chicago
+[23:50:13]   W03 +  3 dice:C++ engineer|New York
+[23:50:15]   W17 +  3 dice:AI engineer|Chicago
+[23:50:19]   [HEARTBEAT] DB=636,026 | iters=13,287 new=9,368 | 50min elapsed | Gap=363,974
+[23:50:20]   W14 +  8 dice:junior software engi|Los Angeles
+[23:50:20]   W16 +  7 simplyhired:embedded systems eng|Seattle
+[23:50:21]   [13,300] +9,383 | DB=636,066 | 189/min | Gap=363,934
+[23:50:21]   W17 +  6 dice:embedded systems eng|Dallas
+[23:50:22]   W13 +  3 dice:LLM engineer|Washington D
+[23:50:23]   W04 ATS +17 from 2 boards
+[23:50:28]   W20 ATS +11 from 1 boards
+[23:50:31]   W19 +  3 dice:machine learning eng|San Francisc
+[23:50:31]   [HEARTBEAT] DB=636,096 | iters=13,311 new=8,687 | 49min elapsed | Gap=363,904
+[23:50:40]   W04 +  3 dice:game developer|San Jose
+[23:50:42]   [13,400] +9,402 | DB=636,123 | 188/min | Gap=363,877 | arbeitnow:3 ats_discover:371 dice:7486 findwork:3 itjobs:2 jobicy:1 jobspy:498 simplyhired:5037
+[23:50:46]   W22 ATS +10 from 1 boards
+[23:50:53]   W11 +  8 dice:Principal Engineer|Houston
+[23:50:54]   W21 ATS +25 from 1 boards
+[23:50:58]   W10 +  3 dice:Terraform|Austin
+[23:50:58]   W02 +  5 simplyhired:C++ engineer|San Jose
+[23:50:58]   [13,400] +8,748 | DB=636,145 | 175/min | Gap=363,855 | arbeitnow:3 ats_discover:382 dice:7530 findwork:3 itjobs:2 jobicy:2 jobspy:487 simplyhired:4997
+[23:50:59]   W00 +  4 dice:devops engineer|New York
+[23:50:59]   W10 +  3 simplyhired:PHP developer|Remote
+[23:51:04]   W21 +  6 dice:infrastructure engin|San Jose
+[23:51:11]   W14 ATS +1 from 1 boards
+[23:51:11]   W13 +  5 simplyhired:generative AI|Atlanta
+[23:51:12]   W00 +  3 simplyhired:senior software engi|Boston
+[23:51:18]   W28 + 11 dice:security engineer|Washington D
+[23:51:18]   W26 +  6 dice:java developer|New York
+[23:51:19]   [HEARTBEAT] DB=636,197 | iters=13,556 new=9,435 | 51min elapsed | Gap=363,803
+[23:51:22]   W10 +  5 dice:engineering manager|Austin
+[23:51:22]   W11 +  4 simplyhired:Scala|Warsaw
+[23:51:29]   W04 +  4 simplyhired:C++ engineer|Dublin
+[23:51:29]   W01 +  3 dice:AI engineer|
+[23:51:31]   [13,600] +9,445 | DB=636,223 | 186/min | Gap=363,777 | arbeitnow:3 ats_discover:377 dice:7586 findwork:3 itjobs:2 jobicy:1 jobspy:507 simplyhired:5121
+[23:51:31]   W10 +  4 simplyhired:Principal Engineer|
+[23:51:31]   [HEARTBEAT] DB=636,227 | iters=13,579 new=8,781 | 50min elapsed | Gap=363,773
+[23:51:32]   W29 ATS +13 from 3 boards
+[23:51:35]   [13,600] +8,783 | DB=636,229 | 174/min | Gap=363,771 | arbeitnow:3 ats_discover:388 dice:7650 findwork:3 itjobs:2 jobicy:2 jobspy:500 simplyhired:5052
+[23:51:43]   W17 +  3 dice:junior software engi|San Jose
+[23:51:44]   W19 +  5 simplyhired:AWS|Dallas
+[23:51:48]   W17 +  5 dice:SWE|Remote
+[23:51:50]   W17 +  3 dice:Scala|Washington D
+[23:51:55]   W10 +  3 simplyhired:node.js developer|New York
+[23:51:56]   W09 +  3 dice:azure engineer|Washington D
+[23:51:57]   W12 +  5 dice:QA engineer|New York
+[23:51:57]   W22 ATS +1 from 2 boards
+[23:52:00]   W17 +  3 simplyhired:product manager|Houston
+[23:52:01]   W23 +  5 dice:Principal Engineer|Houston
+[23:52:03]   W18 ATS +1 from 1 boards
+[23:52:04]   W00 +  9 dice:Principal Engineer|New York
+[23:52:07]   W26 ATS +1 from 1 boards
+[23:52:08]   [13,800] +9,496 | DB=636,304 | 185/min | Gap=363,696 | arbeitnow:3 ats_discover:384 dice:7701 findwork:3 itjobs:2 jobicy:1 jobspy:513 simplyhired:5193
+[23:52:11]   W22 +  9 simplyhired:GCP|Raleigh
+[23:52:18]   W00 +  5 dice:Machine Learning|Austin
+[23:52:18]   W20 +  7 simplyhired:TypeScript|Melbourne
+[23:52:19]   [HEARTBEAT] DB=636,330 | iters=13,848 new=9,505 | 52min elapsed | Gap=363,670
+[23:52:23]   [13,800] +8,829 | DB=636,330 | 172/min | Gap=363,670 | arbeitnow:3 ats_discover:393 dice:7758 findwork:3 itjobs:2 jobicy:2 jobspy:511 simplyhired:5128
+[23:52:30]   W15 +  4 simplyhired:C++ engineer|Raleigh
+[23:52:32]   [HEARTBEAT] DB=636,342 | iters=13,839 new=8,832 | 51min elapsed | Gap=363,658
+[23:52:33]   W17 +  5 dice:Lead Engineer|Austin
+[23:52:33]   W16 +  4 dice:remote|Raleigh
+[23:52:35]   W24 +  8 dice:scrum master|Dallas
+[23:52:40]   W26 + 13 dice:work from home|New York
+[23:52:40]   W00 + 10 simplyhired:Deep Learning|Madrid
+[23:52:40]   W16 +  6 dice:product manager|Washington D
+[23:52:44]   W06 ATS +6 from 2 boards
+[23:52:45]   W01 ATS +4 from 1 boards
+[23:52:53]   W01 +  8 simplyhired:TypeScript|Manchester
+[23:52:53]   W04 +  5 simplyhired:rust developer|Washington D
+[23:52:56]   W11 ATS +1 from 1 boards
+[23:52:56]   [14,000] +9,543 | DB=636,413 | 183/min | Gap=363,587 | arbeitnow:3 ats_discover:388 dice:7820 findwork:3 itjobs:2 jobicy:1 jobspy:519 simplyhired:5264
+[23:52:57]   W12 +  3 dice:platform engineer|Washington D
+[23:52:58]   W24 +  5 dice:cloud engineer|Remote
+[23:53:03]   [14,000] +8,883 | DB=636,423 | 171/min | Gap=363,577 | arbeitnow:3 ats_discover:398 dice:7871 findwork:3 itjobs:2 jobicy:2 jobspy:516 simplyhired:5205
+[23:53:05]   W08 +  8 dice:work from home|Washington D
+[23:53:06]   W03 +  3 dice:devops engineer|Boston
+[23:53:07]   W21 + 13 simplyhired:data analyst|Dallas
+[23:53:19]   [HEARTBEAT] DB=636,483 | iters=14,108 new=9,566 | 53min elapsed | Gap=363,517
+[23:53:21]   W27 ATS +25 from 3 boards
+[23:53:21]   W18 ATS +1 from 1 boards
+[23:53:29]   W14 +  4 simplyhired:Go|Dallas
+[23:53:29]   W17 +  4 dice:business analyst|San Francisc
+[23:53:32]   [HEARTBEAT] DB=636,556 | iters=14,101 new=8,908 | 52min elapsed | Gap=363,444
+[23:53:36]   W16 ATS +56 from 1 boards
+[23:53:40]   W08 +  5 dice:database engineer|Washington D
+[23:53:42]   W28 +  5 simplyhired:infrastructure engin|Denver
+[23:53:42]   [14,200] +9,605 | DB=636,593 | 182/min | Gap=363,407 | arbeitnow:3 ats_discover:394 dice:7931 findwork:3 itjobs:2 jobicy:1 jobspy:531 simplyhired:5338
+[23:53:48]   W09 ATS +1 from 1 boards
+[23:53:49]   W17 +  8 dice:hiring now|
+[23:53:54]   W16 ATS +5 from 1 boards
+[23:53:57]   W13 +  3 simplyhired:PHP developer|San Francisc
+[23:53:59]   [14,200] +8,982 | DB=636,608 | 170/min | Gap=363,392 | arbeitnow:3 ats_discover:405 dice:7977 findwork:3 itjobs:2 jobicy:2 jobspy:529 simplyhired:5280
+[23:54:01]   W22 +  3 dice:cloud architect|Dallas
+[23:54:01]   W16 + 13 simplyhired:engineering manager|Los Angeles
+[23:54:04]   W01 +  4 dice:AWS|Dallas
+[23:54:08]   W19 ATS +24 from 1 boards
+[23:54:09]   W04 +  5 simplyhired:Principal Engineer|Houston
+[23:54:09]   W07 +  4 dice:blockchain developer|Raleigh
+[23:54:09]   W25 +  3 dice:engineering manager|Austin
+[23:54:12]   W18 +  3 dice:Principal Engineer|San Francisc
+[23:54:15]   W11 +  5 dice:spring boot develope|Washington D
+[23:54:15]   W11 + 13 simplyhired:engineering manager|New York
+[23:54:19]   W02 ATS +2 from 1 boards
+[23:54:19]   [HEARTBEAT] DB=636,686 | iters=14,364 new=9,674 | 54min elapsed | Gap=363,314
+[23:54:26]   W23 +  9 simplyhired:generative AI|Boston
+[23:54:26]   W22 +  6 dice:hiring now|New York
+[23:54:26]   W19 +  9 dice:java developer|Washington D
+[23:54:26]   [14,400] +9,690 | DB=636,714 | 181/min | Gap=363,286 | arbeitnow:3 ats_discover:402 dice:8040 findwork:3 itjobs:2 jobicy:1 jobspy:538 simplyhired:5417
+[23:54:30]   W23 +  3 dice:firmware engineer|Los Angeles
+[23:54:32]   [HEARTBEAT] DB=636,734 | iters=14,357 new=9,026 | 53min elapsed | Gap=363,266
+[23:54:36]   W20 +  3 dice:database engineer|Atlanta
+[23:54:40]   [14,400] +9,032 | DB=636,744 | 169/min | Gap=363,256 | arbeitnow:3 ats_discover:412 dice:8095 findwork:3 itjobs:2 jobicy:2 jobspy:533 simplyhired:5350
+[23:54:41]   W23 +  5 simplyhired:data analyst|Austin
+[23:54:50]   W25 +  4 dice:intern|San Jose
+[23:54:50]   W29 ATS +23 from 2 boards
+[23:54:55]   W05 +  8 dice:staff engineer|Los Angeles
+[23:55:03]   W27 + 16 simplyhired:intern|San Francisc
+[23:55:08]   W04 ATS +1 from 1 boards
+[23:55:08]   W05 +  9 simplyhired:Lead Engineer|Los Angeles
+[23:55:09]   W16 +  5 dice:staff engineer|Washington D
+[23:55:09]   [14,600] +9,755 | DB=636,829 | 180/min | Gap=363,171 | arbeitnow:3 ats_discover:405 dice:8154 findwork:3 itjobs:2 jobicy:1 jobspy:551 simplyhired:5482
+[23:55:11]   W11 +  7 simplyhired:kotlin developer|New York
+[23:55:12]   W13 +  3 simplyhired:AI engineer|Atlanta
+[23:55:12]   W03 +  6 simplyhired:AWS|New York
+[23:55:19]   [HEARTBEAT] DB=636,884 | iters=14,636 new=9,767 | 55min elapsed | Gap=363,116
+[23:55:20]   W28 +  3 dice:hiring now|San Jose
+[23:55:20]   W16 + 10 simplyhired:infrastructure engin|Houston
+[23:55:21]   W10 +  3 dice:platform engineer|New York
+[23:55:21]   [14,600] +9,088 | DB=636,901 | 168/min | Gap=363,099 | arbeitnow:3 ats_discover:417 dice:8215 findwork:3 itjobs:2 jobicy:2 jobspy:539 simplyhired:5419
+[23:55:22]   W12 +  5 dice:engineering manager|Dallas
+[23:55:27]   W18 ATS +18 from 1 boards
+[23:55:28]   W22 ATS +9 from 1 boards
+[23:55:29]   W10 +  7 dice:software engineer|San Jose
+[23:55:32]   [HEARTBEAT] DB=637,029 | iters=14,658 new=9,129 | 54min elapsed | Gap=362,971
+[23:55:34]   W14 +  5 dice:gcp engineer|San Francisc
+[23:55:34]   W07 +  4 simplyhired:scrum master|Dublin
+[23:55:37]   W04 +  5 dice:AI engineer|New York
+[23:55:39]   W07 + 12 dice:scrum master|Washington D
+[23:55:39]   W28 ATS +14 from 1 boards
+[23:55:41]   W17 +  3 dice:Deep Learning|San Francisc
+[23:55:41]   W10 +  6 simplyhired:hiring now|Austin
+[23:55:50]   W28 +  3 simplyhired:Next.js|Austin
+[23:55:50]   W14 +  5 dice:data scientist|Boston
+[23:55:56]   W20 +  3 simplyhired:Kotlin|San Francisc
+[23:55:57]   [14,800] +9,818 | DB=637,082 | 178/min | Gap=362,918 | arbeitnow:3 ats_discover:413 dice:8263 findwork:3 itjobs:2 jobicy:1 jobspy:559 simplyhired:5556
+[23:56:00]   W14 +  4 dice:Lead Engineer|Charlotte
+[23:56:02]   [14,800] +9,156 | DB=637,090 | 167/min | Gap=362,910 | arbeitnow:3 ats_discover:422 dice:8338 findwork:3 itjobs:2 jobicy:2 jobspy:547 simplyhired:5483
+[23:56:04]   W01 ATS +29 from 1 boards
+[23:56:05]   W02 +  4 simplyhired:NLP engineer|New York
+[23:56:05]   W00 ATS +100 from 3 boards
+[23:56:14]   W04 +  3 simplyhired:react developer|Seattle
+[23:56:21]   W21 ATS +5 from 2 boards
+[23:56:32]   [HEARTBEAT] DB=637,116 | iters=14,936 new=9,271 | 55min elapsed | Gap=362,884
+[23:56:33]   W01 +  3 simplyhired:Angular developer|Seattle
+[23:56:38]   [HEARTBEAT] DB=637,127 | iters=14,908 new=9,859 | 56min elapsed | Gap=362,873
+[23:56:38]   W22 +  5 dice:generative AI|Austin
+[23:56:38]   [14,900] +9,864 | DB=637,132 | 177/min | Gap=362,868
+[23:56:38]   W25 +  5 simplyhired:Azure|Phoenix
+[23:56:41]   [15,000] +9,281 | DB=637,135 | 167/min | Gap=362,865 | arbeitnow:3 ats_discover:431 dice:8444 findwork:3 itjobs:2 jobicy:2 jobspy:553 simplyhired:5562
+[23:56:44]   W24 +  3 dice:Scala|Atlanta
+[23:56:47]   W01 +  5 simplyhired:contract|Vancouver
+[23:56:48]   W08 +  3 dice:engineering manager|Chicago
+[23:56:48]   W02 +  4 dice:mobile developer|Charlotte
+[23:56:49]   W11 +  3 simplyhired:LLM engineer|Miami
+[23:56:57]   [15,000] +9,875 | DB=637,222 | 176/min | Gap=362,778 | arbeitnow:3 ats_discover:421 dice:8369 findwork:3 itjobs:2 jobicy:1 jobspy:564 simplyhired:5637
+[23:57:10]   W09 +  3 dice:blockchain developer|Dallas
+[23:57:10]   W08 + 18 simplyhired:hiring now|Charlotte
+[23:57:10]   W13 +  3 simplyhired:AI engineer|Chicago
+[23:57:10]   W00 +  5 simplyhired:intern|Toronto
+[23:57:13]   W23 ATS +4 from 1 boards
+[23:57:14]   W19 ATS +2 from 1 boards
+[23:57:14]   W22 +  3 simplyhired:kubernetes engineer|San Jose
+[23:57:26]   [15,200] +9,310 | DB=637,277 | 165/min | Gap=362,723 | arbeitnow:3 ats_discover:435 dice:8563 findwork:3 itjobs:2 jobicy:2 jobspy:565 simplyhired:5627
+[23:57:32]   [HEARTBEAT] DB=637,277 | iters=15,236 new=9,310 | 56min elapsed | Gap=362,723
+[23:57:33]   W04 ATS +8 from 2 boards
+[23:57:33]   W25 ATS +1 from 1 boards
+[23:57:34]   W15 +  3 dice:generative AI|Raleigh
+[23:57:34]   W08 + 10 dice:data scientist|San Francisc
+[23:57:34]   W05 + 10 simplyhired:intern|Raleigh
+[23:57:37]   W01 +  3 dice:QA engineer|Chicago
+[23:57:37]   W28 ATS +59 from 1 boards
+[23:57:43]   W03 ATS +1 from 2 boards
+[23:57:48]   W12 +  3 dice:product manager|Los Angeles
+[23:57:49]   [HEARTBEAT] DB=637,423 | iters=15,195 new=9,948 | 57min elapsed | Gap=362,577
+[23:57:49]   W25 +  3 dice:LLM engineer|Dallas
+[23:57:49]   [15,200] +9,951 | DB=637,426 | 175/min | Gap=362,574 | arbeitnow:3 ats_discover:431 dice:8477 findwork:3 itjobs:2 jobicy:2 jobspy:566 simplyhired:5717
+[23:57:54]   W11 ATS +100 from 1 boards
+[23:57:55]   W09 ATS +23 from 2 boards
+[23:58:01]   W00 +  8 dice:business analyst|Phoenix
+[23:58:04]   W18 +  4 dice:urgent hiring|Hyderabad
+[23:58:05]   [15,400] +9,383 | DB=637,542 | 165/min | Gap=362,458 | arbeitnow:3 ats_discover:441 dice:8683 findwork:3 itjobs:2 jobicy:2 jobspy:570 simplyhired:5696
+[23:58:07]   W24 +  5 dice:frontend developer|New York
+[23:58:14]   W22 +  6 dice:staff engineer|San Francisc
+[23:58:16]   W21 +  3 dice:senior software engi|Chicago
+[23:58:32]   W19 ATS +83 from 2 boards
+[23:58:32]   [HEARTBEAT] DB=637,577 | iters=15,532 new=9,481 | 57min elapsed | Gap=362,423
+[23:58:38]   W28 ATS +3 from 1 boards
+[23:58:39]   [15,350] +10,096 | DB=637,592 | 175/min | Gap=362,408
+[23:58:39]   W14 +  5 simplyhired:azure engineer|Dallas
+[23:58:39]   W02 +  5 dice:Scala|New York
+[23:58:42]   W07 +  4 dice:platform engineer|San Francisc
+[23:58:43]   [15,400] +10,108 | DB=637,611 | 175/min | Gap=362,389 | arbeitnow:3 ats_discover:437 dice:8585 findwork:3 itjobs:2 jobicy:2 jobspy:574 simplyhired:5794
+[23:58:45]   [15,600] +9,492 | DB=637,611 | 165/min | Gap=362,389 | arbeitnow:3 ats_discover:447 dice:8801 findwork:3 itjobs:2 jobicy:2 jobspy:574 simplyhired:5768
+[23:58:49]   W05 ATS +12 from 1 boards
+[23:58:50]   W01 +127 arbeitnow:|
+[23:58:50]   W10 +  3 dice:work from home|Phoenix
+[23:58:50]   [HEARTBEAT] DB=637,742 | iters=15,418 new=10,112 | 58min elapsed | Gap=362,258
+[23:58:53]   W22 +  4 dice:firmware engineer|Washington D
+[23:59:00]   W05 +  3 dice:hiring now|Charlotte
+[23:59:01]   W15 ATS +7 from 1 boards
+[23:59:07]   W19 +  6 simplyhired:QA engineer|New York
+[23:59:21]   W03 +  8 dice:Principal Engineer|Boston
+[23:59:21]   W12 +  9 simplyhired:Scala|Manila
+[23:59:21]   W01 +  6 simplyhired:work from home|Charlotte
+[23:59:21]   W28 ATS +33 from 1 boards
+[23:59:24]   W06 +  9 simplyhired:embedded systems eng|Los Angeles
+[23:59:26]   W06 + 20 simplyhired:contract|Charlotte
+[23:59:32]   [HEARTBEAT] DB=638,025 | iters=15,792 new=9,677 | 58min elapsed | Gap=361,975
+[23:59:33]   W10 + 10 simplyhired:data engineer|Madrid
+[23:59:33]   [15,800] +9,687 | DB=638,035 | 166/min | Gap=361,965 | arbeitnow:4 ats_discover:453 dice:8896 findwork:3 itjobs:2 jobicy:2 jobspy:580 simplyhired:5860
+[23:59:37]   W28 +  6 dice:hiring now|Chicago
+[23:59:40]   W01 +  5 dice:C#|Houston
+[23:59:41]   [15,600] +10,201 | DB=638,145 | 173/min | Gap=361,855 | arbeitnow:3 ats_discover:445 dice:8678 findwork:4 itjobs:2 jobicy:2 jobspy:583 simplyhired:5883
+[23:59:43]   W06 +  3 dice:frontend developer|New York
+[23:59:44]   W21 ATS +106 from 2 boards
+[23:59:50]   [HEARTBEAT] DB=638,154 | iters=15,636 new=10,203 | 59min elapsed | Gap=361,846
+[23:59:51]   W25 +  3 dice:platform engineer|Austin
+[23:59:51]   W02 + 13 simplyhired:Lead Engineer|Remote
+[23:59:51]   W00 + 16 dice:data analyst|Washington D
+[23:59:55]   W05 ATS +33 from 2 boards
+[00:00:12]   W09 ATS +13 from 1 boards
+[00:00:24]   [16,000] +9,816 | DB=638,195 | 166/min | Gap=361,805 | arbeitnow:4 ats_discover:459 dice:9003 findwork:3 itjobs:2 jobicy:3 jobspy:583 simplyhired:5943
+[00:00:25]   W13 +  3 simplyhired:contract|Tampa
+[00:00:25]   W10 + 10 simplyhired:UX designer|San Francisc
+[00:00:29]   [15,800] +10,286 | DB=638,243 | 172/min | Gap=361,757 | arbeitnow:3 ats_discover:452 dice:8794 findwork:4 itjobs:2 jobicy:2 jobspy:587 simplyhired:5956
+[00:00:38]   W26 ATS +27 from 1 boards
+[00:00:45]   W01 +  6 dice:QA engineer|Los Angeles
+[00:00:46]   [HEARTBEAT] DB=638,250 | iters=16,054 new=9,847 | 60min elapsed | Gap=361,750
+[00:00:46]   W24 +  5 dice:senior software engi|Washington D
+[00:00:46]   W20 +  6 dice:firmware engineer|San Jose
+[00:00:47]   W06 +  3 dice:software engineer|Austin
+[00:00:48]   W23 +  4 dice:security engineer|Seattle
+[00:00:50]   W14 ATS +93 from 2 boards
+[00:00:50]   [HEARTBEAT] DB=638,276 | iters=15,912 new=10,295 | 60min elapsed | Gap=361,724
+[00:01:01]   W04 +  9 simplyhired:generative AI|Los Angeles
+[00:01:04]   [16,150] +9,973 | DB=638,291 | 166/min | Gap=361,709
+[00:01:05]   W29 +  9 simplyhired:Deep Learning|Dallas
+[00:01:05]   W23 + 10 simplyhired:Lead Engineer|Seattle
+[00:01:06]   W22 +  6 dice:engineering manager|Los Angeles
+[00:01:11]   [16,000] +10,321 | DB=638,329 | 171/min | Gap=361,671 | arbeitnow:3 ats_discover:456 dice:8918 findwork:4 itjobs:2 jobicy:2 jobspy:595 simplyhired:6020
+[00:01:13]   [16,200] +9,983 | DB=638,386 | 166/min | Gap=361,614 | arbeitnow:4 ats_discover:462 dice:9116 findwork:3 itjobs:2 jobicy:3 jobspy:592 simplyhired:6018
+[00:01:16]   W13 + 13 dice:intern|Chicago
+[00:01:17]   W27 ATS +32 from 1 boards
+[00:01:21]   W11 + 12 dice:data scientist|New York
+[00:01:22]   W17 +  3 simplyhired:Machine Learning|Austin
+[00:01:22]   W10 ATS +100 from 1 boards
+[00:01:26]   W27 +  4 dice:spring boot develope|New York
+[00:01:29]   W28 ATS +8 from 1 boards
+[00:01:33]   W16 +  5 dice:hiring now|Seattle
+[00:01:36]   W12 +  9 simplyhired:business analyst|Boston
+[00:01:36]   W11 +  5 simplyhired:senior software engi|
+[00:01:48]   [HEARTBEAT] DB=638,558 | iters=16,335 new=10,107 | 61min elapsed | Gap=361,442
+[00:01:51]   W10 ATS +9 from 1 boards
+[00:01:52]   [HEARTBEAT] DB=638,560 | iters=16,185 new=10,404 | 61min elapsed | Gap=361,440
+[00:01:55]   [16,200] +10,406 | DB=638,564 | 170/min | Gap=361,436
+[00:01:56]   W08 ATS +2 from 1 boards
+[00:02:01]   W24 +  3 simplyhired:remote|Nashville
+[00:02:03]   [16,400] +10,114 | DB=638,570 | 166/min | Gap=361,430 | arbeitnow:4 ats_discover:470 dice:9231 findwork:3 itjobs:2 jobicy:3 jobspy:599 simplyhired:6088
+[00:02:04]   W24 ATS +15 from 1 boards
+[00:02:04]   W22 ATS +43 from 1 boards
+[00:02:07]   W15 +  3 simplyhired:terraform engineer|San Francisc
+[00:02:07]   W02 +  3 simplyhired:Rust|Dublin
+[00:02:12]   W03 +  3 dice:business analyst|Charlotte
+[00:02:16]   W01 ATS +1 from 1 boards
+[00:02:20]   W13 + 11 dice:staff engineer|New York
+[00:02:22]   W02 +  7 dice:iOS developer|San Jose
+[00:02:33]   W25 +  3 dice:technical lead|Denver
+[00:02:38]   [16,400] +10,430 | DB=638,619 | 169/min | Gap=361,381 | arbeitnow:3 ats_discover:468 dice:9131 findwork:4 itjobs:2 jobicy:2 jobspy:615 simplyhired:6175
+[00:02:43]   W13 +  9 simplyhired:firmware engineer|New York
+[00:02:44]   W14 +  3 dice:Principal Engineer|Remote
+[00:02:45]   W20 ATS +8 from 3 boards
+[00:02:47]   [16,600] +10,204 | DB=638,634 | 165/min | Gap=361,366 | arbeitnow:4 ats_discover:477 dice:9338 findwork:3 itjobs:2 jobicy:3 jobspy:605 simplyhired:6168
+[00:02:48]   [HEARTBEAT] DB=638,634 | iters=16,606 new=10,204 | 62min elapsed | Gap=361,366
+[00:02:50]   W20 + 14 dice:intern|Denver
+[00:02:50]   W11 +  7 simplyhired:GCP|New York
+[00:02:50]   W07 +  5 dice:Lead Engineer|Los Angeles
+[00:02:53]   [HEARTBEAT] DB=638,660 | iters=16,460 new=10,456 | 62min elapsed | Gap=361,340
+[00:02:53]   W04 +  3 simplyhired:generative AI|Dublin
+[00:02:54]   W07 +  9 dice:data engineer|Denver
+[00:02:54]   W19 + 14 dice:data analyst|Atlanta
+[00:03:00]   W16 +  3 dice:junior software engi|Dallas
+[00:03:01]   W19 +  5 simplyhired:engineering manager|Dublin
+[00:03:03]   W26 +  6 dice:scrum master|New York
+[00:03:03]   W08 +  6 dice:Lead Engineer|Dallas
+[00:03:04]   W02 + 13 simplyhired:product manager|San Francisc
+[00:03:07]   W19 +  5 dice:UX designer|Washington D
+[00:03:09]   W20 +  6 dice:junior software engi|San Jose
+[00:03:12]   W24 ATS +30 from 1 boards
+[00:03:14]   W11 + 16 dice:product manager|Portland
+[00:03:18]   W24 +  4 dice:technical lead|Atlanta
+[00:03:18]   W06 +  3 dice:web developer|Washington D
+[00:03:19]   W28 + 10 dice:data engineer|Washington D
+[00:03:20]   W05 +  3 dice:game developer|
+[00:03:24]   [16,800] +10,329 | DB=638,816 | 166/min | Gap=361,184 | arbeitnow:5 ats_discover:480 dice:9454 findwork:3 itjobs:2 jobicy:3 jobspy:612 simplyhired:6241
+[00:03:26]   W11 +  7 dice:staff engineer|Houston
+[00:03:29]   [16,600] +10,502 | DB=638,828 | 168/min | Gap=361,172 | arbeitnow:3 ats_discover:468 dice:9259 findwork:4 itjobs:2 jobicy:2 jobspy:620 simplyhired:6242
+[00:03:38]   W20 +  6 dice:MLOps|Dallas
+[00:03:38]   W29 +  3 simplyhired:Principal Engineer|
+[00:03:38]   W09 + 20 simplyhired:intern|Manchester
+[00:03:38]   W17 ATS +3 from 1 boards
+[00:03:45]   W25 ATS +1 from 2 boards
+[00:03:48]   [HEARTBEAT] DB=638,876 | iters=16,897 new=10,365 | 63min elapsed | Gap=361,124
+[00:03:53]   [HEARTBEAT] DB=638,881 | iters=16,710 new=10,516 | 63min elapsed | Gap=361,119
+[00:03:53]   W07 ATS +12 from 1 boards
+[00:03:53]   W17 +  4 dice:infrastructure engin|San Francisc
+[00:03:55]   W09 +  8 dice:mobile developer|Seattle
+[00:03:55]   W01 +  3 simplyhired:cloud engineer|Seattle
+[00:04:03]   W19 +  5 dice:azure engineer|Washington D
+[00:04:13]   [16,800] +10,523 | DB=638,907 | 166/min | Gap=361,093 | arbeitnow:3 ats_discover:473 dice:9366 findwork:4 itjobs:2 jobicy:2 jobspy:624 simplyhired:6326
+[00:04:14]   W15 +  9 dice:data analyst|Los Angeles
+[00:04:14]   [17,000] +10,400 | DB=638,918 | 165/min | Gap=361,082 | arbeitnow:5 ats_discover:486 dice:9567 findwork:3 itjobs:2 jobicy:3 jobspy:619 simplyhired:6329
+[00:04:28]   W09 +  3 simplyhired:Vue.js|Los Angeles
+[00:04:28]   W19 +  4 dice:cloud engineer|Washington D
+[00:04:29]   [17,100] +10,405 | DB=638,957 | 164/min | Gap=361,043
+[00:04:37]   W18 +  3 dice:urgent hiring|
+[00:04:41]   W18 ATS +1 from 1 boards
+[00:04:48]   [HEARTBEAT] DB=638,968 | iters=17,184 new=10,412 | 64min elapsed | Gap=361,032
+[00:04:51]   [17,200] +10,412 | DB=638,968 | 163/min | Gap=361,032 | arbeitnow:5 ats_discover:492 dice:9686 findwork:3 itjobs:2 jobicy:3 jobspy:621 simplyhired:6388
+[00:04:55]   W03 +  3 simplyhired:business analyst|Washington D
+[00:04:55]   W08 +  3 dice:.NET developer|Washington D
+[00:04:55]   [HEARTBEAT] DB=638,975 | iters=16,979 new=10,545 | 64min elapsed | Gap=361,025
+[00:04:59]   W08 +  5 dice:staff engineer|Seattle
+[00:05:08]   W10 + 13 simplyhired:Principal Engineer|Washington D
+[00:05:08]   W11 + 11 simplyhired:engineering manager|
+[00:05:08]   [17,000] +10,570 | DB=639,108 | 164/min | Gap=360,892 | arbeitnow:3 ats_discover:479 dice:9471 findwork:4 itjobs:2 jobicy:2 jobspy:630 simplyhired:6429
+[00:05:13]   W13 +  5 dice:iOS developer|New York
+[00:05:14]   W04 +  3 simplyhired:C++ engineer|Chicago
+[00:05:15]   W17 +  3 dice:.NET developer|Dallas
+[00:05:18]   W16 ATS +29 from 1 boards
+[00:05:21]   W19 + 13 dice:intern|Remote
+[00:05:24]   W15 + 12 dice:data scientist|Seattle
+[00:05:27]   W10 +  8 simplyhired:Deep Learning|Washington D
+[00:05:27]   W03 +  4 simplyhired:rust developer|San Francisc
+[00:05:30]   W11 +  5 simplyhired:database engineer|Denver
+[00:05:30]   W08 +  8 simplyhired:azure engineer|Washington D
+[00:05:31]   W04 +  6 dice:Principal Engineer|Phoenix
+[00:05:31]   [17,400] +10,503 | DB=639,200 | 163/min | Gap=360,800 | arbeitnow:5 ats_discover:497 dice:9809 findwork:3 itjobs:2 jobicy:3 jobspy:628 simplyhired:6462
+[00:05:31]   W05 ATS +100 from 1 boards
+[00:05:40]   [17,200] +10,693 | DB=639,201 | 165/min | Gap=360,799 | arbeitnow:4 ats_discover:482 dice:9579 findwork:4 itjobs:2 jobicy:2 jobspy:634 simplyhired:6493
+[00:05:54]   [HEARTBEAT] DB=639,205 | iters=17,503 new=10,506 | 65min elapsed | Gap=360,795
+[00:05:54]   W26 +  3 simplyhired:firmware engineer|
+[00:05:55]   [HEARTBEAT] DB=639,208 | iters=17,281 new=10,695 | 65min elapsed | Gap=360,792
+[00:06:01]   W23 +  4 dice:React|New York
+[00:06:02]   [17,300] +10,699 | DB=639,214 | 164/min | Gap=360,786
+[00:06:04]   W04 +  4 simplyhired:product manager|Sydney
+[00:06:11]   W17 ATS +18 from 1 boards
+[00:06:14]   [17,600] +10,518 | DB=639,223 | 162/min | Gap=360,777 | arbeitnow:5 ats_discover:500 dice:9913 findwork:3 itjobs:3 jobicy:3 jobspy:636 simplyhired:6537
+[00:06:19]   W20 ATS +1 from 1 boards
+[00:06:20]   [17,400] +10,725 | DB=639,230 | 164/min | Gap=360,770 | arbeitnow:4 ats_discover:487 dice:9706 findwork:4 itjobs:2 jobicy:2 jobspy:639 simplyhired:6558
+[00:06:38]   W02 +  7 dice:firmware engineer|Washington D
+[00:06:42]   W17 +  8 dice:Principal Engineer|Los Angeles
+[00:06:45]   W00 +100 arbeitnow:|
+[00:06:51]   W00 +  3 simplyhired:GCP|San Jose
+[00:06:54]   [HEARTBEAT] DB=639,363 | iters=17,754 new=10,533 | 66min elapsed | Gap=360,637
+[00:06:55]   [HEARTBEAT] DB=639,363 | iters=17,534 new=10,842 | 66min elapsed | Gap=360,637
+[00:07:03]   W18 ATS +2 from 1 boards
+[00:07:08]   [17,800] +10,538 | DB=639,367 | 160/min | Gap=360,633 | arbeitnow:5 ats_discover:504 dice:10021 findwork:3 itjobs:3 jobicy:3 jobspy:642 simplyhired:6619
+[00:07:10]   W20 +  5 dice:remote|Boston
+[00:07:11]   [17,600] +10,843 | DB=639,372 | 163/min | Gap=360,628 | arbeitnow:5 ats_discover:491 dice:9817 findwork:4 itjobs:2 jobicy:2 jobspy:647 simplyhired:6632
+[00:07:18]   W15 +  4 dice:business analyst|Atlanta
+[00:07:21]   W21 +  3 dice:GCP|San Jose
+[00:07:23]   W00 +  3 dice:embedded systems eng|Dallas
+[00:07:36]   W00 +  6 dice:software developer|New York
+[00:07:38]   W20 +  7 simplyhired:intern|London
+[00:07:43]   W05 +  8 simplyhired:AWS|Phoenix
+[00:07:43]   W13 +  8 simplyhired:Lead Engineer|Madrid
+[00:07:48]   [18,000] +10,568 | DB=639,431 | 158/min | Gap=360,569 | arbeitnow:5 ats_discover:507 dice:10144 findwork:3 itjobs:3 jobicy:3 jobspy:647 simplyhired:6688
+[00:07:54]   [HEARTBEAT] DB=639,435 | iters=18,025 new=10,569 | 67min elapsed | Gap=360,565
+[00:07:55]   [HEARTBEAT] DB=639,478 | iters=17,769 new=10,880 | 67min elapsed | Gap=360,522
+[00:08:13]   W03 + 10 dice:generative AI|San Francisc
+[00:08:13]   W02 +  3 dice:UX designer|Chicago
+[00:08:13]   [17,800] +10,886 | DB=639,494 | 161/min | Gap=360,506 | arbeitnow:5 ats_discover:501 dice:9922 findwork:4 itjobs:2 jobicy:2 jobspy:659 simplyhired:6720
+[00:08:14]   W13 +  7 dice:remote|New York
+[00:08:16]   W02 +  8 simplyhired:Principal Engineer|Los Angeles
+[00:08:16]   W07 +  5 dice:data analyst|New York
+[00:08:18]   W01 +  7 simplyhired:SRE|Dallas
+[00:08:18]   W23 + 11 dice:junior software engi|New York
+[00:08:29]   W01 + 12 simplyhired:engineering manager|Seattle
+[00:08:30]   W16 +  6 simplyhired:urgent hiring|Charlotte
+[00:08:30]   W17 +  6 dice:hiring now|Phoenix
+[00:08:34]   [18,200] +10,620 | DB=639,672 | 157/min | Gap=360,328 | arbeitnow:5 ats_discover:512 dice:10248 findwork:3 itjobs:3 jobicy:3 jobspy:657 simplyhired:6773
+[00:08:35]   W20 +  5 simplyhired:AI engineer|Remote
+[00:08:37]   W18 ATS +10 from 1 boards
+[00:08:41]   W13 + 10 dice:work from home|Tampa
+[00:08:43]   W03 +  3 dice:staff engineer|San Francisc
+[00:08:48]   W22 ATS +100 from 2 boards
+[00:08:52]   W01 +  5 simplyhired:GCP|Dallas
+[00:08:53]   W29 ATS +43 from 1 boards
+[00:08:54]   [HEARTBEAT] DB=639,697 | iters=18,272 new=10,678 | 68min elapsed | Gap=360,303
+[00:08:55]   [HEARTBEAT] DB=639,697 | iters=17,982 new=11,033 | 68min elapsed | Gap=360,303
+[00:08:58]   [18,000] +11,035 | DB=639,701 | 162/min | Gap=360,299 | arbeitnow:5 ats_discover:506 dice:10036 findwork:4 itjobs:2 jobicy:2 jobspy:668 simplyhired:6777
+[00:09:02]   W22 +  3 simplyhired:urgent hiring|Denver
+[00:09:02]   W28 +  3 simplyhired:business analyst|Dublin
+[00:09:06]   W02 +  8 simplyhired:MLOps|Denver
+[00:09:07]   W28 + 10 dice:SDE|Tampa
+[00:09:07]   W02 +  3 simplyhired:database engineer|Dallas
+[00:09:09]   W02 +  5 dice:Deep Learning|Remote
+[00:09:10]   W06 +  3 dice:product manager|Seattle
+[00:09:15]   W09 ATS +4 from 2 boards
+[00:09:20]   W29 ATS +13 from 2 boards
+[00:09:21]   W15 ATS +43 from 1 boards
+[00:09:25]   W20 +  3 simplyhired:SWE|San Jose
+[00:09:25]   W12 +  8 dice:work from home|San Jose
+[00:09:26]   [18,400] +10,747 | DB=639,847 | 157/min | Gap=360,153 | arbeitnow:5 ats_discover:519 dice:10348 findwork:3 itjobs:3 jobicy:3 jobspy:669 simplyhired:6850
+[00:09:26]   W25 +  3 dice:C#|New York
+[00:09:27]   W16 +  3 dice:senior software engi|Los Angeles
+[00:09:41]   [18,200] +11,091 | DB=639,860 | 161/min | Gap=360,140 | arbeitnow:5 ats_discover:511 dice:10144 findwork:4 itjobs:2 jobicy:2 jobspy:676 simplyhired:6856
+[00:09:52]   W02 +  4 dice:azure engineer|Washington D
+[00:09:52]   W12 +  3 simplyhired:NLP engineer|Houston
+[00:09:52]   W04 +  3 simplyhired:react developer|Los Angeles
+[00:09:54]   [HEARTBEAT] DB=639,871 | iters=18,507 new=10,760 | 69min elapsed | Gap=360,129
+[00:09:55]   [HEARTBEAT] DB=639,871 | iters=18,263 new=11,096 | 69min elapsed | Gap=360,129
+[00:09:56]   W01 ATS +29 from 1 boards
+[00:10:07]   W13 +  4 dice:infrastructure engin|San Francisc
+[00:10:08]   W23 +  4 simplyhired:UX designer|Chicago
+[00:10:10]   [18,600] +10,803 | DB=639,889 | 156/min | Gap=360,111 | arbeitnow:5 ats_discover:524 dice:10463 findwork:3 itjobs:3 jobicy:3 jobspy:677 simplyhired:6922
+[00:10:15]   W13 +  3 simplyhired:hiring now|Atlanta
+[00:10:16]   W21 +  6 dice:Deep Learning|New York
+[00:10:16]   W22 +  7 dice:work from home|Boston
+[00:10:18]   W16 +  7 simplyhired:firmware engineer|Los Angeles
+[00:10:28]   [18,400] +11,120 | DB=639,942 | 160/min | Gap=360,058 | arbeitnow:5 ats_discover:516 dice:10250 findwork:4 itjobs:2 jobicy:2 jobspy:685 simplyhired:6936
+[00:10:33]   W02 + 17 dice:intern|Houston
+[00:10:37]   W06 +  3 dice:hiring now|Remote
+[00:10:46]   W19 ATS +27 from 1 boards
+[00:10:46]   W13 +  3 dice:SWE|San Francisc
+[00:10:48]   W17 ATS +4 from 1 boards
+[00:10:54]   [HEARTBEAT] DB=639,983 | iters=18,788 new=10,837 | 70min elapsed | Gap=360,017
+[00:10:55]   [HEARTBEAT] DB=639,983 | iters=18,525 new=11,158 | 70min elapsed | Gap=360,017
+[00:10:57]   W21 + 14 dice:engineering manager|New York
+[00:10:57]   [18,800] +10,838 | DB=639,998 | 155/min | Gap=360,002 | arbeitnow:5 ats_discover:525 dice:10567 findwork:3 itjobs:3 jobicy:3 jobspy:682 simplyhired:7012
+[00:10:58]   W12 +  3 simplyhired:Principal Engineer|Austin
+[00:11:09]   [18,600] +11,175 | DB=640,006 | 159/min | Gap=359,994 | arbeitnow:5 ats_discover:520 dice:10377 findwork:4 itjobs:2 jobicy:2 jobspy:691 simplyhired:6999
+[00:11:14]   W04 +  4 simplyhired:Scala|Washington D
+[00:11:14]   W13 + 11 simplyhired:technical lead|Houston
+[00:11:16]   W06 +  5 dice:C++ engineer|San Jose
+[00:11:27]   W28 + 12 simplyhired:Scala|Lisbon
+[00:11:34]   W16 ATS +10 from 2 boards
+[00:11:43]   W03 +  6 simplyhired:TypeScript|Charlotte
+[00:11:47]   W19 +  4 dice:Swift|New York
+[00:11:47]   W10 + 11 simplyhired:intern|Remote
+[00:11:48]   W27 +  9 dice:work from home|Houston
+[00:11:51]   [19,000] +10,875 | DB=640,219 | 154/min | Gap=359,781 | arbeitnow:5 ats_discover:528 dice:10684 findwork:3 itjobs:3 jobicy:3 jobspy:693 simplyhired:7085
+[00:11:52]   W29 ATS +11 from 1 boards
+[00:11:54]   W16 ATS +2 from 1 boards
+[00:11:54]   W28 +  7 dice:infrastructure engin|San Jose
+[00:11:54]   [HEARTBEAT] DB=640,227 | iters=19,026 new=10,893 | 71min elapsed | Gap=359,773
+[00:11:55]   W06 +  7 simplyhired:intern|Sydney
+[00:11:56]   W17 ATS +1 from 1 boards
+[00:12:01]   W22 +  3 dice:generative AI|Los Angeles
+[00:12:03]   W02 +  3 dice:frontend developer|San Francisc
+[00:12:05]   W20 +  7 simplyhired:technical lead|San Francisc
+[00:12:05]   [HEARTBEAT] DB=640,266 | iters=18,813 new=11,244 | 71min elapsed | Gap=359,734
+[00:12:05]   [18,800] +11,244 | DB=640,266 | 158/min | Gap=359,734 | arbeitnow:5 ats_discover:528 dice:10502 findwork:4 itjobs:2 jobicy:2 jobspy:694 simplyhired:7076
+[00:12:21]   W09 +100 remoteok:|
+[00:12:24]   W21 ATS +7 from 1 boards
+[00:12:27]   W11 ATS +105 from 2 boards
+[00:12:29]   W25 ATS +3 from 2 boards
+[00:12:31]   W27 + 13 simplyhired:engineering manager|Melbourne
+[00:12:35]   W20 +  4 simplyhired:.NET developer|Remote
+[00:12:36]   [19,200] +10,917 | DB=640,394 | 153/min | Gap=359,606 | arbeitnow:6 ats_discover:533 dice:10802 findwork:3 itjobs:3 jobicy:3 jobspy:701 simplyhired:7155
+[00:12:45]   W00 +  4 dice:technical lead|Austin
+[00:12:45]   [19,000] +11,481 | DB=640,402 | 160/min | Gap=359,598 | arbeitnow:5 ats_discover:536 dice:10614 findwork:4 itjobs:2 jobicy:2 jobspy:700 remoteok:1 simplyhired:7139
+[00:12:45]   W16 +  4 simplyhired:Deep Learning|Madrid
+[00:12:46]   W10 +  3 simplyhired:gcp engineer|New York
+[00:12:48]   W00 + 22 arbeitnow:|
+[00:12:52]   W23 +  6 dice:junior software engi|Atlanta
+[00:12:55]   [HEARTBEAT] DB=640,439 | iters=19,291 new=10,926 | 72min elapsed | Gap=359,561
+[00:12:57]   W09 +  3 dice:AI engineer|Seattle
+[00:12:57]   W27 ATS +14 from 1 boards
+[00:13:01]   W04 +  5 dice:junior software engi|Seattle
+[00:13:05]   [HEARTBEAT] DB=640,453 | iters=19,092 new=11,518 | 72min elapsed | Gap=359,547
+[00:13:13]   W22 +  5 simplyhired:embedded systems eng|Nashville
+[00:13:16]   W07 +  8 dice:computer vision engi|San Jose
+[00:13:17]   W23 + 12 dice:data scientist|Los Angeles
+[00:13:22]   W24 +  4 simplyhired:staff engineer|San Jose
+[00:13:23]   [19,400] +10,975 | DB=640,494 | 152/min | Gap=359,506
+[00:13:24]   W28 +  4 dice:LLM engineer|Chicago
+[00:13:24]   W09 +  7 dice:C#|San Jose
+[00:13:28]   [19,200] +11,534 | DB=640,507 | 159/min | Gap=359,493 | arbeitnow:6 ats_discover:537 dice:10724 findwork:4 itjobs:2 jobicy:2 jobspy:707 remoteok:1 simplyhired:7217
+[00:13:34]   W06 ATS +1 from 1 boards
+[00:13:37]   W24 +100 arbeitnow:|
+[00:13:37]   W27 + 11 simplyhired:engineering manager|Austin
+[00:13:38]   W10 +  4 simplyhired:cloud engineer|Toronto
+[00:13:44]   [19,500] +10,991 | DB=640,629 | 151/min | Gap=359,371
+[00:13:52]   W20 +  7 dice:data engineer|Dallas
+[00:13:54]   W20 + 18 remotive:|
+[00:13:55]   [HEARTBEAT] DB=640,756 | iters=19,555 new=11,018 | 73min elapsed | Gap=359,244
+[00:14:04]   [19,600] +11,020 | DB=640,759 | 151/min | Gap=359,241 | arbeitnow:6 ats_discover:543 dice:11013 findwork:3 itjobs:3 jobicy:3 jobspy:714 remotive:1 simplyhired:7314
+[00:14:05]   W29 ATS +1 from 2 boards
+[00:14:09]   [HEARTBEAT] DB=640,779 | iters=19,312 new=11,654 | 73min elapsed | Gap=359,221
+[00:14:10]   W12 +  5 simplyhired:SRE|Austin
+[00:14:12]   W18 ATS +1 from 1 boards
+[00:14:29]   [19,400] +11,662 | DB=640,803 | 158/min | Gap=359,197 | arbeitnow:7 ats_discover:542 dice:10836 findwork:4 itjobs:2 jobicy:2 jobspy:714 remoteok:1 simplyhired:7293
+[00:14:29]   W12 +  4 dice:blockchain developer|Chicago
+[00:14:29]   W15 +  6 simplyhired:generative AI|Washington D
+[00:14:35]   W16 ATS +8 from 1 boards
+[00:14:37]   W17 ATS +10 from 1 boards
+[00:14:47]   W15 +  7 dice:intern|San Jose
+[00:14:49]   W05 +  5 dice:Principal Engineer|San Francisc
+[00:14:51]   W06 +  3 dice:swift developer|Seattle
+[00:14:55]   [HEARTBEAT] DB=640,906 | iters=19,774 new=11,057 | 74min elapsed | Gap=359,094
+[00:14:56]   W00 ATS +8 from 1 boards
+[00:14:57]   W22 ATS +100 from 2 boards
+[00:14:57]   W03 ATS +58 from 1 boards
+[00:14:59]   [19,800] +11,120 | DB=640,912 | 151/min | Gap=359,088 | arbeitnow:6 ats_discover:556 dice:11115 findwork:3 itjobs:3 jobicy:3 jobspy:721 remotive:1 simplyhired:7392
+[00:15:05]   W21 +  4 simplyhired:firmware engineer|Washington D
+[00:15:08]   W09 ATS +1 from 1 boards
+[00:15:15]   W07 ATS +5 from 2 boards
+[00:15:19]   W11 ATS +3 from 1 boards
+[00:15:20]   [HEARTBEAT] DB=640,925 | iters=19,587 new=11,808 | 75min elapsed | Gap=359,075
+[00:15:20]   W14 +  4 dice:engineering manager|Charlotte
+[00:15:21]   [19,600] +11,809 | DB=640,931 | 158/min | Gap=359,069 | arbeitnow:7 ats_discover:551 dice:10943 findwork:4 itjobs:2 jobicy:2 jobspy:725 remoteok:1 simplyhired:7366
+[00:15:24]   W15 ATS +5 from 2 boards
+[00:15:25]   W04 +  3 simplyhired:embedded systems eng|Nashville
+[00:15:29]   W08 + 13 dice:business analyst|New York
+[00:15:31]   W00 +  7 dice:generative AI|Chicago
+[00:15:46]   W15 +  4 dice:database engineer|Washington D
+[00:15:46]   W11 +  6 simplyhired:urgent hiring|
+[00:15:53]   W00 +  3 simplyhired:Vue.js|Remote
+[00:15:55]   [19,800] +11,853 | DB=640,986 | 158/min | Gap=359,014 | arbeitnow:7 ats_discover:554 dice:11062 findwork:4 itjobs:2 jobicy:2 jobspy:730 remoteok:1 simplyhired:7438
+[00:15:56]   [HEARTBEAT] DB=641,005 | iters=19,987 new=11,149 | 75min elapsed | Gap=358,995
+[00:15:59]   [20,000] +11,149 | DB=641,005 | 149/min | Gap=358,995 | arbeitnow:6 ats_discover:563 dice:11224 findwork:3 itjobs:3 jobicy:3 jobspy:730 remotive:1 simplyhired:7467
+[00:16:09]   W16 +  5 simplyhired:data analyst|Washington D
+[00:16:11]   W13 + 14 simplyhired:contract|New York
+[00:16:18]   W23 +  5 dice:engineering manager|Houston
+[00:16:20]   [HEARTBEAT] DB=641,146 | iters=19,910 new=11,868 | 76min elapsed | Gap=358,854
+[00:16:20]   W08 +  7 dice:UX designer|New York
+[00:16:26]   W05 + 10 simplyhired:intern|Washington D
+[00:16:28]   W12 +  3 dice:remote|Nashville
+[00:16:28]   W05 +  3 simplyhired:contract|Amsterdam
+[00:16:42]   W00 +  4 dice:SDE|Remote
+[00:16:44]   W24 ATS +5 from 1 boards
+[00:16:44]   W07 ATS +17 from 2 boards
+[00:16:46]   W16 + 13 dice:Principal Engineer|Austin
+[00:16:46]   [20,000] +11,899 | DB=641,211 | 157/min | Gap=358,789 | arbeitnow:7 ats_discover:561 dice:11175 findwork:4 itjobs:2 jobicy:2 jobspy:737 remoteok:1 simplyhired:7511
+[00:16:48]   W16 +  5 simplyhired:Java|
+[00:16:57]   W10 ATS +100 from 1 boards
+[00:16:59]   W26 +  3 dice:Lead Engineer|San Jose
+[00:16:59]   [20,200] +11,322 | DB=641,319 | 149/min | Gap=358,681 | arbeitnow:6 ats_discover:572 dice:11345 findwork:4 itjobs:3 jobicy:3 jobspy:741 remotive:1 simplyhired:7547
+[00:16:59]   [HEARTBEAT] DB=641,319 | iters=20,225 new=11,322 | 76min elapsed | Gap=358,681
+[00:17:03]   W28 +  3 dice:iOS developer|Los Angeles
+[00:17:03]   W19 +  9 dice:intern|Tampa
+[00:17:22]   [HEARTBEAT] DB=641,346 | iters=20,103 new=11,923 | 77min elapsed | Gap=358,654
+[00:17:24]   W25 +  4 dice:database engineer|San Francisc
+[00:17:25]   W24 + 10 simplyhired:staff engineer|
+[00:17:30]   W29 ATS +4 from 1 boards
+[00:17:31]   W03 +  6 dice:QA engineer|Dallas
+[00:17:33]   [20,400] +11,347 | DB=641,367 | 148/min | Gap=358,633 | arbeitnow:6 ats_discover:575 dice:11458 findwork:4 itjobs:3 jobicy:3 jobspy:743 remotive:1 simplyhired:7607
+[00:17:40]   W01 +  6 simplyhired:staff engineer|Los Angeles
+[00:17:41]   W15 ATS +1 from 1 boards
+[00:17:41]   W04 ATS +100 from 1 boards
+[00:17:50]   [20,200] +11,936 | DB=641,380 | 155/min | Gap=358,620 | arbeitnow:7 ats_discover:577 dice:11283 findwork:4 itjobs:2 jobicy:2 jobspy:743 remoteok:1 simplyhired:7581
+[00:18:02]   W01 + 80 arbeitnow:|
+[00:18:02]   [HEARTBEAT] DB=641,463 | iters=20,527 new=11,536 | 77min elapsed | Gap=358,537
+[00:18:02]   W04 +  4 simplyhired:Azure|
+[00:18:13]   W19 +  3 dice:junior software engi|Austin
+[00:18:15]   [20,600] +11,541 | DB=641,474 | 150/min | Gap=358,526 | arbeitnow:7 ats_discover:580 dice:11568 findwork:4 itjobs:3 jobicy:3 jobspy:753 remotive:1 simplyhired:7681
+[00:18:17]   W28 ATS +4 from 2 boards
+[00:18:22]   W25 +  9 simplyhired:product manager|Dublin
+[00:18:23]   [HEARTBEAT] DB=641,483 | iters=20,305 new=11,956 | 78min elapsed | Gap=358,517
+[00:18:29]   W00 + 10 simplyhired:Deep Learning|Phoenix
+[00:18:29]   W16 +  5 simplyhired:firmware engineer|
+[00:18:43]   W08 +  4 dice:work from home|Boston
+[00:18:59]   W00 +  7 dice:technical lead|New York
+[00:18:59]   [20,400] +11,974 | DB=641,574 | 153/min | Gap=358,426 | arbeitnow:7 ats_discover:588 dice:11389 findwork:4 itjobs:2 jobicy:2 jobspy:761 remoteok:1 simplyhired:7665
+[00:19:02]   [HEARTBEAT] DB=641,576 | iters=20,798 new=11,564 | 78min elapsed | Gap=358,424
+[00:19:03]   [20,800] +11,564 | DB=641,576 | 148/min | Gap=358,424 | arbeitnow:7 ats_discover:584 dice:11678 findwork:4 itjobs:3 jobicy:3 jobspy:760 remotive:1 simplyhired:7760
+[00:19:06]   W13 +  3 simplyhired:Vue.js|Washington D
+[00:19:14]   W01 +  4 simplyhired:data engineer|Los Angeles
+[00:19:14]   W06 +  7 dice:intern|San Francisc
+[00:19:18]   W11 ATS +3 from 1 boards
+[00:19:19]   W24 +  4 simplyhired:data analyst|Dallas
+[00:19:24]   [HEARTBEAT] DB=641,609 | iters=20,527 new=11,992 | 79min elapsed | Gap=358,391
+[00:19:27]   W16 + 12 simplyhired:data analyst|Chicago
+[00:19:28]   W14 ATS +1 from 1 boards
+[00:19:34]   W04 +  3 dice:intern|Los Angeles
+[00:19:34]   W19 +  6 simplyhired:cloud architect|Atlanta
+[00:19:34]   W16 +  7 simplyhired:cloud architect|San Francisc
+[00:19:34]   W01 +  5 dice:QA engineer|Washington D
+[00:19:36]   W18 ATS +46 from 2 boards
+[00:19:40]   W00 ATS +2 from 3 boards
+[00:19:42]   W22 +  5 simplyhired:SRE|Phoenix
+[00:19:42]   [20,600] +12,071 | DB=641,654 | 153/min | Gap=358,346 | arbeitnow:7 ats_discover:591 dice:11481 findwork:4 itjobs:2 jobicy:2 jobspy:768 remoteok:1 simplyhired:7744
+[00:19:42]   W13 + 11 simplyhired:contract|Los Angeles
+[00:19:59]   [21,000] +11,598 | DB=641,673 | 147/min | Gap=358,327 | arbeitnow:7 ats_discover:594 dice:11772 findwork:4 itjobs:3 jobicy:4 jobspy:773 remotive:1 simplyhired:7842
+[00:20:00]   W16 +  3 dice:gcp engineer|Chicago
+[00:20:02]   [HEARTBEAT] DB=641,679 | iters=21,016 new=11,601 | 79min elapsed | Gap=358,321
+[00:20:03]   W12 + 13 dice:security engineer|New York
+[00:20:07]   W03 + 13 dice:work from home|Atlanta
+[00:20:07]   W28 ATS +1 from 1 boards
+[00:20:16]   W15 +  3 simplyhired:python developer|Boston
+[00:20:16]   W04 ATS +2 from 3 boards
+[00:20:24]   [HEARTBEAT] DB=641,720 | iters=20,785 new=12,107 | 80min elapsed | Gap=358,280
+[00:20:27]   W17 +  4 simplyhired:Lead Engineer|Chicago
+[00:20:27]   [20,800] +12,111 | DB=641,725 | 152/min | Gap=358,275 | arbeitnow:7 ats_discover:594 dice:11591 findwork:4 itjobs:3 jobicy:2 jobspy:776 remoteok:1 simplyhired:7822
+[00:20:34]   [21,200] +11,630 | DB=641,730 | 146/min | Gap=358,270 | arbeitnow:7 ats_discover:596 dice:11896 findwork:4 itjobs:3 jobicy:4 jobspy:780 remotive:1 simplyhired:7910
+[00:20:46]   W27 + 12 simplyhired:data analyst|Chicago
+[00:20:50]   W11 + 18 simplyhired:contract|Atlanta
+[00:20:52]   W12 +  8 simplyhired:Docker|Washington D
+[00:20:52]   W15 +  7 simplyhired:C++ engineer|Denver
+[00:20:55]   W03 +  5 dice:data engineer|Los Angeles
+[00:20:55]   W17 +  9 dice:junior software engi|Boston
+[00:20:57]   W05 ATS +4 from 1 boards
+[00:21:02]   [HEARTBEAT] DB=641,804 | iters=21,355 new=11,649 | 80min elapsed | Gap=358,196
+[00:21:03]   W28 + 13 simplyhired:contract|Atlanta
+[00:21:10]   W07 +  3 simplyhired:C#|
+[00:21:12]   W03 +  4 simplyhired:data analyst|Phoenix
+[00:21:13]   W24 +  3 dice:technical lead|San Francisc
+[00:21:13]   [21,400] +11,672 | DB=641,832 | 146/min | Gap=358,168 | arbeitnow:7 ats_discover:598 dice:11993 findwork:4 itjobs:3 jobicy:4 jobspy:790 remotive:1 simplyhired:8000
+[00:21:15]   [21,000] +12,176 | DB=641,834 | 151/min | Gap=358,166 | arbeitnow:7 ats_discover:599 dice:11703 findwork:4 itjobs:3 jobicy:2 jobspy:784 remoteok:1 simplyhired:7897
+[00:21:27]   W27 +  3 simplyhired:Principal Engineer|San Francisc
+[00:21:27]   [HEARTBEAT] DB=641,839 | iters=21,040 new=12,179 | 81min elapsed | Gap=358,161
+[00:21:38]   W10 +  5 dice:embedded systems eng|San Francisc
+[00:21:42]   W03 +  6 dice:engineering manager|San Jose
+[00:21:48]   W01 +  4 simplyhired:cloud architect|Dallas
+[00:21:58]   W15 +  3 simplyhired:Angular developer|San Francisc
+[00:21:59]   W17 +  3 simplyhired:urgent hiring|Vancouver
+[00:22:00]   [21,600] +11,687 | DB=641,884 | 144/min | Gap=358,116 | arbeitnow:7 ats_discover:603 dice:12102 findwork:4 itjobs:3 jobicy:4 jobspy:803 remotive:1 simplyhired:8073
+[00:22:00]   W22 ATS +13 from 1 boards
+[00:22:01]   W16 +  4 simplyhired:C#|Washington D
+[00:22:01]   [21,200] +12,215 | DB=641,888 | 150/min | Gap=358,112 | arbeitnow:7 ats_discover:604 dice:11817 findwork:4 itjobs:4 jobicy:2 jobspy:790 remoteok:1 simplyhired:7972
+[00:22:02]   [HEARTBEAT] DB=641,888 | iters=21,609 new=11,687 | 81min elapsed | Gap=358,112
+[00:22:03]   W02 +  3 dice:Scala|New York
+[00:22:09]   W00 +  3 simplyhired:hiring now|Warsaw
+[00:22:27]   [HEARTBEAT] DB=641,902 | iters=21,284 new=12,222 | 82min elapsed | Gap=358,098
+[00:22:30]   [21,700] +11,694 | DB=641,902 | 144/min | Gap=358,098
+[00:22:41]   W04 + 10 simplyhired:embedded systems eng|Remote
+[00:22:49]   W10 +  4 simplyhired:Scala|Manchester
+[00:22:56]   [21,800] +11,701 | DB=641,927 | 143/min | Gap=358,073 | arbeitnow:7 ats_discover:612 dice:12211 findwork:4 itjobs:3 jobicy:4 jobspy:811 remotive:1 simplyhired:8147
+[00:23:00]   W18 + 12 simplyhired:intern|Houston
+[00:23:02]   [HEARTBEAT] DB=641,941 | iters=21,837 new=11,713 | 82min elapsed | Gap=358,059
+[00:23:03]   W00 +  5 simplyhired:C#|New York
+[00:23:03]   [21,400] +12,242 | DB=641,946 | 149/min | Gap=358,054 | arbeitnow:7 ats_discover:611 dice:11919 findwork:4 itjobs:4 jobicy:2 jobspy:801 remoteok:1 simplyhired:8053
+[00:23:16]   W08 + 10 simplyhired:Android developer|Austin
+[00:23:22]   W29 +  3 dice:senior software engi|Remote
+[00:23:24]   W02 ATS +4 from 2 boards
+[00:23:26]   W15 ATS +1 from 1 boards
+[00:23:29]   W01 ATS +100 from 1 boards
+[00:23:38]   [HEARTBEAT] DB=642,067 | iters=21,492 new=12,356 | 83min elapsed | Gap=357,933
+[00:23:38]   W25 +  9 dice:infrastructure engin|New York
+[00:23:38]   W25 +  3 dice:AWS|New York
+[00:23:41]   [22,000] +11,725 | DB=642,078 | 142/min | Gap=357,922 | arbeitnow:7 ats_discover:619 dice:12334 findwork:4 itjobs:3 jobicy:4 jobspy:817 remotive:1 simplyhired:8212
+[00:23:47]   W26 +  6 dice:security engineer|Chicago
+[00:23:57]   [21,600] +12,367 | DB=642,084 | 149/min | Gap=357,916 | arbeitnow:7 ats_discover:623 dice:12032 findwork:4 itjobs:4 jobicy:2 jobspy:808 remoteok:1 simplyhired:8119
+[00:24:02]   [HEARTBEAT] DB=642,090 | iters=22,073 new=11,731 | 83min elapsed | Gap=357,910
+[00:24:12]   W13 +  5 simplyhired:Lead Engineer|Houston
+[00:24:19]   W27 ATS +5 from 1 boards
+[00:24:21]   W22 +  5 dice:Deep Learning|San Jose
+[00:24:21]   W21 +  4 simplyhired:Deep Learning|Miami
+[00:24:27]   [22,200] +11,754 | DB=642,112 | 141/min | Gap=357,888 | arbeitnow:7 ats_discover:626 dice:12448 findwork:4 itjobs:3 jobicy:4 jobspy:825 remotive:1 simplyhired:8282
+[00:24:38]   [HEARTBEAT] DB=642,118 | iters=21,776 new=12,374 | 84min elapsed | Gap=357,882
+[00:24:39]   W22 +  4 simplyhired:Azure|London
+[00:24:43]   [21,800] +12,374 | DB=642,122 | 147/min | Gap=357,878 | arbeitnow:7 ats_discover:629 dice:12151 findwork:4 itjobs:4 jobicy:2 jobspy:815 remoteok:1 simplyhired:8187
+[00:24:57]   W10 +  9 simplyhired:generative AI|Dallas
+[00:25:03]   [HEARTBEAT] DB=642,148 | iters=22,321 new=11,766 | 84min elapsed | Gap=357,852
+[00:25:03]   W01 +  6 simplyhired:infrastructure engin|Atlanta
+[00:25:06]   W28 +  6 dice:generative AI|San Jose
+[00:25:13]   W24 ATS +12 from 1 boards
+[00:25:16]   W04 +  3 simplyhired:senior software engi|Denver
+[00:25:22]   [22,400] +11,786 | DB=642,174 | 140/min | Gap=357,826 | arbeitnow:7 ats_discover:630 dice:12549 findwork:4 itjobs:3 jobicy:4 jobspy:832 remotive:1 simplyhired:8370
+[00:25:31]   W11 +  3 dice:QA engineer|Washington D
+[00:25:35]   W08 ATS +32 from 1 boards
+[00:25:37]   W14 ATS +6 from 2 boards
+[00:25:38]   [HEARTBEAT] DB=642,213 | iters=21,997 new=12,438 | 85min elapsed | Gap=357,787
+[00:25:38]   [22,000] +12,438 | DB=642,213 | 147/min | Gap=357,787 | arbeitnow:7 ats_discover:637 dice:12262 findwork:4 itjobs:4 jobicy:2 jobspy:822 remoteok:1 simplyhired:8261
+[00:25:43]   W27 +  3 simplyhired:technical lead|Warsaw
+[00:25:43]   W10 +  5 dice:LLM engineer|Atlanta
+[00:26:02]   W19 ATS +1 from 1 boards
+[00:26:03]   [HEARTBEAT] DB=642,229 | iters=22,549 new=11,793 | 85min elapsed | Gap=357,771
+[00:26:11]   W07 +  6 simplyhired:MLOps|Austin
+[00:26:14]   [22,600] +11,801 | DB=642,239 | 139/min | Gap=357,761 | arbeitnow:7 ats_discover:639 dice:12664 findwork:4 itjobs:3 jobicy:4 jobspy:834 remotive:1 simplyhired:8444
+[00:26:14]   W05 ATS +2 from 1 boards
+[00:26:25]   [22,200] +12,454 | DB=642,241 | 145/min | Gap=357,759 | arbeitnow:7 ats_discover:642 dice:12376 findwork:4 itjobs:4 jobicy:2 jobspy:826 remoteok:1 simplyhired:8338
+[00:26:33]   W26 +  6 dice:business analyst|Dallas
+[00:26:38]   [HEARTBEAT] DB=642,252 | iters=22,272 new=12,460 | 86min elapsed | Gap=357,748
+[00:26:40]   W07 +  4 simplyhired:Kubernetes|Los Angeles
+[00:27:00]   W28 +  3 dice:C#|Washington D
+[00:27:00]   W11 +  4 dice:cloud engineer|San Jose
+[00:27:03]   W04 +  4 simplyhired:game developer|Remote
+[00:27:03]   W10 +  7 simplyhired:urgent hiring|Phoenix
+[00:27:05]   W06 +  3 dice:.NET developer|Los Angeles
+[00:27:05]   [HEARTBEAT] DB=642,291 | iters=22,765 new=11,824 | 86min elapsed | Gap=357,709
+[00:27:05]   [22,400] +12,479 | DB=642,291 | 145/min | Gap=357,709 | arbeitnow:8 ats_discover:647 dice:12500 findwork:4 itjobs:4 jobicy:2 jobspy:834 remoteok:1 simplyhired:8400
+[00:27:09]   [22,800] +11,827 | DB=642,296 | 137/min | Gap=357,704 | arbeitnow:7 ats_discover:643 dice:12769 findwork:4 itjobs:3 jobicy:4 jobspy:845 remotive:1 simplyhired:8524
+[00:27:24]   W19 + 14 dice:product manager|New York
+[00:27:27]   W10 +  6 dice:junior software engi|Miami
+[00:27:27]   W20 +  6 simplyhired:Deep Learning|Phoenix
+[00:27:31]   W07 +  6 dice:security engineer|Seattle
+[00:27:36]   W29 ATS +2 from 2 boards
+[00:27:38]   [HEARTBEAT] DB=642,339 | iters=22,521 new=12,499 | 87min elapsed | Gap=357,661
+[00:27:45]   W23 +  7 dice:product manager|Remote
+[00:27:48]   W19 +  5 simplyhired:C++ engineer|Seattle
+[00:27:51]   W27 +  9 dice:hiring now|Remote
+[00:27:54]   [23,000] +11,865 | DB=642,365 | 137/min | Gap=357,635 | arbeitnow:7 ats_discover:644 dice:12891 findwork:4 itjobs:3 jobicy:4 jobspy:853 remotive:1 simplyhired:8593
+[00:27:55]   [22,600] +12,515 | DB=642,366 | 144/min | Gap=357,634 | arbeitnow:8 ats_discover:654 dice:12612 findwork:4 itjobs:4 jobicy:2 jobspy:845 remoteok:1 simplyhired:8470
+[00:27:57]   W20 + 15 dice:data analyst|Charlotte
+[00:28:01]   W01 ATS +9 from 1 boards
+[00:28:01]   W29 +  4 dice:cloud engineer|New York
+[00:28:10]   [HEARTBEAT] DB=642,397 | iters=23,056 new=11,881 | 87min elapsed | Gap=357,603
+[00:28:10]   W01 +  6 dice:Lead Engineer|Los Angeles
+[00:28:17]   W10 +  4 dice:junior software engi|Houston
+[00:28:18]   W15 ATS +17 from 1 boards
+[00:28:19]   W27 +  8 dice:security engineer|Atlanta
+[00:28:38]   [22,800] +12,544 | DB=642,440 | 143/min | Gap=357,560 | arbeitnow:8 ats_discover:662 dice:12728 findwork:4 itjobs:4 jobicy:2 jobspy:855 remoteok:1 simplyhired:8536
+[00:28:38]   [HEARTBEAT] DB=642,440 | iters=22,801 new=12,544 | 88min elapsed | Gap=357,560
+[00:28:42]   [23,200] +11,910 | DB=642,440 | 136/min | Gap=357,560 | arbeitnow:7 ats_discover:649 dice:13018 findwork:4 itjobs:3 jobicy:4 jobspy:858 remotive:1 simplyhired:8656
+[00:28:54]   W26 +  4 dice:platform engineer|Charlotte
+[00:28:58]   W05 +  9 simplyhired:security engineer|Washington D
+[00:28:58]   W10 +  4 dice:data scientist|Atlanta
+[00:29:10]   [HEARTBEAT] DB=642,463 | iters=23,316 new=11,918 | 88min elapsed | Gap=357,537
+[00:29:15]   W28 +  5 dice:mobile developer|New York
+[00:29:19]   [23,000] +12,564 | DB=642,508 | 142/min | Gap=357,492 | arbeitnow:8 ats_discover:666 dice:12844 findwork:4 itjobs:4 jobicy:2 jobspy:862 remoteok:1 simplyhired:8609
+[00:29:24]   W21 +  3 dice:intern|Boston
+[00:29:26]   W14 +  5 dice:Android developer|Boston
+[00:29:38]   [HEARTBEAT] DB=642,536 | iters=23,104 new=12,573 | 89min elapsed | Gap=357,464
+[00:29:43]   W27 ATS +14 from 1 boards
+[00:29:47]   [23,400] +11,935 | DB=642,537 | 135/min | Gap=357,463 | arbeitnow:7 ats_discover:658 dice:13132 findwork:4 itjobs:3 jobicy:4 jobspy:865 remotive:1 simplyhired:8740
+[00:29:48]   W26 ATS +2 from 2 boards
+[00:29:49]   W10 +  8 dice:security engineer|San Jose
+[00:29:55]   [23,200] +12,580 | DB=642,552 | 141/min | Gap=357,448 | arbeitnow:8 ats_discover:670 dice:12963 findwork:4 itjobs:4 jobicy:2 jobspy:875 remoteok:1 simplyhired:8673
+[00:30:01]   W11 +  7 dice:scrum master|Chicago
+[00:30:05]   W18 ATS +40 from 2 boards
+[00:30:10]   [HEARTBEAT] DB=642,571 | iters=23,501 new=11,987 | 89min elapsed | Gap=357,429
+[00:30:13]   W11 +  8 dice:UX designer|San Jose
+[00:30:31]   W13 +  6 dice:data engineer|Dallas
+[00:30:31]   W09 +  5 dice:C++ engineer|San Jose
+[00:30:33]   [23,400] +12,599 | DB=642,637 | 140/min | Gap=357,363 | arbeitnow:8 ats_discover:674 dice:13094 findwork:4 itjobs:4 jobicy:2 jobspy:881 remoteok:1 simplyhired:8732
+[00:30:34]   [23,600] +12,004 | DB=642,637 | 134/min | Gap=357,363 | arbeitnow:7 ats_discover:664 dice:13234 findwork:4 itjobs:3 jobicy:4 jobspy:872 remotive:1 simplyhired:8811
+[00:30:35]   W04 +  3 simplyhired:technical lead|Toronto
+[00:30:36]   W11 +  4 simplyhired:contract|Toronto
+[00:30:37]   W01 +  4 dice:data scientist|Austin
+[00:30:38]   [HEARTBEAT] DB=642,675 | iters=23,426 new=12,607 | 90min elapsed | Gap=357,325
+[00:30:44]   W21 +  7 dice:AI engineer|Washington D
+[00:31:05]   W11 +  4 simplyhired:Java|Atlanta
+[00:31:07]   W07 ATS +7 from 2 boards
+[00:31:10]   [HEARTBEAT] DB=642,700 | iters=23,756 new=12,019 | 90min elapsed | Gap=357,300
+[00:31:11]   W04 ATS +41 from 1 boards
+[00:31:11]   W22 +  3 simplyhired:rust developer|Denver
+[00:31:12]   W02 ATS +25 from 1 boards
+[00:31:16]   W07 ATS +7 from 1 boards
+[00:31:19]   [23,800] +12,069 | DB=642,706 | 134/min | Gap=357,294 | arbeitnow:7 ats_discover:672 dice:13354 findwork:4 itjobs:3 jobicy:4 jobspy:878 remotive:1 simplyhired:8877
+[00:31:20]   W29 +  3 simplyhired:Kotlin|Austin
+[00:31:24]   W04 +  4 simplyhired:security engineer|Dublin
+[00:31:24]   W06 +  3 dice:technical lead|San Jose
+[00:31:25]   [23,600] +12,656 | DB=642,719 | 140/min | Gap=357,281 | arbeitnow:8 ats_discover:677 dice:13207 findwork:4 itjobs:4 jobicy:2 jobspy:888 remoteok:1 simplyhired:8809
+[00:31:38]   [HEARTBEAT] DB=642,722 | iters=23,675 new=12,658 | 91min elapsed | Gap=357,278
+[00:31:42]   W13 +  4 dice:embedded systems eng|Nashville
+[00:32:02]   W09 ATS +3 from 1 boards
+[00:32:10]   [HEARTBEAT] DB=642,737 | iters=23,994 new=12,085 | 91min elapsed | Gap=357,263
+[00:32:11]   [24,000] +12,085 | DB=642,737 | 133/min | Gap=357,263 | arbeitnow:7 ats_discover:678 dice:13460 findwork:4 itjobs:3 jobicy:4 jobspy:884 remoteok:1 remotive:1 simplyhired:8958
+[00:32:26]   [23,800] +12,669 | DB=642,743 | 138/min | Gap=357,257 | arbeitnow:8 ats_discover:680 dice:13326 findwork:4 itjobs:4 jobicy:2 jobspy:895 remoteok:1 simplyhired:8890
+[00:32:34]   W19 ATS +1 from 1 boards
+[00:32:39]   [HEARTBEAT] DB=642,842 | iters=23,858 new=12,677 | 92min elapsed | Gap=357,158
+[00:32:40]   W26 +  7 simplyhired:.NET developer|New York
+[00:32:48]   W20 +  5 simplyhired:SWE|Dallas
+[00:32:48]   W17 +  4 dice:staff engineer|
+[00:32:54]   W23 +  3 dice:data engineer|Boston
+[00:32:54]   W00 +  3 simplyhired:platform engineer|Boston
+[00:32:58]   [24,200] +12,103 | DB=642,866 | 132/min | Gap=357,134
+[00:32:59]   W13 ATS +89 from 1 boards
+[00:33:00]   W20 +  8 dice:security engineer|Dallas
+[00:33:09]   W08 +  3 dice:Principal Engineer|Dallas
+[00:33:09]   [24,000] +12,792 | DB=642,882 | 139/min | Gap=357,118 | arbeitnow:8 ats_discover:690 dice:13447 findwork:4 itjobs:4 jobicy:2 jobspy:900 remoteok:1 simplyhired:8944
+[00:33:10]   W15 +  3 simplyhired:urgent hiring|Sydney
+[00:33:10]   [HEARTBEAT] DB=642,885 | iters=24,253 new=12,107 | 92min elapsed | Gap=357,115
+[00:33:11]   W01 +  5 dice:Go|Seattle
+[00:33:25]   W13 +  4 simplyhired:embedded systems eng|Houston
+[00:33:31]   W14 +  6 dice:staff engineer|Seattle
+[00:33:34]   W26 +  4 dice:JavaScript|Los Angeles
+[00:33:40]   [24,400] +12,123 | DB=642,937 | 131/min | Gap=357,063 | arbeitnow:7 ats_discover:693 dice:13692 findwork:4 itjobs:3 jobicy:4 jobspy:892 remoteok:1 remotive:1 simplyhired:9103
+[00:33:44]   W25 +  3 dice:staff engineer|Phoenix
+[00:33:44]   [HEARTBEAT] DB=642,942 | iters=24,118 new=12,807 | 93min elapsed | Gap=357,058
+[00:33:50]   W21 ATS +23 from 1 boards
+[00:33:52]   W09 +  4 dice:firmware engineer|Denver
+[00:33:56]   [24,200] +12,837 | DB=642,957 | 138/min | Gap=357,043 | arbeitnow:8 ats_discover:695 dice:13562 findwork:4 itjobs:4 jobicy:3 jobspy:904 remoteok:1 simplyhired:9019
+[00:33:56]   W03 +  4 dice:UX designer|San Jose
+[00:34:01]   W14 ATS +24 from 2 boards
+[00:34:15]   [HEARTBEAT] DB=642,991 | iters=24,501 new=12,138 | 93min elapsed | Gap=357,009
+[00:34:17]   W11 +  9 simplyhired:generative AI|New York
+[00:34:18]   W17 +  5 simplyhired:generative AI|Austin
+[00:34:26]   W25 +  7 dice:work from home|Seattle
+[00:34:26]   W24 +  4 simplyhired:technical lead|Melbourne
+[00:34:28]   [24,400] +12,877 | DB=643,020 | 137/min | Gap=356,980 | arbeitnow:9 ats_discover:699 dice:13690 findwork:4 itjobs:5 jobicy:3 jobspy:910 remoteok:1 simplyhired:9079
+[00:34:33]   W26 +  7 simplyhired:gcp engineer|Washington D
+[00:34:33]   [24,600] +12,158 | DB=643,030 | 130/min | Gap=356,970 | arbeitnow:7 ats_discover:698 dice:13818 findwork:4 itjobs:3 jobicy:4 jobspy:899 remoteok:1 remotive:1 simplyhired:9165
+[00:34:41]   W07 +  6 simplyhired:Scala|Remote
+[00:34:44]   [HEARTBEAT] DB=643,047 | iters=24,471 new=12,890 | 94min elapsed | Gap=356,953
+[00:34:45]   W10 +  7 simplyhired:QA engineer|Charlotte
+[00:35:10]   [24,600] +12,898 | DB=643,068 | 137/min | Gap=356,932 | arbeitnow:9 ats_discover:704 dice:13810 findwork:4 itjobs:5 jobicy:3 jobspy:919 remoteok:1 simplyhired:9145
+[00:35:10]   W15 +  6 simplyhired:business analyst|Portland
+[00:35:15]   [HEARTBEAT] DB=643,074 | iters=24,752 new=12,182 | 94min elapsed | Gap=356,926
+[00:35:17]   W03 ATS +2 from 1 boards
+[00:35:21]   W11 +  4 simplyhired:business analyst|Dublin
+[00:35:21]   W05 +  3 simplyhired:NLP engineer|Boston
+[00:35:24]   [24,800] +12,186 | DB=643,085 | 129/min | Gap=356,915 | arbeitnow:7 ats_discover:703 dice:13926 findwork:4 itjobs:3 jobicy:4 jobspy:907 remoteok:1 remotive:1 simplyhired:9245
+[00:35:31]   W13 +  9 dice:Principal Engineer|Los Angeles
+[00:35:42]   W27 +  3 simplyhired:cloud engineer|Seattle
+[00:35:44]   [HEARTBEAT] DB=643,105 | iters=24,746 new=12,928 | 95min elapsed | Gap=356,895
+[00:35:45]   W06 +  7 simplyhired:C++ engineer|Seattle
+[00:35:45]   W21 +  6 dice:security engineer|Austin
+[00:36:00]   W18 + 15 simplyhired:product manager|Dallas
+[00:36:00]   [24,800] +12,945 | DB=643,136 | 136/min | Gap=356,864 | arbeitnow:9 ats_discover:711 dice:13925 findwork:4 itjobs:5 jobicy:3 jobspy:926 remoteok:1 simplyhired:9216
+[00:36:01]   W20 + 14 dice:data analyst|Phoenix
+[00:36:07]   [25,000] +12,219 | DB=643,151 | 129/min | Gap=356,849 | arbeitnow:7 ats_discover:709 dice:14034 findwork:4 itjobs:3 jobicy:4 jobspy:915 remoteok:1 remotive:1 simplyhired:9322
+[00:36:17]   W24 +  6 simplyhired:remote|Atlanta
+[00:36:17]   [HEARTBEAT] DB=643,158 | iters=25,026 new=12,220 | 95min elapsed | Gap=356,842
+[00:36:22]   W18 +  3 dice:mobile developer|Montreal
+[00:36:22]   W15 +  4 simplyhired:NLP engineer|Washington D
+[00:36:22]   W24 +  3 dice:software developer|Atlanta
+[00:36:25]   W03 +  4 simplyhired:platform engineer|Houston
+[00:36:35]   [25,100] +12,231 | DB=643,182 | 128/min | Gap=356,818
+[00:36:40]   W27 +  6 dice:product manager|Austin
+[00:36:45]   [HEARTBEAT] DB=643,192 | iters=24,968 new=12,974 | 96min elapsed | Gap=356,808
+[00:36:45]   W01 +  3 simplyhired:.NET developer|Austin
+[00:36:46]   W18 +  6 dice:QA engineer|Austin
+[00:36:51]   [25,200] +12,241 | DB=643,203 | 128/min | Gap=356,797 | arbeitnow:7 ats_discover:717 dice:14150 findwork:4 itjobs:4 jobicy:4 jobspy:917 remoteok:1 remotive:1 simplyhired:9395
+[00:36:52]   [25,000] +12,976 | DB=643,203 | 135/min | Gap=356,797 | arbeitnow:9 ats_discover:719 dice:14034 findwork:4 itjobs:5 jobicy:3 jobspy:935 remoteok:1 simplyhired:9290
+[00:36:54]   W13 +  3 simplyhired:cloud architect|London
+[00:37:17]   [HEARTBEAT] DB=643,222 | iters=25,320 new=12,250 | 96min elapsed | Gap=356,778
+[00:37:18]   W19 +  8 simplyhired:GCP|Houston
+[00:37:29]   W15 +  4 simplyhired:platform engineer|Chicago
+[00:37:45]   [HEARTBEAT] DB=643,245 | iters=25,199 new=12,992 | 97min elapsed | Gap=356,755
+[00:37:45]   [25,200] +12,992 | DB=643,245 | 134/min | Gap=356,755 | arbeitnow:9 ats_discover:725 dice:14144 findwork:4 itjobs:5 jobicy:3 jobspy:945 remoteok:1 simplyhired:9364
+[00:37:47]   [25,400] +12,255 | DB=643,246 | 127/min | Gap=356,754
+[00:37:54]   W05 +  5 simplyhired:product manager|
+[00:38:02]   W20 +  3 simplyhired:cloud architect|Washington D
+[00:38:02]   W13 +  4 simplyhired:senior software engi|Atlanta
+[00:38:05]   W00 +  3 simplyhired:software engineer|
+[00:38:07]   W22 + 10 dice:scrum master|Washington D
+[00:38:15]   W04 ATS +6 from 2 boards
+[00:38:17]   [HEARTBEAT] DB=643,279 | iters=25,559 new=12,265 | 97min elapsed | Gap=356,721
+[00:38:34]   W09 ATS +6 from 2 boards
+[00:38:36]   [25,600] +12,267 | DB=643,288 | 126/min | Gap=356,712 | arbeitnow:7 ats_discover:731 dice:14382 findwork:4 itjobs:4 jobicy:4 jobspy:937 remoteok:1 remotive:1 simplyhired:9542
+[00:38:36]   W02 +  3 dice:gcp engineer|Washington D
+[00:38:42]   [25,400] +13,036 | DB=643,293 | 133/min | Gap=356,707 | arbeitnow:10 ats_discover:734 dice:14244 findwork:5 itjobs:5 jobicy:3 jobspy:950 remoteok:1 simplyhired:9448
+[00:38:45]   [HEARTBEAT] DB=643,295 | iters=25,408 new=13,037 | 98min elapsed | Gap=356,705
+[00:38:49]   W26 +  6 dice:intern|Austin
+[00:39:05]   W12 +  3 dice:hiring now|Chicago
+[00:39:09]   W07 + 77 arbeitnow:|
+[00:39:13]   [25,800] +12,362 | DB=643,389 | 126/min | Gap=356,611 | arbeitnow:8 ats_discover:739 dice:14494 findwork:4 itjobs:4 jobicy:4 jobspy:942 remoteok:1 remotive:1 simplyhired:9603
+[00:39:17]   [HEARTBEAT] DB=643,389 | iters=25,819 new=12,362 | 98min elapsed | Gap=356,611
+[00:39:21]   W14 +  4 dice:blockchain developer|San Jose
+[00:39:26]   W26 +  5 dice:generative AI|San Francisc
+[00:39:43]   [25,600] +13,045 | DB=643,403 | 132/min | Gap=356,597 | arbeitnow:10 ats_discover:746 dice:14337 findwork:5 itjobs:5 jobicy:3 jobspy:956 remoteok:1 simplyhired:9537
+[00:39:45]   [HEARTBEAT] DB=643,403 | iters=25,611 new=13,045 | 99min elapsed | Gap=356,597
+[00:39:47]   W15 +  5 dice:junior software engi|Chicago
+[00:40:05]   W09 +  4 simplyhired:Python|Chicago
+[00:40:10]   W14 +  3 dice:JavaScript|Phoenix
+[00:40:10]   [26,000] +12,382 | DB=643,519 | 125/min | Gap=356,481 | arbeitnow:8 ats_discover:742 dice:14603 findwork:4 itjobs:4 jobicy:4 jobspy:948 remoteok:1 remotive:1 simplyhired:9685
+[00:40:10]   W10 +  3 dice:security engineer|Houston
+[00:40:14]   W23 +  6 simplyhired:security engineer|Atlanta
+[00:40:17]   [HEARTBEAT] DB=643,533 | iters=26,013 new=12,390 | 99min elapsed | Gap=356,467
+[00:40:40]   [25,800] +13,063 | DB=643,542 | 131/min | Gap=356,458 | arbeitnow:10 ats_discover:752 dice:14457 findwork:5 itjobs:5 jobicy:3 jobspy:960 remoteok:1 simplyhired:9607
+[00:40:45]   [HEARTBEAT] DB=643,542 | iters=25,819 new=13,063 | 100min elapsed | Gap=356,458
+[00:40:45]   W28 +  7 simplyhired:cloud architect|Chicago
+[00:41:03]   [26,150] +12,394 | DB=643,554 | 124/min | Gap=356,446
+[00:41:03]   W20 +  3 simplyhired:python developer|Remote
+[00:41:06]   W24 ATS +100 from 2 boards
+[00:41:10]   W18 +  5 simplyhired:computer vision engi|Denver
+[00:41:11]   [26,200] +12,395 | DB=643,560 | 124/min | Gap=356,440 | arbeitnow:8 ats_discover:756 dice:14698 findwork:4 itjobs:4 jobicy:4 jobspy:956 remoteok:1 remotive:1 simplyhired:9768
+[00:41:12]   W04 +  6 simplyhired:product manager|Vancouver
+[00:41:17]   [HEARTBEAT] DB=643,568 | iters=26,223 new=12,402 | 100min elapsed | Gap=356,432
+[00:41:24]   [26,250] +12,402 | DB=643,568 | 124/min | Gap=356,432
+[00:41:32]   W09 ATS +1 from 1 boards
+[00:41:54]   W19 +  5 simplyhired:UX designer|Washington D
+[00:41:54]   W18 +  7 dice:intern|San Jose
+[00:41:54]   [HEARTBEAT] DB=643,581 | iters=26,001 new=13,191 | 101min elapsed | Gap=356,419
+[00:41:54]   [26,000] +13,191 | DB=643,581 | 130/min | Gap=356,419 | arbeitnow:10 ats_discover:759 dice:14563 findwork:5 itjobs:5 jobicy:4 jobspy:970 remoteok:1 simplyhired:9684
+[00:41:54]   [26,400] +12,404 | DB=643,581 | 123/min | Gap=356,419 | arbeitnow:8 ats_discover:762 dice:14803 findwork:4 itjobs:4 jobicy:5 jobspy:966 remoteok:1 remotive:1 simplyhired:9846
+[00:42:07]   W24 + 12 dice:spring boot develope|New York
+[00:42:07]   W14 +  6 dice:staff engineer|Dallas
+[00:42:08]   W13 + 10 simplyhired:engineering manager|Atlanta
+[00:42:17]   [HEARTBEAT] DB=643,622 | iters=26,484 new=12,419 | 101min elapsed | Gap=356,378
+[00:42:22]   W00 + 22 arbeitnow:|
+[00:42:38]   [26,200] +13,221 | DB=643,652 | 130/min | Gap=356,348 | arbeitnow:10 ats_discover:761 dice:14677 findwork:5 itjobs:5 jobicy:4 jobspy:976 remoteok:1 simplyhired:9762
+[00:42:42]   W00 +  3 simplyhired:contract|Portland
+[00:42:43]   W17 +  3 simplyhired:C++ engineer|
+[00:42:46]   W21 + 10 simplyhired:security engineer|Denver
+[00:42:58]   [26,600] +12,456 | DB=643,670 | 122/min | Gap=356,330 | arbeitnow:9 ats_discover:772 dice:14903 findwork:4 itjobs:4 jobicy:5 jobspy:974 remoteok:1 remotive:1 simplyhired:9927
+[00:43:00]   [HEARTBEAT] DB=643,674 | iters=26,249 new=13,230 | 102min elapsed | Gap=356,326
+[00:43:01]   W02 ATS +1 from 1 boards
+[00:43:05]   W13 +  4 simplyhired:SRE|Phoenix
+[00:43:05]   W11 +  3 simplyhired:Python|Miami
+[00:43:17]   [HEARTBEAT] DB=643,689 | iters=26,685 new=12,464 | 102min elapsed | Gap=356,311
+[00:43:43]   W06 +  4 simplyhired:staff engineer|Atlanta
+[00:43:43]   [26,400] +13,244 | DB=643,709 | 129/min | Gap=356,291 | arbeitnow:10 ats_discover:768 dice:14800 findwork:5 itjobs:5 jobicy:4 jobspy:984 remoteok:1 simplyhired:9841
+[00:43:45]   [26,800] +12,471 | DB=643,709 | 122/min | Gap=356,291 | arbeitnow:9 ats_discover:781 dice:15009 findwork:5 itjobs:4 jobicy:5 jobspy:987 remoteok:1 remotive:1 simplyhired:9998
+[00:44:07]   [HEARTBEAT] DB=643,713 | iters=26,506 new=13,245 | 103min elapsed | Gap=356,287
+[00:44:13]   W20 +  3 simplyhired:remote|Los Angeles
+[00:44:23]   W15 ATS +8 from 1 boards
+[00:44:24]   [HEARTBEAT] DB=643,725 | iters=26,938 new=12,476 | 103min elapsed | Gap=356,275
+[00:44:32]   [27,000] +12,478 | DB=643,727 | 121/min | Gap=356,273 | arbeitnow:9 ats_discover:789 dice:15122 findwork:5 itjobs:4 jobicy:5 jobspy:995 remoteok:1 remotive:1 simplyhired:10069
+[00:44:35]   [26,600] +13,266 | DB=643,732 | 128/min | Gap=356,268 | arbeitnow:10 ats_discover:774 dice:14909 findwork:5 itjobs:5 jobicy:4 jobspy:990 remoteok:1 simplyhired:9911
+[00:44:42]   W10 +  3 dice:GCP|
+[00:44:47]   W15 +  6 simplyhired:TypeScript|Remote
+[00:44:51]   W15 +  7 dice:work from home|New York
+[00:45:04]   W06 ATS +1 from 1 boards
+[00:45:04]   W16 +  6 simplyhired:engineering manager|Miami
+[00:45:08]   [HEARTBEAT] DB=643,768 | iters=26,735 new=13,295 | 104min elapsed | Gap=356,232
+[00:45:08]   W18 +  3 dice:data engineer|Tampa
+[00:45:11]   W23 +  4 dice:Machine Learning|Washington D
+[00:45:18]   [26,800] +13,298 | DB=643,777 | 127/min | Gap=356,223 | arbeitnow:10 ats_discover:779 dice:15011 findwork:5 itjobs:5 jobicy:4 jobspy:1002 remoteok:1 simplyhired:9983
+[00:45:25]   [HEARTBEAT] DB=643,783 | iters=27,199 new=12,494 | 104min elapsed | Gap=356,217
+[00:45:26]   [27,200] +12,494 | DB=643,783 | 120/min | Gap=356,217 | arbeitnow:9 ats_discover:795 dice:15227 findwork:5 itjobs:4 jobicy:5 jobspy:1002 remoteok:1 remotive:1 simplyhired:10151
+[00:45:26]   W03 ATS +4 from 1 boards
+[00:45:40]   W19 +  6 dice:MLOps|New York
+[00:45:41]   W03 ATS +1 from 1 boards
+[00:45:53]   W09 +  6 simplyhired:scrum master|Nashville
+[00:46:06]   [27,000] +13,317 | DB=643,807 | 126/min | Gap=356,193 | arbeitnow:10 ats_discover:784 dice:15118 findwork:5 itjobs:5 jobicy:4 jobspy:1007 remoteok:1 simplyhired:10066
+[00:46:08]   [HEARTBEAT] DB=643,808 | iters=27,017 new=13,318 | 105min elapsed | Gap=356,192
+[00:46:11]   [27,400] +12,505 | DB=643,811 | 119/min | Gap=356,189
+[00:46:11]   W26 +  3 dice:Scala|Dallas
+[00:46:15]   W13 + 10 simplyhired:product manager|Washington D
+[00:46:19]   W00 +  6 simplyhired:UX designer|Austin
+[00:46:47]   W04 +  3 simplyhired:iOS developer|Seattle
+[00:46:47]   [HEARTBEAT] DB=643,842 | iters=27,486 new=12,508 | 106min elapsed | Gap=356,158
+[00:46:49]   [27,200] +13,347 | DB=643,856 | 126/min | Gap=356,144 | arbeitnow:10 ats_discover:787 dice:15231 findwork:5 itjobs:5 jobicy:4 jobspy:1011 remoteok:1 simplyhired:10146
+[00:47:08]   [HEARTBEAT] DB=643,860 | iters=27,261 new=13,351 | 106min elapsed | Gap=356,140
+[00:47:19]   W13 +  6 simplyhired:Scala|Remote
+[00:47:19]   [27,600] +12,517 | DB=643,869 | 118/min | Gap=356,131 | arbeitnow:9 ats_discover:808 dice:15459 findwork:5 itjobs:4 jobicy:5 jobspy:1015 remoteok:1 remotive:1 simplyhired:10293
+[00:47:26]   W03 ATS +3 from 1 boards
+[00:47:33]   W14 +  4 dice:game developer|Austin
+[00:47:34]   W05 +  3 simplyhired:C#|Atlanta
+[00:47:36]   W01 +  6 simplyhired:platform engineer|
+[00:47:44]   W12 ATS +11 from 2 boards
+[00:47:44]   [27,400] +13,361 | DB=643,896 | 125/min | Gap=356,104 | arbeitnow:10 ats_discover:791 dice:15349 findwork:5 itjobs:5 jobicy:4 jobspy:1020 remoteok:1 simplyhired:10215
+[00:47:47]   [HEARTBEAT] DB=643,898 | iters=27,724 new=12,551 | 107min elapsed | Gap=356,102
+[00:48:00] ============================================================
+[00:48:00] MEGA UNIFIED SCRAPER — All sources, continuous loop
+[00:48:00] ============================================================
+[00:48:00] DB: 643,900 | Gap: 356,100
+[00:48:00] Loaded 643,900 dedup keys
+[00:48:01] Work items: 32,601 total, 5,691 remaining
+[00:48:01] Launching 30 workers on 5,691 items...
+[00:48:16]   W23 +  3 simplyhired:urgent hiring|Charlotte
+[00:49:06]   [HEARTBEAT] DB=643,914 | iters=180 new=13 | 1min elapsed | Gap=356,086
+[00:49:10]   [200] +15 | DB=643,916 | 13/min | Gap=356,084 | ats_discover:17 dice:113 jobspy:6 simplyhired:64
+[00:49:37]   W29 ATS +1 from 1 boards
+[00:50:02]   W07 +  3 simplyhired:Android developer|San Jose
+[00:50:06]   [HEARTBEAT] DB=643,921 | iters=338 new=21 | 2min elapsed | Gap=356,079
+[00:50:23]   [400] +23 | DB=643,923 | 10/min | Gap=356,077 | ats_discover:47 dice:216 jobspy:11 simplyhired:126
+[00:50:42]   W03 +  9 dice:Lead Engineer|Denver
+[00:51:06]   [HEARTBEAT] DB=643,933 | iters=503 new=33 | 3min elapsed | Gap=356,067
+[00:51:17]   W17 ATS +1 from 1 boards
+[00:51:19]   [550] +35 | DB=643,935 | 11/min | Gap=356,065
+[00:51:22]   W06 +  6 dice:cloud engineer|Washington D
+[00:52:01]   [600] +42 | DB=643,959 | 10/min | Gap=356,041 | ats_discover:88 dice:318 jobspy:19 simplyhired:175
+[00:52:06]   [HEARTBEAT] DB=643,959 | iters=617 new=42 | 4min elapsed | Gap=356,041
+[00:52:09]   W05 +  3 simplyhired:intern|Remote
+[00:52:14]   [650] +46 | DB=643,963 | 11/min | Gap=356,037
+[00:52:15]   W08 ATS +17 from 3 boards
+[00:53:06]   [800] +70 | DB=644,070 | 14/min | Gap=355,930 | ats_discover:118 dice:416 jobspy:22 simplyhired:244
+[00:53:06]   [HEARTBEAT] DB=644,070 | iters=800 new=70 | 5min elapsed | Gap=355,930
+[00:53:10]   W00 ATS +100 from 1 boards
+[00:53:21]   W18 +  4 dice:gcp engineer|Phoenix
+[00:53:42]   W03 +  7 simplyhired:Java|San Jose
+[00:53:52]   W22 + 12 simplyhired:engineering manager|Chicago
+[00:54:06]   [HEARTBEAT] DB=644,102 | iters=949 new=199 | 6min elapsed | Gap=355,898
+[00:54:16]   W01 ATS +9 from 1 boards
+[00:54:19]   W23 ATS +3 from 2 boards
+[00:54:24]   [1,000] +212 | DB=644,112 | 33/min | Gap=355,888 | ats_discover:154 dice:506 jobspy:31 simplyhired:309
+[00:54:30]   W15 +  3 dice:computer vision engi|Austin
+[00:54:45]   W22 +  4 dice:Vue.js|Washington D
+[00:54:56]   W24 +  3 dice:firmware engineer|Boston
+[00:55:06]   [HEARTBEAT] DB=644,196 | iters=1,092 new=222 | 7min elapsed | Gap=355,804
+[00:55:26]   W21 +  4 dice:iOS developer|Atlanta
+[00:55:35]   W21 +  4 dice:cloud engineer|Chicago
+[00:55:38]   [1,150] +231 | DB=644,205 | 30/min | Gap=355,795
+[00:55:46]   W07 ATS +66 from 2 boards
+[00:55:54]   [1,200] +299 | DB=644,207 | 38/min | Gap=355,793 | ats_discover:197 dice:600 jobspy:35 simplyhired:368
+[00:56:06]   [HEARTBEAT] DB=644,227 | iters=1,235 new=299 | 8min elapsed | Gap=355,773
+[00:56:34]   W15 +  6 simplyhired:senior software engi|Remote
+[00:57:00]   W11 +  4 dice:contract|New York
+[00:57:02]   W26 ATS +1 from 2 boards
+[00:57:06]   [HEARTBEAT] DB=644,534 | iters=1,352 new=319 | 9min elapsed | Gap=355,466
+[00:57:29]   [1,400] +320 | DB=644,555 | 34/min | Gap=355,445
+[00:57:43]   [1,450] +323 | DB=644,849 | 33/min | Gap=355,151
+[00:58:07]   [HEARTBEAT] DB=644,850 | iters=1,487 new=324 | 10min elapsed | Gap=355,150
+[00:58:53]   W17 ATS +5 from 2 boards
+[00:58:54]   [1,550] +331 | DB=645,342 | 30/min | Gap=354,658
+[00:59:06]   W12 +  3 simplyhired:firmware engineer|Dublin
+[00:59:07]   [HEARTBEAT] DB=645,419 | iters=1,577 new=336 | 11min elapsed | Gap=354,581
+[00:59:13]   [1,600] +336 | DB=645,512 | 30/min | Gap=354,488 | ats_discover:283 dice:760 jobspy:49 simplyhired:508
+[00:59:42]   W25 ATS +2 from 1 boards
+[01:00:15]   [HEARTBEAT] DB=646,108 | iters=1,726 new=344 | 12min elapsed | Gap=353,892
+[01:00:17]   W22 ATS +104 from 2 boards
+[01:00:26]   W20 +  5 simplyhired:platform engineer|Remote
+[01:00:43]   [1,800] +458 | DB=646,418 | 36/min | Gap=353,582 | ats_discover:321 dice:855 jobspy:59 simplyhired:565
+[01:00:53]   W04 ATS +1 from 4 boards
+[01:01:10]   W21 ATS +2 from 1 boards
+[01:01:15]   [HEARTBEAT] DB=646,978 | iters=1,887 new=462 | 13min elapsed | Gap=353,022
+[01:01:15]   W16 +  5 simplyhired:data analyst|Nashville
+[01:01:26]   W18 ATS +15 from 1 boards
+[01:01:31]   W07 +  3 dice:technical lead|Houston
+[01:01:44]   W12 ATS +1 from 1 boards
+[01:01:44]   [1,950] +488 | DB=647,520 | 36/min | Gap=352,480
+[01:01:59]   [2,000] +489 | DB=647,627 | 35/min | Gap=352,373 | ats_discover:358 dice:949 jobspy:63 simplyhired:630
+[01:02:30]   [HEARTBEAT] DB=647,788 | iters=2,017 new=490 | 14min elapsed | Gap=352,212
+[01:02:34]   W20 +  3 simplyhired:mobile developer|San Francisc
+[01:02:47]   W03 +  5 dice:spring boot develope|Seattle
+[01:02:55]   W24 +  5 simplyhired:C++ engineer|Atlanta
+[01:03:08]   W26 +  7 dice:junior software engi|New York
+[01:03:12]   [2,150] +515 | DB=647,819 | 34/min | Gap=352,181
+[01:03:13]   W05 ATS +1 from 1 boards
+[01:03:30]   [HEARTBEAT] DB=647,844 | iters=2,194 new=516 | 15min elapsed | Gap=352,156
+[01:03:30]   W21 ATS +4 from 1 boards
+[01:03:32]   [2,200] +520 | DB=647,844 | 34/min | Gap=352,156 | ats_discover:390 dice:1043 jobspy:71 simplyhired:696
+[01:03:41]   W01 ATS +2 from 1 boards
+[01:03:43]   W17 +  5 dice:contract|Washington D
+[01:04:16]   [2,300] +530 | DB=647,859 | 33/min | Gap=352,141
+[01:04:30]   [HEARTBEAT] DB=647,859 | iters=2,332 new=530 | 16min elapsed | Gap=352,141
+[01:05:02]   W28 +  3 simplyhired:Android developer|Los Angeles
+[01:05:05]   [2,400] +533 | DB=647,882 | 31/min | Gap=352,118 | arbeitnow:1 ats_discover:428 dice:1138 jobspy:79 simplyhired:754
+[01:05:38]   [HEARTBEAT] DB=647,903 | iters=2,457 new=534 | 18min elapsed | Gap=352,097
+[01:05:54]   W06 +  8 dice:work from home|Charlotte
+[01:06:56]   [HEARTBEAT] DB=648,037 | iters=2,587 new=546 | 19min elapsed | Gap=351,963
+[01:07:00]   [2,600] +546 | DB=648,037 | 29/min | Gap=351,963 | arbeitnow:1 ats_discover:463 dice:1226 jobspy:86 simplyhired:824
+[01:07:56]   [HEARTBEAT] DB=648,037 | iters=2,748 new=546 | 20min elapsed | Gap=351,963
+[01:08:14]   [2,800] +546 | DB=648,037 | 27/min | Gap=351,963 | arbeitnow:1 ats_discover:493 dice:1318 itjobs:1 jobspy:92 simplyhired:895
+[01:08:56]   [HEARTBEAT] DB=648,037 | iters=2,872 new=546 | 21min elapsed | Gap=351,963
+[01:09:20]   [2,950] +546 | DB=648,037 | 26/min | Gap=351,963
+[01:09:38]   [3,000] +546 | DB=648,037 | 25/min | Gap=351,963 | arbeitnow:1 ats_discover:530 dice:1404 itjobs:1 jobspy:96 simplyhired:968
+[01:09:56]   [HEARTBEAT] DB=648,037 | iters=3,037 new=546 | 22min elapsed | Gap=351,963
+[01:10:41]   [3,150] +546 | DB=648,037 | 24/min | Gap=351,963
+[01:10:54]   [3,200] +546 | DB=648,037 | 24/min | Gap=351,963 | arbeitnow:1 ats_discover:560 dice:1505 itjobs:1 jobspy:102 simplyhired:1031
+[01:10:56]   [HEARTBEAT] DB=648,037 | iters=3,205 new=546 | 23min elapsed | Gap=351,963
+[01:11:56]   [HEARTBEAT] DB=648,037 | iters=3,375 new=546 | 24min elapsed | Gap=351,963
+[01:12:05]   [3,400] +546 | DB=648,037 | 23/min | Gap=351,963
+[01:12:56]   [HEARTBEAT] DB=648,037 | iters=3,531 new=546 | 25min elapsed | Gap=351,963
+[01:13:18]   [3,600] +546 | DB=648,037 | 22/min | Gap=351,963 | arbeitnow:1 ats_discover:620 dice:1700 itjobs:1 jobspy:114 simplyhired:1164
+[01:13:56]   [HEARTBEAT] DB=648,037 | iters=3,711 new=546 | 26min elapsed | Gap=351,963
+[01:14:41]   [3,800] +546 | DB=648,037 | 20/min | Gap=351,963 | arbeitnow:1 ats_discover:648 dice:1809 itjobs:1 jobspy:122 simplyhired:1219
+[01:14:56]   [HEARTBEAT] DB=648,037 | iters=3,849 new=546 | 27min elapsed | Gap=351,963
+[01:15:38]   [3,950] +546 | DB=648,037 | 20/min | Gap=351,963
+[01:15:56]   [HEARTBEAT] DB=648,037 | iters=3,985 new=546 | 28min elapsed | Gap=351,963
+[01:16:05]   [4,000] +546 | DB=648,037 | 19/min | Gap=351,963 | arbeitnow:1 ats_discover:684 dice:1889 itjobs:1 jobspy:127 simplyhired:1298
+[01:16:56]   [HEARTBEAT] DB=648,037 | iters=4,132 new=546 | 29min elapsed | Gap=351,963
+[01:17:07]   [4,150] +546 | DB=648,037 | 19/min | Gap=351,963
+[01:17:32]   [4,200] +546 | DB=648,037 | 18/min | Gap=351,963 | arbeitnow:1 ats_discover:719 dice:1987 itjobs:1 jobspy:135 simplyhired:1357
+[01:17:56]   [HEARTBEAT] DB=648,037 | iters=4,265 new=546 | 30min elapsed | Gap=351,963
+[01:18:38]   [4,400] +546 | DB=648,037 | 18/min | Gap=351,963 | arbeitnow:1 ats_discover:747 dice:2083 itjobs:1 jobspy:140 simplyhired:1428
+[01:18:56]   [HEARTBEAT] DB=648,037 | iters=4,442 new=546 | 31min elapsed | Gap=351,963
+[01:19:01]   [4,450] +546 | DB=648,037 | 18/min | Gap=351,963
+[01:19:13]   [4,500] +546 | DB=648,037 | 17/min | Gap=351,963
+[01:19:54]   [4,600] +546 | DB=648,037 | 17/min | Gap=351,963 | arbeitnow:1 ats_discover:775 dice:2194 itjobs:1 jobspy:149 simplyhired:1480
+[01:19:57]   [HEARTBEAT] DB=648,037 | iters=4,607 new=546 | 32min elapsed | Gap=351,963
+[01:20:57]   [HEARTBEAT] DB=648,037 | iters=4,761 new=546 | 33min elapsed | Gap=351,963
+[01:21:10]   [4,800] +546 | DB=648,037 | 16/min | Gap=351,963 | arbeitnow:1 ats_discover:811 dice:2293 itjobs:1 jobspy:155 simplyhired:1539
+[01:21:57]   [HEARTBEAT] DB=648,037 | iters=4,881 new=546 | 34min elapsed | Gap=351,963
+[01:22:41]   [5,000] +546 | DB=648,037 | 16/min | Gap=351,963 | arbeitnow:1 ats_discover:848 dice:2376 itjobs:1 jobspy:163 simplyhired:1611
+[01:22:57]   [HEARTBEAT] DB=648,037 | iters=5,033 new=546 | 35min elapsed | Gap=351,963
+[01:23:04]   [5,050] +546 | DB=648,037 | 16/min | Gap=351,963
+[01:23:57]   [HEARTBEAT] DB=648,037 | iters=5,186 new=546 | 36min elapsed | Gap=351,963
+[01:24:03]   [5,200] +546 | DB=648,037 | 15/min | Gap=351,963
+[01:24:57]   [HEARTBEAT] DB=648,037 | iters=5,337 new=546 | 37min elapsed | Gap=351,963
+[01:25:27]   [5,400] +546 | DB=648,037 | 15/min | Gap=351,963 | arbeitnow:1 ats_discover:917 dice:2565 itjobs:1 jobspy:176 simplyhired:1740
+[01:25:57]   [HEARTBEAT] DB=648,037 | iters=5,518 new=546 | 38min elapsed | Gap=351,963
+[01:26:03]   [5,550] +546 | DB=648,037 | 14/min | Gap=351,963
+[01:26:22]   [5,600] +546 | DB=648,037 | 14/min | Gap=351,963 | arbeitnow:1 ats_discover:938 dice:2673 itjobs:1 jobspy:182 simplyhired:1805
+[01:26:57]   [HEARTBEAT] DB=648,037 | iters=5,671 new=546 | 39min elapsed | Gap=351,963
+[01:27:40] ============================================================
+[01:27:40] ROUND COMPLETE | New: +546
+[01:27:40] Sites: arbeitnow:1 ats_discover:974 dice:2703 itjobs:1 jobspy:183 simplyhired:1829
+[01:27:40] DB: 648,037 | Gap: 351,963
+[01:27:40] Time: 39.7min | Rate: 14/min
+[01:27:40] ============================================================

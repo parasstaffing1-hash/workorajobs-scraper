@@ -1,0 +1,2000 @@
+  - name: "Walmart"
+    careers_url: "https://www.walmart.com/careers"
+    domain: "walmart.com"
+    max_pages: 20
+  - name: "Amazon.com"
+    careers_url: "https://www.amazon.com/careers"
+    domain: "amazon.com"
+    max_pages: 20
+  - name: "China National Petroleum"
+    careers_url: "https://www.cnpc.com.cn/careers"
+    domain: "cnpc.com.cn"
+    max_pages: 20
+  - name: "State Grid"
+    careers_url: "https://www.sgcc.com.cn/careers"
+    domain: "sgcc.com.cn"
+    max_pages: 20
+  - name: "Hon Hai Precision Industry"
+    careers_url: "https://www.foxconn.com/careers"
+    domain: "foxconn.com"
+    max_pages: 20
+  - name: "China Post Group"
+    careers_url: "https://www.chinapost.com.cn/careers"
+    domain: "chinapost.com.cn"
+    max_pages: 20
+  - name: "Volkswagen"
+    careers_url: "https://www.volkswagenag.com/careers"
+    domain: "volkswagenag.com"
+    max_pages: 20
+  - name: "Accenture"
+    careers_url: "https://www.accenture.com/careers"
+    domain: "accenture.com"
+    max_pages: 20
+  - name: "U.S. Postal Service"
+    careers_url: "https://www.usps.com/careers"
+    domain: "usps.com"
+    max_pages: 20
+  - name: "Deutsche Post DHL Group"
+    careers_url: "https://www.dpdhl.com/careers"
+    domain: "dpdhl.com"
+    max_pages: 20
+  - name: "Sinopec Group"
+    careers_url: "https://www.sinopec.com/careers"
+    domain: "sinopec.com"
+    max_pages: 20
+  - name: "FedEx"
+    careers_url: "https://www.fedex.com/careers"
+    domain: "fedex.com"
+    max_pages: 20
+  - name: "Jinneng Holding Group"
+    careers_url: "https://www.dtcoalmine.com/careers"
+    domain: "dtcoalmine.com"
+    max_pages: 20
+  - name: "Home Depot"
+    careers_url: "https://www.homedepot.com/careers"
+    domain: "homedepot.com"
+    max_pages: 20
+  - name: "Gazprom"
+    careers_url: "https://www.gazprom.com/careers"
+    domain: "gazprom.com"
+    max_pages: 20
+  - name: "Agricultural Bank of China"
+    careers_url: "https://www.abchina.com/careers"
+    domain: "abchina.com"
+    max_pages: 20
+  - name: "China Mobile Communications"
+    careers_url: "https://www.10086.cn/careers"
+    domain: "10086.cn"
+    max_pages: 20
+  - name: "Target"
+    careers_url: "https://www.target.com/careers"
+    domain: "target.com"
+    max_pages: 20
+  - name: "Industrial & Commercial Bank of China"
+    careers_url: "https://www.icbc-ltd.com/careers"
+    domain: "icbc-ltd.com"
+    max_pages: 20
+  - name: "Kroger"
+    careers_url: "https://www.thekrogerco.com/careers"
+    domain: "thekrogerco.com"
+    max_pages: 20
+  - name: "Edeka Zentrale"
+    careers_url: "https://www.verbund.edeka/careers"
+    domain: "verbund.edeka"
+    max_pages: 20
+  - name: "Bosch Group"
+    careers_url: "https://www.bosch.com/careers"
+    domain: "bosch.com"
+    max_pages: 20
+  - name: "United Parcel Service"
+    careers_url: "https://www.ups.com/careers"
+    domain: "ups.com"
+    max_pages: 20
+  - name: "Jardine Matheson"
+    careers_url: "https://www.jardines.com/careers"
+    domain: "jardines.com"
+    max_pages: 20
+  - name: "China Telecommunications"
+    careers_url: "https://www.chinatelecom.com.cn/careers"
+    domain: "chinatelecom.com.cn"
+    max_pages: 20
+  - name: "JD.com"
+    careers_url: "https://www.jd.com/careers"
+    domain: "jd.com"
+    max_pages: 20
+  - name: "Starbucks"
+    careers_url: "https://www.starbucks.com/careers"
+    domain: "starbucks.com"
+    max_pages: 20
+  - name: "Aviation Industry Corp. of China"
+    careers_url: "https://www.avic.com/careers"
+    domain: "avic.com"
+    max_pages: 20
+  - name: "China Construction Bank"
+    careers_url: "https://www.ccb.com/careers"
+    domain: "ccb.com"
+    max_pages: 20
+  - name: "Toyota Motor"
+    careers_url: "https://www.global.toyota/en//careers"
+    domain: "global.toyota"
+    max_pages: 20
+  - name: "Berkshire Hathaway"
+    careers_url: "https://www.berkshirehathaway.com/careers"
+    domain: "berkshirehathaway.com"
+    max_pages: 20
+  - name: "China State Construction Engineering"
+    careers_url: "https://www.cscec.com/careers"
+    domain: "cscec.com"
+    max_pages: 20
+  - name: "Hitachi"
+    careers_url: "https://www.hitachi.com/careers"
+    domain: "hitachi.com"
+    max_pages: 20
+  - name: "China Railway Construction"
+    careers_url: "https://www.crcc.cn/careers"
+    domain: "crcc.cn"
+    max_pages: 20
+  - name: "China Resources"
+    careers_url: "https://www.crc.com.hk/careers"
+    domain: "crc.com.hk"
+    max_pages: 20
+  - name: "Rosneft Oil"
+    careers_url: "https://www.rosneft.com/careers"
+    domain: "rosneft.com"
+    max_pages: 20
+  - name: "Ping An Insurance"
+    careers_url: "https://www.group.pingan.com/careers"
+    domain: "pingan.com"
+    max_pages: 20
+  - name: "UnitedHealth Group"
+    careers_url: "https://www.unitedhealthgroup.com/careers"
+    domain: "unitedhealthgroup.com"
+    max_pages: 20
+  - name: "Reliance Industries"
+    careers_url: "https://www.ril.com/careers"
+    domain: "ril.com"
+    max_pages: 20
+  - name: "X5 Retail Group"
+    careers_url: "https://www.x5.ru/careers"
+    domain: "x5.ru"
+    max_pages: 20
+  - name: "TJX"
+    careers_url: "https://www.tjx.com/careers"
+    domain: "tjx.com"
+    max_pages: 20
+  - name: "Nippon Telegraph and Telephone"
+    careers_url: "https://www.group.ntt/careers"
+    domain: "group.ntt"
+    max_pages: 20
+  - name: "Deutsche Bahn"
+    careers_url: "https://www.deutschebahn.com/careers"
+    domain: "deutschebahn.com"
+    max_pages: 20
+  - name: "Carrefour"
+    careers_url: "https://www.carrefour.com/careers"
+    domain: "carrefour.com"
+    max_pages: 20
+  - name: "China Energy Investment"
+    careers_url: "https://www.ceic.com/careers"
+    domain: "ceic.com"
+    max_pages: 20
+  - name: "China Railway Engineering Group"
+    careers_url: "https://www.crecg.com/careers"
+    domain: "crecg.com"
+    max_pages: 20
+  - name: "Pacific Construction Group"
+    careers_url: "https://www.cpcg.com.cn/careers"
+    domain: "cpcg.com.cn"
+    max_pages: 20
+  - name: "PepsiCo"
+    careers_url: "https://www.pepsico.com/careers"
+    domain: "pepsico.com"
+    max_pages: 20
+  - name: "Bank of China"
+    careers_url: "https://www.boc.cn/careers"
+    domain: "boc.cn"
+    max_pages: 20
+  - name: "Siemens"
+    careers_url: "https://www.siemens.com/careers"
+    domain: "siemens.com"
+    max_pages: 20
+  - name: "CK Hutchison Holdings"
+    careers_url: "https://www.ckh.com.hk/careers"
+    domain: "ckh.com.hk"
+    max_pages: 20
+  - name: "International Business Machines"
+    careers_url: "https://www.ibm.com/careers"
+    domain: "ibm.com"
+    max_pages: 20
+  - name: "BYD"
+    careers_url: "https://www.byd.com/careers"
+    domain: "byd.com"
+    max_pages: 20
+  - name: "AEON"
+    careers_url: "https://www.aeon.info/careers"
+    domain: "aeon.info"
+    max_pages: 20
+  - name: "Costco Wholesale"
+    careers_url: "https://www.costco.com/careers"
+    domain: "costco.com"
+    max_pages: 20
+  - name: "Sberbank"
+    careers_url: "https://www.sberbank.ru/careers"
+    domain: "sberbank.ru"
+    max_pages: 20
+  - name: "China Southern Power Grid"
+    careers_url: "https://www.csg.cn/careers"
+    domain: "csg.cn"
+    max_pages: 20
+  - name: "Stellantis"
+    careers_url: "https://www.stellantis.com/careers"
+    domain: "stellantis.com"
+    max_pages: 20
+  - name: "Sumitomo Electric Industries"
+    careers_url: "https://www.global-sei.com/careers"
+    domain: "global-sei.com"
+    max_pages: 20
+  - name: "Fresenius"
+    careers_url: "https://www.fresenius.com/careers"
+    domain: "fresenius.com"
+    max_pages: 20
+  - name: "Nestlé"
+    careers_url: "https://www.nestle.com/careers"
+    domain: "nestle.com"
+    max_pages: 20
+  - name: "JPMorgan Chase"
+    careers_url: "https://www.jpmorganchase.com/careers"
+    domain: "jpmorganchase.com"
+    max_pages: 20
+  - name: "SNCF Group"
+    careers_url: "https://www.sncf.com/careers"
+    domain: "sncf.com"
+    max_pages: 20
+  - name: "Lowe's"
+    careers_url: "https://www.lowes.com/careers"
+    domain: "lowes.com"
+    max_pages: 20
+  - name: "Samsung Electronics"
+    careers_url: "https://www.samsung.com/careers"
+    domain: "samsung.com"
+    max_pages: 20
+  - name: "China Merchants Group"
+    careers_url: "https://www.cmhk.com/careers"
+    domain: "cmhk.com"
+    max_pages: 20
+  - name: "Royal Ahold Delhaize"
+    careers_url: "https://www.aholddelhaize.com/careers"
+    domain: "aholddelhaize.com"
+    max_pages: 20
+  - name: "Walgreens Boots Alliance"
+    careers_url: "https://www.walgreensbootsalliance.com/careers"
+    domain: "walgreensbootsalliance.com"
+    max_pages: 20
+  - name: "CVS Health"
+    careers_url: "https://www.cvshealth.com/careers"
+    domain: "cvshealth.com"
+    max_pages: 20
+  - name: "Alibaba Group Holding"
+    careers_url: "https://www.alibabagroup.com/careers"
+    domain: "alibabagroup.com"
+    max_pages: 20
+  - name: "JBS"
+    careers_url: "https://jbs.com.br/careers"
+    domain: "jbs.com.br"
+    max_pages: 20
+  - name: "Wells Fargo"
+    careers_url: "https://www.wellsfargo.com/careers"
+    domain: "wellsfargo.com"
+    max_pages: 20
+  - name: "La Poste"
+    careers_url: "https://www.groupelaposte.com/careers"
+    domain: "groupelaposte.com"
+    max_pages: 20
+  - name: "State Bank of India"
+    careers_url: "https://www.sbi.co.in/careers"
+    domain: "sbi.co.in"
+    max_pages: 20
+  - name: "HCA Healthcare"
+    careers_url: "https://www.hcahealthcare.com/careers"
+    domain: "hcahealthcare.com"
+    max_pages: 20
+  - name: "Shandong Energy Group"
+    careers_url: "https://www.shandong-energy.com/careers"
+    domain: "shandong-energy.com"
+    max_pages: 20
+  - name: "China United Network Communications"
+    careers_url: "https://www.chinaunicom-a.com/careers"
+    domain: "chinaunicom-a.com"
+    max_pages: 20
+  - name: "Panasonic Holdings"
+    careers_url: "https://www.holdings.panasonic/global/careers"
+    domain: "holdings.panasonic"
+    max_pages: 20
+  - name: "Jabil"
+    careers_url: "https://www.jabil.com/careers"
+    domain: "jabil.com"
+    max_pages: 20
+  - name: "Japan Post Holdings"
+    careers_url: "https://www.japanpost.jp/careers"
+    domain: "japanpost.jp"
+    max_pages: 20
+  - name: "Publix Super Markets"
+    careers_url: "https://www.publix.com/careers"
+    domain: "publix.com"
+    max_pages: 20
+  - name: "Tesco"
+    careers_url: "https://www.tescoplc.com/careers"
+    domain: "tescoplc.com"
+    max_pages: 20
+  - name: "China Baowu Steel Group"
+    careers_url: "https://www.baowugroup.com/careers"
+    domain: "baowugroup.com"
+    max_pages: 20
+  - name: "Citigroup"
+    careers_url: "https://www.citigroup.com/careers"
+    domain: "citigroup.com"
+    max_pages: 20
+  - name: "Sinochem Holdings"
+    careers_url: "https://www.sinochem.com/careers"
+    domain: "sinochem.com"
+    max_pages: 20
+  - name: "China Communications Construction"
+    careers_url: "https://www.ccccltd.cn/careers"
+    domain: "ccccltd.cn"
+    max_pages: 20
+  - name: "HSBC Holdings"
+    careers_url: "https://www.hsbc.com/careers"
+    domain: "hsbc.com"
+    max_pages: 20
+  - name: "Vinci"
+    careers_url: "https://www.vinci.com/careers"
+    domain: "vinci.com"
+    max_pages: 20
+  - name: "Deutsche Telekom"
+    careers_url: "https://www.telekom.com/careers"
+    domain: "telekom.com"
+    max_pages: 20
+  - name: "George Weston"
+    careers_url: "https://www.weston.ca/careers"
+    domain: "weston.ca"
+    max_pages: 20
+  - name: "China North Industries Group"
+    careers_url: "https://www.norincogroup.com.cn/careers"
+    domain: "norincogroup.com.cn"
+    max_pages: 20
+  - name: "China State Shipbuilding"
+    careers_url: "https://www.cssc.net.cn/careers"
+    domain: "cssc.net.cn"
+    max_pages: 20
+  - name: "Woolworths Group"
+    careers_url: "https://www.woolworthsgroup.com.au/careers"
+    domain: "woolworthsgroup.com.au"
+    max_pages: 20
+  - name: "Bank of America"
+    careers_url: "https://www.bankofamerica.com/careers"
+    domain: "bankofamerica.com"
+    max_pages: 20
+  - name: "China National Building Material Group"
+    careers_url: "https://www.cnbm.com.cn/careers"
+    domain: "cnbm.com.cn"
+    max_pages: 20
+  - name: "Honda Motor"
+    careers_url: "https://www.global.honda//careers"
+    domain: "global.honda"
+    max_pages: 20
+  - name: "AT&T"
+    careers_url: "https://www.att.com/careers"
+    domain: "att.com"
+    max_pages: 20
+  - name: "China Electronics Technology Group"
+    careers_url: "https://www.cetc.com.cn/careers"
+    domain: "cetc.com.cn"
+    max_pages: 20
+  - name: "Shanxi Coking Coal Group"
+    careers_url: "https://www.sxcc.com.cn/careers"
+    domain: "sxcc.com.cn"
+    max_pages: 20
+  - name: "Sinopharm"
+    careers_url: "https://www.sinopharm.com/careers"
+    domain: "sinopharm.com"
+    max_pages: 20
+  - name: "Finatis"
+    careers_url: "https://www.finatis.fr/careers"
+    domain: "finatis.fr"
+    max_pages: 20
+  - name: "Albertsons"
+    careers_url: "https://www.albertsonscompanies.com/careers"
+    domain: "albertsonscompanies.com"
+    max_pages: 20
+  - name: "Huawei Investment & Holding"
+    careers_url: "https://www.huawei.com/careers"
+    domain: "huawei.com"
+    max_pages: 20
+  - name: "Banco Santander"
+    careers_url: "https://www.santander.com/careers"
+    domain: "santander.com"
+    max_pages: 20
+  - name: "China Minmetals"
+    careers_url: "https://www.minmetals.com/careers"
+    domain: "minmetals.com"
+    max_pages: 20
+  - name: "China Electronics"
+    careers_url: "https://www.cec.com.cn/careers"
+    domain: "cec.com.cn"
+    max_pages: 20
+  - name: "Continental"
+    careers_url: "https://www.continental.com/careers"
+    domain: "continental.com"
+    max_pages: 20
+  - name: "BNP Paribas"
+    careers_url: "https://www.group.bnpparibas/careers"
+    domain: "group.bnpparibas"
+    max_pages: 20
+  - name: "Comcast"
+    careers_url: "https://www.comcastcorporation.com/careers"
+    domain: "comcastcorporation.com"
+    max_pages: 20
+  - name: "People's Insurance Co. of China"
+    careers_url: "https://www.picc.com.cn/careers"
+    domain: "picc.com.cn"
+    max_pages: 20
+  - name: "Canon"
+    careers_url: "https://www.global.canon/careers"
+    domain: "global.canon"
+    max_pages: 20
+  - name: "Ford Motor"
+    careers_url: "https://www.ford.com/careers"
+    domain: "ford.com"
+    max_pages: 20
+  - name: "China Life Insurance"
+    careers_url: "https://www.chinalife.com.cn/careers"
+    domain: "chinalife.com.cn"
+    max_pages: 20
+  - name: "PowerChina"
+    careers_url: "https://www.powerchina.cn/careers"
+    domain: "powerchina.cn"
+    max_pages: 20
+  - name: "América Móvil"
+    careers_url: "https://www.americamovil.com/careers"
+    domain: "americamovil.com"
+    max_pages: 20
+  - name: "China National Nuclear"
+    careers_url: "https://www.cnnc.com.cn/careers"
+    domain: "cnnc.com.cn"
+    max_pages: 20
+  - name: "Microsoft"
+    careers_url: "https://www.microsoft.com/careers"
+    domain: "microsoft.com"
+    max_pages: 20
+  - name: "Brookfield Asset Management"
+    careers_url: "https://www.brookfield.com/careers"
+    domain: "brookfield.com"
+    max_pages: 20
+  - name: "China Aerospace Science & Technology"
+    careers_url: "https://www.spacechina.com/careers"
+    domain: "spacechina.com"
+    max_pages: 20
+  - name: "S.F. Holding"
+    careers_url: "https://www.sf-express.com/careers"
+    domain: "sf-express.com"
+    max_pages: 20
+  - name: "Ingka Group"
+    careers_url: "https://www.ingka.com/careers"
+    domain: "ingka.com"
+    max_pages: 20
+  - name: "Raytheon Technologies"
+    careers_url: "https://www.rtx.com/careers"
+    domain: "rtx.com"
+    max_pages: 20
+  - name: "Ansteel Group"
+    careers_url: "https://www.ansteel.cn/careers"
+    domain: "ansteel.cn"
+    max_pages: 20
+  - name: "CRRC Group"
+    careers_url: "https://www.crrcgc.cc/careers"
+    domain: "crrcgc.cc"
+    max_pages: 20
+  - name: "Mercedes-Benz Group"
+    careers_url: "https://group.mercedes-benz.com/careers"
+    domain: "mercedes-benz.com"
+    max_pages: 20
+  - name: "Engie"
+    careers_url: "https://www.engie.com/careers"
+    domain: "engie.com"
+    max_pages: 20
+  - name: "Walt Disney"
+    careers_url: "https://www.thewaltdisneycompany.com/careers"
+    domain: "thewaltdisneycompany.com"
+    max_pages: 20
+  - name: "Veolia Environnement"
+    careers_url: "https://www.veolia.com/careers"
+    domain: "veolia.com"
+    max_pages: 20
+  - name: "Anheuser-Busch InBev"
+    careers_url: "https://www.ab-inbev.com/careers"
+    domain: "ab-inbev.com"
+    max_pages: 20
+  - name: "General Electric"
+    careers_url: "https://www.ge.com/careers"
+    domain: "ge.com"
+    max_pages: 20
+  - name: "Denso"
+    careers_url: "https://www.denso.com/global/careers"
+    domain: "denso.com"
+    max_pages: 20
+  - name: "Saint-Gobain"
+    careers_url: "https://www.saint-gobain.com/careers"
+    domain: "saint-gobain.com"
+    max_pages: 20
+  - name: "Midea Group"
+    careers_url: "https://www.midea-group.com/careers"
+    domain: "midea-group.com"
+    max_pages: 20
+  - name: "Inditex"
+    careers_url: "https://www.inditex.com/careers"
+    domain: "inditex.com"
+    max_pages: 20
+  - name: "Electricité de France"
+    careers_url: "https://www.edf.fr/careers"
+    domain: "edf.fr"
+    max_pages: 20
+  - name: "Dollar General"
+    careers_url: "https://www.dollargeneral.com/careers"
+    domain: "dollargeneral.com"
+    max_pages: 20
+  - name: "China South Industries Group"
+    careers_url: "https://www.csgc.com.cn/careers"
+    domain: "csgc.com.cn"
+    max_pages: 20
+  - name: "Christian Dior"
+    careers_url: "https://www.dior-finance.com/careers"
+    domain: "dior-finance.com"
+    max_pages: 20
+  - name: "Magna International"
+    careers_url: "https://www.magna.com/careers"
+    domain: "magna.com"
+    max_pages: 20
+  - name: "ArcelorMittal"
+    careers_url: "https://www.arcelormittal.com/careers"
+    domain: "arcelormittal.com"
+    max_pages: 20
+  - name: "ZF Friedrichshafen"
+    careers_url: "https://www.zf.com/careers"
+    domain: "zf.com"
+    max_pages: 20
+  - name: "General Motors"
+    careers_url: "https://www.gm.com/careers"
+    domain: "gm.com"
+    max_pages: 20
+  - name: "Alphabet"
+    careers_url: "https://www.abc.xyz/careers"
+    domain: "abc.xyz"
+    max_pages: 20
+  - name: "Renault"
+    careers_url: "https://renaultgroup.com/careers"
+    domain: "renaultgroup.com"
+    max_pages: 20
+  - name: "Allianz"
+    careers_url: "https://www.allianz.com/careers"
+    domain: "allianz.com"
+    max_pages: 20
+  - name: "Apple"
+    careers_url: "https://www.apple.com/careers"
+    domain: "apple.com"
+    max_pages: 20
+  - name: "Susun Construction Group"
+    careers_url: "https://www.ss-ceo.com/careers"
+    domain: "ss-ceo.com"
+    max_pages: 20
+  - name: "ELO Group"
+    careers_url: "https://www.groupe-elo.com/careers"
+    domain: "groupe-elo.com"
+    max_pages: 20
+  - name: "China National Coal Group"
+    careers_url: "https://www.chinacoal.com/careers"
+    domain: "chinacoal.com"
+    max_pages: 20
+  - name: "CITIC Group"
+    careers_url: "https://www.group.citic/careers"
+    domain: "group.citic"
+    max_pages: 20
+  - name: "Unilever"
+    careers_url: "https://www.unilever.com/careers"
+    domain: "unilever.com"
+    max_pages: 20
+  - name: "SAIC Motor"
+    careers_url: "https://www.saicmotor.com/careers"
+    domain: "saicmotor.com"
+    max_pages: 20
+  - name: "Mitsubishi Electric"
+    careers_url: "https://www.mitsubishielectric.com/careers"
+    domain: "mitsubishielectric.com"
+    max_pages: 20
+  - name: "Boeing"
+    careers_url: "https://www.boeing.com/careers"
+    domain: "boeing.com"
+    max_pages: 20
+  - name: "Nissan Motor"
+    careers_url: "https://www.nissan-global.com/careers"
+    domain: "nissan-global.com"
+    max_pages: 20
+  - name: "Johnson & Johnson"
+    careers_url: "https://www.jnj.com/careers"
+    domain: "jnj.com"
+    max_pages: 20
+  - name: "Dongfeng Motor"
+    careers_url: "https://www.dfmc.com.cn/careers"
+    domain: "dfmc.com.cn"
+    max_pages: 20
+  - name: "China Aerospace Science & Industry"
+    careers_url: "https://www.casic.com.cn/careers"
+    domain: "casic.com.cn"
+    max_pages: 20
+  - name: "Orange"
+    careers_url: "https://www.orange.com/careers"
+    domain: "orange.com"
+    max_pages: 20
+  - name: "China Vanke"
+    careers_url: "https://www.vanke.com/careers"
+    domain: "vanke.com"
+    max_pages: 20
+  - name: "Aluminum Corp. of China"
+    careers_url: "https://www.chinalco.com.cn/careers"
+    domain: "chinalco.com.cn"
+    max_pages: 20
+  - name: "Tyson Foods"
+    careers_url: "https://www.tysonfoods.com/careers"
+    domain: "tysonfoods.com"
+    max_pages: 20
+  - name: "Itochu"
+    careers_url: "https://www.itochu.co.jp/careers"
+    domain: "itochu.co.jp"
+    max_pages: 20
+  - name: "Bridgestone"
+    careers_url: "https://www.bridgestone.com/careers"
+    domain: "bridgestone.com"
+    max_pages: 20
+  - name: "Mitsubishi UFJ Financial Group"
+    careers_url: "https://www.mufg.jp/careers"
+    domain: "mufg.jp"
+    max_pages: 20
+  - name: "Dell Technologies"
+    careers_url: "https://www.delltechnologies.com/careers"
+    domain: "delltechnologies.com"
+    max_pages: 20
+  - name: "Pegatron"
+    careers_url: "https://www.pegatroncorp.com/careers"
+    domain: "pegatroncorp.com"
+    max_pages: 20
+  - name: "Sinomach"
+    careers_url: "https://www.sinomach.com.cn/careers"
+    domain: "sinomach.com.cn"
+    max_pages: 20
+  - name: "Oracle"
+    careers_url: "https://www.oracle.com/careers"
+    domain: "oracle.com"
+    max_pages: 20
+  - name: "Shaanxi Coal & Chemical Industry"
+    careers_url: "https://www.shccig.com/careers"
+    domain: "shccig.com"
+    max_pages: 20
+  - name: "New Hope Holding Group"
+    careers_url: "https://www.newhopegroup.com/careers"
+    domain: "newhopegroup.com"
+    max_pages: 20
+  - name: "Shaanxi Yanchang Petroleum (Group)"
+    careers_url: "https://www.sxycpc.com/careers"
+    domain: "sxycpc.com"
+    max_pages: 20
+  - name: "Thermo Fisher Scientific"
+    careers_url: "https://www.thermofisher.com/careers"
+    domain: "thermofisher.com"
+    max_pages: 20
+  - name: "Zhejiang Geely Holding Group"
+    careers_url: "https://www.zgh.com/careers"
+    domain: "zgh.com"
+    max_pages: 20
+  - name: "Schneider Electric"
+    careers_url: "https://www.se.com/careers"
+    domain: "se.com"
+    max_pages: 20
+  - name: "Seven & I Holdings"
+    careers_url: "https://www.7andi.com/careers"
+    domain: "7andi.com"
+    max_pages: 20
+  - name: "Airbus"
+    careers_url: "https://www.airbus.com/careers"
+    domain: "airbus.com"
+    max_pages: 20
+  - name: "China Huaneng Group"
+    careers_url: "https://www.chng.com.cn/careers"
+    domain: "chng.com.cn"
+    max_pages: 20
+  - name: "Bouygues"
+    careers_url: "https://www.bouygues.com/careers"
+    domain: "bouygues.com"
+    max_pages: 20
+  - name: "Fujitsu"
+    careers_url: "https://www.fujitsu.com/careers"
+    domain: "fujitsu.com"
+    max_pages: 20
+  - name: "Société Générale"
+    careers_url: "https://www.societegenerale.com/careers"
+    domain: "societegenerale.com"
+    max_pages: 20
+  - name: "Alimentation Couche-Tard"
+    careers_url: "https://corpo.couche-tard.com/careers"
+    domain: "couche-tard.com"
+    max_pages: 20
+  - name: "Pemex"
+    careers_url: "https://www.pemex.com/careers"
+    domain: "pemex.com"
+    max_pages: 20
+  - name: "American Airlines Group"
+    careers_url: "https://www.aa.com/careers"
+    domain: "aa.com"
+    max_pages: 20
+  - name: "State Power Investment"
+    careers_url: "https://www.spic.com.cn/careers"
+    domain: "spic.com.cn"
+    max_pages: 20
+  - name: "Hengli Group"
+    careers_url: "https://www.hengli.com/careers"
+    domain: "hengli.com"
+    max_pages: 20
+  - name: "Hyundai Motor"
+    careers_url: "https://worldwide.hyundai.com/careers"
+    domain: "hyundai.com"
+    max_pages: 20
+  - name: "Intel"
+    careers_url: "https://www.intel.com/careers"
+    domain: "intel.com"
+    max_pages: 20
+  - name: "Coles Group"
+    careers_url: "https://www.colesgroup.com.au/careers"
+    domain: "colesgroup.com.au"
+    max_pages: 20
+  - name: "China Energy Engineering Group"
+    careers_url: "https://www.ceec.net.cn/careers"
+    domain: "ceec.net.cn"
+    max_pages: 20
+  - name: "Poste Italiane"
+    careers_url: "https://www.posteitaliane.it/careers"
+    domain: "posteitaliane.it"
+    max_pages: 20
+  - name: "BMW Group"
+    careers_url: "https://www.bmwgroup.com/careers"
+    domain: "bmwgroup.com"
+    max_pages: 20
+  - name: "China FAW Group"
+    careers_url: "https://www.faw.com.cn/careers"
+    domain: "faw.com.cn"
+    max_pages: 20
+  - name: "Verizon Communications"
+    careers_url: "https://www.verizon.com/careers"
+    domain: "verizon.com"
+    max_pages: 20
+  - name: "SK"
+    careers_url: "https://www.sk.co.kr/careers"
+    domain: "sk.co.kr"
+    max_pages: 20
+  - name: "Aisin"
+    careers_url: "https://www.aisin.com/careers"
+    domain: "aisin.com"
+    max_pages: 20
+  - name: "J. Sainsbury"
+    careers_url: "https://www.about.sainsburys.co.uk/careers"
+    domain: "sainsburys.co.uk"
+    max_pages: 20
+  - name: "HBIS Group"
+    careers_url: "https://www.hbisco.com/careers"
+    domain: "hbisco.com"
+    max_pages: 20
+  - name: "Toshiba"
+    careers_url: "https://www.toshiba.co.jp/careers"
+    domain: "toshiba.co.jp"
+    max_pages: 20
+  - name: "Nippon Steel Corporation"
+    careers_url: "https://www.nipponsteel.com/careers"
+    domain: "nipponsteel.com"
+    max_pages: 20
+  - name: "Lockheed Martin"
+    careers_url: "https://www.lockheedmartin.com/careers"
+    domain: "lockheedmartin.com"
+    max_pages: 20
+  - name: "Abbott Laboratories"
+    careers_url: "https://www.abbott.com/careers"
+    domain: "abbott.com"
+    max_pages: 20
+  - name: "Tencent Holdings"
+    careers_url: "https://www.tencent.com/careers"
+    domain: "tencent.com"
+    max_pages: 20
+  - name: "Guangzhou Automobile Industry Group"
+    careers_url: "https://www.gac.com.cn/careers"
+    domain: "gac.com.cn"
+    max_pages: 20
+  - name: "BASF"
+    careers_url: "https://www.basf.com/careers"
+    domain: "basf.com"
+    max_pages: 20
+  - name: "China Poly Group"
+    careers_url: "https://www.poly.com.cn/careers"
+    domain: "poly.com.cn"
+    max_pages: 20
+  - name: "Banco Bilbao Vizcaya Argentaria"
+    careers_url: "https://www.bbva.com/careers"
+    domain: "bbva.com"
+    max_pages: 20
+  - name: "Compal Electronics"
+    careers_url: "https://www.compal.com/careers"
+    domain: "compal.com"
+    max_pages: 20
+  - name: "Sony"
+    careers_url: "https://www.sony.net/careers"
+    domain: "sony.net"
+    max_pages: 20
+  - name: "COFCO"
+    careers_url: "https://www.cofco.com/careers"
+    domain: "cofco.com"
+    max_pages: 20
+  - name: "Caterpillar"
+    careers_url: "https://www.caterpillar.com/careers"
+    domain: "caterpillar.com"
+    max_pages: 20
+  - name: "COSCO Shipping"
+    careers_url: "https://www.coscoshipping.com/careers"
+    domain: "coscoshipping.com"
+    max_pages: 20
+  - name: "SAP"
+    careers_url: "https://www.sap.com/careers"
+    domain: "sap.com"
+    max_pages: 20
+  - name: "China Pacific Insurance (Group)"
+    careers_url: "https://www.cpic.com.cn/careers"
+    domain: "cpic.com.cn"
+    max_pages: 20
+  - name: "Koç Holding"
+    careers_url: "https://www.koc.com.tr/careers"
+    domain: "koc.com.tr"
+    max_pages: 20
+  - name: "Life Insurance Corp. of India"
+    careers_url: "https://www.licindia.in/careers"
+    domain: "licindia.in"
+    max_pages: 20
+  - name: "ACS"
+    careers_url: "https://www.grupoacs.com/careers"
+    domain: "grupoacs.com"
+    max_pages: 20
+  - name: "Haier Smart Home"
+    careers_url: "https://www.haier.net/en/careers"
+    domain: "haier.net"
+    max_pages: 20
+  - name: "ABB"
+    careers_url: "https://www.abb.com/careers"
+    domain: "abb.com"
+    max_pages: 20
+  - name: "Novartis"
+    careers_url: "https://www.novartis.com/careers"
+    domain: "novartis.com"
+    max_pages: 20
+  - name: "Telefónica"
+    careers_url: "https://www.telefonica.com/careers"
+    domain: "telefonica.com"
+    max_pages: 20
+  - name: "China Merchants Bank"
+    careers_url: "https://www.cmbchina.com/careers"
+    domain: "cmbchina.com"
+    max_pages: 20
+  - name: "General Dynamics"
+    careers_url: "https://www.gd.com/careers"
+    domain: "gd.com"
+    max_pages: 20
+  - name: "Lukoil"
+    careers_url: "https://www.lukoil.com/careers"
+    domain: "lukoil.com"
+    max_pages: 20
+  - name: "TotalEnergies"
+    careers_url: "https://www.totalenergies.com/careers"
+    domain: "totalenergies.com"
+    max_pages: 20
+  - name: "ThyssenKrupp"
+    careers_url: "https://www.thyssenkrupp.com/careers"
+    domain: "thyssenkrupp.com"
+    max_pages: 20
+  - name: "Sumitomo Mitsui Financial Group"
+    careers_url: "https://www.smfg.co.jp/careers"
+    domain: "smfg.co.jp"
+    max_pages: 20
+  - name: "Procter & Gamble"
+    careers_url: "https://www.pg.com/careers"
+    domain: "pg.com"
+    max_pages: 20
+  - name: "Roche Group"
+    careers_url: "https://www.roche.com/careers"
+    domain: "roche.com"
+    max_pages: 20
+  - name: "Country Garden Holdings"
+    careers_url: "https://www.countrygarden.com.cn/careers"
+    domain: "countrygarden.com.cn"
+    max_pages: 20
+  - name: "Beijing Automotive Group"
+    careers_url: "https://www.baicgroup.com.cn/careers"
+    domain: "baicgroup.com.cn"
+    max_pages: 20
+  - name: "Wilmar International"
+    careers_url: "https://www.wilmar-international.com/careers"
+    domain: "wilmar-international.com"
+    max_pages: 20
+  - name: "Bayer"
+    careers_url: "https://www.bayer.com/careers"
+    domain: "bayer.com"
+    max_pages: 20
+  - name: "Itaú Unibanco Holding"
+    careers_url: "https://www.itau.com.br/careers"
+    domain: "itau.com.br"
+    max_pages: 20
+  - name: "Tesla"
+    careers_url: "https://www.tesla.com/careers"
+    domain: "tesla.com"
+    max_pages: 20
+  - name: "Lu’an Chemical Group"
+    careers_url: "https://www.chinaluan.com/careers"
+    domain: "chinaluan.com"
+    max_pages: 20
+  - name: "Honeywell International"
+    careers_url: "https://www.honeywell.com/careers"
+    domain: "honeywell.com"
+    max_pages: 20
+  - name: "Groupe BPCE"
+    careers_url: "https://www.groupebpce.com/careers"
+    domain: "groupebpce.com"
+    max_pages: 20
+  - name: "Elevance Health"
+    careers_url: "https://www.elevancehealth.com/careers"
+    domain: "elevancehealth.com"
+    max_pages: 20
+  - name: "Danone"
+    careers_url: "https://www.danone.com/careers"
+    domain: "danone.com"
+    max_pages: 20
+  - name: "Intesa Sanpaolo"
+    careers_url: "https://www.group.intesasanpaolo.com/careers"
+    domain: "intesasanpaolo.com"
+    max_pages: 20
+  - name: "Vodafone Group"
+    careers_url: "https://www.vodafone.com/careers"
+    domain: "vodafone.com"
+    max_pages: 20
+  - name: "Shandong Weiqiao Pioneering Group"
+    careers_url: "https://www.weiqiaocy.com/careers"
+    domain: "weiqiaocy.com"
+    max_pages: 20
+  - name: "Shougang Group"
+    careers_url: "https://www.shougang.com.cn/careers"
+    domain: "shougang.com.cn"
+    max_pages: 20
+  - name: "Mercadona"
+    careers_url: "https://www.mercadona.es/careers"
+    domain: "mercadona.es"
+    max_pages: 20
+  - name: "Humana"
+    careers_url: "https://www.humana.com/careers"
+    domain: "humana.com"
+    max_pages: 20
+  - name: "Sanofi"
+    careers_url: "https://www.sanofi.com/careers"
+    domain: "sanofi.com"
+    max_pages: 20
+  - name: "China Everbright Group"
+    careers_url: "https://www.ebchina.com/careers"
+    domain: "ebchina.com"
+    max_pages: 20
+  - name: "3M"
+    careers_url: "https://www.3m.com/careers"
+    domain: "3m.com"
+    max_pages: 20
+  - name: "Charter Communications"
+    careers_url: "https://www.charter.com/careers"
+    domain: "charter.com"
+    max_pages: 20
+  - name: "Nippon Life Insurance"
+    careers_url: "https://www.nissay.co.jp/careers"
+    domain: "nissay.co.jp"
+    max_pages: 20
+  - name: "AXA"
+    careers_url: "https://www.axa.com/careers"
+    domain: "axa.com"
+    max_pages: 20
+  - name: "China Huadian"
+    careers_url: "https://www.chd.com.cn/careers"
+    domain: "chd.com.cn"
+    max_pages: 20
+  - name: "Siemens Energy"
+    careers_url: "https://www.siemens-energy.com/careers"
+    domain: "siemens-energy.com"
+    max_pages: 20
+  - name: "Quanta Computer"
+    careers_url: "https://www.quantatw.com/careers"
+    domain: "quantatw.com"
+    max_pages: 20
+  - name: "China Datang"
+    careers_url: "https://www.china-cdt.com/careers"
+    domain: "china-cdt.com"
+    max_pages: 20
+  - name: "Bank of Communications"
+    careers_url: "https://www.bankcomm.com/careers"
+    domain: "bankcomm.com"
+    max_pages: 20
+  - name: "GSK"
+    careers_url: "https://www.gsk.com/careers"
+    domain: "gsk.com"
+    max_pages: 20
+  - name: "Medtronic"
+    careers_url: "https://www.medtronic.com/careers"
+    domain: "medtronic.com"
+    max_pages: 20
+  - name: "Bank of Nova Scotia"
+    careers_url: "https://www.scotiabank.com/careers"
+    domain: "scotiabank.com"
+    max_pages: 20
+  - name: "Toronto-Dominion Bank"
+    careers_url: "https://www.td.com/careers"
+    domain: "td.com"
+    max_pages: 20
+  - name: "Volvo"
+    careers_url: "https://www.volvogroup.com/careers"
+    domain: "volvogroup.com"
+    max_pages: 20
+  - name: "Northrop Grumman"
+    careers_url: "https://www.northropgrumman.com/careers"
+    domain: "northropgrumman.com"
+    max_pages: 20
+  - name: "Metro"
+    careers_url: "https://www.metroag.de/careers"
+    domain: "metroag.de"
+    max_pages: 20
+  - name: "Shenzhen Investment Holdings"
+    careers_url: "https://www.sihc.com.cn/en/careers"
+    domain: "sihc.com.cn"
+    max_pages: 20
+  - name: "Tsingshan Holding Group"
+    careers_url: "https://www.tssgroup.com.cn/careers"
+    domain: "tssgroup.com.cn"
+    max_pages: 20
+  - name: "L'Oréal"
+    careers_url: "https://www.loreal.com/careers"
+    domain: "loreal.com"
+    max_pages: 20
+  - name: "Maersk Group"
+    careers_url: "https://www.maersk.com/careers"
+    domain: "maersk.com"
+    max_pages: 20
+  - name: "Royal Bank of Canada"
+    careers_url: "https://www.rbc.com/careers"
+    domain: "rbc.com"
+    max_pages: 20
+  - name: "Banco do Brasil"
+    careers_url: "https://www.bb.com.br/careers"
+    domain: "bb.com.br"
+    max_pages: 20
+  - name: "AstraZeneca"
+    careers_url: "https://www.astrazeneca.com/careers"
+    domain: "astrazeneca.com"
+    max_pages: 20
+  - name: "Delta Air Lines"
+    careers_url: "https://www.delta.com/careers"
+    domain: "delta.com"
+    max_pages: 20
+  - name: "Deutsche Bank"
+    careers_url: "https://www.db.com/careers"
+    domain: "db.com"
+    max_pages: 20
+  - name: "Coop Group"
+    careers_url: "https://www.coop.ch/careers"
+    domain: "coop.ch"
+    max_pages: 20
+  - name: "Weichai Power"
+    careers_url: "https://www.weichaipower.com/careers"
+    domain: "weichaipower.com"
+    max_pages: 20
+  - name: "Shell"
+    careers_url: "https://www.shell.com/careers"
+    domain: "shell.com"
+    max_pages: 20
+  - name: "Gree Electric Appliances"
+    careers_url: "https://www.gree.com/careers"
+    domain: "gree.com"
+    max_pages: 20
+  - name: "Barclays"
+    careers_url: "https://www.home.barclays/careers"
+    domain: "home.barclays"
+    max_pages: 20
+  - name: "Best Buy"
+    careers_url: "https://www.investors.bestbuy.com/careers"
+    domain: "bestbuy.com"
+    max_pages: 20
+  - name: "Glencore"
+    careers_url: "https://www.glencore.com/careers"
+    domain: "glencore.com"
+    max_pages: 20
+  - name: "China National Offshore Oil"
+    careers_url: "https://www.cnooc.com.cn/careers"
+    domain: "cnooc.com.cn"
+    max_pages: 20
+  - name: "Mitsubishi"
+    careers_url: "https://www.mitsubishicorp.com/careers"
+    domain: "mitsubishicorp.com"
+    max_pages: 20
+  - name: "Wistron"
+    careers_url: "https://www.wistron.com/careers"
+    domain: "wistron.com"
+    max_pages: 20
+  - name: "Greenland Holding Group"
+    careers_url: "https://www.ldjt.com.cn/careers"
+    domain: "ldjt.com.cn"
+    max_pages: 20
+  - name: "Banco Bradesco"
+    careers_url: "https://www.bradesco.com.br/careers"
+    domain: "bradesco.com.br"
+    max_pages: 20
+  - name: "Cisco Systems"
+    careers_url: "https://www.cisco.com/careers"
+    domain: "cisco.com"
+    max_pages: 20
+  - name: "Pfizer"
+    careers_url: "https://www.pfizer.com/careers"
+    domain: "pfizer.com"
+    max_pages: 20
+  - name: "Coca-Cola"
+    careers_url: "https://www.coca-colacompany.com/careers"
+    domain: "coca-colacompany.com"
+    max_pages: 20
+  - name: "Danaher"
+    careers_url: "https://www.danaher.com/careers"
+    domain: "danaher.com"
+    max_pages: 20
+  - name: "Mondelez International"
+    careers_url: "https://www.mondelezinternational.com/careers"
+    domain: "mondelezinternational.com"
+    max_pages: 20
+  - name: "Mitsubishi Heavy Industries"
+    careers_url: "https://www.mhi.com/careers"
+    domain: "mhi.com"
+    max_pages: 20
+  - name: "DSV"
+    careers_url: "https://www.dsv.com/careers"
+    domain: "dsv.com"
+    max_pages: 20
+  - name: "CRH"
+    careers_url: "https://www.crh.com/careers"
+    domain: "crh.com"
+    max_pages: 20
+  - name: "Crédit Agricole"
+    careers_url: "https://www.credit-agricole.com/careers"
+    domain: "credit-agricole.com"
+    max_pages: 20
+  - name: "Deere"
+    careers_url: "https://www.deere.com/careers"
+    domain: "deere.com"
+    max_pages: 20
+  - name: "Lenovo Group"
+    careers_url: "https://www.lenovo.com/careers"
+    domain: "lenovo.com"
+    max_pages: 20
+  - name: "LG Electronics"
+    careers_url: "https://www.lg.com/careers"
+    domain: "lg.com"
+    max_pages: 20
+  - name: "Morgan Stanley"
+    careers_url: "https://www.morganstanley.com/careers"
+    domain: "morganstanley.com"
+    max_pages: 20
+  - name: "Assicurazioni Generali"
+    careers_url: "https://www.generali.com/careers"
+    domain: "generali.com"
+    max_pages: 20
+  - name: "EXOR Group"
+    careers_url: "https://www.exor.com/careers"
+    domain: "exor.com"
+    max_pages: 20
+  - name: "Sumitomo"
+    careers_url: "https://www.sumitomocorp.com/careers"
+    domain: "sumitomocorp.com"
+    max_pages: 20
+  - name: "Tata Motors"
+    careers_url: "https://www.tatamotors.com/careers"
+    domain: "tatamotors.com"
+    max_pages: 20
+  - name: "Migros Group"
+    careers_url: "https://www.migros.ch/careers"
+    domain: "migros.ch"
+    max_pages: 20
+  - name: "Kuehne + Nagel International"
+    careers_url: "https://www.kuehne-nagel.com/careers"
+    domain: "kuehne-nagel.com"
+    max_pages: 20
+  - name: "Nike"
+    careers_url: "https://www.nike.com/careers"
+    domain: "nike.com"
+    max_pages: 20
+  - name: "Xinjiang Guanghui Industry Investment"
+    careers_url: "https://www.guanghui.com/careers"
+    domain: "guanghui.com"
+    max_pages: 20
+  - name: "Cigna"
+    careers_url: "https://www.cigna.com/careers"
+    domain: "cigna.com"
+    max_pages: 20
+  - name: "Tata Steel"
+    careers_url: "https://www.tatasteel.com/careers"
+    domain: "tatasteel.com"
+    max_pages: 20
+  - name: "Centene"
+    careers_url: "https://www.centene.com/careers"
+    domain: "centene.com"
+    max_pages: 20
+  - name: "Linde"
+    careers_url: "https://www.linde.com/careers"
+    domain: "linde.com"
+    max_pages: 20
+  - name: "CMA CGM"
+    careers_url: "https://www.cma-cgm.com/careers"
+    domain: "cma-cgm.com"
+    max_pages: 20
+  - name: "Vale"
+    careers_url: "https://www.vale.com/careers"
+    domain: "vale.com"
+    max_pages: 20
+  - name: "Meta Platforms"
+    careers_url: "https://www.fb.com/careers"
+    domain: "fb.com"
+    max_pages: 20
+  - name: "UBS Group"
+    careers_url: "https://www.ubs.com/careers"
+    domain: "ubs.com"
+    max_pages: 20
+  - name: "Holcim"
+    careers_url: "https://www.holcim.com/careers"
+    domain: "holcim.com"
+    max_pages: 20
+  - name: "Mitsubishi Chemical Holdings"
+    careers_url: "https://www.mitsubishichem-hd.co.jp/careers"
+    domain: "mitsubishichem-hd.co.jp"
+    max_pages: 20
+  - name: "E.ON"
+    careers_url: "https://www.eon.com/careers"
+    domain: "eon.com"
+    max_pages: 20
+  - name: "Philip Morris International"
+    careers_url: "https://www.pmi.com/careers"
+    domain: "pmi.com"
+    max_pages: 20
+  - name: "Suzuki Motor"
+    careers_url: "https://www.globalsuzuki.com/careers"
+    domain: "globalsuzuki.com"
+    max_pages: 20
+  - name: "Saudi Aramco"
+    careers_url: "https://www.aramco.com/careers"
+    domain: "aramco.com"
+    max_pages: 20
+  - name: "China Taiping Insurance Group"
+    careers_url: "https://www.cntaiping.com/careers"
+    domain: "cntaiping.com"
+    max_pages: 20
+  - name: "Merck"
+    careers_url: "https://www.merck.com/careers"
+    domain: "merck.com"
+    max_pages: 20
+  - name: "McKesson"
+    careers_url: "https://www.mckesson.com/careers"
+    domain: "mckesson.com"
+    max_pages: 20
+  - name: "Enel"
+    careers_url: "https://www.enel.com/careers"
+    domain: "enel.com"
+    max_pages: 20
+  - name: "BP"
+    careers_url: "https://www.bp.com/careers"
+    domain: "bp.com"
+    max_pages: 20
+  - name: "Toyota Tsusho"
+    careers_url: "https://www.toyota-tsusho.com/careers"
+    domain: "toyota-tsusho.com"
+    max_pages: 20
+  - name: "Taiwan Semiconductor Manufacturing"
+    careers_url: "https://www.tsmc.com/careers"
+    domain: "tsmc.com"
+    max_pages: 20
+  - name: "JFE Holdings"
+    careers_url: "https://www.jfe-holdings.co.jp/careers"
+    domain: "jfe-holdings.co.jp"
+    max_pages: 20
+  - name: "CJ Corp."
+    careers_url: "https://www.cj.net/careers"
+    domain: "cj.net"
+    max_pages: 20
+  - name: "American Express"
+    careers_url: "https://www.americanexpress.com/careers"
+    domain: "americanexpress.com"
+    max_pages: 20
+  - name: "Shanghai Pudong Development Bank"
+    careers_url: "https://www.spdb.com.cn/careers"
+    domain: "spdb.com.cn"
+    max_pages: 20
+  - name: "Exxon Mobil"
+    careers_url: "https://www.exxonmobil.com/careers"
+    domain: "exxonmobil.com"
+    max_pages: 20
+  - name: "Olam Group"
+    careers_url: "https://www.olamgroup.com/careers"
+    domain: "olamgroup.com"
+    max_pages: 20
+  - name: "Industrial Bank"
+    careers_url: "https://www.cib.com.cn/careers"
+    domain: "cib.com.cn"
+    max_pages: 20
+  - name: "Dai-ichi Life Holdings"
+    careers_url: "https://www.dai-ichi-life-hd.com/careers"
+    domain: "dai-ichi-life-hd.com"
+    max_pages: 20
+  - name: "Anglo American"
+    careers_url: "https://www.angloamerican.com/careers"
+    domain: "angloamerican.com"
+    max_pages: 20
+  - name: "China Minsheng Banking"
+    careers_url: "https://www.cmbc.com.cn/careers"
+    domain: "cmbc.com.cn"
+    max_pages: 20
+  - name: "Anhui Conch Group"
+    careers_url: "https://www.chinaconch.com/careers"
+    domain: "chinaconch.com"
+    max_pages: 20
+  - name: "SoftBank Group"
+    careers_url: "https://www.group.softbank/en//careers"
+    domain: "group.softbank"
+    max_pages: 20
+  - name: "Taikang Insurance Group"
+    careers_url: "https://www.taikang.com/careers"
+    domain: "taikang.com"
+    max_pages: 20
+  - name: "Lloyds Banking Group"
+    careers_url: "https://www.lloydsbankinggroup.com/careers"
+    domain: "lloydsbankinggroup.com"
+    max_pages: 20
+  - name: "Sysco"
+    careers_url: "https://www.sysco.com/careers"
+    domain: "sysco.com"
+    max_pages: 20
+  - name: "ING Group"
+    careers_url: "https://www.ing.com/careers"
+    domain: "ing.com"
+    max_pages: 20
+  - name: "Beijing Jianlong Heavy Industry Group"
+    careers_url: "https://www.ejianlong.com/careers"
+    domain: "ejianlong.com"
+    max_pages: 20
+  - name: "Cathay Financial Holding"
+    careers_url: "https://www.cathayholdings.com/careers"
+    domain: "cathayholdings.com"
+    max_pages: 20
+  - name: "Zurich Insurance Group"
+    careers_url: "https://www.zurich.com/careers"
+    domain: "zurich.com"
+    max_pages: 20
+  - name: "Allstate"
+    careers_url: "https://www.allstate.com/careers"
+    domain: "allstate.com"
+    max_pages: 20
+  - name: "British American Tobacco"
+    careers_url: "https://www.bat.com/careers"
+    domain: "bat.com"
+    max_pages: 20
+  - name: "State Farm Insurance"
+    careers_url: "https://www.statefarm.com/careers"
+    domain: "statefarm.com"
+    max_pages: 20
+  - name: "Hanwha"
+    careers_url: "https://www.hanwhacorp.co.kr/careers"
+    domain: "hanwhacorp.co.kr"
+    max_pages: 20
+  - name: "Mizuho Financial Group"
+    careers_url: "https://www.mizuhogroup.com/careers"
+    domain: "mizuhogroup.com"
+    max_pages: 20
+  - name: "Shandong Hi-Speed Group"
+    careers_url: "https://www.sdhsg.com/careers"
+    domain: "sdhsg.com"
+    max_pages: 20
+  - name: "Yunnan Provincial Investment Holding Group"
+    careers_url: "https://www.cnyig.com/en/careers"
+    domain: "cnyig.com"
+    max_pages: 20
+  - name: "Kia"
+    careers_url: "https://www.kia.com/careers"
+    domain: "kia.com"
+    max_pages: 20
+  - name: "Shanghai Construction Group"
+    careers_url: "https://www.scg.com.cn/careers"
+    domain: "scg.com.cn"
+    max_pages: 20
+  - name: "HP"
+    careers_url: "https://www.hp.com/careers"
+    domain: "hp.com"
+    max_pages: 20
+  - name: "Capital One Financial"
+    careers_url: "https://www.capitalone.com/careers"
+    domain: "capitalone.com"
+    max_pages: 20
+  - name: "Credit Suisse Group"
+    careers_url: "https://www.credit-suisse.com/careers"
+    domain: "credit-suisse.com"
+    max_pages: 20
+  - name: "AbbVie"
+    careers_url: "https://www.abbvie.com/careers"
+    domain: "abbvie.com"
+    max_pages: 20
+  - name: "Marubeni"
+    careers_url: "https://www.marubeni.com/careers"
+    domain: "marubeni.com"
+    max_pages: 20
+  - name: "Shudao Investment Group"
+    careers_url: "https://www.shudaojt.com/careers"
+    domain: "shudaojt.com"
+    max_pages: 20
+  - name: "Rio Tinto Group"
+    careers_url: "https://www.riotinto.com/careers"
+    domain: "riotinto.com"
+    max_pages: 20
+  - name: "Progressive"
+    careers_url: "https://www.progressive.com/careers"
+    domain: "progressive.com"
+    max_pages: 20
+  - name: "Daiwa House Industry"
+    careers_url: "https://www.daiwahouse.co.jp/careers"
+    domain: "daiwahouse.co.jp"
+    max_pages: 20
+  - name: "KDDI"
+    careers_url: "https://www.kddi.com/careers"
+    domain: "kddi.com"
+    max_pages: 20
+  - name: "Korea Electric Power"
+    careers_url: "https://www.kepco.co.kr/careers"
+    domain: "kepco.co.kr"
+    max_pages: 20
+  - name: "Meiji Yasuda Life Insurance"
+    careers_url: "https://www.meijiyasuda.co.jp/careers"
+    domain: "meijiyasuda.co.jp"
+    max_pages: 20
+  - name: "Sompo Holdings"
+    careers_url: "https://www.sompo-hd.com/careers"
+    domain: "sompo-hd.com"
+    max_pages: 20
+  - name: "Takeda Pharmaceutical"
+    careers_url: "https://www.takeda.com/careers"
+    domain: "takeda.com"
+    max_pages: 20
+  - name: "Shanghai Pharmaceuticals Holding"
+    careers_url: "https://www.sphchina.com/careers"
+    domain: "sphchina.com"
+    max_pages: 20
+  - name: "Petronas"
+    careers_url: "https://www.petronas.com/careers"
+    domain: "petronas.com"
+    max_pages: 20
+  - name: "Cardinal Health"
+    careers_url: "https://www.cardinalhealth.com/careers"
+    domain: "cardinalhealth.com"
+    max_pages: 20
+  - name: "Shanghai Delong Steel Group"
+    careers_url: "https://www.shanghaidelong.com/careers"
+    domain: "shanghaidelong.com"
+    max_pages: 20
+  - name: "Petrobras"
+    careers_url: "https://www.petrobras.com.br/careers"
+    domain: "petrobras.com.br"
+    max_pages: 20
+  - name: "Jiangsu Shagang Group"
+    careers_url: "https://www.shasteel.cn/careers"
+    domain: "shasteel.cn"
+    max_pages: 20
+  - name: "Liberty Mutual Insurance Group"
+    careers_url: "https://www.libertymutual.com/careers"
+    domain: "libertymutual.com"
+    max_pages: 20
+  - name: "Qualcomm"
+    careers_url: "https://www.qualcomm.com/careers"
+    domain: "qualcomm.com"
+    max_pages: 20
+  - name: "Fubon Financial Holding"
+    careers_url: "https://www.fubon.com/careers"
+    domain: "fubon.com"
+    max_pages: 20
+  - name: "Mitsui"
+    careers_url: "https://www.mitsui.com/careers"
+    domain: "mitsui.com"
+    max_pages: 20
+  - name: "Longfor Group Holdings"
+    careers_url: "https://www.longfor.com/careers"
+    domain: "longfor.com"
+    max_pages: 20
+  - name: "Goldman Sachs Group"
+    careers_url: "https://www.goldmansachs.com/careers"
+    domain: "goldmansachs.com"
+    max_pages: 20
+  - name: "Zijin Mining Group"
+    careers_url: "https://www.zjky.cn/careers"
+    domain: "zjky.cn"
+    max_pages: 20
+  - name: "Guangzhou Municipal Construction Group"
+    careers_url: "https://www.gzmcg.com/careers"
+    domain: "gzmcg.com"
+    max_pages: 20
+  - name: "Tokio Marine Holdings"
+    careers_url: "https://www.tokiomarinehd.com/careers"
+    domain: "tokiomarinehd.com"
+    max_pages: 20
+  - name: "MetLife"
+    careers_url: "https://www.metlife.com/careers"
+    domain: "metlife.com"
+    max_pages: 20
+  - name: "Sumitomo Life Insurance"
+    careers_url: "https://www.sumitomolife.co.jp/careers"
+    domain: "sumitomolife.co.jp"
+    max_pages: 20
+  - name: "Chevron"
+    careers_url: "https://www.chevron.com/careers"
+    domain: "chevron.com"
+    max_pages: 20
+  - name: "ENEOS Holdings"
+    careers_url: "https://www.hd.eneos.co.jp/careers"
+    domain: "eneos.co.jp"
+    max_pages: 20
+  - name: "Prudential Financial"
+    careers_url: "https://www.prudential.com/careers"
+    domain: "prudential.com"
+    max_pages: 20
+  - name: "Zhejiang Communications Investment Group"
+    careers_url: "https://www.cncico.com/careers"
+    domain: "cncico.com"
+    max_pages: 20
+  - name: "AmerisourceBergen"
+    careers_url: "https://www.amerisourcebergen.com/careers"
+    domain: "amerisourcebergen.com"
+    max_pages: 20
+  - name: "LG Chem"
+    careers_url: "https://www.lgchem.co.kr/careers"
+    domain: "lgchem.co.kr"
+    max_pages: 20
+  - name: "Archer Daniels Midland"
+    careers_url: "https://www.adm.com/careers"
+    domain: "adm.com"
+    max_pages: 20
+  - name: "MS&AD Insurance Group Holdings"
+    careers_url: "https://www.ms-ad-hd.com/careers"
+    domain: "ms-ad-hd.com"
+    max_pages: 20
+  - name: "Randstad"
+    careers_url: "https://www.randstad.com/careers"
+    domain: "randstad.com"
+    max_pages: 20
+  - name: "Munich Re Group"
+    careers_url: "https://www.munichre.com/careers"
+    domain: "munichre.com"
+    max_pages: 20
+  - name: "Xinjiang Zhongtai Group"
+    careers_url: "https://ww.zhtx.com/careers"
+    domain: "zhtx.com"
+    max_pages: 20
+  - name: "Iberdrola"
+    careers_url: "https://www.iberdrola.com/careers"
+    domain: "iberdrola.com"
+    max_pages: 20
+  - name: "SK Hynix"
+    careers_url: "https://www.skhynix.com/careers"
+    domain: "skhynix.com"
+    max_pages: 20
+  - name: "Oil & Natural Gas"
+    careers_url: "https://www.ongcindia.com/careers"
+    domain: "ongcindia.com"
+    max_pages: 20
+  - name: "Chengdu Xingcheng Investment Group"
+    careers_url: "https://www.cdxctz.com/careers"
+    domain: "cdxctz.com"
+    max_pages: 20
+  - name: "Manulife Financial"
+    careers_url: "https://www.manulife.com/careers"
+    domain: "manulife.com"
+    max_pages: 20
+  - name: "Tokyo Electric Power"
+    careers_url: "https://www.tepco.co.jp/careers"
+    domain: "tepco.co.jp"
+    max_pages: 20
+  - name: "United Services Automobile Assn."
+    careers_url: "https://www.usaa.com/careers"
+    domain: "usaa.com"
+    max_pages: 20
+  - name: "POSCO Holdings"
+    careers_url: "https://www.posco.com/careers"
+    domain: "posco.com"
+    max_pages: 20
+  - name: "American International Group"
+    careers_url: "https://www.aig.com/careers"
+    domain: "aig.com"
+    max_pages: 20
+  - name: "Xiamen C&D"
+    careers_url: "https://www.chinacdc.com/careers"
+    domain: "chinacdc.com"
+    max_pages: 20
+  - name: "Shenghong Holding Group"
+    careers_url: "https://www.shenghonggroup.cn/careers"
+    domain: "shenghonggroup.cn"
+    max_pages: 20
+  - name: "Dow"
+    careers_url: "https://www.dow.com/careers"
+    domain: "dow.com"
+    max_pages: 20
+  - name: "PKN ORLEN Group"
+    careers_url: "https://www.orlen.pl/careers"
+    domain: "orlen.pl"
+    max_pages: 20
+  - name: "Guangxi Investment Group"
+    careers_url: "https://www.gig.cn/careers"
+    domain: "gig.cn"
+    max_pages: 20
+  - name: "Guangzhou Pharmaceutical Holdings"
+    careers_url: "https://www.gpc.com.cn/careers"
+    domain: "gpc.com.cn"
+    max_pages: 20
+  - name: "BHP Group"
+    careers_url: "https://www.bhp.com/careers"
+    domain: "bhp.com"
+    max_pages: 20
+  - name: "New China Life Insurance"
+    careers_url: "https://www.newchinalife.com/careers"
+    domain: "newchinalife.com"
+    max_pages: 20
+  - name: "Pertamina"
+    careers_url: "https://www.pertamina.com/careers"
+    domain: "pertamina.com"
+    max_pages: 20
+  - name: "Shandong Iron & Steel Group"
+    careers_url: "https://www.shansteelgroup.com/careers"
+    domain: "shansteelgroup.com"
+    max_pages: 20
+  - name: "Hunan Iron & Steel Group"
+    careers_url: "https://www.chinavalin.com/careers"
+    domain: "chinavalin.com"
+    max_pages: 20
+  - name: "Hyundai Mobis"
+    careers_url: "https://www.mobis.co.kr/careers"
+    domain: "mobis.co.kr"
+    max_pages: 20
+  - name: "Power Corp. of Canada"
+    careers_url: "https://www.powercorporation.com/careers"
+    domain: "powercorporation.com"
+    max_pages: 20
+  - name: "Xiaomi"
+    careers_url: "https://www.mi.com/global/careers"
+    domain: "mi.com"
+    max_pages: 20
+  - name: "Phoenix Pharma"
+    careers_url: "https://www.phoenixgroup.eu/careers"
+    domain: "phoenixgroup.eu"
+    max_pages: 20
+  - name: "Indian Oil"
+    careers_url: "https://www.iocl.com/careers"
+    domain: "iocl.com"
+    max_pages: 20
+  - name: "ENI"
+    careers_url: "https://www.eni.com/careers"
+    domain: "eni.com"
+    max_pages: 20
+  - name: "CarMax"
+    careers_url: "https://www.carmax.com/careers"
+    domain: "carmax.com"
+    max_pages: 20
+  - name: "Bristol-Myers Squibb"
+    careers_url: "https://www.bms.com/careers"
+    domain: "bms.com"
+    max_pages: 20
+  - name: "Jiangxi Copper"
+    careers_url: "https://www.jxcc.com/careers"
+    domain: "jxcc.com"
+    max_pages: 20
+  - name: "Exelon"
+    careers_url: "https://www.exeloncorp.com/careers"
+    domain: "exeloncorp.com"
+    max_pages: 20
+  - name: "Chubb"
+    careers_url: "https://www.chubb.com/careers"
+    domain: "chubb.com"
+    max_pages: 20
+  - name: "Jingye Group"
+    careers_url: "https://www.hbjyjt.com/careers"
+    domain: "hbjyjt.com"
+    max_pages: 20
+  - name: "Travelers"
+    careers_url: "https://www.travelers.com/careers"
+    domain: "travelers.com"
+    max_pages: 20
+  - name: "Raízen"
+    careers_url: "https://www.raizen.com.br/careers"
+    domain: "raizen.com.br"
+    max_pages: 20
+  - name: "PTT"
+    careers_url: "https://www.pttplc.com/careers"
+    domain: "pttplc.com"
+    max_pages: 20
+  - name: "Jinchuan Group"
+    careers_url: "https://www.jnmc.com/careers"
+    domain: "jnmc.com"
+    max_pages: 20
+  - name: "Xiamen ITG Holding Group"
+    careers_url: "https://www.itgholding.com.cn/careers"
+    domain: "itgholding.com.cn"
+    max_pages: 20
+  - name: "DZ Bank"
+    careers_url: "https://www.dzbank.com/careers"
+    domain: "dzbank.com"
+    max_pages: 20
+  - name: "Nucor"
+    careers_url: "https://www.nucor.com/careers"
+    domain: "nucor.com"
+    max_pages: 20
+  - name: "US Foods Holding"
+    careers_url: "https://www.usfoods.com/careers"
+    domain: "usfoods.com"
+    max_pages: 20
+  - name: "TD Synnex"
+    careers_url: "https://www.tdsynnex.com/careers"
+    domain: "tdsynnex.com"
+    max_pages: 20
+  - name: "KB Financial Group"
+    careers_url: "https://www.kbfg.com/careers"
+    domain: "kbfg.com"
+    max_pages: 20
+  - name: "Paramount Global"
+    careers_url: "https://www.paramount.com/careers"
+    domain: "paramount.com"
+    max_pages: 20
+  - name: "Energie Baden-Württemberg"
+    careers_url: "https://www.enbw.com/careers"
+    domain: "enbw.com"
+    max_pages: 20
+  - name: "Nationwide"
+    careers_url: "https://www.nationwide.com/careers"
+    domain: "nationwide.com"
+    max_pages: 20
+  - name: "Hailiang Group"
+    careers_url: "https://www.hailiang.com/careers"
+    domain: "hailiang.com"
+    max_pages: 20
+  - name: "AIA Group"
+    careers_url: "https://www.aia.com/careers"
+    domain: "aia.com"
+    max_pages: 20
+  - name: "Talanx"
+    careers_url: "https://www.talanx.com/careers"
+    domain: "talanx.com"
+    max_pages: 20
+  - name: "Zhejiang Hengyi Group"
+    careers_url: "https://www.hengyi.com/careers"
+    domain: "hengyi.com"
+    max_pages: 20
+  - name: "Repsol"
+    careers_url: "https://www.repsol.com/careers"
+    domain: "repsol.com"
+    max_pages: 20
+  - name: "Performance Food Group"
+    careers_url: "https://www.pfgc.com/careers"
+    domain: "pfgc.com"
+    max_pages: 20
+  - name: "Zhejiang Rongsheng Holding Group"
+    careers_url: "https://www.rong-sheng.com/careers"
+    domain: "rong-sheng.com"
+    max_pages: 20
+  - name: "OMV Group"
+    careers_url: "https://www.omv.com/careers"
+    domain: "omv.com"
+    max_pages: 20
+  - name: "Amer International Group"
+    careers_url: "https://www.amer.com.cn/careers"
+    domain: "amer.com.cn"
+    max_pages: 20
+  - name: "Aegon"
+    careers_url: "https://www.aegon.com/careers"
+    domain: "aegon.com"
+    max_pages: 20
+  - name: "Aviva"
+    careers_url: "https://www.aviva.com/careers"
+    domain: "aviva.com"
+    max_pages: 20
+  - name: "Bunge"
+    careers_url: "https://www.bunge.com/careers"
+    domain: "bunge.com"
+    max_pages: 20
+  - name: "Equinor"
+    careers_url: "https://www.equinor.com/careers"
+    domain: "equinor.com"
+    max_pages: 20
+  - name: "Wuchan Zhongda Group"
+    careers_url: "https://www.wzgroup.cn/careers"
+    domain: "wzgroup.cn"
+    max_pages: 20
+  - name: "Arrow Electronics"
+    careers_url: "https://www.arrow.com/careers"
+    domain: "arrow.com"
+    max_pages: 20
+  - name: "TongLing Nonferrous Metals Group"
+    careers_url: "https://www.tnmg.com.cn/careers"
+    domain: "tnmg.com.cn"
+    max_pages: 20
+  - name: "Fortum"
+    careers_url: "https://www.fortum.com/careers"
+    domain: "fortum.com"
+    max_pages: 20
+  - name: "LyondellBasell Industries"
+    careers_url: "https://www.lyondellbasell.com/careers"
+    domain: "lyondellbasell.com"
+    max_pages: 20
+  - name: "RWE"
+    careers_url: "https://www.rwe.com/careers"
+    domain: "rwe.com"
+    max_pages: 20
+  - name: "Marathon Petroleum"
+    careers_url: "https://www.marathonpetroleum.com/careers"
+    domain: "marathonpetroleum.com"
+    max_pages: 20
+  - name: "Suncor Energy"
+    careers_url: "https://www.suncor.com/careers"
+    domain: "suncor.com"
+    max_pages: 20
+  - name: "Idemitsu Kosan"
+    careers_url: "https://www.idemitsu.com/careers"
+    domain: "idemitsu.com"
+    max_pages: 20
+  - name: "CPC"
+    careers_url: "https://www.cpc.com.tw/careers"
+    domain: "cpc.com.tw"
+    max_pages: 20
+  - name: "Heraeus Holding"
+    careers_url: "https://www.heraeus.com/careers"
+    domain: "heraeus.com"
+    max_pages: 20
+  - name: "Louis Dreyfus"
+    careers_url: "https://www.ldc.com/careers"
+    domain: "ldc.com"
+    max_pages: 20
+  - name: "Samsung C&T"
+    careers_url: "https://www.samsungcnt.com/careers"
+    domain: "samsungcnt.com"
+    max_pages: 20
+  - name: "TIAA"
+    careers_url: "https://www.tiaa.org/careers"
+    domain: "tiaa.org"
+    max_pages: 20
+  - name: "Investor"
+    careers_url: "https://www.investorab.com/careers"
+    domain: "investorab.com"
+    max_pages: 20
+  - name: "Medipal Holdings"
+    careers_url: "https://www.medipal.co.jp/careers"
+    domain: "medipal.co.jp"
+    max_pages: 20
+  - name: "XMXYG"
+    careers_url: "https://www.xiangyu-group.com/careers"
+    domain: "xiangyu-group.com"
+    max_pages: 20
+  - name: "New York Life Insurance"
+    careers_url: "https://www.newyorklife.com/careers"
+    domain: "newyorklife.com"
+    max_pages: 20
+  - name: "Phillips 66"
+    careers_url: "https://www.phillips66.com/careers"
+    domain: "phillips66.com"
+    max_pages: 20
+  - name: "Swiss Re"
+    careers_url: "https://www.swissre.com/careers"
+    domain: "swissre.com"
+    max_pages: 20
+  - name: "China National Aviation Fuel Group"
+    careers_url: "https://www.cnaf.com/careers"
+    domain: "cnaf.com"
+    max_pages: 20
+  - name: "Energy Transfer"
+    careers_url: "https://www.energytransfer.com/careers"
+    domain: "energytransfer.com"
+    max_pages: 20
+  - name: "Enbridge"
+    careers_url: "https://www.enbridge.com/careers"
+    domain: "enbridge.com"
+    max_pages: 20
+  - name: "Netflix"
+    careers_url: "https://www.netflix.com/careers"
+    domain: "netflix.com"
+    max_pages: 20
+  - name: "Hangzhou Iron and Steel Group"
+    careers_url: "https://www.hzsteel.com/careers"
+    domain: "hzsteel.com"
+    max_pages: 20
+  - name: "Umicore"
+    careers_url: "https://www.umicore.com/careers"
+    domain: "umicore.com"
+    max_pages: 20
+  - name: "Legal & General Group"
+    careers_url: "https://www.legalandgeneralgroup.com/careers"
+    domain: "legalandgeneralgroup.com"
+    max_pages: 20
+  - name: "Massachusetts Mutual Life Insurance"
+    careers_url: "https://www.massmutual.com/careers"
+    domain: "massmutual.com"
+    max_pages: 20
+  - name: "CHS"
+    careers_url: "https://www.chsinc.com/careers"
+    domain: "chsinc.com"
+    max_pages: 20
+  - name: "ConocoPhillips"
+    careers_url: "https://www.conocophillips.com/careers"
+    domain: "conocophillips.com"
+    max_pages: 20
+  - name: "Valero Energy"
+    careers_url: "https://www.valero.com/careers"
+    domain: "valero.com"
+    max_pages: 20
+  - name: "Bharat Petroleum"
+    careers_url: "https://www.bharatpetroleum.in/careers"
+    domain: "bharatpetroleum.in"
+    max_pages: 20
+  - name: "Trafigura Group"
+    careers_url: "https://www.trafigura.com/careers"
+    domain: "trafigura.com"
+    max_pages: 20
+  - name: "Phoenix Group Holdings"
+    careers_url: "https://www.thephoenixgroup.com/careers"
+    domain: "thephoenixgroup.com"
+    max_pages: 20
+  - name: "Northwestern Mutual"
+    careers_url: "https://www.northwesternmutual.com/careers"
+    domain: "northwesternmutual.com"
+    max_pages: 20
+  - name: "Fannie Mae"
+    careers_url: "https://www.fanniemae.com/careers"
+    domain: "fanniemae.com"
+    max_pages: 20
+  - name: "Freddie Mac"
+    careers_url: "https://www.freddiemac.com/careers"
+    domain: "freddiemac.com"
+    max_pages: 20
+  - name: "Enterprise Products Partners"
+    careers_url: "https://www.enterpriseproducts.com/careers"
+    domain: "enterpriseproducts.com"
+    max_pages: 20
+  - name: "Cenovus Energy"
+    careers_url: "https://www.cenovus.com/careers"
+    domain: "cenovus.com"
+    max_pages: 20
+  - name: "Samsung Life Insurance"
+    careers_url: "https://www.samsunglife.com/careers"
+    domain: "samsunglife.com"
+    max_pages: 20
+  - name: "World Fuel Services"
+    careers_url: "https://www.wfscorp.com/careers"
+    domain: "wfscorp.com"
+    max_pages: 20
+  - name: "Plains GP Holdings"
+    careers_url: "https://www.plains.com/careers"
+    domain: "plains.com"
+    max_pages: 20
+  - name: "GS Caltex"
+    careers_url: "https://www.gscaltex.com/careers"
+    domain: "gscaltex.com"
+    max_pages: 20
+  - name: "StoneX Group"
+    careers_url: "https://www.stonex.com/careers"
+    domain: "stonex.com"
+    max_pages: 20
+  - name: "Rajesh Exports"
+    careers_url: "https://www.rajeshindia.com/careers"
+    domain: "rajeshindia.com"
+    max_pages: 20

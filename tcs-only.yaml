@@ -1,0 +1,3 @@
+# Full-archive TCS pull (all ~3800 openings). Use "tcs|7" for fresh-only.
+tcs:
+  - tcs

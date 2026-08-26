@@ -1,0 +1,4257 @@
+[23:48:30] ======================================================================
+[23:48:30] ULTRA V3 — 150 HTML workers + JobSpy thread pool + ATS APIs
+[23:48:30] ======================================================================
+[23:48:31] ROUND 1 | DB: 719,316 | Gap: 280,684
+[23:48:31] Loading dedup keys...
+[23:48:34] Dedup: 719,316
+[23:48:34] Total work items: 661,476
+[23:48:34] Remaining: 661,476
+[23:48:35] JobSpy items: 8,532 | Async items: 652,944
+[23:48:45]   W006 + 20 sh:data analyst
+[23:48:46]   W028 + 14 sh:C# developer
+[23:48:47]   W013 + 20 sh:DevOps
+[23:48:47]   W018 + 20 sh:ML engineer
+[23:48:47]   W023 +  2 sh:backend engineer
+[23:48:49]   W034 +  2 sh:Angular developer
+[23:48:49]   W019 +  4 sh:scrum master
+[23:48:49]   W029 + 20 sh:Spring Boot develope
+[23:48:50]   W028 +  3 sh:python developer
+[23:48:56]   W022 + 20 sh:QA engineer
+[23:48:57]   W005 +  5 sh:Kotlin developer
+[23:48:59]   W004 + 20 sh:python developer
+[23:48:59]   W038 + 20 sh:data scientist
+[23:48:59]   W088 +  6 sh:PostgreSQL engineer
+[23:48:59]   W013 +  2 sh:Flutter developer
+[23:49:00]   W047 + 20 sh:cybersecurity engine
+[23:49:04]   W047 + 20 sh:Angular developer
+[23:49:05]   W000 + 20 sh:senior software engi
+[23:49:07]   W016 + 20 sh:cloud architect
+[23:49:09]   W020 + 20 sh:data analyst
+[23:49:10]   [R1] DB=719,390 | +74 | 112/min | Gap=280,610 | iters=21
+[23:49:12]   W059 + 20 sh:Redis engineer
+[23:49:14]   W072 + 20 sh:payments engineer
+[23:49:17]   W030 + 20 sh:devops engineer
+[23:49:18]   W025 + 20 sh:solutions architect
+[23:49:20]   W059 + 20 sh:web developer
+[23:49:23]   W083 + 20 sh:frontend engineer
+[23:49:23]   W064 + 34 dc:CI/CD engineer
+[23:49:24]   W053 + 20 sh:API engineer
+[23:49:25]   W088 + 20 sh:automation engineer
+[23:49:25]   W063 + 34 dc:golang developer
+[23:49:26]   W095 + 20 sh:AWS engineer
+[23:49:26]   W049 + 20 sh:software engineer
+[23:49:27]   W059 +  8 sh:SRE
+[23:49:27]   W024 + 34 dc:backend engineer
+[23:49:28]   W076 + 15 dc:Hadoop engineer
+[23:49:28]   W050 + 32 dc:principal engineer
+[23:49:28]   W000 +  5 dc:Elixir developer
+[23:49:29]   W039 + 34 dc:C++ engineer
+[23:49:29]   W065 + 34 dc:AI engineer
+[23:49:29]   W012 + 31 dc:Spark engineer
+[23:49:29]   W011 +  3 sh:Spark engineer
+[23:49:30]   W081 + 34 dc:GenAI engineer
+[23:49:32]   W088 + 34 dc:analytics engineer
+[23:49:32]   W057 + 34 dc:Terraform developer
+[23:49:32]   W027 + 20 sh:iOS developer
+[23:49:32]   W076 + 34 dc:golang developer
+[23:49:32]   W000 + 34 dc:MongoDB engineer
+[23:49:32]   W039 + 30 dc:microservices engine
+[23:49:32]   W001 + 20 sh:GenAI engineer
+[23:49:33]   W038 + 31 dc:full stack engineer
+[23:49:33]   W028 + 20 sh:Terraform developer
+[23:49:33]   W016 + 20 sh:fintech engineer
+[23:49:33]   W020 + 30 dc:security engineer
+[23:49:34]   W090 + 34 dc:systems engineer
+[23:49:34]   W009 + 34 dc:product manager
+[23:49:34]   W025 + 34 dc:scrum master
+[23:49:34]   W084 + 34 dc:scrum master
+[23:49:34]   W011 + 34 dc:Terraform engineer
+[23:49:35]   W038 + 30 dc:mobile developer
+[23:49:35]   W099 + 34 dc:data analyst
+[23:49:37]   W042 + 34 dc:machine learning eng
+[23:49:37]   W069 + 34 dc:Kubernetes administr
+[23:49:38]   W020 + 34 dc:solutions architect
+[23:49:38]   W064 + 34 dc:go developer
+[23:49:39]   W065 + 22 dc:payments engineer
+[23:49:40]   W025 + 34 dc:PostgreSQL engineer
+[23:49:41]   W063 + 34 dc:Kubernetes administr
+[23:49:42]   W076 + 20 sh:analytics engineer
+[23:49:43]   W017 + 20 sh:information security
+[23:49:44]   W016 +  7 sh:Hadoop engineer
+[23:49:45]   W058 + 30 dc:Ansible engineer
+[23:49:46]   W090 + 12 sh:release engineer
+[23:49:46]   W068 + 34 dc:devops engineer
+[23:49:47]   W013 + 34 dc:Azure engineer
+[23:49:47]   W054 + 34 dc:Azure engineer
+[23:49:48]   W069 + 34 dc:GenAI engineer
+[23:49:49]   W064 + 34 dc:Azure engineer
+[23:49:50]   [R1] DB=719,447 | +131 | 98/min | Gap=280,553 | iters=80
+[23:49:51]   W063 + 34 dc:CI/CD engineer
+[23:49:52]   W007 + 30 dc:cloud architect
+[23:49:52]   W020 + 30 dc:java developer
+[23:49:52]   W014 + 20 sh:Android developer
+[23:49:52]   W016 +  8 dc:compiler engineer
+[23:49:53]   W068 + 34 dc:devops engineer
+[23:49:53]   W054 + 30 dc:java developer
+[23:49:54]   W069 + 25 dc:iOS developer
+[23:49:54]   W032 + 31 dc:iOS developer
+[23:49:55]   W013 +  3 sh:FastAPI developer
+[23:49:57]   W077 + 34 dc:scrum master
+[23:49:58]   W020 + 34 dc:python developer
+[23:49:59]   W004 + 34 dc:Django developer
+[23:50:00]   W054 +  4 dc:fintech engineer
+[23:50:00]   W065 + 20 sh:backend engineer
+[23:50:00]   W041 + 20 sh:microservices engine
+[23:50:00]   W051 + 21 dc:Hadoop engineer
+[23:50:01]   W002 + 34 dc:data engineer
+[23:50:01]   W082 + 34 dc:network engineer
+[23:50:01]   W013 + 34 dc:Android developer
+[23:50:01]   W020 + 34 dc:build engineer
+[23:50:01]   W004 + 34 dc:network engineer
+[23:50:02]   W033 + 31 dc:information security
+[23:50:02]   W061 + 34 dc:full stack engineer
+[23:50:02]   W057 +  3 sh:node developer
+[23:50:02]   W075 + 34 dc:python developer
+[23:50:02]   W014 + 34 dc:go developer
+[23:50:02]   W023 + 34 dc:DevOps
+[23:50:02]   W002 + 34 dc:embedded engineer
+[23:50:03]   W051 + 20 sh:payments engineer
+[23:50:03]   W020 + 30 dc:site reliability eng
+[23:50:03]   W031 + 25 dc:iOS developer
+[23:50:03]   W074 + 31 dc:technical writer
+[23:50:03]   W058 + 34 dc:software engineer
+[23:50:04]   W001 + 30 dc:Ansible engineer
+[23:50:04]   W023 + 34 dc:QA engineer
+[23:50:04]   W008 + 34 dc:penetration tester
+[23:50:04]   W010 + 34 dc:data scientist
+[23:50:05]   W014 + 34 dc:ML engineer
+[23:50:05]   W074 + 34 dc:.NET developer
+[23:50:06]   W092 + 34 dc:go developer
+[23:50:09]   W006 + 30 dc:cloud architect
+[23:50:10]   W001 + 34 dc:cybersecurity engine
+[23:50:10]   W073 + 34 dc:Kubernetes administr
+[23:50:12]   W020 + 20 sh:infrastructure engin
+[23:50:13]   W001 + 31 dc:information security
+[23:50:15]   W057 + 20 sh:QA engineer
+[23:50:16]   W092 + 34 dc:systems engineer
+[23:50:17]   W029 + 35 dc:database engineer
+[23:50:19]   W018 + 34 dc:machine learning eng
+[23:50:21]   W086 + 34 dc:junior software engi
+[23:50:22]   W067 + 34 dc:penetration tester
+[23:50:26]   W001 +  5 dc:Perl developer
+[23:50:27]   W007 + 34 dc:data analyst
+[23:50:29]   W073 + 33 dc:GenAI engineer
+[23:50:31]   W034 + 34 dc:senior software engi
+[23:50:32]   W029 + 34 dc:.NET developer
+[23:50:33]   W067 + 30 dc:microservices engine
+[23:50:33]   W001 + 30 dc:Kubernetes engineer
+[23:50:34]   W023 + 33 dc:frontend engineer
+[23:50:35]   W075 + 31 dc:data engineer
+[23:50:35]   [R1] DB=719,688 | +372 | 179/min | Gap=280,312 | iters=145
+[23:50:35]   W034 + 34 dc:C++ engineer
+[23:50:35]   W029 + 24 dc:big data engineer
+[23:50:36]   W067 + 32 dc:TypeScript developer
+[23:50:36]   W024 + 20 sh:blockchain developer
+[23:50:36]   W001 + 26 dc:C++ engineer
+[23:50:37]   W054 + 20 sh:python developer
+[23:50:37]   W075 + 34 dc:Kotlin developer
+[23:50:37]   W086 + 31 dc:firmware engineer
+[23:50:37]   W034 + 32 dc:systems engineer
+[23:50:37]   W001 + 34 dc:python developer
+[23:50:38]   W031 + 34 dc:Terraform developer
+[23:50:38]   W024 +  3 sh:Django developer
+[23:50:38]   W054 + 32 dc:principal engineer
+[23:50:40]   W026 + 34 dc:rust developer
+[23:50:41]   W017 + 30 dc:Kubernetes engineer
+[23:50:42]   W086 + 34 dc:Spring Boot develope
+[23:50:44]   W020 + 30 dc:systems programmer
+[23:50:46]   W022 + 19 sh:Kotlin developer
+[23:50:48]   W076 + 34 dc:API engineer
+[23:50:49]   W001 + 34 dc:API engineer
+[23:50:51]   W003 + 34 dc:Android developer
+[23:50:52]   W054 + 20 sh:cloud engineer
+[23:50:52]   W017 + 31 dc:React Native develop
+[23:50:54]   W086 + 34 dc:fintech engineer
+[23:50:55]   W020 + 34 dc:software engineer
+[23:50:56]   W027 + 20 sh:compiler engineer
+[23:50:57]   W063 +  4 dc:fintech engineer
+[23:50:57]   W080 +  5 dc:game developer
+[23:50:59]   W086 + 15 dc:Hadoop engineer
+[23:50:59]   W025 + 30 dc:database engineer
+[23:51:03]   W041 + 34 dc:ML engineer
+[23:51:05]   W027 +  8 sh:Kotlin developer
+[23:51:06]   W076 + 30 dc:mobile developer
+[23:51:09]   W051 + 31 dc:automation engineer
+[23:51:11]   W025 + 34 dc:ML engineer
+[23:51:12]   W025 +  9 dc:Swift developer
+[23:51:12]   [R1] DB=719,780 | +464 | 172/min | Gap=280,220 | iters=182
+[23:51:14]   W058 +  8 dc:game developer
+[23:51:15]   W046 + 32 dc:TypeScript developer
+[23:51:19]   W007 + 34 dc:Scala developer
+[23:51:21]   W046 + 31 dc:firmware engineer
+[23:51:21]   W041 + 20 sh:cloud engineer
+[23:51:21]   W045 + 20 sh:site reliability eng
+[23:51:22]   W041 + 34 dc:golang developer
+[23:51:24]   W047 + 34 dc:CI/CD engineer
+[23:51:26]   W086 + 30 dc:Ansible engineer
+[23:51:31]   W023 + 20 sh:Swift developer
+[23:51:34]   W046 + 31 dc:firmware engineer
+[23:51:37]   W019 + 34 dc:junior software engi
+[23:51:38]   W041 + 30 dc:distributed systems 
+[23:51:43]   W046 + 34 dc:API engineer
+[23:51:50]   W019 + 34 dc:rust developer
+[23:51:53]   [R1] DB=719,804 | +488 | 145/min | Gap=280,196 | iters=197
+[23:51:55]   W019 + 34 dc:LLM engineer
+[23:51:58]   W000 + 34 dc:DevOps
+[23:52:02]   W016 + 34 dc:data scientist
+[23:52:05]   W019 +  8 dc:graphics engineer
+[23:52:07]   W000 + 15 dc:Hadoop engineer
+[23:52:10]   W011 + 31 dc:firmware engineer
+[23:52:11]   W049 + 30 dc:mobile developer
+[23:52:12]   W000 + 33 dc:frontend engineer
+[23:52:14]   W055 + 34 dc:Terraform developer
+[23:52:17]   W013 + 34 dc:analytics engineer
+[23:52:20]   W010 + 34 dc:GenAI engineer
+[23:52:25]   W055 + 34 dc:rust developer
+[23:52:33]   W049 + 30 dc:distributed systems 
+[23:52:36]   W084 + 33 dc:Docker engineer
+[23:52:37]   W055 +  7 dc:FastAPI developer
+[23:52:37]   [R1] DB=719,808 | +492 | 120/min | Gap=280,192 | iters=212
+[23:52:43]   W049 + 34 dc:DevOps
+[23:52:45]   W090 + 34 dc:penetration tester
+[23:52:49]   W016 + 30 dc:database engineer
+[23:52:52]   W010 +  5 dc:Flutter developer
+[23:52:56]   W038 + 31 dc:firmware engineer
+[23:52:57]   W010 + 34 dc:C# developer
+[23:52:59]   W091 + 34 dc:penetration tester
+[23:53:02]   W010 + 21 dc:PHP developer
+[23:53:04]   W091 + 34 dc:scrum master
+[23:53:06]   W010 + 34 dc:Kafka engineer
+[23:53:07]   W015 + 34 dc:MongoDB engineer
+[23:53:08]   [R1] DB=719,808 | +492 | 106/min | Gap=280,192 | iters=223
+[23:53:10]   W010 + 34 dc:design engineer
+[23:53:12]   W015 + 30 dc:release engineer
+[23:53:13]   W010 + 30 dc:node developer
+[23:53:16]   W078 + 32 dc:principal engineer
+[23:53:18]   W016 + 34 dc:python developer
+[23:53:19]   W099 + 34 dc:MongoDB engineer
+[23:53:21]   W043 + 34 dc:CI/CD engineer
+[23:53:24]   W070 + 34 dc:data scientist
+[23:53:40]   W021 + 20 sh:software developer
+[23:53:42]   W068 + 30 dc:java developer
+[23:53:44]   W040 + 20 sh:big data engineer
+[23:53:46]   W072 + 20 sh:database engineer
+[23:53:47]   W002 + 34 dc:junior software engi
+[23:53:47]   [R1] DB=719,830 | +514 | 97/min | Gap=280,170 | iters=236
+[23:53:49]   W022 + 20 sh:cloud security engin
+[23:53:53]   W039 + 20 sh:iOS developer
+[23:53:55]   W086 + 20 sh:build engineer
+[23:54:02]   W068 + 34 dc:ML engineer
+[00:03:41] ======================================================================
+[00:03:41] ULTRA V3 — 150 HTML workers + JobSpy thread pool + ATS APIs
+[00:03:41] ======================================================================
+[00:03:41] ROUND 1 | DB: 720,500 | Gap: 279,500
+[00:03:41] Loading dedup keys...
+[00:03:42] Dedup: 720,500
+[00:03:42] Total work items: 661,476
+[00:03:43] Remaining: 661,476
+[00:03:44] JobSpy items: 8,532 | Async items: 652,944
+[00:04:03]   W031 + 92 gh:tripadvisor
+[00:04:20]   [R1] DB=720,584 | +3 | 5/min | Gap=279,416 | iters=1
+[00:04:45]   W049 + 10 sh:DevOps
+[00:04:52]   W068 +  8 sh:Kotlin developer
+[00:04:58]   [R1] DB=720,890 | +13 | 10/min | Gap=279,110 | iters=3
+[00:05:05]   W063 +  2 sh:iOS developer
+[00:05:15]   W006 +  7 dc:React Native develop
+[00:05:16]   W057 + 34 dc:CI/CD engineer
+[00:05:16]   W069 +  6 sh:cloud engineer
+[00:05:19]   W074 + 20 sh:infrastructure engin
+[00:05:21]   W016 + 20 sh:python developer
+[00:05:21]   W000 + 20 sh:infrastructure engin
+[00:05:23]   W089 +  3 sh:software developer
+[00:05:25]   W045 + 34 dc:QA engineer
+[00:05:29]   W006 + 34 dc:build engineer
+[00:05:33]   W067 + 34 dc:senior software engi
+[00:05:40]   W072 + 20 sh:technical writer
+[00:05:42]   W057 +  5 dc:game developer
+[00:05:46]   W051 +  7 sh:Elasticsearch engine
+[00:05:46]   W045 + 10 sh:FastAPI developer
+[00:05:48]   W052 + 34 dc:Azure engineer
+[00:05:49]   W067 +  8 dc:graphics engineer
+[00:05:49]   [R1] DB=721,016 | +73 | 34/min | Gap=278,984 | iters=20
+[00:05:53]   W057 + 34 dc:DevOps
+[00:05:56]   W022 +  5 sh:DevOps
+[00:05:59]   W010 + 34 dc:data analyst
+[00:06:00]   W034 + 30 dc:node developer
+[00:06:02]   W079 + 34 dc:Terraform engineer
+[00:06:04]   W098 + 30 dc:systems programmer
+[00:06:09]   W004 + 34 dc:design engineer
+[00:06:17]   W092 + 27 dc:iOS developer
+[00:06:21]   W026 + 30 dc:mobile developer
+[00:06:30]   [R1] DB=721,231 | +93 | 33/min | Gap=278,769 | iters=32
+[00:06:36]   W082 + 31 dc:automation engineer
+[00:06:41]   W063 + 30 dc:systems programmer
+[00:06:49]   W022 + 34 dc:junior software engi
+[00:06:53]   W044 + 19 dc:PHP developer
+[00:06:57]   W042 + 34 dc:scrum master
+[00:06:59]   W092 + 20 sh:Docker engineer
+[00:07:03]   W034 + 34 dc:Terraform engineer
+[00:07:05]   W046 + 21 dc:deep learning engine
+[00:07:09]   W003 + 34 dc:penetration tester
+[00:07:18]   [R1] DB=721,666 | +111 | 31/min | Gap=278,334 | iters=41
+[00:07:51]   [R1] DB=721,670 | +112 | 27/min | Gap=278,330 | iters=42
+[00:07:53]   W020 + 20 sh:principal engineer
+[00:07:54]   W055 + 20 sh:site reliability eng
+[00:07:55]   W091 + 34 dc:systems engineer
+[00:07:55]   W043 + 22 dc:Vue developer
+[00:07:55]   W044 + 10 dc:Elasticsearch engine
+[00:07:55]   W000 + 34 dc:python developer
+[00:07:55]   W028 + 34 dc:Docker engineer
+[00:08:00]   W031 +  5 sh:Kubernetes administr
+[00:08:01]   W030 + 20 sh:iOS developer
+[00:08:07]   W096 + 20 sh:scrum master
+[00:08:09]   W093 + 34 dc:DevOps
+[00:08:16]   W037 +  9 sh:systems engineer
+[00:08:16]   W016 + 20 sh:staff engineer
+[00:08:19]   W042 + 20 sh:data scientist
+[00:08:24]   W043 + 34 dc:.NET developer
+[00:08:25]   W014 + 30 dc:distributed systems 
+[00:08:30]   W013 + 31 dc:Ansible engineer
+[00:08:32]   W031 + 34 dc:senior software engi
+[00:08:35]   W090 +  5 dc:Elixir developer
+[00:08:38]   W014 + 19 dc:PHP developer
+[00:08:43]   W014 + 34 dc:rust developer
+[00:08:46]   W056 + 34 dc:python developer
+[00:08:50]   [R1] DB=721,765 | +171 | 33/min | Gap=278,235 | iters=64
+[00:08:56]   W090 +  9 sh:AI engineer
+[00:09:04]   W068 + 34 dc:penetration tester
+[00:09:05]   W029 + 34 dc:scrum master
+[00:09:09]   W098 +  7 dc:Redis engineer
+[00:09:11]   W020 + 34 dc:Docker engineer
+[00:09:14]   W032 +  5 dc:Flutter developer
+[00:09:18]   W037 +  9 dc:Ruby developer
+[00:09:18]   W020 + 10 dc:kernel engineer
+[00:09:20]   W054 + 22 dc:deep learning engine
+[00:09:21]   W016 + 20 sh:infrastructure engin
+[00:09:26]   W062 + 34 dc:java developer
+[00:09:38]   W051 + 34 dc:API engineer
+[00:09:38]   W028 + 34 dc:UX engineer
+[00:09:38]   [R1] DB=722,148 | +179 | 30/min | Gap=277,852 | iters=77
+[00:09:38]   W062 + 34 dc:Docker engineer
+[00:09:39]   W027 +  8 dc:FastAPI developer
+[00:09:40]   W028 + 34 dc:UX engineer
+[00:09:40]   W049 + 34 dc:data scientist
+[00:09:40]   W057 +  6 dc:FastAPI developer
+[00:09:41]   W085 + 11 sh:devops engineer
+[00:09:41]   W046 + 20 sh:.NET developer
+[00:09:41]   W051 +  8 sh:SRE
+[00:09:42]   W021 + 14 sh:PHP developer
+[00:09:42]   W023 + 34 dc:Kafka engineer
+[00:09:42]   W049 +  5 dc:game developer
+[00:09:42]   W057 + 34 dc:rust developer
+[00:09:43]   W093 + 34 dc:QA engineer
+[00:09:43]   W004 + 34 dc:Docker engineer
+[00:09:44]   W082 + 34 dc:rust developer
+[00:09:44]   W061 + 34 dc:rust developer
+[00:09:44]   W042 + 33 dc:frontend engineer
+[00:09:45]   W042 + 34 dc:build engineer
+[00:09:45]   W038 + 20 sh:Android developer
+[00:09:46]   W077 + 34 dc:cloud security engin
+[00:09:55]   W070 + 31 dc:technical writer
+[00:10:00]   W049 + 30 dc:microservices engine
+[00:10:08]   W015 + 30 dc:systems programmer
+[00:10:08]   W063 +  7 dc:React Native develop
+[00:10:10]   W081 + 20 sh:firmware engineer
+[00:10:15]   W093 + 34 dc:Kafka engineer
+[00:10:17]   W030 + 34 dc:embedded engineer
+[00:10:21]   W020 + 34 dc:data analyst
+[00:10:26]   W041 + 34 dc:solutions architect
+[00:10:28]   W096 + 20 sh:build engineer
+[00:10:32]   W031 + 30 dc:Angular developer
+[00:10:33]   W071 + 20 sh:Ansible engineer
+[00:10:33]   W061 + 34 dc:tech lead
+[00:10:34]   W082 + 34 dc:backend engineer
+[00:10:42]   [R1] DB=722,501 | +251 | 36/min | Gap=277,499 | iters=112
+[00:10:44]   W041 + 32 dc:principal engineer
+[00:10:45]   W013 + 30 dc:java developer
+[00:10:46]   W031 + 34 dc:.NET developer
+[00:10:46]   W005 + 30 dc:cloud architect
+[00:10:46]   W082 + 34 dc:go developer
+[00:10:47]   W076 + 20 sh:deep learning engine
+[00:10:52]   W073 + 19 dc:PHP developer
+[00:10:54]   W044 + 34 dc:machine learning eng
+[00:10:56]   W031 + 34 dc:ML engineer
+[00:10:57]   W082 + 34 dc:Azure engineer
+[00:11:03]   W064 + 34 dc:machine learning eng
+[00:11:07]   W044 + 34 dc:staff engineer
+[00:11:14]   W024 + 34 dc:Ansible engineer
+[00:11:18]   W003 + 34 dc:infrastructure engin
+[00:11:20]   W036 + 34 dc:GCP engineer
+[00:11:23]   [R1] DB=724,482 | +264 | 34/min | Gap=275,518 | iters=127
+[00:11:25]   W038 +  5 dc:game developer
+[00:11:27]   W049 + 34 dc:tech lead
+[00:11:32]   W049 +  9 dc:Ruby developer
+[00:11:35]   W038 + 31 dc:information security
+[00:11:43]   W064 + 34 dc:AI engineer
+[00:11:45]   W081 + 34 dc:cloud engineer
+[00:11:47]   W064 + 34 dc:react developer
+[00:11:48]   W087 + 30 dc:cloud architect
+[00:11:49]   W004 + 22 dc:Vue developer
+[00:11:53]   W028 + 30 dc:microservices engine
+[00:11:56]   W087 + 33 dc:Docker engineer
+[00:11:56]   [R1] DB=724,519 | +277 | 34/min | Gap=275,481 | iters=138
+[00:11:58]   W021 + 30 dc:full stack developer
+[00:12:00]   W043 + 34 dc:devops engineer
+[00:12:02]   W030 +  8 dc:graphics engineer
+[00:12:04]   W016 + 30 dc:C# developer
+[00:12:07]   W092 + 34 dc:Kotlin developer
+[00:12:09]   W038 + 34 dc:design engineer
+[00:12:11]   W092 + 31 dc:technical writer
+[00:12:14]   W038 + 34 dc:AWS engineer
+[00:12:16]   W031 +  6 dc:FastAPI developer
+[00:12:20]   W038 + 13 dc:kernel engineer
+[00:12:22]   W030 + 10 dc:Elasticsearch engine
+[00:12:25]   W038 + 31 dc:Spark engineer
+[00:12:29]   W030 + 31 dc:data engineer
+[00:12:32]   W038 + 20 dc:PHP developer
+[00:12:34]   W030 + 34 dc:product manager
+[00:12:34]   [R1] DB=724,787 | +283 | 32/min | Gap=275,213 | iters=153
+[00:12:39]   W038 + 34 dc:cloud security engin
+[00:12:42]   W006 + 33 dc:TypeScript developer
+[00:12:50]   W006 + 26 dc:C++ engineer
+[00:12:52]   W038 + 30 dc:Ansible engineer
+[00:12:58]   W010 + 34 dc:product manager
+[00:13:03]   W006 + 34 dc:go developer
+[00:13:06]   W099 + 13 dc:Swift developer
+[00:13:11]   W006 + 34 dc:PostgreSQL engineer
+[00:13:12]   [R1] DB=724,806 | +285 | 30/min | Gap=275,194 | iters=161
+[00:13:21]   W002 + 34 dc:LLM engineer
+[00:13:28]   W063 + 34 dc:Android developer
+[00:13:37]   W002 + 20 dc:payments engineer
+[00:13:45]   W034 + 34 dc:QA engineer
+[00:13:50]   W077 + 23 dc:web developer
+[00:13:51]   [R1] DB=724,861 | +289 | 28/min | Gap=275,139 | iters=166
+[00:13:53]   W077 + 34 dc:solutions architect
+[00:13:54]   W038 + 34 dc:Terraform engineer
+[00:13:54]   W040 + 30 dc:Kubernetes engineer
+[00:14:00]   W040 + 15 dc:Hadoop engineer
+[00:14:03]   W003 + 31 dc:firmware engineer
+[00:14:18]   W040 + 30 dc:SRE
+[00:14:22]   W003 + 34 dc:Kafka engineer
+[00:14:28]   W003 + 34 dc:MongoDB engineer
+[00:14:29]   [R1] DB=724,926 | +289 | 27/min | Gap=275,074 | iters=174
+[00:14:38]   W030 + 34 dc:UX engineer
+[00:14:41]   W003 + 34 dc:golang developer
+[00:14:48]   W030 + 34 dc:go developer
+[00:14:50]   W096 +  4 dc:fintech engineer
+[00:14:59]   W096 + 30 dc:mobile developer
+[00:15:09]   W003 + 34 dc:analytics engineer
+[00:15:20]   [R1] DB=725,591 | +289 | 25/min | Gap=274,409 | iters=180
+[00:15:24]   W096 + 34 dc:machine learning eng
+[00:15:38]   W021 + 31 dc:data engineer
+[00:15:39]   W036 + 34 dc:Azure engineer
+[00:15:41]   W025 + 20 sh:systems engineer
+[00:15:45]   W000 +  8 dc:graphics engineer
+[00:15:48]   W004 +  5 dc:Perl developer
+[00:15:53]   W000 + 20 sh:firmware engineer
+[00:15:56]   W000 + 34 dc:Kotlin developer
+[00:15:58]   W004 +  2 sh:platform engineer
+[00:15:59]   W004 +  5 dc:Elixir developer
+[00:16:06]   W000 + 26 dc:C++ engineer
+[00:16:06]   [R1] DB=725,732 | +303 | 24/min | Gap=274,268 | iters=191
+[00:16:16]   W037 + 34 dc:Kafka engineer
+[00:16:19]   W022 + 30 dc:systems engineer
+[00:16:27]   W070 + 34 dc:solutions architect
+[00:16:29]   W022 + 10 dc:Swift developer
+[00:16:31]   W070 + 30 dc:java developer
+[00:16:32]   W080 + 15 dc:Hadoop engineer
+[00:16:38]   W066 + 34 dc:security engineer
+[00:16:40]   W003 + 34 dc:design engineer
+[00:16:42]   [R1] DB=725,817 | +303 | 23/min | Gap=274,183 | iters=199
+[00:16:43]   W095 + 34 dc:devops engineer
+[00:16:44]   W003 +  8 sh:software engineer
+[00:16:45]   W047 + 34 dc:python developer
+[00:16:50]   W016 +  8 sh:build engineer
+[00:16:51]   W008 + 34 dc:API engineer
+[00:16:51]   W022 + 25 dc:iOS developer
+[00:16:52]   W013 + 30 dc:cloud architect
+[00:16:53]   W008 + 30 dc:Kubernetes engineer
+[00:16:53]   W065 +  4 sh:.NET developer
+[00:16:53]   W087 + 20 sh:AI engineer
+[00:16:56]   W010 + 20 sh:automation engineer
+[00:17:00]   W090 + 34 dc:.NET developer
+[00:17:02]   W008 +  7 dc:React Native develop
+[00:17:06]   W031 + 34 dc:tech lead
+[00:17:17]   W095 +  2 sh:data analyst
+[00:17:23]   W090 + 34 dc:PostgreSQL engineer
+[00:17:25]   W021 +  7 sh:big data engineer
+[00:17:32]   W031 + 30 dc:SRE
+[00:17:36]   W016 + 34 dc:data analyst
+[00:17:43]   W014 + 20 sh:fintech engineer
+[00:17:46]   W090 + 34 dc:QA engineer
+[00:17:54]   [R1] DB=725,899 | +354 | 25/min | Gap=274,101 | iters=220
+[00:18:05]   W027 + 30 dc:C# developer
+[00:18:10]   W089 + 30 dc:mobile developer
+[00:18:25]   W007 + 20 sh:Azure engineer
+[00:18:34]   W027 + 32 dc:AI engineer
+[00:18:37]   [R1] DB=725,985 | +369 | 25/min | Gap=274,015 | iters=224
+[00:18:45]   W027 + 31 dc:automation engineer
+[00:18:52]   W081 + 31 dc:information security
+[00:18:54]   W036 + 34 dc:data analyst
+[00:18:55]   W088 + 34 dc:GenAI engineer
+[00:19:02]   W042 + 30 dc:cloud architect
+[00:19:08]   W042 + 32 dc:Spark engineer
+[00:19:16]   [R1] DB=726,036 | +370 | 24/min | Gap=273,964 | iters=230
+[00:19:18]   W007 +  8 sh:java developer
+[00:19:19]   W020 + 34 dc:staff engineer
+[00:19:22]   W071 + 34 dc:rust developer
+[00:19:31]   W049 + 31 dc:automation engineer
+[00:19:36]   W077 + 34 dc:cloud security engin
+[00:19:38]   W019 +  9 sh:scrum master
+[00:19:40]   W077 + 34 dc:DevOps
+[00:19:41]   W026 +  3 sh:scrum master
+[00:19:42]   W024 +  7 sh:UX engineer
+[00:19:43]   W004 + 20 sh:game developer
+[00:19:43]   W014 +  5 dc:Elixir developer
+[00:19:49]   [R1] DB=726,119 | +383 | 24/min | Gap=273,881 | iters=241
+[00:19:51]   W021 + 34 dc:Azure engineer
+[00:19:51]   W004 + 20 sh:build engineer
+[00:19:51]   W087 + 19 sh:systems programmer
+[00:19:53]   W026 + 20 sh:analytics engineer
+[00:19:54]   W057 + 20 sh:distributed systems 
+[00:19:56]   W046 + 20 sh:security engineer
+[00:19:58]   W040 + 34 dc:tech lead
+[00:19:59]   W001 +  2 sh:devops engineer
+[00:20:03]   W046 + 31 dc:full stack engineer
+[00:20:07]   W001 + 30 dc:Angular developer
+[00:20:11]   W043 + 20 sh:Docker engineer
+[00:20:13]   W070 + 20 sh:staff engineer
+[00:20:15]   W014 + 20 sh:Vue developer
+[00:20:16]   W049 + 20 sh:kernel engineer
+[00:20:16]   W042 + 20 sh:Terraform developer
+[00:20:19]   W001 + 31 dc:technical writer
+[00:20:22]   W068 + 20 sh:software developer
+[00:20:27]   W026 + 20 sh:Spark engineer
+[00:20:27]   W087 + 34 dc:rust developer
+[00:20:27]   [R1] DB=726,219 | +446 | 27/min | Gap=273,781 | iters=260
+[00:20:35]   W042 + 14 sh:full stack developer
+[00:20:39]   W021 +  5 dc:Flutter developer
+[00:20:50]   W026 + 31 dc:data engineer
+[00:20:51]   W021 + 20 sh:PHP developer
+[00:20:55]   W026 + 20 sh:distributed systems 
+[00:20:56]   W049 + 20 sh:SRE
+[00:20:59]   W021 + 11 dc:fintech engineer
+[00:21:02]   [R1] DB=726,614 | +461 | 27/min | Gap=273,386 | iters=268
+[00:21:04]   W020 + 20 sh:Spark engineer
+[00:21:12]   W084 + 34 dc:tech lead
+[00:21:12]   W041 + 20 sh:data analyst
+[00:21:14]   W016 +  2 sh:data analyst
+[00:21:17]   W044 + 34 dc:security engineer
+[00:21:21]   W023 +  2 sh:Kotlin developer
+[00:21:23]   W075 + 34 dc:network engineer
+[00:21:28]   W016 + 20 sh:release engineer
+[00:21:28]   W023 + 20 sh:Angular developer
+[00:21:36]   W075 + 31 dc:technical writer
+[00:21:38]   [R1] DB=726,649 | +487 | 27/min | Gap=273,351 | iters=280
+[00:21:45]   W016 + 31 dc:information security
+[00:21:51]   W051 +  5 sh:compiler engineer
+[00:21:55]   W038 + 34 dc:Terraform engineer
+[00:22:05]   W042 + 34 dc:Angular developer
+[00:22:08]   W038 +  7 sh:blockchain developer
+[00:22:09]   W094 + 20 sh:Swift developer
+[00:22:10]   W042 +  5 dc:game developer
+[00:22:12]   [R1] DB=726,692 | +498 | 27/min | Gap=273,308 | iters=287
+[00:22:13]   W096 + 10 dc:Redis engineer
+[00:22:18]   W036 + 34 dc:GenAI engineer
+[00:22:19]   W022 + 20 sh:API engineer
+[00:22:20]   W026 + 31 dc:data engineer
+[00:22:21]   W097 +  5 sh:Vue developer
+[00:22:21]   W054 + 20 sh:Redis engineer
+[00:22:21]   W005 + 26 dc:C++ engineer
+[00:22:25]   W046 + 31 dc:technical writer
+[00:22:26]   W029 + 20 sh:data scientist
+[00:22:28]   W081 + 20 sh:network engineer
+[00:22:30]   W097 + 20 sh:AWS engineer
+[00:22:31]   W036 + 20 dc:payments engineer
+[00:22:41]   W000 + 20 sh:GCP engineer
+[00:22:44]   W036 + 34 dc:analytics engineer
+[00:22:46]   W017 +  2 sh:analytics engineer
+[00:22:47]   [R1] DB=726,779 | +542 | 28/min | Gap=273,221 | iters=303
+[00:22:48]   W036 + 34 dc:Kubernetes administr
+[00:22:50]   W013 + 20 sh:rust developer
+[00:22:55]   W055 + 20 sh:PostgreSQL engineer
+[00:22:56]   W039 + 10 sh:product manager
+[00:22:59]   W075 + 19 dc:big data engineer
+[00:23:04]   W036 +  4 sh:C# developer
+[00:23:07]   W001 + 34 dc:data analyst
+[00:23:09]   W070 + 20 sh:CI/CD engineer
+[00:23:12]   W042 +  2 sh:QA engineer
+[00:23:18]   W001 + 34 dc:junior software engi
+[00:23:26]   [R1] DB=726,962 | +588 | 30/min | Gap=273,038 | iters=313
+[00:23:29]   W077 + 34 dc:.NET developer
+[00:23:29]   W025 +  8 sh:devops engineer
+[00:23:31]   W077 + 34 dc:data scientist
+[00:23:38]   W045 + 10 dc:Swift developer
+[00:23:40]   W098 + 20 sh:systems engineer
+[00:23:42]   W046 +  5 dc:game developer
+[00:23:45]   W046 + 34 dc:Spring Boot develope
+[00:23:53]   W058 + 20 sh:cloud engineer
+[00:23:55]   W036 +  8 dc:graphics engineer
+[00:24:00]   W028 + 30 dc:release engineer
+[00:24:01]   [R1] DB=727,022 | +598 | 29/min | Gap=272,978 | iters=323
+[00:24:03]   W010 + 19 dc:big data engineer
+[00:24:05]   W042 + 15 sh:cloud security engin
+[00:24:08]   W097 +  4 sh:software engineer
+[00:24:11]   W062 + 30 dc:distributed systems 
+[00:24:16]   W062 + 30 dc:release engineer
+[00:24:19]   W097 + 20 sh:Scala developer
+[00:24:23]   W062 + 34 dc:Android developer
+[00:24:27]   W080 + 19 dc:PHP developer
+[00:24:32]   W023 + 34 dc:GCP engineer
+[00:24:34]   W069 + 20 sh:.NET developer
+[00:24:36]   W036 + 20 sh:machine learning eng
+[00:24:37]   [R1] DB=727,272 | +612 | 29/min | Gap=272,728 | iters=334
+[00:24:39]   W021 + 30 dc:systems programmer
+[00:24:44]   W021 + 26 dc:C++ engineer
+[00:24:46]   W076 + 13 dc:FastAPI developer
+[00:24:48]   W059 + 20 sh:firmware engineer
+[00:24:50]   W097 + 20 sh:rust developer
+[00:24:55]   W045 + 31 dc:firmware engineer
+[00:24:59]   W078 + 20 sh:mobile developer
+[00:24:59]   W024 + 34 dc:ML engineer
+[00:24:59]   W009 + 20 sh:rust developer
+[00:25:03]   W024 + 30 dc:Kubernetes engineer
+[00:25:07]   W059 + 20 sh:Redis engineer
+[00:25:07]   W042 + 20 sh:python developer
+[00:25:07]   W028 +  8 sh:analytics engineer
+[00:25:07]   W030 +  4 sh:C++ engineer
+[00:25:08]   W024 + 19 dc:PHP developer
+[00:25:08]   W025 + 34 dc:go developer
+[00:25:10]   [R1] DB=727,323 | +646 | 30/min | Gap=272,677 | iters=351
+[00:25:12]   W087 + 34 dc:penetration tester
+[00:25:17]   W093 + 32 dc:principal engineer
+[00:25:19]   W078 + 20 sh:systems programmer
+[00:25:27]   W087 + 30 dc:database engineer
+[00:25:36]   W019 + 20 sh:product manager
+[00:25:36]   W030 + 17 sh:automation engineer
+[00:25:37]   W021 +  7 sh:blockchain developer
+[00:25:41]   W093 + 34 dc:principal engineer
+[00:25:44]   W058 + 30 dc:site reliability eng
+[00:25:50]   [R1] DB=727,414 | +686 | 31/min | Gap=272,586 | iters=361
+[00:25:53]   W023 + 34 dc:golang developer
+[00:25:55]   W006 + 34 dc:go developer
+[00:26:04]   W009 + 31 dc:Spark engineer
+[00:26:06]   W017 +  9 sh:scrum master
+[00:26:07]   W024 +  6 dc:FastAPI developer
+[00:26:09]   W097 + 20 sh:embedded engineer
+[00:26:18]   W093 +  3 sh:node developer
+[00:26:21]   W001 +  5 dc:Perl developer
+[00:26:25]   W068 +  3 sh:embedded engineer
+[00:26:27]   W015 + 20 dc:payments engineer
+[00:26:30]   W037 + 30 dc:site reliability eng
+[00:26:30]   [R1] DB=727,442 | +712 | 31/min | Gap=272,558 | iters=373
+[00:26:32]   W038 + 34 dc:golang developer
+[00:26:34]   W039 + 10 sh:Terraform developer
+[00:26:37]   W073 + 34 dc:AI engineer
+[00:26:38]   W037 + 20 sh:Swift developer
+[00:26:40]   W038 + 34 dc:node developer
+[00:26:40]   W010 + 20 sh:LLM engineer
+[00:26:43]   W073 + 34 dc:mobile developer
+[00:26:52]   W043 + 34 dc:data scientist
+[00:26:54]   W057 + 20 sh:infrastructure engin
+[00:27:07]   W057 + 23 dc:web developer
+[00:27:14]   [R1] DB=727,586 | +719 | 31/min | Gap=272,414 | iters=383
+[00:27:25]   W000 + 34 dc:cloud security engin
+[00:27:27]   W098 +  2 sh:tech lead
+[00:27:28]   W048 +  2 sh:information security
+[00:27:29]   W000 + 34 dc:java developer
+[00:27:38]   W066 +  8 sh:PostgreSQL engineer
+[00:27:41]   W024 + 34 dc:scrum master
+[00:27:47]   W011 + 34 dc:Kubernetes administr
+[00:27:48]   W070 + 18 sh:design engineer
+[00:27:48]   [R1] DB=727,586 | +719 | 30/min | Gap=272,414 | iters=391
+[00:27:50]   W036 + 30 dc:SRE
+[00:27:52]   W036 + 34 dc:QA engineer
+[00:28:03]   W034 + 20 sh:product manager
+[00:28:10]   W036 + 34 dc:AWS engineer
+[00:28:19]   W005 + 20 sh:API engineer
+[00:28:21]   W001 +  3 sh:java developer
+[00:28:28]   [R1] DB=727,586 | +719 | 29/min | Gap=272,414 | iters=398
+[00:28:32] DB flush error: database is locked
+[00:28:33]   W098 + 20 sh:staff engineer
+[00:28:34]   W084 + 20 sh:TypeScript developer
+[00:28:38]   W018 + 20 sh:principal engineer
+[00:28:41]   W093 +  7 sh:network engineer
+[00:28:47]   W097 + 20 sh:compiler engineer
+[00:28:57]   W097 +  2 sh:cloud security engin
+[00:29:22]   [R1] DB=728,117 | +777 | 30/min | Gap=271,883 | iters=404
+[00:29:24]   W097 + 20 sh:GenAI engineer
+[00:29:27]   W097 + 20 sh:java developer
+[00:29:38]   W006 + 20 sh:solutions architect
+[00:29:42]   W020 + 34 dc:design engineer
+[00:29:44]   W015 + 34 dc:rust developer
+[00:29:48]   W018 + 30 dc:release engineer
+[00:29:52]   W027 + 34 dc:ML engineer
+[00:29:54]   W029 +  5 sh:Hadoop engineer
+[00:29:58]   W034 + 20 sh:backend engineer
+[00:30:02]   W024 + 34 dc:analytics engineer
+[00:30:03]   W080 + 19 sh:principal engineer
+[00:30:05]   W047 + 20 sh:build engineer
+[00:30:05]   W017 + 20 sh:fintech engineer
+[00:30:06]   W018 + 34 dc:analytics engineer
+[00:30:06]   [R1] DB=728,281 | +819 | 31/min | Gap=271,719 | iters=419
+[00:30:06]   W011 + 34 dc:software engineer
+[00:30:07]   W029 + 20 sh:Terraform developer
+[00:30:11]   W043 + 20 sh:machine learning eng
+[00:30:11]   W087 + 20 sh:cybersecurity engine
+[00:30:12]   W011 + 20 sh:devops engineer
+[00:30:16]   W056 + 20 sh:AI engineer
+[00:30:18]   W045 + 20 sh:deep learning engine
+[00:30:26]   W014 + 33 dc:frontend engineer
+[00:30:28]   W021 + 20 sh:staff engineer
+[00:30:31]   W037 +  9 sh:software developer
+[00:30:35]   W007 +  9 dc:Ruby developer
+[00:30:37]   W031 + 20 sh:compiler engineer
+[00:30:38]   W016 +  6 sh:Django developer
+[00:30:39]   W007 + 34 dc:systems engineer
+[00:30:39]   [R1] DB=728,339 | +876 | 32/min | Gap=271,661 | iters=433
+[00:30:40]   W036 + 20 sh:Redis engineer
+[00:30:44]   W016 + 20 sh:.NET developer
+[00:30:49]   W031 + 20 sh:go developer
+[00:30:52]   W034 + 34 dc:rust developer
+[00:31:07]   W041 + 34 dc:rust developer
+[00:31:11]   W041 + 34 dc:software engineer
+[00:31:12]   [R1] DB=728,579 | +901 | 33/min | Gap=271,421 | iters=439
+[00:31:16]   W001 + 34 dc:deep learning engine
+[00:31:18]   W019 + 20 sh:java developer
+[00:31:23]   W001 +  7 dc:Redis engineer
+[00:31:26]   W031 + 20 sh:analytics engineer
+[00:31:28]   W001 +  7 dc:React Native develop
+[00:31:29]   W078 + 20 sh:release engineer
+[00:31:31]   W001 + 34 dc:GenAI engineer
+[00:31:34]   W092 + 23 dc:web developer
+[00:31:37]   W001 + 20 sh:react developer
+[00:31:42]   W092 + 34 dc:data scientist
+[00:31:45]   W031 + 20 sh:senior software engi
+[00:31:46]   W008 + 34 dc:analytics engineer
+[00:31:47]   [R1] DB=728,603 | +924 | 33/min | Gap=271,397 | iters=451
+[00:31:48]   W022 + 34 dc:Docker engineer
+[00:31:51]   W022 + 34 dc:ML engineer
+[00:31:57]   W071 + 34 dc:python developer
+[00:32:01]   W024 +  2 sh:principal engineer
+[00:32:01]   W029 + 20 sh:fintech engineer
+[00:32:02]   W005 + 20 sh:Scala developer
+[00:32:03]   W093 +  5 sh:blockchain developer
+[00:32:04]   W036 + 20 sh:Docker engineer
+[00:32:07]   W015 + 20 sh:Ansible engineer
+[00:32:08]   W030 + 30 dc:Angular developer
+[00:32:11]   W024 + 20 sh:design engineer
+[00:32:16]   W048 + 34 dc:Android developer
+[00:32:18]   W014 + 20 sh:tech lead
+[00:32:19]   W094 +  5 dc:game developer
+[00:32:19]   W082 + 34 dc:DevOps
+[00:32:20]   [R1] DB=728,641 | +962 | 34/min | Gap=271,359 | iters=467
+[00:32:20]   W047 + 20 sh:Redis engineer
+[00:32:21]   W015 + 20 sh:site reliability eng
+[00:32:21]   W094 + 34 dc:systems engineer
+[00:32:22]   W076 + 32 dc:software developer
+[00:32:24]   W024 + 20 sh:solutions architect
+[00:32:25]   W064 + 20 sh:design engineer
+[00:32:27]   W030 + 20 sh:compiler engineer
+[00:32:28]   W033 +  5 sh:DevOps
+[00:32:32]   W014 + 20 sh:Kubernetes engineer
+[00:32:34]   W066 + 30 dc:full stack developer
+[00:32:34]   W025 + 20 sh:design engineer
+[00:32:35]   W050 + 34 dc:junior software engi
+[00:32:41]   W066 + 34 dc:junior software engi
+[00:32:44]   W050 + 34 dc:.NET developer
+[00:32:45]   W025 +  3 sh:solutions architect
+[00:32:53]   W036 + 34 dc:data scientist
+[00:32:54]   W050 + 31 dc:automation engineer
+[00:32:54]   [R1] DB=728,730 | +1,051 | 36/min | Gap=271,270 | iters=484
+[00:32:55]   W043 + 20 sh:build engineer
+[00:32:56]   W033 + 20 sh:AWS engineer
+[00:32:57]   W043 + 34 dc:rust developer
+[00:32:58]   W003 + 34 dc:cybersecurity engine
+[00:33:00]   W027 +  3 sh:software engineer
+[00:33:00]   W023 + 34 dc:software engineer
+[00:33:01]   W062 + 33 dc:frontend engineer
+[00:33:03]   W062 +  5 dc:fintech engineer
+[00:33:03]   W023 + 34 dc:cloud engineer
+[00:33:04]   W023 +  3 sh:security engineer
+[00:33:05]   W062 + 34 dc:GCP engineer
+[00:33:05]   W038 +  4 sh:graphics engineer
+[00:33:05]   W069 + 11 dc:kernel engineer
+[00:33:06]   W018 + 20 sh:UX engineer
+[00:33:07]   W031 + 30 dc:platform engineer
+[00:33:07]   W048 + 20 sh:DevOps
+[00:33:08]   W044 + 20 sh:frontend engineer
+[00:33:08]   W048 + 33 dc:QA engineer
+[00:33:08]   W091 + 20 sh:C++ engineer
+[00:33:09]   W021 + 34 dc:full stack developer
+[00:33:09]   W045 + 34 dc:Android developer
+[00:33:09]   W049 + 34 dc:react developer
+[00:33:10]   W004 + 20 sh:frontend engineer
+[00:33:11]   W056 + 34 dc:full stack developer
+[00:33:11]   W021 + 34 dc:cybersecurity engine
+[00:33:11]   W011 + 30 dc:SRE
+[00:33:13]   W040 + 34 dc:product manager
+[00:33:13]   W003 +  2 sh:full stack engineer
+[00:33:14]   W039 + 34 dc:AWS engineer
+[00:33:14]   W038 + 34 dc:LLM engineer
+[00:33:14]   W090 +  6 sh:software developer
+[00:33:15]   W000 + 31 dc:technical writer
+[00:33:15]   W034 + 24 dc:web developer
+[00:33:15]   W004 + 20 sh:design engineer
+[00:33:15]   W045 + 34 dc:Kafka engineer
+[00:33:16]   W031 + 34 dc:LLM engineer
+[00:33:16]   W055 + 34 dc:cloud security engin
+[00:33:17]   W013 + 34 dc:Terraform engineer
+[00:33:17]   W015 + 34 dc:site reliability eng
+[00:33:17]   W040 + 10 dc:Elasticsearch engine
+[00:33:17]   W011 + 20 sh:DevOps
+[00:33:17]   W028 + 20 sh:network engineer
+[00:33:18]   W008 + 10 dc:Swift developer
+[00:33:20]   W068 + 34 dc:LLM engineer
+[00:33:21]   W043 +  7 dc:React Native develop
+[00:33:24]   W081 + 11 sh:devops engineer
+[00:33:25]   W062 + 31 dc:automation engineer
+[00:33:25]   W045 + 34 dc:MongoDB engineer
+[00:33:27]   W015 + 30 dc:database engineer
+[00:33:27]   W040 + 26 dc:iOS developer
+[00:33:30]   W040 + 20 sh:MongoDB engineer
+[00:33:30]   W019 + 20 sh:systems programmer
+[00:33:30]   W070 + 10 dc:kernel engineer
+[00:33:31]   W048 + 30 dc:Angular developer
+[00:33:31]   W073 + 31 dc:firmware engineer
+[00:33:31]   W079 + 34 dc:.NET developer
+[00:33:31]   [R1] DB=728,821 | +1,142 | 38/min | Gap=271,179 | iters=547
+[00:33:32]   W011 + 34 dc:devops engineer
+[00:33:32]   W015 + 30 dc:platform engineer
+[00:33:32]   W040 + 34 dc:build engineer
+[00:33:32]   W059 + 17 sh:Kafka engineer
+[00:33:33]   W001 + 20 sh:java developer
+[00:33:33]   W072 + 30 dc:java developer
+[00:33:35]   W090 + 20 sh:cybersecurity engine
+[00:33:36]   W023 +  3 sh:Kubernetes engineer
+[00:33:36]   W073 + 34 dc:Django developer
+[00:33:37]   W079 + 30 dc:site reliability eng
+[00:33:39]   W028 + 33 dc:TypeScript developer
+[00:33:41]   W036 + 33 dc:frontend engineer
+[00:33:42]   W011 + 34 dc:go developer
+[00:33:46]   W047 + 30 dc:site reliability eng
+[00:33:47]   W092 + 34 dc:scrum master
+[00:33:50]   W018 + 34 dc:solutions architect
+[00:33:50]   W023 + 20 sh:QA engineer
+[00:33:52]   W090 + 20 sh:machine learning eng
+[00:33:53]   W044 + 34 dc:data analyst
+[00:33:53]   W055 + 34 dc:Azure engineer
+[00:33:53]   W057 +  5 dc:Perl developer
+[00:33:54]   W065 + 22 dc:deep learning engine
+[00:33:54]   W095 + 30 dc:infrastructure engin
+[00:33:55]   W021 + 34 dc:PostgreSQL engineer
+[00:33:55]   W097 + 20 sh:CI/CD engineer
+[00:33:55]   W000 + 30 dc:site reliability eng
+[00:34:00]   W055 +  5 dc:Flutter developer
+[00:34:02]   W061 + 34 dc:GenAI engineer
+[00:34:03]   W057 + 30 dc:systems engineer
+[00:34:04]   W043 + 34 dc:golang developer
+[00:34:05]   W065 + 34 dc:database engineer
+[00:34:05]   W097 + 34 dc:software engineer
+[00:34:06]   W000 + 30 dc:database engineer
+[00:34:06]   W021 + 34 dc:junior software engi
+[00:34:14]   [R1] DB=728,877 | +1,198 | 39/min | Gap=271,123 | iters=581
+[00:34:14]   W065 + 30 dc:Kotlin developer
+[00:34:14]   W009 + 32 dc:cloud engineer
+[00:34:15]   W028 + 34 dc:payments engineer
+[00:34:16]   W025 + 33 dc:frontend engineer
+[00:34:17]   W008 + 18 dc:PHP developer
+[00:34:18]   W051 +  8 sh:devops engineer
+[00:34:18]   W055 + 31 dc:Ansible engineer
+[00:34:20]   W038 +  7 dc:Redis engineer
+[00:34:22]   W040 + 23 dc:Vue developer
+[00:34:24]   W009 + 31 dc:technical writer
+[00:34:25]   W065 + 20 sh:data engineer
+[00:34:27]   W025 + 34 dc:cloud architect
+[00:34:29]   W017 + 25 dc:C++ engineer
+[00:34:31]   W032 + 34 dc:solutions architect
+[00:34:33]   W040 + 34 dc:analytics engineer
+[00:34:34]   W045 + 34 dc:PostgreSQL engineer
+[00:34:35]   W065 + 34 dc:AI engineer
+[00:34:36]   W008 + 34 dc:Spring Boot develope
+[00:34:37]   W017 + 34 dc:python developer
+[00:34:38]   W032 + 34 dc:Spring Boot develope
+[00:34:38]   W040 + 34 dc:design engineer
+[00:34:39]   W097 + 34 dc:Android developer
+[00:34:42]   W065 + 34 dc:infrastructure engin
+[00:34:44]   W056 + 25 dc:web developer
+[00:34:45]   W017 + 34 dc:junior software engi
+[00:34:46]   W049 + 32 dc:software developer
+[00:34:49]   W040 + 34 dc:senior software engi
+[00:34:51]   W026 + 19 dc:big data engineer
+[00:34:53]   W056 + 34 dc:Django developer
+[00:34:54]   [R1] DB=728,915 | +1,236 | 40/min | Gap=271,085 | iters=610
+[00:34:57]   W035 + 34 dc:QA engineer
+[00:34:58]   W049 + 22 dc:deep learning engine
+[00:34:59]   W026 + 34 dc:data scientist
+[00:35:01]   W046 + 30 dc:node developer
+[00:35:05]   W056 + 34 dc:AI engineer
+[00:35:07]   W035 + 26 dc:C++ engineer
+[00:35:13]   W017 + 34 dc:golang developer
+[00:35:15]   W015 + 34 dc:cloud engineer
+[00:35:17]   W065 + 31 dc:information security
+[00:35:19]   W032 + 34 dc:CI/CD engineer
+[00:35:19]   W086 +  5 dc:Elixir developer
+[00:35:20]   W016 +  9 dc:Ruby developer
+[00:35:21]   W017 + 26 dc:C++ engineer
+[00:35:22]   W006 + 34 dc:analytics engineer
+[00:35:23]   W030 + 32 dc:software developer
+[00:35:24]   W006 + 34 dc:security engineer
+[00:35:24]   W086 + 34 dc:Kubernetes administr
+[00:35:25]   W007 + 34 dc:Terraform developer
+[00:35:26]   W006 + 34 dc:ML engineer
+[00:35:27]   W041 + 34 dc:Kafka engineer
+[00:35:28]   W077 + 30 dc:distributed systems 
+[00:35:28]   [R1] DB=728,921 | +1,242 | 39/min | Gap=271,079 | iters=631
+[00:35:29]   W032 + 34 dc:go developer
+[00:35:32]   W047 + 34 dc:cloud engineer
+[00:35:34]   W089 +  8 dc:compiler engineer
+[00:35:34]   W025 + 30 dc:technical writer
+[00:35:37]   W032 + 30 dc:Kubernetes engineer
+[00:35:38]   W029 +  9 dc:Ruby developer
+[00:35:41]   W031 + 34 dc:design engineer
+[00:35:43]   W027 + 34 dc:DevOps
+[00:35:44]   W004 + 34 dc:site reliability eng
+[00:35:45]   W029 + 30 dc:distributed systems 
+[00:35:47]   W004 + 30 dc:infrastructure engin
+[00:35:50]   W029 + 34 dc:analytics engineer
+[00:35:53]   W008 + 31 dc:Spark engineer
+[00:35:54]   W029 +  9 dc:game developer
+[00:35:56]   W027 + 34 dc:API engineer
+[00:35:57]   W003 +  7 dc:React Native develop
+[00:36:04]   W027 + 33 dc:frontend engineer
+[00:36:05]   W003 + 34 dc:ML engineer
+[00:36:05]   [R1] DB=728,939 | +1,259 | 39/min | Gap=271,061 | iters=649
+[00:36:06]   W027 +  6 dc:FastAPI developer
+[00:36:06]   W087 + 34 dc:python developer
+[00:36:07]   W027 +  5 dc:Perl developer
+[00:36:08]   W034 + 34 dc:scrum master
+[00:36:09]   W027 + 34 dc:Azure engineer
+[00:36:10]   W034 + 30 dc:technical writer
+[00:36:10]   W059 + 20 sh:UX engineer
+[00:36:11]   W043 + 12 sh:UX engineer
+[00:36:12]   W042 + 33 dc:frontend engineer
+[00:36:14]   W014 +  5 dc:Haskell developer
+[00:36:14]   W048 + 34 dc:Spring Boot develope
+[00:36:14]   W008 + 34 dc:AI engineer
+[00:36:15]   W040 + 34 dc:penetration tester
+[00:36:15]   W027 + 29 dc:Vue developer
+[00:36:16]   W034 + 30 dc:node developer
+[00:36:18]   W006 + 20 sh:automation engineer
+[00:36:18]   W036 + 30 dc:java developer
+[00:36:18]   W014 + 30 dc:react developer
+[00:36:18]   W041 +  5 dc:Elixir developer
+[00:36:18]   W038 + 34 dc:iOS developer
+[00:36:18]   W030 + 34 dc:Azure engineer
+[00:36:19]   W091 + 34 dc:machine learning eng
+[00:36:19]   W030 + 20 sh:backend engineer
+[00:36:20]   W088 + 20 sh:distributed systems 
+[00:36:20]   W045 + 20 sh:full stack developer
+[00:36:20]   W015 + 20 sh:Elixir developer
+[00:36:20]   W072 + 20 sh:ML engineer
+[00:36:20]   W036 +  7 dc:Redis engineer
+[00:36:20]   W041 + 34 dc:cybersecurity engine
+[00:36:20]   W038 + 30 dc:Kubernetes engineer
+[00:36:21]   W030 + 30 dc:database engineer
+[00:36:21]   W014 + 20 sh:python developer
+[00:36:21]   W087 + 31 dc:automation engineer
+[00:36:21]   W017 + 20 sh:tech lead
+[00:36:21]   W011 + 34 dc:DevOps
+[00:36:22]   W082 + 20 sh:SRE
+[00:36:22]   W001 + 10 dc:kernel engineer
+[00:36:22]   W010 + 34 dc:ML engineer
+[00:36:22]   W030 + 15 dc:Hadoop engineer
+[00:36:23]   W008 + 30 dc:Kubernetes engineer
+[00:36:23]   W048 + 34 dc:senior software engi
+[00:36:23]   W000 + 12 sh:information security
+[00:36:24]   W064 +  3 sh:python developer
+[00:36:24]   W041 + 34 dc:data engineer
+[00:36:24]   W009 + 34 dc:firmware engineer
+[00:36:24]   W073 + 20 sh:ML engineer
+[00:36:25]   W076 + 34 dc:mobile developer
+[00:36:25]   W036 +  5 sh:principal engineer
+[00:36:25]   W030 + 34 dc:data scientist
+[00:36:26]   W014 +  6 sh:platform engineer
+[00:36:26]   W068 + 34 dc:Terraform engineer
+[00:36:26]   W021 + 31 dc:firmware engineer
+[00:36:26]   W089 + 31 dc:Ansible engineer
+[00:36:27]   W009 + 34 dc:Android developer
+[00:36:27]   W093 + 34 dc:infrastructure engin
+[00:36:28]   W001 + 30 dc:SRE
+[00:36:28]   W031 +  5 dc:Flutter developer
+[00:36:29]   W035 + 20 sh:database engineer
+[00:36:31]   W089 + 34 dc:PostgreSQL engineer
+[00:36:32]   W029 + 34 dc:UX engineer
+[00:36:40]   W002 + 20 sh:PostgreSQL engineer
+[00:36:42]   W033 + 13 sh:deep learning engine
+[00:36:43]   W073 + 20 sh:cloud architect
+[00:36:46]   W030 + 20 sh:distributed systems 
+[00:36:47]   W025 + 34 dc:Django developer
+[00:36:48]   W040 +  6 dc:FastAPI developer
+[00:36:53]   W001 + 34 dc:product manager
+[00:36:55]   W086 + 20 sh:Vue developer
+[00:37:02]   W038 +  6 sh:golang developer
+[00:37:04]   W046 + 34 dc:API engineer
+[00:37:06]   W029 + 34 dc:CI/CD engineer
+[00:37:08]   W040 + 20 sh:Terraform developer
+[00:37:10]   W025 + 34 dc:.NET developer
+[00:37:13]   [R1] DB=729,053 | +1,373 | 41/min | Gap=270,947 | iters=725
+[00:37:17]   W038 + 20 sh:Azure engineer
+[00:37:19]   W050 + 34 dc:machine learning eng
+[00:37:20]   W042 + 34 dc:API engineer
+[00:37:21]   W018 +  5 dc:Flutter developer
+[00:37:23]   W025 + 22 dc:Vue developer
+[00:37:27]   W039 + 34 dc:CI/CD engineer
+[00:37:28]   W050 +  9 dc:Ruby developer
+[00:37:31]   W018 + 34 dc:AI engineer
+[00:37:34]   W077 + 33 dc:TypeScript developer
+[00:37:34]   W025 + 34 dc:Spring Boot develope
+[00:37:43]   W039 + 30 dc:node developer
+[00:37:48]   W043 +  7 dc:Redis engineer
+[00:37:50]   W090 + 34 dc:senior software engi
+[00:37:57]   W077 + 34 dc:cloud engineer
+[00:37:59]   W082 + 34 dc:data analyst
+[00:38:00]   [R1] DB=729,069 | +1,389 | 40/min | Gap=270,931 | iters=740
+[00:38:03]   W085 + 31 dc:Spark engineer
+[00:38:04]   W043 + 33 dc:frontend engineer
+[00:38:04]   W090 + 34 dc:.NET developer
+[00:38:07]   W003 + 34 dc:go developer
+[00:38:08]   W026 + 34 dc:DevOps
+[00:38:15]   W070 + 34 dc:cloud security engin
+[00:38:16]   W093 + 34 dc:python developer
+[00:38:17]   W026 + 34 dc:QA engineer
+[00:38:17]   W011 + 32 dc:Spark engineer
+[00:38:19]   W000 + 34 dc:Scala developer
+[00:38:20]   W093 + 34 dc:Android developer
+[00:38:21]   W091 + 10 dc:compiler engineer
+[00:38:24]   W013 + 30 dc:Ruby developer
+[00:38:27]   W020 +  5 dc:game developer
+[00:38:30]   W026 + 31 dc:information security
+[00:38:36]   W013 + 34 dc:Django developer
+[00:38:37]   W003 + 30 dc:database engineer
+[00:38:38]   W020 + 34 dc:GenAI engineer
+[00:38:38]   [R1] DB=729,077 | +1,397 | 40/min | Gap=270,923 | iters=758
+[00:38:42]   W005 + 31 dc:data engineer
+[00:38:44]   W018 + 34 dc:python developer
+[00:38:46]   W007 + 34 dc:devops engineer
+[00:38:47]   W020 + 34 dc:Docker engineer
+[00:38:47]   W040 + 34 dc:react developer
+[00:38:47]   W048 + 22 dc:Vue developer
+[00:38:48]   W092 + 34 dc:GenAI engineer
+[00:38:49]   W020 +  8 dc:graphics engineer
+[00:38:50]   W048 + 34 dc:Azure engineer
+[00:38:50]   W015 + 34 dc:full stack developer
+[00:38:51]   W017 +  9 dc:Ruby developer
+[00:38:53]   W020 + 20 sh:information security
+[00:38:53]   W064 + 20 sh:fintech engineer
+[00:38:56]   W039 + 20 sh:backend engineer
+[00:39:01]   W067 + 34 dc:Django developer
+[00:39:09]   W021 + 34 dc:data analyst
+[00:39:10]   W036 + 34 dc:react developer
+[00:39:12]   W003 + 31 dc:data engineer
+[00:39:12]   W012 + 34 dc:rust developer
+[00:39:12]   W032 + 34 dc:security engineer
+[00:39:18]   W043 + 34 dc:senior software engi
+[00:39:20]   W069 + 20 sh:cloud security engin
+[00:39:21]   W036 + 34 dc:C# developer
+[00:39:21]   [R1] DB=729,109 | +1,429 | 40/min | Gap=270,891 | iters=784
+[00:39:22]   W001 +  8 dc:graphics engineer
+[00:39:24]   W020 + 24 dc:iOS developer
+[00:39:27]   W012 + 34 dc:rust developer
+[00:39:28]   W023 + 34 dc:react developer
+[00:39:28]   W069 + 30 dc:mobile developer
+[00:39:29]   W067 + 34 dc:network engineer
+[00:39:30]   W055 + 31 dc:automation engineer
+[00:39:31]   W087 + 34 dc:GenAI engineer
+[00:39:31]   W069 + 34 dc:Terraform developer
+[00:39:31]   W038 + 34 dc:DevOps
+[00:39:32]   W016 + 34 dc:API engineer
+[00:39:32]   W060 +  3 sh:Django developer
+[00:39:34]   W011 + 16 sh:cloud engineer
+[00:39:34]   W089 + 20 sh:game developer
+[00:39:35]   W001 + 34 dc:software engineer
+[00:39:37]   W003 + 31 dc:backend engineer
+[00:39:40]   W026 + 18 dc:PHP developer
+[00:39:42]   W015 + 10 dc:Swift developer
+[00:39:43]   W036 + 23 dc:web developer
+[00:39:44]   W035 + 34 dc:build engineer
+[00:39:44]   W007 +  4 dc:fintech engineer
+[00:39:44]   W066 + 34 dc:product manager
+[00:39:44]   W016 + 34 dc:python developer
+[00:39:45]   W028 + 34 dc:mobile developer
+[00:39:45]   W003 + 32 dc:principal engineer
+[00:39:45]   W037 + 20 sh:data analyst
+[00:39:45]   W050 + 34 dc:GCP engineer
+[00:39:45]   W077 + 20 sh:Kotlin developer
+[00:39:46]   W035 + 30 dc:database engineer
+[00:39:46]   W023 + 34 dc:Django developer
+[00:39:46]   W018 + 30 dc:java developer
+[00:39:46]   W030 +  4 dc:fintech engineer
+[00:39:48]   W036 + 31 dc:information security
+[00:39:49]   W066 +  6 dc:FastAPI developer
+[00:39:50]   W016 + 22 dc:deep learning engine
+[00:39:51]   W052 +  5 dc:Perl developer
+[00:39:52]   W003 + 34 dc:GenAI engineer
+[00:39:57]   W077 + 34 dc:PostgreSQL engineer
+[00:39:57]   W069 + 20 sh:payments engineer
+[00:39:59]   W040 +  4 sh:penetration tester
+[00:40:10]   W039 + 34 dc:rust developer
+[00:40:13]   W036 + 34 dc:AWS engineer
+[00:40:14]   W075 + 34 dc:ML engineer
+[00:40:14]   W034 + 34 dc:GCP engineer
+[00:40:15]   W008 + 32 dc:software developer
+[00:40:17]   W066 + 32 dc:principal engineer
+[00:40:17]   W052 + 19 dc:big data engineer
+[00:40:18]   W007 + 20 sh:DevOps
+[00:40:18]   [R1] DB=729,159 | +1,478 | 40/min | Gap=270,841 | iters=833
+[00:40:20]   W077 + 34 dc:penetration tester
+[00:40:22]   W036 + 30 dc:solutions architect
+[00:40:24]   W052 + 34 dc:AI engineer
+[00:40:25]   W029 + 34 dc:analytics engineer
+[00:40:26]   W014 +  9 dc:compiler engineer
+[00:40:26]   W002 + 30 dc:systems programmer
+[00:40:28]   W036 + 34 dc:rust developer
+[00:40:29]   W056 + 34 dc:Azure engineer
+[00:40:30]   W012 + 30 dc:Angular developer
+[00:40:32]   W009 + 15 dc:React Native develop
+[00:40:35]   W037 + 34 dc:Docker engineer
+[00:40:36]   W029 + 34 dc:data analyst
+[00:40:37]   W002 + 30 dc:Kubernetes engineer
+[00:40:37]   W041 + 15 dc:fintech engineer
+[00:40:37]   W039 + 20 sh:data engineer
+[00:40:38]   W057 + 30 dc:react developer
+[00:40:38]   W001 + 34 dc:data analyst
+[00:40:38]   W007 + 34 dc:embedded engineer
+[00:40:39]   W029 + 30 dc:infrastructure engin
+[00:40:39]   W042 + 30 dc:mobile developer
+[00:40:40]   W091 + 30 dc:release engineer
+[00:40:41]   W007 + 30 dc:release engineer
+[00:40:41]   W014 +  9 dc:Ruby developer
+[00:40:42]   W011 + 32 dc:software developer
+[00:40:44]   W036 + 34 dc:UX engineer
+[00:40:44]   W042 +  5 dc:Elixir developer
+[00:40:45]   W039 + 20 sh:data analyst
+[00:40:45]   W091 + 30 dc:database engineer
+[00:40:45]   W014 + 34 dc:UX engineer
+[00:40:46]   W052 + 22 dc:Vue developer
+[00:40:46]   W091 +  5 dc:Flutter developer
+[00:40:46]   W014 +  9 dc:compiler engineer
+[00:40:47]   W053 +  5 dc:game developer
+[00:40:47]   W042 + 30 dc:infrastructure engin
+[00:40:48]   W012 + 20 sh:UX engineer
+[00:40:48]   W038 + 34 dc:API engineer
+[00:40:49]   W000 + 20 sh:distributed systems 
+[00:40:50]   W089 + 20 sh:API engineer
+[00:40:50]   W049 + 20 sh:Spark engineer
+[00:40:51]   W052 + 34 dc:Docker engineer
+[00:40:52]   W003 +  2 sh:GenAI engineer
+[00:40:53]   W014 + 34 dc:Spring Boot develope
+[00:40:53]   W053 + 30 dc:technical writer
+[00:40:53]   W031 + 34 dc:Spring Boot develope
+[00:40:54]   W038 +  5 dc:Perl developer
+[00:40:55]   W008 + 34 dc:junior software engi
+[00:40:56]   [R1] DB=729,169 | +1,488 | 40/min | Gap=270,831 | iters=881
+[00:40:56]   W014 + 20 sh:MongoDB engineer
+[00:40:57]   W006 + 20 sh:Android developer
+[00:40:57]   W049 +  4 sh:Hadoop engineer
+[00:40:58]   W003 +  5 dc:Elixir developer
+[00:40:58]   W034 + 20 sh:Kafka engineer
+[00:40:59]   W089 + 20 sh:machine learning eng
+[00:40:59]   W038 + 33 dc:frontend engineer
+[00:41:00]   W036 + 20 dc:graphics engineer
+[00:41:01]   W053 + 34 dc:Scala developer
+[00:41:02]   W003 + 30 dc:Angular developer
+[00:41:03]   W054 +  6 sh:solutions architect
+[00:41:05]   W039 + 20 sh:MongoDB engineer
+[00:41:05]   W042 +  4 dc:fintech engineer
+[00:41:06]   W011 + 30 dc:node developer
+[00:41:08]   W053 + 34 dc:design engineer
+[00:41:09]   W041 + 20 sh:systems engineer
+[00:41:10]   W068 +  7 sh:deep learning engine
+[00:41:11]   W041 + 20 sh:security engineer
+[00:41:12]   W031 + 34 dc:QA engineer
+[00:41:15]   W095 + 20 sh:fintech engineer
+[00:41:19]   W038 + 33 dc:TypeScript developer
+[00:41:20]   W071 + 34 dc:.NET developer
+[00:41:22]   W027 + 30 dc:infrastructure engin
+[00:41:23]   W029 + 20 sh:product manager
+[00:41:25]   W011 + 20 sh:SRE
+[00:41:28]   W031 + 20 sh:ML engineer
+[00:41:29]   W023 + 31 dc:Spark engineer
+[00:41:30]   W071 + 23 dc:web developer
+[00:41:32]   W042 + 34 dc:API engineer
+[00:41:33]   W029 + 34 dc:Kafka engineer
+[00:41:34]   [R1] DB=729,277 | +1,596 | 42/min | Gap=270,723 | iters=912
+[00:41:34]   W013 + 33 dc:TypeScript developer
+[00:41:35]   W099 +  3 sh:build engineer
+[00:41:36]   W071 + 34 dc:Terraform developer
+[00:41:37]   W075 + 20 sh:Terraform developer
+[00:41:39]   W029 + 34 dc:network engineer
+[00:41:40]   W094 + 34 dc:data engineer
+[00:41:40]   W071 + 34 dc:full stack developer
+[00:41:40]   W027 + 34 dc:Terraform engineer
+[00:41:40]   W099 + 20 sh:Terraform engineer
+[00:41:40]   W010 + 20 sh:Docker engineer
+[00:41:41]   W036 + 34 dc:infrastructure engin
+[00:41:42]   W080 +  5 dc:Elixir developer
+[00:41:43]   W066 + 20 sh:deep learning engine
+[00:41:45]   W073 + 20 sh:deep learning engine
+[00:41:49]   W089 + 34 dc:devops engineer
+[00:41:50]   W008 + 10 dc:graphics engineer
+[00:41:52]   W028 + 31 dc:automation engineer
+[00:41:53]   W036 + 30 dc:solutions architect
+[00:41:54]   W000 + 34 dc:UX engineer
+[00:41:56]   W034 + 34 dc:C# developer
+[00:41:58]   W021 +  5 dc:Perl developer
+[00:42:00]   W012 + 20 sh:Kubernetes engineer
+[00:42:01]   W003 + 34 dc:junior software engi
+[00:42:03]   W005 + 34 dc:penetration tester
+[00:42:06]   W073 + 20 sh:firmware engineer
+[00:42:08]   W032 + 34 dc:golang developer
+[00:42:12]   W036 + 33 dc:TypeScript developer
+[00:42:12]   W012 + 30 dc:SRE
+[00:42:14]   W003 + 34 dc:data scientist
+[00:42:20]   [R1] DB=729,324 | +1,643 | 43/min | Gap=270,676 | iters=941
+[00:42:21]   W073 +  9 sh:microservices engine
+[00:42:21]   W041 + 34 dc:cloud engineer
+[00:42:23]   W003 + 30 dc:cloud architect
+[00:42:25]   W021 + 30 dc:Angular developer
+[00:42:28]   W027 + 20 sh:data scientist
+[00:42:29]   W033 +  3 sh:Docker engineer
+[00:42:33]   W013 + 35 dc:java developer
+[00:42:37]   W003 + 30 dc:QA engineer
+[00:42:39]   W014 + 20 sh:compiler engineer
+[00:42:42]   W092 + 30 dc:Kubernetes engineer
+[00:42:43]   W035 + 34 dc:scrum master
+[00:42:46]   W092 + 18 dc:PHP developer
+[00:42:47]   W061 + 34 dc:senior software engi
+[00:42:49]   W032 + 20 sh:cloud engineer
+[00:42:53]   W061 +  9 dc:graphics engineer
+[00:42:55]   W015 +  3 sh:CI/CD engineer
+[00:42:56]   W017 + 34 dc:penetration tester
+[00:42:56]   [R1] DB=729,360 | +1,679 | 43/min | Gap=270,640 | iters=959
+[00:42:58]   W088 + 34 dc:senior software engi
+[00:43:00]   W014 + 20 sh:LLM engineer
+[00:43:00]   W015 +  4 sh:React Native develop
+[00:43:03]   W061 + 33 dc:TypeScript developer
+[00:43:04]   W069 + 24 dc:iOS developer
+[00:43:05]   W032 + 20 sh:FastAPI developer
+[00:43:06]   W015 + 20 sh:full stack developer
+[00:43:06]   W069 +  5 dc:Perl developer
+[00:43:08]   W032 + 20 sh:technical writer
+[00:43:08]   W033 +  9 dc:Ruby developer
+[00:43:09]   W049 + 20 sh:GCP engineer
+[00:43:10]   W021 + 20 sh:go developer
+[00:43:15]   W087 + 20 sh:analytics engineer
+[00:43:16]   W065 + 34 dc:senior software engi
+[00:43:18]   W029 + 34 dc:devops engineer
+[00:43:20]   W037 +  3 sh:mobile developer
+[00:43:25]   W007 + 30 dc:distributed systems 
+[00:43:30]   W023 + 20 sh:Terraform developer
+[00:43:32]   W065 + 34 dc:rust developer
+[00:43:36]   W029 + 34 dc:Android developer
+[00:43:40]   W003 + 20 sh:scrum master
+[00:43:41]   W045 + 33 dc:frontend engineer
+[00:43:41]   [R1] DB=729,424 | +1,741 | 44/min | Gap=270,576 | iters=981
+[00:43:41]   W073 +  7 sh:big data engineer
+[00:43:41]   W029 + 34 dc:software engineer
+[00:43:43]   W045 + 34 dc:data analyst
+[00:43:43]   W007 +  8 sh:junior software engi
+[00:43:43]   W017 +  3 sh:backend engineer
+[00:43:46]   W061 + 34 dc:Terraform engineer
+[00:43:48]   W033 + 30 dc:SRE
+[00:43:49]   W052 + 20 sh:build engineer
+[00:43:50]   W049 + 21 dc:iOS developer
+[00:43:53]   W088 + 22 dc:Vue developer
+[00:43:54]   W027 + 34 dc:systems engineer
+[00:43:54]   W022 + 20 sh:network engineer
+[00:43:59]   W019 +  5 dc:Elixir developer
+[00:44:01]   W021 + 34 dc:product manager
+[00:44:02]   W052 + 20 sh:react developer
+[00:44:05]   W022 + 34 dc:junior software engi
+[00:44:06]   W027 + 20 sh:kernel engineer
+[00:44:07]   W045 + 23 dc:web developer
+[00:44:07]   W068 + 34 dc:AI engineer
+[00:44:13]   W096 + 22 dc:Vue developer
+[00:44:19]   W077 + 34 dc:Kubernetes administr
+[00:44:20]   W014 + 20 sh:database engineer
+[00:44:22]   W022 + 34 dc:data analyst
+[00:44:23]   [R1] DB=729,488 | +1,805 | 44/min | Gap=270,512 | iters=1,004
+[00:44:25]   W096 + 34 dc:Kubernetes administr
+[00:44:28]   W033 + 34 dc:systems engineer
+[00:44:30]   W095 + 34 dc:systems engineer
+[00:44:34]   W099 +  6 sh:game developer
+[00:44:36]   W030 + 20 sh:Terraform developer
+[00:44:38]   W046 + 34 dc:network engineer
+[00:44:40]   W023 + 34 dc:rust developer
+[00:44:41]   W016 + 34 dc:Django developer
+[00:44:41]   W062 + 31 dc:data engineer
+[00:44:41]   W046 + 32 dc:principal engineer
+[00:44:42]   W099 + 20 sh:PHP developer
+[00:44:43]   W011 + 34 dc:solutions architect
+[00:44:43]   W046 + 34 dc:GenAI engineer
+[00:44:43]   W087 + 34 dc:C# developer
+[00:44:43]   W079 + 34 dc:golang developer
+[00:44:43]   W033 + 34 dc:Django developer
+[00:44:45]   W049 + 34 dc:rust developer
+[00:44:46]   W037 + 21 dc:game developer
+[00:44:46]   W087 + 34 dc:C# developer
+[00:44:48]   W070 + 30 dc:infrastructure engin
+[00:44:49]   W001 + 20 sh:React Native develop
+[00:44:51]   W033 + 34 dc:senior software engi
+[00:44:58]   W032 + 20 sh:backend engineer
+[00:44:59]   W009 +  2 sh:FastAPI developer
+[00:45:03]   W050 + 20 sh:release engineer
+[00:45:04]   W035 + 20 sh:Kafka engineer
+[00:45:07]   W040 + 34 dc:systems engineer
+[00:45:09]   W085 + 34 dc:distributed systems 
+[00:45:10]   W015 + 31 dc:principal engineer
+[00:45:11]   W028 + 31 dc:firmware engineer
+[00:45:13]   W050 +  4 sh:penetration tester
+[00:45:13]   W040 +  8 dc:graphics engineer
+[00:45:13]   [R1] DB=729,505 | +1,822 | 44/min | Gap=270,495 | iters=1,036
+[00:45:15]   W016 + 34 dc:python developer
+[00:45:21]   W039 + 20 sh:Angular developer
+[00:45:25]   W000 + 20 sh:GCP engineer
+[00:45:27]   W065 + 34 dc:Kafka engineer
+[00:45:28]   W085 + 20 sh:game developer
+[00:45:30]   W097 + 21 dc:game developer
+[00:45:30]   W063 +  2 sh:analytics engineer
+[00:45:31]   W000 + 20 sh:platform engineer
+[00:45:32]   W039 +  5 dc:game developer
+[00:45:32]   W014 +  2 sh:Elixir developer
+[00:45:33]   W065 +  3 sh:Vue developer
+[00:45:33]   W046 + 20 sh:payments engineer
+[00:45:33]   W019 + 16 sh:scrum master
+[00:45:34]   W097 + 34 dc:GenAI engineer
+[00:45:34]   W039 + 34 dc:.NET developer
+[00:45:35]   W063 + 20 sh:database engineer
+[00:45:39]   W046 +  5 sh:Kubernetes engineer
+[00:45:40]   W029 + 34 dc:penetration tester
+[00:45:50]   W031 + 31 dc:full stack engineer
+[00:45:52]   W053 + 34 dc:go developer
+[00:45:52]   W000 + 35 dc:senior software engi
+[00:45:52]   W005 + 30 dc:technical writer
+[00:45:52]   W032 + 26 dc:C++ engineer
+[00:45:53]   W011 + 20 sh:senior software engi
+[00:45:53]   W004 + 20 sh:solutions architect
+[00:45:53]   W006 + 34 dc:CI/CD engineer
+[00:45:53]   W075 + 12 sh:full stack developer
+[00:45:53]   W020 + 30 dc:microservices engine
+[00:45:54]   W031 + 30 dc:database engineer
+[00:45:54]   [R1] DB=729,546 | +1,863 | 44/min | Gap=270,454 | iters=1,066
+[00:45:55]   W070 + 20 sh:Spark engineer
+[00:45:56]   W040 + 20 sh:React Native develop
+[00:45:57]   W004 + 20 sh:design engineer
+[00:45:58]   W012 + 34 dc:analytics engineer
+[00:45:58]   W000 + 34 dc:golang developer
+[00:45:59]   W053 + 34 dc:AI engineer
+[00:46:01]   W021 + 22 dc:deep learning engine
+[00:46:04]   W027 + 31 dc:firmware engineer
+[00:46:07]   W047 + 30 dc:distributed systems 
+[00:46:10]   W008 +  7 sh:platform engineer
+[00:46:11]   W012 + 34 dc:tech lead
+[00:46:12]   W000 + 34 dc:data analyst
+[00:46:13]   W026 + 11 dc:kernel engineer
+[00:46:14]   W014 + 34 dc:go developer
+[00:46:21]   W027 + 20 sh:AWS engineer
+[00:46:22]   W007 + 34 dc:.NET developer
+[00:46:22]   W052 + 30 dc:systems programmer
+[00:46:22]   W000 + 34 dc:GenAI engineer
+[00:46:22]   W026 + 31 dc:firmware engineer
+[00:46:23]   W058 + 30 dc:database engineer
+[00:46:23]   W092 + 34 dc:python developer
+[00:46:23]   W007 + 10 dc:kernel engineer
+[00:46:24]   W070 + 10 dc:Swift developer
+[00:46:28]   W091 + 20 sh:build engineer
+[00:46:28]   [R1] DB=729,620 | +1,937 | 45/min | Gap=270,380 | iters=1,090
+[00:46:29]   W046 + 34 dc:LLM engineer
+[00:46:31]   W070 + 22 dc:deep learning engine
+[00:46:32]   W005 + 34 dc:C++ engineer
+[00:46:34]   W029 + 34 dc:Django developer
+[00:46:36]   W064 + 34 dc:PostgreSQL engineer
+[00:46:38]   W032 +  2 sh:Elasticsearch engine
+[00:46:40]   W004 + 20 sh:software engineer
+[00:46:41]   W004 + 10 dc:fintech engineer
+[00:46:42]   W000 + 20 sh:analytics engineer
+[00:46:43]   W046 + 34 dc:MongoDB engineer
+[00:46:45]   W014 + 34 dc:CI/CD engineer
+[00:46:50]   W024 + 34 dc:GenAI engineer
+[00:46:52]   W083 + 34 dc:backend engineer
+[00:46:54]   W046 + 34 dc:QA engineer
+[00:46:55]   W014 + 34 dc:MongoDB engineer
+[00:46:55]   W070 + 34 dc:Kafka engineer
+[00:46:56]   W083 + 30 dc:cloud architect
+[00:46:56]   W085 + 33 dc:frontend engineer
+[00:46:56]   W010 + 20 sh:python developer
+[00:46:58]   W046 + 34 dc:Docker engineer
+[00:46:58]   W014 + 26 dc:C++ engineer
+[00:47:00]   W070 + 34 dc:penetration tester
+[00:47:01]   W008 + 30 dc:mobile developer
+[00:47:02]   W025 + 20 sh:Ansible engineer
+[00:47:04]   W066 + 34 dc:DevOps
+[00:47:04]   W071 + 14 sh:Kubernetes administr
+[00:47:04]   W046 + 34 dc:GCP engineer
+[00:47:04]   [R1] DB=729,666 | +1,983 | 46/min | Gap=270,334 | iters=1,118
+[00:47:05]   W024 + 20 sh:site reliability eng
+[00:47:05]   W079 + 20 sh:cloud security engin
+[00:47:05]   W042 + 34 dc:build engineer
+[00:47:06]   W037 + 34 dc:iOS developer
+[00:47:06]   W045 + 30 dc:microservices engine
+[00:47:06]   W083 + 30 dc:microservices engine
+[00:47:15]   W046 + 34 dc:Django developer
+[00:47:16]   W042 + 30 dc:full stack developer
+[00:47:19]   W045 + 34 dc:java developer
+[00:47:21]   W083 +  9 dc:compiler engineer
+[00:47:24]   W044 +  8 sh:react developer
+[00:47:27]   W040 + 19 dc:big data engineer
+[00:47:32]   W029 +  5 dc:Perl developer
+[00:47:33]   W091 + 11 dc:Redis engineer
+[00:47:37]   W043 + 34 dc:Azure engineer
+[00:47:38]   W060 + 34 dc:backend engineer
+[00:47:39]   W089 + 21 dc:iOS developer
+[00:47:44]   W050 + 10 sh:network engineer
+[00:47:49]   W029 + 34 dc:go developer
+[00:47:51]   W058 + 30 dc:infrastructure engin
+[00:47:52]   W046 +  5 dc:Flutter developer
+[00:47:53]   W060 + 31 dc:full stack engineer
+[00:47:54]   [R1] DB=729,706 | +2,023 | 46/min | Gap=270,294 | iters=1,141
+[00:47:56]   W029 + 33 dc:frontend engineer
+[00:47:58]   W058 + 34 dc:design engineer
+[00:48:01]   W007 + 34 dc:infrastructure engin
+[00:48:05]   W021 + 34 dc:penetration tester
+[00:48:06]   W031 + 34 dc:junior software engi
+[00:48:06]   W089 +  5 dc:game developer
+[00:48:07]   W071 + 31 dc:GenAI engineer
+[00:48:07]   W023 +  6 dc:FastAPI developer
+[00:48:07]   W055 + 34 dc:tech lead
+[00:48:08]   W031 +  5 dc:game developer
+[00:48:10]   W089 + 31 dc:Angular developer
+[00:48:11]   W007 + 20 sh:mobile developer
+[00:48:12]   W012 +  4 sh:GenAI engineer
+[00:48:13]   W061 + 20 sh:PostgreSQL engineer
+[00:48:15]   W053 + 30 dc:java developer
+[00:48:18]   W015 + 30 dc:mobile developer
+[00:48:21]   W007 + 34 dc:Azure engineer
+[00:48:22]   W031 + 32 dc:Spring Boot develope
+[00:48:22]   W017 + 34 dc:tech lead
+[00:48:23]   W050 + 34 dc:API engineer
+[00:48:23]   W011 + 18 dc:PHP developer
+[00:48:25]   W071 + 34 dc:Docker engineer
+[00:48:27]   W022 + 34 dc:LLM engineer
+[00:48:29]   W053 + 30 dc:site reliability eng
+[00:48:31]   W045 + 34 dc:.NET developer
+[00:48:32]   W035 + 33 dc:frontend engineer
+[00:48:33]   W015 + 34 dc:devops engineer
+[00:48:35]   W019 + 34 dc:node developer
+[00:48:37]   W007 + 24 dc:iOS developer
+[00:48:37]   W097 +  6 dc:Elixir developer
+[00:48:38]   W049 + 34 dc:Docker engineer
+[00:48:42]   W080 + 34 dc:data scientist
+[00:48:43]   W048 + 34 dc:build engineer
+[00:48:44]   [R1] DB=729,741 | +2,058 | 46/min | Gap=270,259 | iters=1,174
+[00:48:45]   W045 + 34 dc:build engineer
+[00:48:46]   W019 + 34 dc:GCP engineer
+[00:48:46]   W007 + 34 dc:LLM engineer
+[00:48:46]   W021 + 34 dc:rust developer
+[00:48:46]   W089 + 18 dc:PHP developer
+[00:48:46]   W080 + 10 dc:kernel engineer
+[00:48:46]   W038 + 30 dc:full stack developer
+[00:48:46]   W033 + 34 dc:cloud security engin
+[00:48:47]   W061 + 34 dc:cloud engineer
+[00:48:47]   W044 + 20 sh:full stack engineer
+[00:48:47]   W010 +  3 sh:React Native develop
+[00:48:48]   W023 + 20 sh:distributed systems 
+[00:48:50]   W019 + 34 dc:tech lead
+[00:48:51]   W002 + 32 dc:Spark engineer
+[00:48:52]   W042 + 20 sh:automation engineer
+[00:48:53]   W021 + 33 dc:TypeScript developer
+[00:48:54]   W045 + 30 dc:Ansible engineer
+[00:48:57]   W049 + 27 dc:web developer
+[00:48:58]   W037 + 34 dc:build engineer
+[00:48:58]   W049 + 32 dc:software developer
+[00:48:59]   W095 + 30 dc:react developer
+[00:48:59]   W025 + 34 dc:Django developer
+[00:49:01]   W019 + 34 dc:Scala developer
+[00:49:01]   W002 +  9 dc:compiler engineer
+[00:49:02]   W061 + 11 sh:systems engineer
+[00:49:02]   W045 + 34 dc:network engineer
+[00:49:02]   W037 + 34 dc:network engineer
+[00:49:03]   W018 + 34 dc:rust developer
+[00:49:03]   W048 + 11 sh:DevOps
+[00:49:03]   W002 + 34 dc:backend engineer
+[00:49:04]   W012 +  8 dc:graphics engineer
+[00:49:04]   W036 + 34 dc:staff engineer
+[00:49:06]   W045 + 34 dc:API engineer
+[00:49:07]   W080 + 10 dc:Elasticsearch engine
+[00:49:08]   W025 + 20 sh:infrastructure engin
+[00:49:10]   W061 + 20 sh:senior software engi
+[00:49:11]   W090 +  5 dc:Flutter developer
+[00:49:14]   W018 + 34 dc:Kotlin developer
+[00:49:18]   W013 + 21 dc:deep learning engine
+[00:49:19]   W021 + 34 dc:cloud engineer
+[00:49:20]   W027 + 34 dc:Kubernetes administr
+[00:49:20]   W076 + 10 dc:Elasticsearch engine
+[00:49:20]   W018 + 34 dc:GenAI engineer
+[00:49:20]   [R1] DB=729,781 | +2,098 | 46/min | Gap=270,219 | iters=1,217
+[00:49:20]   W012 + 33 dc:network engineer
+[00:49:21]   W023 + 34 dc:staff engineer
+[00:49:21]   W076 + 34 dc:rust developer
+[00:49:21]   W049 +  9 dc:graphics engineer
+[00:49:22]   W033 + 30 dc:SRE
+[00:49:22]   W018 + 19 dc:big data engineer
+[00:49:22]   W048 + 34 dc:python developer
+[00:49:22]   W003 + 33 dc:TypeScript developer
+[00:49:23]   W080 + 20 sh:GCP engineer
+[00:49:23]   W034 +  6 dc:FastAPI developer
+[00:49:23]   W055 + 34 dc:network engineer
+[00:49:24]   W059 + 20 sh:payments engineer
+[00:49:24]   W031 + 14 sh:site reliability eng
+[00:49:24]   W037 +  6 dc:FastAPI developer
+[00:49:24]   W042 + 11 dc:Perl developer
+[00:49:25]   W006 + 30 dc:Vue developer
+[00:49:26]   W003 + 34 dc:react developer
+[00:49:26]   W045 + 31 dc:automation engineer
+[00:49:26]   W056 + 20 sh:product manager
+[00:49:27]   W047 + 34 dc:site reliability eng
+[00:49:27]   W033 + 34 dc:Terraform engineer
+[00:49:27]   W018 + 31 dc:full stack engineer
+[00:49:27]   W052 + 11 dc:kernel engineer
+[00:49:28]   W020 + 30 dc:full stack developer
+[00:49:28]   W034 + 34 dc:API engineer
+[00:49:28]   W013 + 20 sh:go developer
+[00:49:29]   W095 + 34 dc:API engineer
+[00:49:29]   W081 + 10 dc:graphics engineer
+[00:49:29]   W004 +  5 dc:Elixir developer
+[00:49:29]   W032 + 10 dc:Elasticsearch engine
+[00:49:29]   W003 + 30 dc:microservices engine
+[00:49:29]   W025 + 12 sh:iOS developer
+[00:49:31]   W052 + 17 dc:Hadoop engineer
+[00:49:34]   W030 + 17 sh:Ansible engineer
+[00:49:36]   W055 +  8 sh:devops engineer
+[00:49:41]   W034 + 30 dc:SRE
+[00:49:42]   W031 + 22 dc:Vue developer
+[00:49:42]   W006 + 30 dc:distributed systems 
+[00:49:43]   W020 +  2 sh:iOS developer
+[00:49:43]   W003 + 34 dc:network engineer
+[00:49:43]   W028 + 10 dc:blockchain developer
+[00:49:43]   W065 + 34 dc:PostgreSQL engineer
+[00:49:43]   W092 + 20 sh:mobile developer
+[00:49:43]   W032 + 20 sh:data scientist
+[00:49:44]   W018 + 20 sh:react developer
+[00:49:44]   W020 + 34 dc:ML engineer
+[00:49:45]   W034 + 19 dc:big data engineer
+[00:49:45]   W033 +  2 sh:Flutter developer
+[00:49:45]   W032 + 34 dc:Spring Boot develope
+[00:49:47]   W020 + 34 dc:devops engineer
+[00:49:50]   W095 + 19 dc:big data engineer
+[00:49:50]   W009 +  9 dc:Ruby developer
+[00:49:52]   W006 + 20 sh:web developer
+[00:49:55]   W013 +  2 sh:release engineer
+[00:49:56]   W034 + 30 dc:microservices engine
+[00:49:59]   W028 + 31 dc:full stack engineer
+[00:50:00]   W018 + 20 sh:GCP engineer
+[00:50:00]   W020 + 30 dc:cloud architect
+[00:50:04]   W003 + 34 dc:staff engineer
+[00:50:05]   W095 +  5 dc:Perl developer
+[00:50:05]   [R1] DB=729,837 | +2,154 | 46/min | Gap=270,163 | iters=1,278
+[00:50:05]   W006 +  5 dc:Perl developer
+[00:50:06]   W034 + 34 dc:cloud security engin
+[00:50:06]   W087 +  4 sh:Elixir developer
+[00:50:06]   W028 + 20 sh:tech lead
+[00:50:06]   W039 + 20 sh:database engineer
+[00:50:07]   W091 + 22 dc:Vue developer
+[00:50:08]   W004 + 31 dc:Ansible engineer
+[00:50:10]   W093 + 18 dc:PHP developer
+[00:50:10]   W006 + 34 dc:Terraform engineer
+[00:50:11]   W016 + 34 dc:backend engineer
+[00:50:11]   W039 + 30 dc:Angular developer
+[00:50:11]   W045 + 31 dc:information security
+[00:50:11]   W091 + 34 dc:Kubernetes administr
+[00:50:11]   W021 + 20 sh:Docker engineer
+[00:50:12]   W095 +  4 sh:software engineer
+[00:50:12]   W075 +  5 dc:Perl developer
+[00:50:13]   W028 + 20 sh:analytics engineer
+[00:50:14]   W091 +  8 dc:graphics engineer
+[00:50:15]   W081 + 34 dc:cybersecurity engine
+[00:50:19]   W047 + 34 dc:Android developer
+[00:50:20]   W045 + 34 dc:golang developer
+[00:50:21]   W090 + 34 dc:PostgreSQL engineer
+[00:50:22]   W006 + 34 dc:cloud security engin
+[00:50:22]   W083 + 20 sh:security engineer
+[00:50:22]   W091 + 34 dc:rust developer
+[00:50:22]   W031 +  5 dc:Elixir developer
+[00:50:22]   W081 + 33 dc:TypeScript developer
+[00:50:23]   W095 + 20 sh:Redis engineer
+[00:50:23]   W047 + 21 dc:PHP developer
+[00:50:23]   W057 +  5 dc:Flutter developer
+[00:50:24]   W040 +  5 dc:Elixir developer
+[00:50:25]   W031 + 27 dc:payments engineer
+[00:50:26]   W090 + 34 dc:tech lead
+[00:50:29]   W033 + 22 dc:deep learning engine
+[00:50:30]   W098 +  2 sh:microservices engine
+[00:50:31]   W016 + 34 dc:DevOps
+[00:50:32]   W040 + 19 dc:big data engineer
+[00:50:36]   W047 + 34 dc:AWS engineer
+[00:50:36]   W083 + 34 dc:backend engineer
+[00:50:38]   W056 + 34 dc:AWS engineer
+[00:50:44]   W012 + 30 dc:database engineer
+[00:50:45]   W091 + 20 sh:Azure engineer
+[00:50:46]   W006 +  4 sh:senior software engi
+[00:50:47]   W005 + 20 sh:machine learning eng
+[00:50:49]   W041 + 34 dc:solutions architect
+[00:50:50]   W009 + 34 dc:staff engineer
+[00:50:51]   W000 +  5 sh:systems engineer
+[00:50:51]   W033 + 34 dc:ML engineer
+[00:50:52]   W025 + 20 sh:DevOps
+[00:50:53]   [R1] DB=729,890 | +2,207 | 47/min | Gap=270,110 | iters=1,327
+[00:50:55]   W045 + 31 dc:full stack engineer
+[00:50:57]   W021 + 34 dc:backend engineer
+[00:50:57]   W006 + 34 dc:C# developer
+[00:51:00]   W044 + 30 dc:Kubernetes engineer
+[00:51:02]   W078 + 33 dc:frontend engineer
+[00:51:05]   W063 + 30 dc:java developer
+[00:51:10]   W038 + 34 dc:GCP engineer
+[00:51:14]   W041 +  5 sh:blockchain developer
+[00:51:17]   W021 +  7 dc:Redis engineer
+[00:51:19]   W044 + 30 dc:systems programmer
+[00:51:19]   W051 + 34 dc:AWS engineer
+[00:51:24]   W094 + 24 dc:iOS developer
+[00:51:26]   W001 + 34 dc:Terraform developer
+[00:51:28]   W071 + 31 dc:data engineer
+[00:51:31]   W051 + 30 dc:distributed systems 
+[00:51:36]   W062 + 34 dc:penetration tester
+[00:51:39]   W041 + 15 sh:cloud security engin
+[00:51:41]   W062 + 34 dc:penetration tester
+[00:51:41]   [R1] DB=729,893 | +2,210 | 46/min | Gap=270,107 | iters=1,345
+[00:51:42]   W008 + 20 sh:Angular developer
+[00:51:43]   W024 + 30 dc:systems programmer
+[00:51:45]   W003 + 30 dc:release engineer
+[00:51:47]   W036 + 20 sh:Ansible engineer
+[00:51:49]   W021 + 20 sh:Angular developer
+[00:51:56]   W003 + 34 dc:automation engineer
+[00:52:05]   W000 + 20 sh:Android developer
+[00:52:17]   [R1] DB=729,899 | +2,216 | 46/min | Gap=270,101 | iters=1,353
+[00:52:31]   W002 +  9 sh:Swift developer
+[00:52:32]   W002 + 34 dc:design engineer
+[00:52:37]   W065 + 30 dc:distributed systems 
+[00:52:39]   W071 + 20 sh:Docker engineer
+[00:52:45]   W013 + 34 dc:data scientist
+[00:52:48]   W091 +  7 dc:React Native develop
+[00:52:50]   W089 + 34 dc:data analyst
+[00:52:51]   W097 + 22 dc:Vue developer
+[00:52:52]   W041 + 34 dc:CI/CD engineer
+[00:52:53]   W059 + 30 dc:java developer
+[00:52:54]   W000 + 32 dc:software developer
+[00:52:55]   W001 + 31 dc:Ansible engineer
+[00:52:56]   W031 + 20 sh:Terraform developer
+[00:53:05]   W089 + 31 dc:data engineer
+[00:53:07]   [R1] DB=729,905 | +2,222 | 45/min | Gap=270,095 | iters=1,367
+[00:53:14]   W089 + 34 dc:go developer
+[00:53:17]   W042 + 20 sh:full stack developer
+[00:53:28]   W045 +  9 sh:MongoDB engineer
+[00:53:29]   W043 + 13 sh:systems programmer
+[00:53:31]   W015 + 20 sh:Elasticsearch engine
+[00:53:32]   W045 + 20 sh:distributed systems 
+[00:53:32]   W044 + 20 sh:data scientist
+[00:53:32]   W003 + 20 sh:deep learning engine
+[00:53:32]   W000 + 20 sh:Azure engineer
+[00:53:32]   W045 +  7 dc:React Native develop
+[00:53:32]   W089 +  5 dc:Flutter developer
+[00:53:32]   W040 + 34 dc:CI/CD engineer
+[00:53:33]   W019 + 30 dc:PHP developer
+[00:53:34]   W028 + 30 dc:mobile developer
+[00:53:34]   W082 + 30 dc:distributed systems 
+[00:53:39]   W028 +  9 sh:automation engineer
+[00:53:40]   W076 + 31 dc:full stack engineer
+[00:53:49]   W006 + 34 dc:API engineer
+[00:53:51]   W044 + 34 dc:embedded engineer
+[00:53:53]   W040 + 34 dc:Terraform engineer
+[00:53:53]   W044 + 20 sh:release engineer
+[00:53:54]   W088 + 34 dc:Kafka engineer
+[00:53:54]   W003 + 20 sh:Spark engineer
+[00:53:55]   W017 + 20 sh:scrum master
+[00:53:55]   W052 + 31 dc:software developer
+[00:53:58]   W015 + 34 dc:systems engineer
+[00:54:00]   W002 + 31 dc:React Native develop
+[00:54:01]   [R1] DB=729,974 | +2,291 | 46/min | Gap=270,026 | iters=1,396
+[00:54:02]   W026 + 34 dc:full stack developer
+[00:54:03]   W054 + 30 dc:systems programmer
+[00:54:03]   W090 + 34 dc:design engineer
+[00:54:07]   W002 + 34 dc:penetration tester
+[00:54:09]   W040 + 34 dc:Android developer
+[00:54:10]   W091 + 31 dc:full stack engineer
+[00:54:10]   W015 + 34 dc:tech lead
+[00:54:12]   W053 + 30 dc:database engineer
+[00:54:14]   W028 + 34 dc:Kotlin developer
+[00:54:15]   W067 +  3 sh:database engineer
+[00:54:15]   W073 + 34 dc:Django developer
+[00:54:17]   W061 + 33 dc:TypeScript developer
+[00:54:18]   W023 + 34 dc:devops engineer
+[00:54:19]   W068 + 34 dc:MongoDB engineer
+[00:54:20]   W032 + 34 dc:Terraform engineer
+[00:54:20]   W073 + 10 dc:Swift developer
+[00:54:22]   W061 + 34 dc:data analyst
+[00:54:23]   W056 + 34 dc:ML engineer
+[00:54:24]   W067 + 20 sh:automation engineer
+[00:54:24]   W032 +  2 sh:Docker engineer
+[00:54:25]   W068 + 34 dc:solutions architect
+[00:54:25]   W053 + 34 dc:devops engineer
+[00:54:26]   W023 + 33 dc:frontend engineer
+[00:54:26]   W073 +  5 dc:Elixir developer
+[00:54:27]   W061 + 34 dc:platform engineer
+[00:54:27]   W049 + 30 dc:Spark engineer
+[00:54:28]   W013 + 30 dc:cloud architect
+[00:54:29]   W003 + 31 dc:software developer
+[00:54:30]   W068 + 34 dc:machine learning eng
+[00:54:31]   W013 +  8 dc:graphics engineer
+[00:54:31]   W058 + 31 dc:full stack engineer
+[00:54:31]   W013 + 34 dc:build engineer
+[00:54:31]   W061 + 34 dc:Kubernetes administr
+[00:54:31]   W003 + 10 dc:kernel engineer
+[00:54:32]   W087 + 34 dc:staff engineer
+[00:54:32]   [R1] DB=729,982 | +2,299 | 45/min | Gap=270,018 | iters=1,431
+[00:54:35]   W013 + 34 dc:GCP engineer
+[00:54:38]   W003 + 31 dc:data engineer
+[00:54:38]   W032 + 34 dc:analytics engineer
+[00:54:38]   W079 + 34 dc:PostgreSQL engineer
+[00:54:39]   W077 + 34 dc:data scientist
+[00:54:39]   W029 + 34 dc:API engineer
+[00:54:39]   W013 + 20 sh:software developer
+[00:54:40]   W092 + 34 dc:Django developer
+[00:54:41]   W032 + 34 dc:Terraform developer
+[00:54:41]   W079 + 34 dc:Django developer
+[00:54:41]   W091 + 34 dc:embedded engineer
+[00:54:41]   W003 + 34 dc:staff engineer
+[00:54:42]   W042 + 34 dc:data analyst
+[00:54:43]   W013 + 20 sh:scrum master
+[00:54:43]   W032 + 33 dc:TypeScript developer
+[00:54:44]   W081 + 31 dc:data engineer
+[00:54:46]   W080 + 28 dc:C++ engineer
+[00:54:46]   W054 + 34 dc:embedded engineer
+[00:54:47]   W095 +  5 dc:Elixir developer
+[00:54:47]   W076 +  3 sh:cloud architect
+[00:54:48]   W001 + 20 sh:big data engineer
+[00:54:50]   W031 + 30 dc:systems programmer
+[00:54:50]   W013 +  5 dc:Flutter developer
+[00:54:51]   W032 + 31 dc:full stack engineer
+[00:54:51]   W062 +  3 sh:API engineer
+[00:54:52]   W080 + 30 dc:mobile developer
+[00:54:53]   W054 + 33 dc:TypeScript developer
+[00:54:59]   W076 +  8 dc:graphics engineer
+[00:55:02]   W031 + 34 dc:product manager
+[00:55:04]   W074 + 34 dc:go developer
+[00:55:05]   W043 + 34 dc:rust developer
+[00:55:09]   W080 + 34 dc:junior software engi
+[00:55:09]   W095 + 20 sh:backend engineer
+[00:55:11]   [R1] DB=730,037 | +2,354 | 46/min | Gap=269,963 | iters=1,466
+[00:55:21]   W011 + 30 dc:database engineer
+[00:55:28]   W080 + 31 dc:software developer
+[00:55:29]   W082 +  5 dc:Elixir developer
+[00:55:35]   W011 + 34 dc:cloud security engin
+[00:55:37]   W080 + 34 dc:systems engineer
+[00:55:39]   W053 + 24 dc:iOS developer
+[00:55:42]   W011 + 30 dc:platform engineer
+[00:55:43]   W082 + 20 sh:database engineer
+[00:55:46]   W086 + 10 sh:LLM engineer
+[00:55:48]   W046 + 34 dc:solutions architect
+[00:55:50]   [R1] DB=730,060 | +2,377 | 46/min | Gap=269,940 | iters=1,476
+[00:55:51]   W036 + 20 dc:big data engineer
+[00:55:52]   W006 + 33 dc:frontend engineer
+[00:55:55]   W012 + 34 dc:Kafka engineer
+[00:55:56]   W049 +  8 sh:site reliability eng
+[00:55:57]   W036 + 34 dc:Azure engineer
+[00:55:58]   W011 + 34 dc:CI/CD engineer
+[00:55:58]   W037 + 20 sh:GCP engineer
+[00:55:58]   W085 + 20 sh:automation engineer
+[00:55:58]   W012 + 34 dc:UX engineer
+[00:55:59]   W050 + 34 dc:react developer
+[00:55:59]   W011 + 30 dc:mobile developer
+[00:56:00]   W055 + 20 sh:data engineer
+[00:56:01]   W037 + 20 sh:distributed systems 
+[00:56:03]   W014 + 34 dc:MongoDB engineer
+[00:56:03]   W063 + 20 dc:payments engineer
+[00:56:03]   W007 + 30 dc:distributed systems 
+[00:56:03]   W086 + 20 sh:network engineer
+[00:56:03]   W036 + 20 sh:payments engineer
+[00:56:04]   W006 + 20 sh:platform engineer
+[00:56:04]   W084 + 20 sh:Ansible engineer
+[00:56:04]   W041 + 20 sh:Docker engineer
+[00:56:04]   W037 +  7 sh:compiler engineer
+[00:56:05]   W053 + 31 dc:full stack engineer
+[00:56:05]   W029 + 34 dc:go developer
+[00:56:05]   W006 + 30 dc:distributed systems 
+[00:56:05]   W057 + 15 dc:Hadoop engineer
+[00:56:05]   W068 + 34 dc:UX engineer
+[00:56:05]   W091 + 34 dc:build engineer
+[00:56:06]   W024 + 34 dc:PostgreSQL engineer
+[00:56:07]   W020 + 31 dc:firmware engineer
+[00:56:07]   W042 + 34 dc:senior software engi
+[00:56:07]   W037 +  3 sh:SRE
+[00:56:08]   W051 + 34 dc:data analyst
+[00:56:08]   W011 +  7 sh:Elasticsearch engine
+[00:56:09]   W033 + 34 dc:machine learning eng
+[00:56:09]   W021 + 34 dc:devops engineer
+[00:56:11]   W068 + 30 dc:infrastructure engin
+[00:56:13]   W063 + 16 sh:Perl developer
+[00:56:14]   W098 + 20 sh:tech lead
+[00:56:14]   W030 + 20 sh:Kubernetes engineer
+[00:56:16]   W054 + 34 dc:machine learning eng
+[00:56:18]   W038 + 20 sh:solutions architect
+[00:56:20]   W024 + 34 dc:Kafka engineer
+[00:56:22]   W074 + 34 dc:GCP engineer
+[00:56:22]   W014 + 20 sh:java developer
+[00:56:25]   W051 + 34 dc:design engineer
+[00:56:28]   W037 + 34 dc:junior software engi
+[00:56:30]   W056 + 34 dc:analytics engineer
+[00:56:30]   W020 + 20 sh:automation engineer
+[00:56:33]   W054 + 30 dc:node developer
+[00:56:33]   W024 + 30 dc:microservices engine
+[00:56:34]   [R1] DB=730,184 | +2,501 | 47/min | Gap=269,816 | iters=1,527
+[00:56:34]   W037 + 34 dc:software engineer
+[00:56:34]   W056 + 34 dc:systems engineer
+[00:56:34]   W047 + 20 sh:CI/CD engineer
+[00:56:36]   W020 + 34 dc:embedded engineer
+[00:56:37]   W024 + 18 dc:PHP developer
+[00:56:38]   W035 + 20 sh:full stack engineer
+[00:56:38]   W028 + 34 dc:cloud security engin
+[00:56:38]   W004 + 34 dc:AWS engineer
+[00:56:38]   W059 + 30 dc:site reliability eng
+[00:56:39]   W038 + 30 dc:Ansible engineer
+[00:56:40]   W033 + 20 sh:GenAI engineer
+[00:56:41]   W035 + 34 dc:graphics engineer
+[00:56:41]   W038 +  5 dc:Elixir developer
+[00:56:41]   W045 + 30 dc:full stack developer
+[00:56:42]   W026 + 30 dc:Kubernetes engineer
+[00:56:42]   W000 + 34 dc:Kubernetes administr
+[00:56:43]   W088 + 34 dc:cybersecurity engine
+[00:56:43]   W096 + 30 dc:release engineer
+[00:56:43]   W056 + 20 sh:staff engineer
+[00:56:44]   W033 + 30 dc:database engineer
+[00:56:44]   W000 + 30 dc:security engineer
+[00:56:44]   W045 + 34 dc:Ansible engineer
+[00:56:44]   W047 + 33 dc:frontend engineer
+[00:56:45]   W027 + 10 sh:release engineer
+[00:56:45]   W033 + 23 dc:deep learning engine
+[00:56:45]   W024 + 15 dc:Hadoop engineer
+[00:56:45]   W008 + 23 dc:Vue developer
+[00:56:45]   W023 + 34 dc:Docker engineer
+[00:56:46]   W088 + 34 dc:Spring Boot develope
+[00:56:48]   W009 + 33 dc:TypeScript developer
+[00:56:49]   W045 + 34 dc:data scientist
+[00:56:51]   W019 + 32 dc:principal engineer
+[00:56:54]   W024 + 34 dc:security engineer
+[00:56:55]   W017 + 34 dc:GenAI engineer
+[00:56:56]   W014 + 18 sh:Django developer
+[00:56:58]   W015 + 15 sh:data scientist
+[00:57:00]   W038 + 20 sh:firmware engineer
+[00:57:06]   W026 + 34 dc:senior software engi
+[00:57:17]   W017 + 30 dc:technical writer
+[00:57:21]   W010 + 22 dc:deep learning engine
+[00:57:22]   [R1] DB=730,249 | +2,566 | 48/min | Gap=269,751 | iters=1,571
+[00:57:26]   W017 + 34 dc:software engineer
+[00:57:38]   W092 + 34 dc:C# developer
+[00:57:40]   W017 + 20 sh:embedded engineer
+[00:57:43]   W076 + 34 dc:backend engineer
+[00:57:53]   W076 + 30 dc:technical writer
+[00:57:54]   W017 + 34 dc:scrum master
+[00:57:55]   [R1] DB=730,261 | +2,578 | 48/min | Gap=269,739 | iters=1,577
+[00:57:56]   W045 + 34 dc:GenAI engineer
+[00:57:58]   W019 + 34 dc:QA engineer
+[00:58:01]   W024 + 34 dc:Django developer
+[00:58:06]   W023 + 20 sh:principal engineer
+[00:58:10]   W000 + 30 dc:cloud architect
+[00:58:20]   W007 + 15 dc:Hadoop engineer
+[00:58:24]   W007 + 34 dc:go developer
+[00:58:29]   W007 + 34 dc:rust developer
+[00:58:31]   [R1] DB=730,272 | +2,589 | 47/min | Gap=269,728 | iters=1,586
+[00:58:32]   W075 + 20 sh:CI/CD engineer
+[00:58:32]   W000 + 20 sh:GCP engineer
+[00:58:33]   W034 + 34 dc:Spring Boot develope
+[00:58:34]   W075 + 20 sh:game developer
+[00:58:37]   W022 +  9 dc:Ruby developer
+[00:58:42]   W028 + 33 dc:TypeScript developer
+[00:58:45]   W004 + 20 sh:network engineer
+[00:58:51]   W033 + 34 dc:ML engineer
+[00:58:53]   W045 + 30 dc:full stack developer
+[00:58:55]   W053 + 34 dc:analytics engineer
+[00:58:57]   W035 + 34 dc:CI/CD engineer
+[00:58:59]   W074 +  5 sh:Angular developer
+[00:59:10]   W015 + 20 sh:firmware engineer
+[00:59:16]   W035 + 34 dc:security engineer
+[00:59:17]   W028 +  5 dc:Elixir developer
+[00:59:20]   W038 + 33 dc:frontend engineer
+[00:59:22]   W061 + 30 dc:mobile developer
+[00:59:23]   [R1] DB=730,313 | +2,629 | 47/min | Gap=269,687 | iters=1,606
+[00:59:29]   W035 +  6 dc:FastAPI developer
+[00:59:33]   W028 + 26 dc:C++ engineer
+[00:59:39]   W061 +  9 dc:Ruby developer
+[00:59:41]   W038 + 34 dc:Kubernetes administr
+[00:59:47]   W028 + 30 dc:infrastructure engin
+[00:59:50]   W034 +  7 dc:Redis engineer
+[00:59:56]   W017 + 34 dc:Kubernetes administr
+[01:00:00]   W028 + 31 dc:full stack engineer
+[01:00:03]   W052 +  5 dc:fintech engineer
+[01:00:04]   W001 + 33 dc:TypeScript developer
+[01:00:08]   W017 + 34 dc:Vue developer
+[01:00:08]   [R1] DB=730,314 | +2,630 | 47/min | Gap=269,686 | iters=1,617
+[01:00:15]   W005 +  5 dc:Elixir developer
+[01:00:21]   W026 + 30 dc:react developer
+[01:00:26]   W045 +  2 sh:graphics engineer
+[01:00:29]   W041 + 34 dc:Terraform engineer
+[01:00:34]   W047 +  6 dc:FastAPI developer
+[01:00:39]   W045 + 34 dc:cloud engineer
+[01:00:42]   W048 + 20 sh:cloud security engin
+[01:00:47]   W097 + 21 dc:payments engineer
+[01:00:51]   W017 + 31 dc:automation engineer
+[01:00:52]   [R1] DB=730,327 | +2,643 | 46/min | Gap=269,673 | iters=1,626
+[01:00:56]   W038 + 20 sh:infrastructure engin
+[01:01:04]   W097 + 34 dc:solutions architect
+[01:01:07]   W044 + 30 dc:Kubernetes engineer
+[01:01:16]   W017 + 30 dc:database engineer
+[01:01:28]   W017 + 34 dc:analytics engineer
+[01:01:28]   [R1] DB=730,347 | +2,663 | 46/min | Gap=269,653 | iters=1,631
+[01:01:29]   W026 +  3 sh:fintech engineer
+[01:01:36]   W047 + 34 dc:go developer
+[01:01:39]   W018 +  4 sh:rust developer
+[01:01:52]   W047 + 30 dc:site reliability eng
+[01:02:03]   W018 + 34 dc:scrum master
+[01:02:09]   W015 + 34 dc:analytics engineer
+[01:02:10]   [R1] DB=730,351 | +2,664 | 46/min | Gap=269,649 | iters=1,637
+[01:02:22]   W074 + 30 dc:microservices engine
+[01:02:34]   W074 + 34 dc:systems engineer
+[01:02:48]   W045 + 22 dc:deep learning engine
+[01:02:53]   [R1] DB=730,351 | +2,664 | 45/min | Gap=269,649 | iters=1,640
+[01:02:57]   W011 + 34 dc:Kafka engineer
+[01:03:02]   W042 + 34 dc:C++ engineer
+[01:03:11]   W042 + 22 dc:deep learning engine
+[01:03:18]   W042 + 31 dc:automation engineer
+[01:03:30]   W009 + 34 dc:backend engineer
+[01:03:32]   [R1] DB=730,354 | +2,667 | 45/min | Gap=269,646 | iters=1,645
+[01:03:48]   W083 + 22 dc:Vue developer
+[01:04:06]   [R1] DB=730,354 | +2,667 | 44/min | Gap=269,646 | iters=1,646
+[01:04:15]   W058 + 20 sh:distributed systems 
+[01:04:31]   W029 + 20 sh:CI/CD engineer
+[01:04:44]   [R1] DB=730,362 | +2,675 | 44/min | Gap=269,638 | iters=1,649
+[01:04:55]   W036 + 17 sh:software developer
+[01:05:01]   W047 + 16 sh:Perl developer
+[01:05:04]   W001 + 20 sh:build engineer
+[01:05:16]   W001 + 17 sh:react developer
+[01:05:20]   [R1] DB=730,387 | +2,700 | 44/min | Gap=269,613 | iters=1,653
+[01:05:57]   W077 + 20 sh:systems engineer
+[01:06:01]   [R1] DB=730,406 | +2,719 | 44/min | Gap=269,594 | iters=1,654
+[01:06:09]   W097 +  3 sh:solutions architect
+[01:06:10]   W013 + 20 sh:C# developer
+[01:06:10]   W052 +  8 sh:GCP engineer
+[01:06:13]   W020 +  5 dc:Perl developer
+[01:06:14]   W017 + 16 sh:React Native develop
+[01:06:22]   W078 + 20 sh:backend engineer
+[01:06:23]   W047 + 20 sh:web developer
+[01:06:24]   W032 + 20 sh:distributed systems 
+[01:06:29]   W028 + 20 sh:release engineer
+[01:06:34]   W012 + 34 dc:UX engineer
+[01:06:36]   W004 + 30 dc:platform engineer
+[01:06:39]   W015 + 32 dc:payments engineer
+[01:06:55]   [R1] DB=730,434 | +2,747 | 43/min | Gap=269,566 | iters=1,668
+[01:07:14]   W046 +  9 sh:Kafka engineer
+[01:07:19]   W088 + 20 sh:rust developer
+[01:07:24]   W001 + 20 sh:mobile developer
+[01:07:31]   W031 + 20 sh:software developer
+[01:07:34]   W072 + 20 sh:principal engineer
+[01:07:40]   W095 + 20 sh:build engineer
+[01:07:42]   [R1] DB=730,461 | +2,774 | 43/min | Gap=269,539 | iters=1,676
+[01:07:45]   W008 +  2 sh:cybersecurity engine
+[01:07:46]   W067 + 20 sh:backend engineer
+[01:07:51]   W067 + 10 sh:network engineer
+[01:07:53]   W010 + 20 sh:software engineer
+[01:07:55]   W008 + 20 sh:Android developer
+[01:08:00]   W001 + 20 sh:PostgreSQL engineer
+[01:08:13]   W012 + 20 sh:solutions architect
+[01:08:15]   [R1] DB=730,486 | +2,810 | 44/min | Gap=269,514 | iters=1,684
+[01:08:19]   W000 + 20 sh:firmware engineer
+[01:08:43]   W049 + 20 sh:PostgreSQL engineer
+[01:08:44]   W029 + 20 sh:Kotlin developer
+[01:08:50]   W049 +  8 sh:Kotlin developer
+[01:08:52]   [R1] DB=730,507 | +2,819 | 43/min | Gap=269,493 | iters=1,688
+[01:08:53]   W046 +  2 sh:design engineer
+[01:08:55]   W041 + 20 sh:AI engineer
+[01:09:03]   W046 + 20 sh:CI/CD engineer
+[01:09:03]   W059 + 20 sh:Kubernetes engineer
+[01:09:07]   W006 + 20 sh:design engineer
+[01:09:12]   W063 + 20 sh:PostgreSQL engineer
+[01:09:19]   W095 + 20 sh:data engineer
+[01:09:25]   [R1] DB=730,543 | +2,855 | 43/min | Gap=269,457 | iters=1,695
+[01:09:31]   W028 + 14 sh:node developer
+[01:09:33]   W013 + 14 sh:golang developer
+[01:09:59]   W095 + 20 sh:design engineer
+[01:10:01]   [R1] DB=730,544 | +2,856 | 43/min | Gap=269,456 | iters=1,698
+[01:10:04]   W040 + 20 sh:build engineer
+[01:10:23]   W057 + 20 sh:DevOps
+[01:10:27]   W036 + 20 sh:Azure engineer
+[01:10:29]   W007 + 20 sh:Terraform developer
+[01:10:38]   [R1] DB=730,586 | +2,898 | 43/min | Gap=269,414 | iters=1,702
+[01:10:44]   W046 + 20 sh:distributed systems 
+[01:10:45]   W036 +  4 sh:machine learning eng
+[01:10:50]   W036 + 20 sh:Django developer
+[01:10:59]   W046 + 20 sh:data engineer
+[01:11:06]   W099 + 17 sh:principal engineer
+[01:11:12]   [R1] DB=730,612 | +2,922 | 43/min | Gap=269,388 | iters=1,707
+[01:11:46]   [R1] DB=730,644 | +2,922 | 43/min | Gap=269,356 | iters=1,707
+[01:12:29]   [R1] DB=730,644 | +2,922 | 42/min | Gap=269,356 | iters=1,707
+[01:13:03]   [R1] DB=730,644 | +2,922 | 42/min | Gap=269,356 | iters=1,707
+[01:13:26]   W011 + 34 dc:go developer
+[01:13:29]   W020 + 20 sh:full stack developer
+[01:13:41]   W015 + 20 sh:web developer
+[01:13:54]   W014 +  7 dc:React Native develop
+[01:13:54]   W039 + 33 dc:frontend engineer
+[01:13:58]   W023 +  6 sh:staff engineer
+[01:14:01]   W042 +  8 sh:go developer
+[01:14:03]   [R1] DB=730,662 | +2,938 | 42/min | Gap=269,338 | iters=1,715
+[01:14:07]   W039 + 31 dc:software developer
+[01:14:12]   W036 + 34 dc:GCP engineer
+[01:14:19]   W036 + 34 dc:senior software engi
+[01:14:20]   W005 + 30 dc:node developer
+[01:14:24]   W036 + 34 dc:C# developer
+[01:14:27]   W084 + 34 dc:build engineer
+[01:14:34]   W036 + 34 dc:CI/CD engineer
+[01:14:38]   [R1] DB=730,664 | +2,940 | 41/min | Gap=269,336 | iters=1,722
+[01:14:43]   W032 + 34 dc:product manager
+[01:14:48]   W097 + 31 dc:Spark engineer
+[01:15:03]   W085 + 34 dc:Spring Boot develope
+[01:15:07]   W039 +  5 dc:Elixir developer
+[01:15:11]   W061 + 16 dc:Hadoop engineer
+[01:15:11]   [R1] DB=730,670 | +2,946 | 41/min | Gap=269,330 | iters=1,727
+[01:15:14]   W061 + 34 dc:Scala developer
+[01:15:15]   W030 +  9 dc:Ruby developer
+[01:15:22]   W030 + 34 dc:cybersecurity engine
+[01:15:35]   W038 + 31 dc:automation engineer
+[01:15:36]   W075 + 30 dc:mobile developer
+[01:15:39]   W043 + 20 sh:cloud architect
+[01:15:43]   W012 + 34 dc:software engineer
+[01:15:47]   W006 + 20 sh:information security
+[01:15:47]   [R1] DB=730,671 | +2,946 | 41/min | Gap=269,329 | iters=1,736
+[01:15:49]   W012 + 34 dc:QA engineer
+[01:15:55]   W049 + 34 dc:PostgreSQL engineer
+[01:16:01]   W093 + 20 sh:senior software engi
+[01:16:01]   W039 +  2 sh:C++ engineer
+[01:16:02]   W066 + 20 sh:platform engineer
+[01:16:02]   W035 + 29 dc:iOS developer
+[01:16:08]   W084 + 34 dc:data scientist
+[01:16:10]   W027 + 34 dc:design engineer
+[01:16:14]   W047 + 21 dc:payments engineer
+[01:16:16]   W035 + 31 dc:data engineer
+[01:16:19]   W084 + 34 dc:cloud security engin
+[01:16:27]   W042 + 34 dc:cloud security engin
+[01:16:27]   [R1] DB=730,680 | +2,955 | 41/min | Gap=269,320 | iters=1,748
+[01:16:28]   W015 + 34 dc:cloud engineer
+[01:16:33]   W034 + 34 dc:go developer
+[01:16:34]   W013 + 30 dc:site reliability eng
+[01:16:34]   W023 + 30 dc:microservices engine
+[01:16:35]   W000 + 22 dc:deep learning engine
+[01:16:37]   W024 + 34 dc:cloud engineer
+[01:16:37]   W002 + 34 dc:Spring Boot develope
+[01:16:38]   W027 + 33 dc:TypeScript developer
+[01:16:39]   W075 + 30 dc:full stack developer
+[01:16:41]   W079 + 30 dc:node developer
+[01:16:42]   W034 + 31 dc:Spark engineer
+[01:16:43]   W002 + 34 dc:cybersecurity engine
+[01:16:43]   W037 + 34 dc:DevOps
+[01:16:43]   W000 + 34 dc:UX engineer
+[01:16:44]   W029 + 30 dc:java developer
+[01:16:46]   W075 +  7 dc:Redis engineer
+[01:16:50]   W079 + 20 sh:frontend engineer
+[01:16:56]   W030 + 34 dc:GenAI engineer
+[01:16:58]   W028 + 27 dc:web developer
+[01:17:01]   W013 + 34 dc:product manager
+[01:17:02]   W088 + 10 dc:Redis engineer
+[01:17:03]   W043 + 34 dc:analytics engineer
+[01:17:04]   W029 + 34 dc:CI/CD engineer
+[01:17:04]   W075 + 34 dc:MongoDB engineer
+[01:17:05]   W030 + 31 dc:full stack engineer
+[01:17:05]   W028 + 32 dc:cloud security engin
+[01:17:05]   W080 + 21 dc:payments engineer
+[01:17:05]   [R1] DB=730,691 | +2,966 | 40/min | Gap=269,309 | iters=1,775
+[01:17:06]   W013 + 17 sh:UX engineer
+[01:17:07]   W043 + 34 dc:analytics engineer
+[01:17:07]   W029 + 34 dc:cloud security engin
+[01:17:08]   W042 +  5 dc:game developer
+[01:17:08]   W080 +  7 dc:Redis engineer
+[01:17:08]   W030 + 34 dc:API engineer
+[01:17:09]   W075 + 31 dc:full stack engineer
+[01:17:10]   W028 + 34 dc:Android developer
+[01:17:11]   W021 + 20 sh:cloud engineer
+[01:17:12]   W042 + 34 dc:go developer
+[01:17:12]   W044 + 34 dc:systems engineer
+[01:17:13]   W017 + 32 dc:principal engineer
+[01:17:14]   W038 + 34 dc:mobile developer
+[01:17:16]   W063 + 31 dc:Spark engineer
+[01:17:18]   W000 + 34 dc:Azure engineer
+[01:17:22]   W021 +  2 sh:payments engineer
+[01:17:23]   W047 +  9 dc:compiler engineer
+[01:17:24]   W038 + 34 dc:build engineer
+[01:17:27]   W049 + 31 dc:automation engineer
+[01:17:28]   W000 +  5 dc:Elixir developer
+[01:17:29]   W033 + 30 dc:Kubernetes engineer
+[01:17:31]   W023 + 34 dc:tech lead
+[01:17:32]   W038 + 30 dc:distributed systems 
+[01:17:33]   W046 + 30 dc:site reliability eng
+[01:17:34]   W020 + 30 dc:mobile developer
+[01:17:35]   W069 + 34 dc:data analyst
+[01:17:36]   W012 + 34 dc:MongoDB engineer
+[01:17:36]   W042 + 34 dc:Terraform engineer
+[01:17:38]   W038 + 34 dc:analytics engineer
+[01:17:40]   W046 + 34 dc:ML engineer
+[01:17:41]   W069 + 30 dc:platform engineer
+[01:17:42]   W036 + 34 dc:MongoDB engineer
+[01:17:42]   [R1] DB=730,706 | +2,981 | 40/min | Gap=269,294 | iters=1,808
+[01:17:43]   W041 + 34 dc:scrum master
+[01:17:45]   W015 + 34 dc:Terraform engineer
+[01:17:46]   W098 + 34 dc:embedded engineer
+[01:17:46]   W021 + 10 sh:scrum master
+[01:17:46]   W068 + 34 dc:systems engineer
+[01:17:46]   W092 + 34 dc:Azure engineer
+[01:17:47]   W010 + 31 dc:data engineer
+[01:17:47]   W069 + 34 dc:backend engineer
+[01:17:48]   W036 + 34 dc:analytics engineer
+[01:17:48]   W009 + 30 dc:systems programmer
+[01:17:48]   W045 + 10 dc:Swift developer
+[01:17:48]   W010 + 10 dc:kernel engineer
+[01:17:49]   W073 + 30 dc:release engineer
+[01:17:50]   W083 + 30 dc:infrastructure engin
+[01:17:50]   W069 + 34 dc:network engineer
+[01:17:51]   W036 + 34 dc:AI engineer
+[01:17:52]   W092 + 34 dc:staff engineer
+[01:17:52]   W081 + 30 dc:site reliability eng
+[01:17:53]   W045 + 33 dc:penetration tester
+[01:17:53]   W015 + 34 dc:Angular developer
+[01:17:54]   W073 + 34 dc:Spring Boot develope
+[01:17:56]   W042 + 34 dc:junior software engi
+[01:18:01]   W021 + 33 dc:TypeScript developer
+[01:18:01]   W092 +  8 dc:graphics engineer
+[01:18:02]   W015 + 34 dc:LLM engineer
+[01:18:03]   W058 + 20 sh:GenAI engineer
+[01:18:05]   W045 + 34 dc:python developer
+[01:18:07]   W068 + 30 dc:Kubernetes engineer
+[01:18:10]   W042 + 34 dc:GenAI engineer
+[01:18:12]   W070 + 32 dc:Spark engineer
+[01:18:14]   W037 + 34 dc:UX engineer
+[01:18:15]   W087 + 30 dc:mobile developer
+[01:18:15]   W047 + 34 dc:.NET developer
+[01:18:17]   W045 + 31 dc:firmware engineer
+[01:18:17]   W070 + 34 dc:AI engineer
+[01:18:17]   [R1] DB=730,731 | +3,006 | 40/min | Gap=269,269 | iters=1,843
+[01:18:18]   W039 + 34 dc:cybersecurity engine
+[01:18:18]   W087 + 34 dc:build engineer
+[01:18:19]   W047 + 34 dc:AWS engineer
+[01:18:20]   W042 + 34 dc:embedded engineer
+[01:18:21]   W045 + 23 dc:web developer
+[01:18:23]   W058 + 34 dc:solutions architect
+[01:18:24]   W053 +  5 dc:Perl developer
+[01:18:25]   W073 + 20 sh:Ruby developer
+[01:18:26]   W047 + 34 dc:go developer
+[01:18:28]   W033 + 34 dc:build engineer
+[01:18:29]   W002 + 30 dc:PostgreSQL engineer
+[01:18:30]   W045 + 31 dc:information security
+[01:18:33]   W073 + 30 dc:cloud engineer
+[01:18:33]   W037 +  5 dc:game developer
+[01:18:35]   W047 + 18 dc:PHP developer
+[01:18:37]   W033 + 20 sh:ML engineer
+[01:18:39]   W033 + 34 dc:CI/CD engineer
+[01:18:41]   W015 + 34 dc:product manager
+[01:18:44]   W047 +  5 dc:Perl developer
+[01:18:45]   W008 + 30 dc:infrastructure engin
+[01:18:46]   W073 + 34 dc:full stack engineer
+[01:18:49]   W095 + 34 dc:UX engineer
+[01:18:51]   W070 + 34 dc:GenAI engineer
+[01:18:52]   W065 + 34 dc:scrum master
+[01:18:53]   W033 + 30 dc:java developer
+[01:18:54]   W073 + 34 dc:GenAI engineer
+[01:18:55]   [R1] DB=730,746 | +3,021 | 40/min | Gap=269,254 | iters=1,869
+[01:18:57]   W039 + 34 dc:release engineer
+[01:18:58]   W032 + 34 dc:PostgreSQL engineer
+[01:18:59]   W049 + 20 sh:principal engineer
+[01:19:00]   W070 + 34 dc:cybersecurity engine
+[01:19:07]   W016 + 30 dc:mobile developer
+[01:19:09]   W017 + 34 dc:go developer
+[01:19:10]   W039 + 30 dc:technical writer
+[01:19:13]   W032 + 34 dc:go developer
+[01:19:14]   W017 +  5 dc:Elixir developer
+[01:19:16]   W004 + 33 dc:TypeScript developer
+[01:19:17]   W006 + 34 dc:build engineer
+[01:19:19]   W032 + 34 dc:Swift developer
+[01:19:20]   W017 + 34 dc:node developer
+[01:19:25]   W009 +  7 dc:React Native develop
+[01:19:26]   W003 + 16 dc:Hadoop engineer
+[01:19:27]   W018 +  9 dc:Ruby developer
+[01:19:27]   W004 + 34 dc:cloud engineer
+[01:19:28]   W011 + 18 dc:PHP developer
+[01:19:29]   [R1] DB=730,770 | +3,045 | 40/min | Gap=269,230 | iters=1,887
+[01:19:31]   W066 + 10 dc:Swift developer
+[01:19:33]   W038 + 34 dc:site reliability eng
+[01:19:34]   W070 + 10 dc:Swift developer
+[01:19:35]   W027 + 30 dc:full stack developer
+[01:19:38]   W080 + 24 dc:iOS developer
+[01:19:39]   W052 + 30 dc:infrastructure engin
+[01:19:41]   W027 + 34 dc:Spring Boot develope
+[01:19:42]   W049 + 34 dc:DevOps
+[01:19:44]   W080 + 31 dc:software developer
+[01:19:46]   W052 +  5 dc:Flutter developer
+[01:19:51]   W080 + 34 dc:site reliability eng
+[01:19:53]   W050 + 30 dc:distributed systems 
+[01:19:56]   W049 + 34 dc:machine learning eng
+[01:19:57]   W027 + 34 dc:DevOps
+[01:19:59]   W080 + 33 dc:frontend engineer
+[01:20:00]   W050 + 34 dc:devops engineer
+[01:20:01]   W060 + 34 dc:Kafka engineer
+[01:20:02]   W002 +  4 dc:fintech engineer
+[01:20:02]   [R1] DB=730,776 | +3,051 | 40/min | Gap=269,224 | iters=1,905
+[01:20:04]   W050 + 34 dc:staff engineer
+[01:20:05]   W046 + 34 dc:CI/CD engineer
+[01:20:14]   W002 + 34 dc:UX engineer
+[01:20:23]   W027 + 33 dc:GenAI engineer
+[01:20:28]   W027 + 30 dc:database engineer
+[01:20:32]   W080 + 33 dc:frontend engineer
+[01:20:35]   W046 + 20 sh:senior software engi
+[01:20:35]   W027 + 30 dc:distributed systems 
+[01:20:36]   [R1] DB=730,776 | +3,051 | 40/min | Gap=269,224 | iters=1,913
+[01:20:38]   W058 + 20 sh:LLM engineer
+[01:20:41]   W046 +  2 sh:mobile developer
+[01:20:42]   W027 + 22 dc:deep learning engine
+[01:20:43]   W012 + 20 sh:design engineer
+[01:20:48]   W083 +  2 sh:LLM engineer
+[01:21:00]   W004 + 34 dc:TypeScript developer
+[01:21:02]   W006 + 34 dc:senior software engi
+[01:21:20]   W051 +  8 dc:graphics engineer
+[01:21:25]   W082 + 30 dc:cloud architect
+[01:21:28]   W062 + 20 sh:cybersecurity engine
+[01:21:32]   [R1] DB=730,815 | +3,090 | 40/min | Gap=269,185 | iters=1,923
+[01:21:36]   W027 + 34 dc:mobile developer
+[01:21:44]   W062 + 34 dc:staff engineer
+[01:21:48]   W099 + 20 sh:Kubernetes engineer
+[01:21:51]   W031 + 34 dc:golang developer
+[01:22:05]   W074 +  9 dc:Ruby developer
+[01:22:10]   W044 + 34 dc:systems engineer
+[01:22:12]   W074 + 34 dc:product manager
+[01:22:13]   [R1] DB=730,819 | +3,093 | 39/min | Gap=269,181 | iters=1,930
+[01:22:19]   W023 + 34 dc:python developer
+[01:22:26]   W074 + 34 dc:Kubernetes administr
+[01:22:32]   W074 + 10 dc:kernel engineer
+[01:22:34]   W000 + 32 dc:Spark engineer
+[01:22:39]   W028 + 34 dc:python developer
+[01:22:39]   W074 + 34 dc:senior software engi
+[01:22:46]   W040 + 34 dc:Kotlin developer
+[01:22:49]   W028 + 34 dc:penetration tester
+[01:22:51]   [R1] DB=730,819 | +3,093 | 39/min | Gap=269,181 | iters=1,938
+[01:22:56]   W094 + 34 dc:software engineer
+[01:23:01]   W023 + 31 dc:information security
+[01:23:06]   W094 + 34 dc:Kotlin developer
+[01:23:10]   W094 + 21 dc:payments engineer
+[01:23:13]   W094 + 30 dc:site reliability eng
+[01:23:15]   W094 + 34 dc:Kotlin developer
+[01:23:19]   W089 + 20 sh:full stack developer
+[01:23:19]   W023 +  2 sh:graphics engineer
+[01:23:20]   W002 + 20 sh:firmware engineer
+[01:23:21]   W094 + 32 dc:Spark engineer
+[01:23:21]   W090 +  2 sh:blockchain developer
+[01:23:21]   W014 + 11 sh:staff engineer
+[01:23:23]   W019 +  7 sh:cloud architect
+[01:23:24]   W065 +  3 sh:UX engineer
+[01:23:24]   W009 +  4 dc:fintech engineer
+[01:23:25]   W076 + 20 sh:analytics engineer
+[01:23:25]   [R1] DB=730,824 | +3,098 | 39/min | Gap=269,176 | iters=1,954
+[01:23:26]   W045 +  2 sh:Flutter developer
+[01:23:32]   W025 + 20 sh:analytics engineer
+[01:23:32]   W016 + 30 dc:mobile developer
+[01:23:33]   W023 +  6 sh:game developer
+[01:23:33]   W064 + 20 sh:database engineer
+[01:23:34]   W076 +  3 sh:React Native develop
+[01:23:35]   W084 +  4 sh:junior software engi
+[01:23:36]   W038 + 30 dc:site reliability eng
+[01:23:40]   W074 + 20 sh:machine learning eng
+[01:23:42]   W038 + 34 dc:QA engineer
+[01:23:48]   W010 + 20 sh:golang developer
+[01:23:54]   W038 + 34 dc:CI/CD engineer
+[01:24:01]   W045 + 20 sh:Android developer
+[01:24:02]   W079 + 30 dc:infrastructure engin
+[01:24:03]   [R1] DB=730,877 | +3,151 | 39/min | Gap=269,123 | iters=1,968
+[01:24:13]   W015 + 20 sh:machine learning eng
+[01:24:15]   W014 +  7 dc:React Native develop
+[01:24:17]   W027 + 34 dc:AI engineer
+[01:24:21]   W027 + 34 dc:AWS engineer
+[01:24:25]   W075 + 20 sh:software developer
+[01:24:29]   W019 + 34 dc:build engineer
+[01:24:33]   W000 + 20 sh:iOS developer
+[01:24:36]   W018 + 34 dc:Terraform engineer
+[01:24:36]   [R1] DB=730,892 | +3,166 | 39/min | Gap=269,108 | iters=1,978
+[01:24:38]   W000 + 20 sh:scrum master
+[01:24:39]   W020 + 21 dc:Vue developer
+[01:24:42]   W020 + 34 dc:QA engineer
+[01:24:46]   W020 + 34 dc:Spark engineer
+[01:24:55]   W041 + 34 dc:Angular developer
+[01:24:57]   W000 + 20 sh:design engineer
+[01:25:03]   W041 + 34 dc:python developer
+[01:25:04]   W006 +  4 sh:Flutter developer
+[01:25:04]   W000 +  8 sh:Android developer
+[01:25:09]   W041 + 21 dc:payments engineer
+[01:25:14]   W060 + 20 sh:big data engineer
+[01:25:15]   [R1] DB=730,920 | +3,193 | 39/min | Gap=269,080 | iters=1,989
+[01:25:20]   W016 + 20 sh:Spark engineer
+[01:25:23]   W040 + 31 dc:software developer
+[01:25:28]   W040 + 32 dc:principal engineer
+[01:25:29]   W006 + 20 sh:infrastructure engin
+[01:25:42]   W006 + 13 sh:PHP developer
+[01:25:54]   W086 +  2 sh:Kotlin developer
+[01:26:01]   W042 + 20 sh:.NET developer
+[01:26:01]   [R1] DB=730,921 | +3,194 | 39/min | Gap=269,079 | iters=1,996
+[01:26:04]   W042 + 12 sh:security engineer
+[01:26:07]   W016 + 20 sh:ML engineer
+[01:26:14]   W011 + 20 sh:microservices engine
+[01:26:17]   W081 +  2 sh:PHP developer
+[01:26:30]   W034 + 14 sh:Spark engineer
+[01:26:33]   [R1] DB=730,931 | +3,204 | 39/min | Gap=269,069 | iters=2,003
+[01:26:34]   W001 +  3 sh:React Native develop
+[01:26:41]   W062 + 20 sh:cybersecurity engine
+[01:26:41]   W051 + 20 sh:deep learning engine
+[01:26:44]   W031 + 20 sh:AI engineer
+[01:26:52]   W002 + 20 sh:infrastructure engin
+[01:26:54]   W028 + 20 sh:product manager
+[01:27:02]   W010 +  6 sh:go developer
+[01:27:05]   W032 + 20 sh:API engineer
+[01:27:10]   W097 + 20 sh:automation engineer
+[01:27:14]   [R1] DB=730,965 | +3,236 | 39/min | Gap=269,035 | iters=2,015
+[01:27:16]   W032 + 14 sh:iOS developer
+[01:27:22]   W097 +  4 sh:firmware engineer
+[01:27:26]   W076 +  6 sh:Ruby developer
+[01:27:37]   W076 +  2 sh:information security
+[01:27:42]   W032 +  8 sh:build engineer
+[01:27:46]   W021 +  9 sh:MongoDB engineer
+[01:27:47]   [R1] DB=730,969 | +3,240 | 39/min | Gap=269,031 | iters=2,021
+[01:27:49]   W099 + 20 sh:iOS developer
+[01:27:49]   W044 +  8 sh:GCP engineer
+[01:27:50]   W021 + 20 sh:java developer
+[01:28:04]   W050 +  5 dc:Elixir developer
+[01:28:05]   W038 + 32 dc:principal engineer
+[01:28:05]   W027 +  9 dc:Ruby developer
+[01:28:07]   W023 + 34 dc:Kafka engineer
+[01:28:08]   W085 +  7 dc:React Native develop
+[01:28:11]   W037 + 34 dc:python developer
+[01:28:14]   W009 +  5 dc:Flutter developer
+[01:28:15]   W033 + 20 sh:network engineer
+[01:28:20]   W038 + 34 dc:software engineer
+[01:28:21]   W064 + 34 dc:penetration tester
+[01:28:22]   W023 + 24 dc:iOS developer
+[01:28:22]   W085 + 34 dc:PostgreSQL engineer
+[01:28:24]   W046 + 34 dc:network engineer
+[01:28:25]   W007 +  5 dc:game developer
+[01:28:26]   W074 + 27 dc:C++ engineer
+[01:28:32]   W045 + 20 sh:GCP engineer
+[01:28:34]   W038 + 34 dc:golang developer
+[01:28:36]   W064 + 30 dc:cloud architect
+[01:28:37]   W023 +  5 dc:Flutter developer
+[01:28:40]   W085 + 34 dc:product manager
+[01:28:42]   W008 + 34 dc:cybersecurity engine
+[01:28:43]   W032 + 34 dc:Android developer
+[01:28:44]   [R1] DB=731,003 | +3,273 | 38/min | Gap=268,997 | iters=2,046
+[01:28:45]   W056 + 34 dc:embedded engineer
+[01:28:51]   W064 + 30 dc:technical writer
+[01:28:57]   W037 + 30 dc:microservices engine
+[01:29:00]   W003 + 34 dc:java developer
+[01:29:04]   W011 + 34 dc:Kotlin developer
+[01:29:06]   W024 + 34 dc:embedded engineer
+[01:29:07]   W089 + 30 dc:node developer
+[01:29:07]   W037 + 34 dc:full stack engineer
+[01:29:10]   W046 + 13 dc:kernel engineer
+[01:29:10]   W097 + 34 dc:site reliability eng
+[01:29:11]   W015 + 34 dc:cloud engineer
+[01:29:17]   W075 + 34 dc:MongoDB engineer
+[01:29:21]   W046 + 34 dc:cloud security engin
+[01:29:22]   W074 + 34 dc:mobile developer
+[01:29:23]   [R1] DB=731,016 | +3,286 | 38/min | Gap=268,984 | iters=2,060
+[01:29:27]   W046 + 34 dc:junior software engi
+[01:29:30]   W031 + 34 dc:Spring Boot develope
+[01:29:32]   W075 + 34 dc:tech lead
+[01:29:34]   W046 + 34 dc:golang developer
+[01:29:36]   W074 + 31 dc:information security
+[01:29:43]   W038 + 10 dc:Swift developer
+[01:29:47]   W022 + 34 dc:LLM engineer
+[01:29:53]   W008 + 34 dc:Django developer
+[01:29:53]   W022 + 33 dc:TypeScript developer
+[01:29:53]   [R1] DB=731,016 | +3,286 | 38/min | Gap=268,984 | iters=2,069
+[01:29:56]   W049 + 34 dc:Terraform engineer
+[01:29:57]   W022 + 11 dc:kernel engineer
+[01:29:59]   W080 + 20 sh:Terraform engineer
+[01:30:00]   W048 +  3 sh:blockchain developer
+[01:30:01]   W008 + 20 sh:staff engineer
+[01:30:02]   W087 + 30 dc:Ansible engineer
+[01:30:02]   W055 + 31 dc:DevOps
+[01:30:03]   W025 + 34 dc:Kafka engineer
+[01:30:03]   W053 + 20 sh:Kubernetes engineer
+[01:30:03]   W043 + 20 sh:Ruby developer
+[01:30:04]   W026 + 30 dc:microservices engine
+[01:30:04]   W054 + 30 dc:site reliability eng
+[01:30:04]   W004 + 12 sh:PHP developer
+[01:30:05]   W017 + 31 dc:software developer
+[01:30:06]   W008 +  2 sh:LLM engineer
+[01:30:07]   W022 + 20 sh:ML engineer
+[01:30:08]   W026 + 34 dc:data scientist
+[01:30:09]   W030 + 20 sh:java developer
+[01:30:10]   W010 + 34 dc:design engineer
+[01:30:10]   W027 + 20 sh:analytics engineer
+[01:30:10]   W054 + 34 dc:Scala developer
+[01:30:11]   W042 + 11 dc:kernel engineer
+[01:30:12]   W051 + 34 dc:MongoDB engineer
+[01:30:12]   W007 + 20 sh:full stack engineer
+[01:30:12]   W010 + 34 dc:Azure engineer
+[01:30:12]   W000 + 20 sh:ML engineer
+[01:30:12]   W005 + 20 sh:software developer
+[01:30:12]   W042 +  6 dc:FastAPI developer
+[01:30:13]   W093 +  5 sh:devops engineer
+[01:30:13]   W040 + 20 sh:Kubernetes engineer
+[01:30:13]   W006 + 34 dc:systems engineer
+[01:30:14]   W028 + 20 sh:java developer
+[01:30:14]   W046 + 34 dc:firmware engineer
+[01:30:15]   W045 +  5 sh:C# developer
+[01:30:15]   W073 + 34 dc:AWS engineer
+[01:30:15]   W045 + 34 dc:devops engineer
+[01:30:15]   W023 + 34 dc:product manager
+[01:30:15]   W032 + 30 dc:microservices engine
+[01:30:16]   W006 + 34 dc:product manager
+[01:30:16]   W010 + 34 dc:tech lead
+[01:30:16]   W018 + 34 dc:build engineer
+[01:30:17]   W093 + 20 sh:AI engineer
+[01:30:17]   W013 + 20 sh:solutions architect
+[01:30:17]   W023 +  5 dc:Elixir developer
+[01:30:17]   W067 + 34 dc:CI/CD engineer
+[01:30:17]   W047 + 34 dc:golang developer
+[01:30:18]   W002 + 34 dc:Spark engineer
+[01:30:18]   W016 + 34 dc:GenAI engineer
+[01:30:19]   W022 + 34 dc:data analyst
+[01:30:19]   W077 + 30 dc:cloud architect
+[01:30:20]   W008 + 20 sh:Hadoop engineer
+[01:30:20]   W054 + 12 sh:PHP developer
+[01:30:20]   W061 + 20 sh:embedded engineer
+[01:30:20]   W057 +  9 sh:Terraform developer
+[01:30:20]   W010 + 34 dc:tech lead
+[01:30:20]   W013 + 34 dc:full stack engineer
+[01:30:21]   W045 + 16 sh:senior software engi
+[01:30:21]   W026 + 11 sh:systems engineer
+[01:30:21]   W071 + 20 sh:Ansible engineer
+[01:30:21]   W047 + 31 dc:technical writer
+[01:30:21]   W002 + 34 dc:systems engineer
+[01:30:21]   W014 + 34 dc:cloud engineer
+[01:30:21]   W093 +  3 sh:fintech engineer
+[01:30:21]   W033 + 20 sh:DevOps
+[01:30:21]   W017 + 34 dc:tech lead
+[01:30:22]   W084 +  9 dc:React Native develop
+[01:30:22]   W008 + 33 dc:TypeScript developer
+[01:30:22]   W044 + 34 dc:Kotlin developer
+[01:30:22]   W009 + 30 dc:distributed systems 
+[01:30:22]   W069 + 34 dc:Kotlin developer
+[01:30:23]   W010 + 20 sh:Perl developer
+[01:30:23]   W097 + 20 sh:GCP engineer
+[01:30:24]   W013 +  2 sh:data analyst
+[01:30:24]   W076 + 13 sh:Vue developer
+[01:30:24]   W006 + 30 dc:distributed systems 
+[01:30:24]   W007 + 34 dc:staff engineer
+[01:30:24]   W069 +  5 dc:Elixir developer
+[01:30:25]   W040 + 34 dc:devops engineer
+[01:30:25]   W084 + 30 dc:systems programmer
+[01:30:26]   W048 + 30 dc:full stack developer
+[01:30:26]   W057 + 34 dc:DevOps
+[01:30:27]   W012 + 34 dc:design engineer
+[01:30:27]   W000 + 34 dc:full stack engineer
+[01:30:27]   [R1] DB=731,016 | +3,286 | 38/min | Gap=268,984 | iters=2,155
+[01:30:28]   W066 + 20 sh:platform engineer
+[01:30:28]   W008 + 12 sh:full stack engineer
+[01:30:28]   W035 +  3 sh:site reliability eng
+[01:30:28]   W047 +  3 sh:graphics engineer
+[01:30:29]   W004 + 31 dc:software developer
+[01:30:29]   W084 + 34 dc:data analyst
+[01:30:30]   W007 +  2 sh:QA engineer
+[01:30:31]   W033 + 30 dc:distributed systems 
+[01:30:31]   W050 + 34 dc:Django developer
+[01:30:32]   W028 + 34 dc:Spring Boot develope
+[01:30:32]   W093 + 11 dc:kernel engineer
+[01:30:32]   W074 + 31 dc:Ansible engineer
+[01:30:32]   W047 +  3 sh:automation engineer
+[01:30:32]   W000 + 31 dc:automation engineer
+[01:30:32]   W048 + 34 dc:tech lead
+[01:30:33]   W043 +  4 sh:junior software engi
+[01:30:33]   W059 + 20 sh:staff engineer
+[01:30:33]   W040 +  7 dc:React Native develop
+[01:30:33]   W080 + 34 dc:junior software engi
+[01:30:33]   W013 + 34 dc:C# developer
+[01:30:34]   W033 + 34 dc:CI/CD engineer
+[01:30:34]   W021 +  2 sh:golang developer
+[01:30:34]   W028 + 34 dc:golang developer
+[01:30:34]   W025 + 30 dc:systems programmer
+[01:30:35]   W050 + 31 dc:automation engineer
+[01:30:35]   W040 + 34 dc:full stack engineer
+[01:30:35]   W069 + 32 dc:software developer
+[01:30:35]   W093 +  3 sh:fintech engineer
+[01:30:36]   W024 + 21 dc:Vue developer
+[01:30:37]   W068 + 34 dc:design engineer
+[01:30:37]   W082 + 31 dc:information security
+[01:30:37]   W080 + 31 dc:information security
+[01:30:37]   W094 + 30 dc:microservices engine
+[01:30:38]   W037 + 34 dc:junior software engi
+[01:30:38]   W040 + 34 dc:CI/CD engineer
+[01:30:38]   W067 + 31 dc:data engineer
+[01:30:38]   W007 +  6 sh:Android developer
+[01:30:38]   W093 + 31 dc:React Native develop
+[01:30:39]   W025 + 34 dc:embedded engineer
+[01:30:39]   W065 + 10 dc:fintech engineer
+[01:30:39]   W047 + 33 dc:frontend engineer
+[01:30:39]   W024 + 34 dc:java developer
+[01:30:39]   W037 +  6 dc:FastAPI developer
+[01:30:40]   W094 + 23 dc:web developer
+[01:30:40]   W067 + 33 dc:technical writer
+[01:30:40]   W040 + 34 dc:Kotlin developer
+[01:30:41]   W013 + 20 sh:platform engineer
+[01:30:41]   W037 +  9 dc:fintech engineer
+[01:30:42]   W059 + 22 dc:deep learning engine
+[01:30:42]   W037 +  7 dc:Redis engineer
+[01:30:42]   W082 + 26 dc:iOS developer
+[01:30:43]   W014 + 32 dc:software developer
+[01:30:43]   W007 +  3 sh:Kubernetes engineer
+[01:30:44]   W012 + 34 dc:UX engineer
+[01:30:44]   W045 + 34 dc:machine learning eng
+[01:30:44]   W081 + 11 dc:kernel engineer
+[01:30:44]   W037 + 34 dc:C# developer
+[01:30:45]   W069 + 34 dc:Kafka engineer
+[01:30:45]   W095 + 20 sh:QA engineer
+[01:30:45]   W028 + 20 sh:data analyst
+[01:30:46]   W091 + 20 sh:AI engineer
+[01:30:47]   W014 + 30 dc:Kubernetes engineer
+[01:30:48]   W084 + 34 dc:AI engineer
+[01:30:50]   W027 + 34 dc:Scala developer
+[01:30:53]   W082 + 30 dc:full stack developer
+[01:30:55]   W000 + 10 dc:Elasticsearch engine
+[01:30:56]   W074 + 34 dc:CI/CD engineer
+[01:30:57]   W077 + 34 dc:C# developer
+[01:30:57]   W012 + 13 sh:software engineer
+[01:30:58]   W011 + 12 dc:React Native develop
+[01:30:58]   W016 +  5 dc:Haskell developer
+[01:30:58]   W010 + 34 dc:python developer
+[01:30:58]   W019 + 30 dc:platform engineer
+[01:30:58]   W014 + 30 dc:node developer
+[01:30:58]   W084 +  4 dc:fintech engineer
+[01:30:59]   W000 + 34 dc:staff engineer
+[01:31:00]   W017 + 20 sh:Android developer
+[01:31:00]   W034 + 34 dc:data analyst
+[01:31:00]   [R1] DB=731,155 | +3,425 | 39/min | Gap=268,845 | iters=2,235
+[01:31:00]   W044 + 34 dc:API engineer
+[01:31:01]   W013 + 21 dc:Vue developer
+[01:31:01]   W016 + 30 dc:SRE
+[01:31:01]   W089 + 30 dc:platform engineer
+[01:31:01]   W000 + 30 dc:mobile developer
+[01:31:02]   W075 + 34 dc:embedded engineer
+[01:31:02]   W023 + 34 dc:Azure engineer
+[01:31:03]   W034 + 30 dc:release engineer
+[01:31:03]   W007 + 34 dc:Kubernetes administr
+[01:31:04]   W033 + 34 dc:Android developer
+[01:31:04]   W005 +  2 sh:Kubernetes administr
+[01:31:04]   W002 + 13 dc:Swift developer
+[01:31:04]   W022 + 30 dc:java developer
+[01:31:04]   W093 + 34 dc:GCP engineer
+[01:31:04]   W026 + 34 dc:Azure engineer
+[01:31:05]   W049 + 34 dc:Scala developer
+[01:31:05]   W034 + 34 dc:go developer
+[01:31:05]   W059 + 20 dc:payments engineer
+[01:31:05]   W027 + 34 dc:GCP engineer
+[01:31:06]   W093 + 34 dc:DevOps
+[01:31:06]   W026 + 10 dc:Swift developer
+[01:31:06]   W045 + 34 dc:systems engineer
+[01:31:06]   W019 + 34 dc:MongoDB engineer
+[01:31:07]   W011 + 34 dc:C# developer
+[01:31:07]   W033 + 30 dc:systems programmer
+[01:31:07]   W034 + 21 dc:payments engineer
+[01:31:07]   W042 + 34 dc:solutions architect
+[01:31:07]   W047 + 24 dc:iOS developer
+[01:31:08]   W080 + 18 sh:staff engineer
+[01:31:08]   W045 + 30 dc:mobile developer
+[01:31:08]   W061 + 34 dc:backend engineer
+[01:31:09]   W040 + 34 dc:senior software engi
+[01:31:09]   W041 + 34 dc:junior software engi
+[01:31:09]   W019 + 10 dc:Elasticsearch engine
+[01:31:09]   W089 + 34 dc:Kotlin developer
+[01:31:09]   W034 + 34 dc:cloud security engin
+[01:31:10]   W078 + 31 dc:Spark engineer
+[01:31:10]   W044 + 34 dc:Angular developer
+[01:31:12]   W040 + 34 dc:Kotlin developer
+[01:31:12]   W041 + 34 dc:firmware engineer
+[01:31:12]   W019 + 31 dc:ML engineer
+[01:31:13]   W043 + 34 dc:software engineer
+[01:31:13]   W002 + 20 sh:systems engineer
+[01:31:13]   W004 + 20 sh:SRE
+[01:31:14]   W002 + 20 sh:API engineer
+[01:31:14]   W011 + 34 dc:QA engineer
+[01:31:15]   W067 + 34 dc:information security
+[01:31:15]   W034 + 20 dc:payments engineer
+[01:31:15]   W041 +  5 sh:compiler engineer
+[01:31:15]   W055 + 20 sh:mobile developer
+[01:31:16]   W074 + 17 sh:automation engineer
+[01:31:16]   W029 + 33 dc:TypeScript developer
+[01:31:16]   W036 + 30 dc:systems programmer
+[01:31:16]   W054 + 32 dc:backend engineer
+[01:31:17]   W080 + 30 dc:site reliability eng
+[01:31:18]   W049 + 30 dc:node developer
+[01:31:18]   W039 +  3 sh:React Native develop
+[01:31:19]   W090 + 34 dc:embedded engineer
+[01:31:20]   W002 + 20 sh:systems programmer
+[01:31:20]   W059 + 34 dc:rust developer
+[01:31:21]   W008 + 30 dc:data analyst
+[01:31:21]   W054 + 34 dc:senior software engi
+[01:31:21]   W045 + 34 dc:analytics engineer
+[01:31:21]   W027 + 34 dc:staff engineer
+[01:31:22]   W047 + 22 dc:PHP developer
+[01:31:22]   W080 + 34 dc:python developer
+[01:31:22]   W039 + 11 dc:kernel engineer
+[01:31:22]   W015 + 34 dc:embedded engineer
+[01:31:22]   W042 +  7 sh:Django developer
+[01:31:22]   W023 + 31 dc:Ansible engineer
+[01:31:23]   W010 + 20 sh:data engineer
+[01:31:23]   W074 + 20 sh:Spark engineer
+[01:31:24]   W085 + 34 dc:MongoDB engineer
+[01:31:24]   W007 + 31 dc:automation engineer
+[01:31:24]   W059 + 30 dc:automation engineer
+[01:31:24]   W047 + 34 dc:web developer
+[01:31:24]   W036 + 34 dc:network engineer
+[01:31:25]   W047 + 34 dc:.NET developer
+[01:31:25]   W015 + 34 dc:AWS engineer
+[01:31:25]   W023 +  5 dc:game developer
+[01:31:25]   W000 + 34 dc:python developer
+[01:31:26]   W086 + 34 dc:CI/CD engineer
+[01:31:29]   W085 + 30 dc:platform engineer
+[01:31:30]   W016 + 33 dc:TypeScript developer
+[01:31:30]   W038 + 34 dc:analytics engineer
+[01:31:31]   W005 +  2 sh:React Native develop
+[01:31:32]   W015 + 33 dc:site reliability eng
+[01:31:32]   W012 + 30 dc:node developer
+[01:31:34]   W052 +  5 dc:Perl developer
+[01:31:34]   W017 + 34 dc:payments engineer
+[01:31:35]   W009 + 34 dc:C# developer
+[01:31:35]   W002 + 20 sh:cloud engineer
+[01:31:35]   W047 + 34 dc:Kafka engineer
+[01:31:35]   W012 + 34 dc:python developer
+[01:31:36]   W010 + 20 sh:automation engineer
+[01:31:37]   W038 + 34 dc:software engineer
+[01:31:37]   [R1] DB=731,274 | +3,544 | 40/min | Gap=268,726 | iters=2,336
+[01:31:38]   W016 +  7 sh:.NET developer
+[01:31:39]   W027 + 34 dc:Spring Boot develope
+[01:31:39]   W050 + 32 dc:Spark engineer
+[01:31:39]   W076 + 34 dc:ML engineer
+[01:31:39]   W037 + 18 dc:PHP developer
+[01:31:40]   W007 + 30 dc:cloud architect
+[01:31:40]   W045 + 34 dc:Kubernetes administr
+[01:31:40]   W022 + 20 sh:product manager
+[01:31:40]   W009 + 18 sh:build engineer
+[01:31:40]   W001 + 31 dc:firmware engineer
+[01:31:41]   W026 + 34 dc:Spring Boot develope
+[01:31:41]   W010 +  3 sh:Android developer
+[01:31:42]   W007 + 34 dc:Kotlin developer
+[01:31:43]   W014 + 31 dc:information security
+[01:31:43]   W093 + 20 sh:firmware engineer
+[01:31:44]   W076 + 18 dc:PHP developer
+[01:31:44]   W042 + 34 dc:product manager
+[01:31:45]   W045 + 34 dc:backend engineer
+[01:31:46]   W029 + 34 dc:Angular developer
+[01:31:46]   W087 + 34 dc:CI/CD engineer
+[01:31:47]   W018 + 30 dc:SRE
+[01:31:49]   W010 + 31 dc:firmware engineer
+[01:31:50]   W056 + 20 sh:AWS engineer
+[01:31:50]   W042 + 27 dc:web developer
+[01:31:51]   W065 + 20 sh:software engineer
+[01:31:51]   W005 + 34 dc:Android developer
+[01:31:51]   W089 + 34 dc:blockchain developer
+[01:31:51]   W018 + 22 dc:deep learning engine
+[01:31:51]   W041 + 34 dc:Docker engineer
+[01:31:52]   W093 + 20 sh:microservices engine
+[01:31:52]   W017 + 20 sh:devops engineer
+[01:31:52]   W029 + 20 sh:full stack developer
+[01:31:52]   W059 + 34 dc:go developer
+[01:31:52]   W010 + 30 dc:mobile developer
+[01:31:52]   W011 + 33 dc:TypeScript developer
+[01:31:53]   W056 + 20 sh:information security
+[01:31:53]   W089 + 34 dc:mobile developer
+[01:31:53]   W007 + 20 sh:tech lead
+[01:31:54]   W005 + 31 dc:full stack engineer
+[01:31:54]   W019 + 34 dc:GCP engineer
+[01:31:54]   W045 + 34 dc:GCP engineer
+[01:31:54]   W060 + 30 dc:systems programmer
+[01:31:55]   W037 + 34 dc:security engineer
+[01:31:55]   W011 + 22 dc:Vue developer
+[01:31:55]   W089 + 30 dc:software engineer
+[01:31:56]   W016 + 34 dc:python developer
+[01:31:57]   W088 + 10 dc:compiler engineer
+[01:31:57]   W011 + 17 dc:kernel engineer
+[01:31:57]   W007 + 18 dc:PHP developer
+[01:31:57]   W005 + 26 dc:C++ engineer
+[01:31:58]   W096 + 30 dc:node developer
+[01:31:58]   W002 + 34 dc:penetration tester
+[01:31:58]   W035 + 15 dc:kernel engineer
+[01:31:58]   W041 + 30 dc:Kubernetes engineer
+[01:31:58]   W059 +  7 dc:React Native develop
+[01:31:58]   W083 + 20 sh:cybersecurity engine
+[01:31:58]   W051 +  6 dc:FastAPI developer
+[01:31:59]   W033 + 20 sh:Terraform engineer
+[01:31:59]   W005 +  5 dc:Perl developer
+[01:31:59]   W036 +  2 sh:security engineer
+[01:31:59]   W045 + 10 dc:Elasticsearch engine
+[01:32:00]   W011 + 34 dc:machine learning eng
+[01:32:00]   W026 + 20 sh:software developer
+[01:32:00]   W035 + 19 dc:big data engineer
+[01:32:00]   W003 + 20 sh:Swift developer
+[01:32:01]   W059 + 30 dc:systems programmer
+[01:32:03]   W041 + 34 dc:Kafka engineer
+[01:32:04]   W049 +  8 dc:graphics engineer
+[01:32:05]   W033 + 34 dc:Elasticsearch engine
+[01:32:06]   W093 + 34 dc:solutions architect
+[01:32:07]   W036 + 34 dc:systems engineer
+[01:32:07]   W064 + 34 dc:API engineer
+[01:32:08]   W032 + 20 sh:distributed systems 
+[01:32:08]   W024 + 34 dc:security engineer
+[01:32:08]   W011 + 35 dc:full stack developer
+[01:32:08]   W053 + 20 sh:distributed systems 
+[01:32:08]   W041 + 26 dc:iOS developer
+[01:32:09]   W033 + 20 sh:kernel engineer
+[01:32:10]   W041 + 20 sh:senior software engi
+[01:32:10]   W047 + 10 sh:LLM engineer
+[01:32:10]   W030 + 10 dc:Elasticsearch engine
+[01:32:10]   W036 + 34 dc:Django developer
+[01:32:10]   W013 + 31 dc:data engineer
+[01:32:10]   [R1] DB=731,297 | +3,567 | 40/min | Gap=268,703 | iters=2,420
+[01:32:11]   W040 +  6 sh:go developer
+[01:32:11]   W046 + 33 dc:GenAI engineer
+[01:32:11]   W034 + 34 dc:Kotlin developer
+[01:32:11]   W043 + 30 dc:platform engineer
+[01:32:11]   W053 + 20 sh:AI engineer
+[01:32:12]   W010 +  2 sh:Elixir developer
+[01:32:12]   W000 + 30 dc:site reliability eng
+[01:32:12]   W019 +  5 dc:Flutter developer
+[01:32:12]   W068 + 34 dc:deep learning engine
+[01:32:12]   W032 + 30 dc:cloud architect
+[01:32:12]   W058 + 34 dc:backend engineer
+[01:32:13]   W037 + 30 dc:iOS developer
+[01:32:13]   W034 +  8 dc:graphics engineer
+[01:32:13]   W012 + 20 sh:Angular developer
+[01:32:16]   W062 + 34 dc:GenAI engineer
+[01:32:17]   W028 + 30 dc:release engineer
+[01:32:18]   W018 + 34 dc:Kafka engineer
+[01:32:18]   W079 +  4 dc:fintech engineer
+[01:32:19]   W034 + 34 dc:Terraform developer
+[01:32:19]   W039 + 30 dc:mobile developer
+[01:32:19]   W022 + 32 dc:cloud engineer
+[01:32:19]   W094 + 34 dc:TypeScript developer
+[01:32:20]   W070 + 20 sh:rust developer
+[01:32:20]   W024 +  2 sh:Elasticsearch engine
+[01:32:20]   W018 +  6 dc:FastAPI developer
+[01:32:20]   W058 + 34 dc:data analyst
+[01:32:21]   W011 + 20 sh:distributed systems 
+[01:32:21]   W022 + 34 dc:systems engineer
+[01:32:22]   W094 + 34 dc:Android developer
+[01:32:22]   W021 +  5 dc:Perl developer
+[01:32:22]   W041 + 34 dc:data analyst
+[01:32:24]   W053 + 31 dc:Ansible engineer
+[01:32:28]   W018 + 34 dc:systems engineer
+[01:32:29]   W039 + 34 dc:machine learning eng
+[01:32:30]   W013 + 20 sh:Redis engineer
+[01:32:30]   W022 + 30 dc:cloud architect
+[01:32:31]   W070 + 34 dc:LLM engineer
+[01:32:31]   W024 + 34 dc:embedded engineer
+[01:32:31]   W069 +  4 sh:GCP engineer
+[01:32:31]   W033 + 19 dc:big data engineer
+[01:32:31]   W087 + 22 dc:deep learning engine
+[01:32:32]   W024 + 20 sh:software engineer
+[01:32:32]   W071 +  6 sh:go developer
+[01:32:33]   W031 + 34 dc:systems engineer
+[01:32:34]   W030 + 34 dc:MongoDB engineer
+[01:32:34]   W072 + 34 dc:AI engineer
+[01:32:34]   W070 + 34 dc:analytics engineer
+[01:32:35]   W011 + 34 dc:security engineer
+[01:32:35]   W093 + 34 dc:QA engineer
+[01:32:35]   W046 + 34 dc:.NET developer
+[01:32:36]   W049 +  4 sh:Scala developer
+[01:32:36]   W037 + 34 dc:DevOps
+[01:32:36]   W031 + 34 dc:QA engineer
+[01:32:36]   W073 +  7 dc:React Native develop
+[01:32:36]   W045 + 34 dc:C++ engineer
+[01:32:36]   W013 + 20 sh:infrastructure engin
+[01:32:37]   W011 + 21 dc:payments engineer
+[01:32:37]   W072 + 20 sh:mobile developer
+[01:32:37]   W070 + 33 dc:frontend engineer
+[01:32:38]   W031 + 10 dc:Elasticsearch engine
+[01:32:38]   W024 + 34 dc:QA engineer
+[01:32:38]   W087 + 34 dc:Terraform developer
+[01:32:39]   W046 + 32 dc:Spark engineer
+[01:32:39]   W022 + 20 sh:software developer
+[01:32:40]   W011 + 34 dc:embedded engineer
+[01:32:40]   W034 + 20 sh:Terraform developer
+[01:32:40]   W089 + 33 dc:TypeScript developer
+[01:32:40]   W071 + 34 dc:staff engineer
+[01:32:40]   W031 + 34 dc:QA engineer
+[01:32:41]   W024 + 33 dc:GenAI engineer
+[01:32:41]   W072 + 20 sh:Vue developer
+[01:32:41]   W035 + 20 sh:GenAI engineer
+[01:32:41]   W004 +  5 dc:Elixir developer
+[01:32:41]   W064 + 20 sh:build engineer
+[01:32:41]   W011 + 31 dc:full stack engineer
+[01:32:42]   [R1] DB=731,376 | +3,646 | 41/min | Gap=268,624 | iters=2,497
+[01:32:42]   W018 + 31 dc:automation engineer
+[01:32:42]   W046 + 34 dc:data analyst
+[01:32:42]   W071 + 31 dc:firmware engineer
+[01:32:42]   W040 + 33 dc:design engineer
+[01:32:43]   W024 + 34 dc:Django developer
+[01:32:43]   W034 + 17 sh:automation engineer
+[01:32:43]   W072 + 34 dc:python developer
+[01:32:44]   W004 +  8 dc:graphics engineer
+[01:32:44]   W070 + 34 dc:devops engineer
+[01:32:45]   W033 + 34 dc:API engineer
+[01:32:45]   W038 + 34 dc:Kotlin developer
+[01:32:45]   W031 + 34 dc:C# developer
+[01:32:46]   W028 + 20 sh:SRE
+[01:32:46]   W012 + 15 sh:Kubernetes administr
+[01:32:46]   W040 + 30 dc:Ansible engineer
+[01:32:46]   W064 + 20 sh:Spark engineer
+[01:32:46]   W072 + 33 dc:TypeScript developer
+[01:32:47]   W004 + 34 dc:devops engineer
+[01:32:47]   W075 + 34 dc:Scala developer
+[01:32:47]   W089 + 34 dc:.NET developer
+[01:32:48]   W001 + 34 dc:Kotlin developer
+[01:32:48]   W039 + 34 dc:Azure engineer
+[01:32:48]   W019 + 31 dc:information security
+[01:32:49]   W036 + 20 sh:CI/CD engineer
+[01:32:49]   W064 + 20 sh:Spring Boot develope
+[01:32:50]   W044 + 31 dc:full stack engineer
+[01:32:52]   W069 + 13 sh:mobile developer
+[01:32:52]   W034 + 21 dc:Vue developer
+[01:32:52]   W074 + 32 dc:AI engineer
+[01:32:52]   W089 + 34 dc:QA engineer
+[01:32:53]   W063 + 30 dc:cloud architect
+[01:32:53]   W001 + 24 dc:iOS developer
+[01:32:53]   W004 + 34 dc:CI/CD engineer
+[01:32:53]   W072 + 34 dc:LLM engineer
+[01:32:53]   W037 + 20 sh:analytics engineer
+[01:32:54]   W021 + 20 sh:embedded engineer
+[01:32:54]   W071 +  3 sh:distributed systems 
+[01:32:57]   W079 + 34 dc:GCP engineer
+[01:32:57]   W075 + 31 dc:full stack engineer
+[01:32:57]   W032 + 34 dc:backend engineer
+[01:32:57]   W043 + 30 dc:Kubernetes engineer
+[01:32:58]   W023 + 32 dc:software developer
+[01:32:58]   W069 + 31 dc:automation engineer
+[01:32:58]   W037 + 30 dc:mobile developer
+[01:32:58]   W040 + 34 dc:AWS engineer
+[01:32:59]   W024 + 20 sh:senior software engi
+[01:32:59]   W001 +  5 dc:Elixir developer
+[01:32:59]   W036 + 20 sh:C++ engineer
+[01:33:00]   W061 + 20 sh:Terraform engineer
+[01:33:00]   W033 + 32 dc:backend engineer
+[01:33:00]   W041 + 30 dc:site reliability eng
+[01:33:00]   W038 +  5 dc:Flutter developer
+[01:33:00]   W066 + 30 dc:platform engineer
+[01:33:00]   W021 + 18 dc:PHP developer
+[01:33:01]   W027 + 34 dc:cloud engineer
+[01:33:02]   W001 + 34 dc:embedded engineer
+[01:33:02]   W037 +  7 dc:React Native develop
+[01:33:03]   W092 + 20 sh:C# developer
+[01:33:04]   W034 + 34 dc:senior software engi
+[01:33:05]   W004 + 34 dc:Kubernetes administr
+[01:33:05]   W006 + 34 dc:UX engineer
+[01:33:05]   W007 + 34 dc:Django developer
+[01:33:05]   W097 + 21 dc:Vue developer
+[01:33:05]   W031 + 34 dc:C# developer
+[01:33:06]   W029 +  3 sh:firmware engineer
+[01:33:06]   W037 + 34 dc:MongoDB engineer
+[01:33:06]   W022 + 30 dc:site reliability eng
+[01:33:06]   W071 + 34 dc:devops engineer
+[01:33:06]   W092 + 20 sh:automation engineer
+[01:33:08]   W022 + 33 dc:TypeScript developer
+[01:33:08]   W048 + 34 dc:Android developer
+[01:33:08]   W075 +  5 dc:Flutter developer
+[01:33:08]   W011 + 34 dc:CI/CD engineer
+[01:33:08]   W072 + 34 dc:golang developer
+[01:33:09]   W089 + 30 dc:release engineer
+[01:33:10]   W071 + 30 dc:Kubernetes engineer
+[01:33:10]   W024 + 16 dc:Hadoop engineer
+[01:33:11]   W036 + 20 sh:Scala developer
+[01:33:12]   W079 + 16 dc:Hadoop engineer
+[01:33:14]   W025 + 30 dc:mobile developer
+[01:33:15]   W007 + 20 sh:systems programmer
+[01:33:15]   W049 + 20 sh:PostgreSQL engineer
+[01:33:15]   W037 + 15 sh:react developer
+[01:33:16]   W002 + 34 dc:Spring Boot develope
+[01:33:16]   W053 + 30 dc:database engineer
+[01:33:17]   W037 + 10 dc:Swift developer
+[01:33:17]   W014 + 30 dc:release engineer
+[01:33:17]   [R1] DB=731,499 | +3,768 | 42/min | Gap=268,501 | iters=2,587
+[01:33:17]   W066 + 34 dc:analytics engineer
+[01:33:18]   W099 + 12 sh:mobile developer
+[01:33:18]   W053 + 32 dc:Spark engineer
+[01:33:18]   W024 +  4 sh:product manager
+[01:33:19]   W014 + 30 dc:full stack developer
+[01:33:19]   W080 + 34 dc:scrum master
+[01:33:19]   W001 + 34 dc:MongoDB engineer
+[01:33:19]   W048 + 34 dc:analytics engineer
+[01:33:19]   W004 + 34 dc:GCP engineer
+[01:33:19]   W029 + 34 dc:C# developer
+[01:33:19]   W066 +  7 dc:Redis engineer
+[01:33:20]   W058 + 20 sh:Terraform developer
+[01:33:20]   W056 + 20 sh:.NET developer
+[01:33:20]   W026 +  5 sh:scrum master
+[01:33:20]   W096 + 20 sh:Azure engineer
+[01:33:20]   W035 + 31 dc:software developer
+[01:33:21]   W080 + 30 dc:database engineer
+[01:33:21]   W025 + 20 sh:API engineer
+[01:33:21]   W004 + 30 dc:Kubernetes engineer
+[01:33:22]   W012 + 34 dc:senior software engi
+[01:33:22]   W082 + 34 dc:staff engineer
+[01:33:22]   W066 + 30 dc:Kubernetes engineer
+[01:33:22]   W085 + 34 dc:product manager
+[01:33:22]   W041 + 31 dc:information security
+[01:33:22]   W026 +  5 dc:Flutter developer
+[01:33:23]   W064 + 20 sh:Docker engineer
+[01:33:23]   W058 + 20 sh:senior software engi
+[01:33:23]   W068 + 20 sh:scrum master
+[01:33:23]   W096 + 14 sh:platform engineer
+[01:33:23]   W004 + 10 dc:Swift developer
+[01:33:24]   W024 + 34 dc:backend engineer
+[01:33:24]   W085 + 30 dc:SRE
+[01:33:24]   W072 + 34 dc:payments engineer
+[01:33:24]   W089 + 30 dc:database engineer
+[01:33:24]   W066 + 34 dc:cloud engineer
+[01:33:24]   W026 + 34 dc:DevOps
+[01:33:24]   W093 + 34 dc:Angular developer
+[01:33:25]   W056 +  4 sh:principal engineer
+[01:33:25]   W096 + 30 dc:microservices engine
+[01:33:26]   W004 + 34 dc:solutions architect
+[01:33:27]   W034 +  2 sh:Flutter developer
+[01:33:27]   W085 + 31 dc:product manager
+[01:33:27]   W017 + 20 sh:Azure engineer
+[01:33:27]   W065 + 34 dc:Docker engineer
+[01:33:27]   W039 + 34 dc:UX engineer
+[01:33:28]   W016 + 34 dc:Scala developer
+[01:33:28]   W066 + 34 dc:junior software engi
+[01:33:28]   W022 + 30 dc:distributed systems 
+[01:33:28]   W001 + 20 sh:C# developer
+[01:33:29]   W050 + 20 sh:systems engineer
+[01:33:29]   W068 + 20 sh:Kubernetes engineer
+[01:33:29]   W056 + 34 dc:Kafka engineer
+[01:33:30]   W096 + 34 dc:cloud security engin
+[01:33:31]   W007 + 20 sh:ML engineer
+[01:33:32]   W091 +  5 dc:Perl developer
+[01:33:33]   W074 + 34 dc:deep learning engine
+[01:33:33]   W039 + 34 dc:AI engineer
+[01:33:33]   W099 +  5 dc:game developer
+[01:33:34]   W033 + 30 dc:node developer
+[01:33:35]   W050 + 20 sh:devops engineer
+[01:33:35]   W097 +  7 sh:data scientist
+[01:33:35]   W013 + 26 dc:C++ engineer
+[01:33:35]   W064 +  4 dc:fintech engineer
+[01:33:35]   W016 + 34 dc:DevOps
+[01:33:35]   W029 + 20 sh:mobile developer
+[01:33:36]   W068 + 20 sh:Vue developer
+[01:33:36]   W091 + 34 dc:GCP engineer
+[01:33:37]   W058 + 18 dc:PHP developer
+[01:33:37]   W088 + 34 dc:devops engineer
+[01:33:37]   W060 +  5 dc:Elixir developer
+[01:33:37]   W039 + 34 dc:machine learning eng
+[01:33:38]   W023 + 30 dc:react developer
+[01:33:38]   W013 + 10 dc:Elasticsearch engine
+[01:33:38]   W065 + 31 dc:software developer
+[01:33:38]   W007 + 34 dc:Kubernetes administr
+[01:33:39]   W025 +  8 sh:Android developer
+[01:33:40]   W071 + 34 dc:Android developer
+[01:33:41]   W031 + 20 sh:platform engineer
+[01:33:41]   W019 + 30 dc:full stack developer
+[01:33:41]   W081 + 30 dc:systems programmer
+[01:33:42]   W012 + 32 dc:backend engineer
+[01:33:42]   W061 + 34 dc:devops engineer
+[01:33:42]   W026 + 28 dc:Vue developer
+[01:33:43]   W051 + 34 dc:LLM engineer
+[01:33:43]   W021 + 30 dc:systems programmer
+[01:33:43]   W089 +  7 dc:Redis engineer
+[01:33:44]   W040 + 34 dc:software engineer
+[01:33:44]   W031 + 31 dc:data engineer
+[01:33:44]   W043 + 30 dc:full stack developer
+[01:33:45]   W071 +  6 sh:game developer
+[01:33:45]   W036 + 15 sh:SRE
+[01:33:45]   W069 + 20 sh:AI engineer
+[01:33:45]   W072 +  2 sh:Kubernetes administr
+[01:33:46]   W090 + 20 sh:firmware engineer
+[01:33:46]   W083 + 34 dc:Kafka engineer
+[01:33:46]   W026 + 34 dc:Spring Boot develope
+[01:33:47]   W015 + 30 dc:network engineer
+[01:33:47]   W001 + 34 dc:Docker engineer
+[01:33:47]   W043 + 30 dc:infrastructure engin
+[01:33:48]   W023 + 34 dc:cloud security engin
+[01:33:48]   W088 + 21 dc:PHP developer
+[01:33:48]   W072 + 30 dc:distributed systems 
+[01:33:48]   [R1] DB=731,500 | +3,768 | 42/min | Gap=268,500 | iters=2,690
+[01:33:48]   W005 + 20 sh:Redis engineer
+[01:33:48]   W026 + 34 dc:data analyst
+[01:33:49]   W042 +  9 sh:software developer
+[01:33:50]   W069 +  7 sh:blockchain developer
+[01:33:50]   W032 + 30 dc:microservices engine
+[01:33:50]   W015 + 34 dc:PostgreSQL engineer
+[01:33:51]   W026 + 33 dc:frontend engineer
+[01:33:51]   W078 + 20 dc:payments engineer
+[01:33:51]   W067 + 34 dc:LLM engineer
+[01:33:51]   W043 + 34 dc:full stack developer
+[01:33:51]   W026 +  7 dc:React Native develop
+[01:33:52]   W012 + 34 dc:cybersecurity engine
+[01:33:52]   W040 +  5 sh:cloud security engin
+[01:33:53]   W003 + 20 sh:Ansible engineer
+[01:33:53]   W031 + 34 dc:CI/CD engineer
+[01:33:54]   W069 + 34 dc:build engineer
+[01:33:54]   W037 + 20 sh:analytics engineer
+[01:33:54]   W049 + 11 dc:Perl developer
+[01:33:54]   W009 + 34 dc:PostgreSQL engineer
+[01:33:54]   W030 +  2 sh:Haskell developer
+[01:33:55]   W057 + 34 dc:CI/CD engineer
+[01:33:55]   W005 + 34 dc:Terraform developer
+[01:33:55]   W078 + 34 dc:MongoDB engineer
+[01:33:56]   W070 + 34 dc:Kotlin developer
+[01:33:56]   W019 + 31 dc:Angular developer
+[01:33:56]   W094 + 34 dc:rust developer
+[01:33:58]   W049 + 31 dc:principal engineer
+[01:33:59]   W041 +  5 dc:Flutter developer
+[01:33:59]   W084 + 34 dc:UX engineer
+[01:34:01]   W024 + 20 sh:cloud security engin
+[01:34:02]   W030 + 34 dc:scrum master
+[01:34:02]   W039 + 20 sh:principal engineer
+[01:34:03]   W032 + 34 dc:data scientist
+[01:34:04]   W025 + 32 dc:principal engineer
+[01:34:04]   W012 + 34 dc:staff engineer
+[01:34:04]   W011 + 34 dc:Docker engineer
+[01:34:05]   W002 +  8 sh:Kubernetes administr
+[01:34:05]   W002 +  9 dc:compiler engineer
+[01:34:05]   W067 + 34 dc:QA engineer
+[01:34:05]   W094 + 34 dc:embedded engineer
+[01:34:06]   W084 + 31 dc:automation engineer
+[01:34:07]   W053 + 30 dc:data scientist
+[01:34:07]   W088 + 34 dc:devops engineer
+[01:34:07]   W066 + 35 dc:senior software engi
+[01:34:07]   W021 + 31 dc:automation engineer
+[01:34:08]   W003 + 34 dc:solutions architect
+[01:34:08]   W016 + 30 dc:infrastructure engin
+[01:34:08]   W005 +  5 dc:game developer
+[01:34:09]   W018 + 34 dc:product manager
+[01:34:09]   W002 + 20 sh:CI/CD engineer
+[01:34:10]   W053 + 33 dc:frontend engineer
+[01:34:11]   W049 + 34 dc:data scientist
+[01:34:11]   W024 +  7 dc:Redis engineer
+[01:34:11]   W042 + 10 dc:Swift developer
+[01:34:11]   W039 +  3 sh:React Native develop
+[01:34:11]   W097 + 32 dc:technical writer
+[01:34:11]   W036 + 26 dc:C++ engineer
+[01:34:11]   W024 + 11 dc:kernel engineer
+[01:34:12]   W019 + 34 dc:design engineer
+[01:34:15]   W049 + 34 dc:PostgreSQL engineer
+[01:34:16]   W025 + 34 dc:senior software engi
+[01:34:17]   W012 + 30 dc:node developer
+[01:34:17]   W097 + 30 dc:systems programmer
+[01:34:17]   W024 + 34 dc:senior software engi
+[01:34:18]   W053 + 30 dc:infrastructure engin
+[01:34:18]   W022 + 34 dc:data analyst
+[01:34:19]   W067 + 17 sh:react developer
+[01:34:19]   W025 + 10 dc:Swift developer
+[01:34:19]   W034 + 34 dc:Terraform engineer
+[01:34:19]   W024 + 34 dc:junior software engi
+[01:34:20]   W034 + 34 dc:python developer
+[01:34:20]   W059 + 19 dc:big data engineer
+[01:34:21]   W057 + 34 dc:solutions architect
+[01:34:22]   [R1] DB=731,697 | +3,965 | 44/min | Gap=268,303 | iters=2,767
+[01:34:22]   W003 + 34 dc:product manager
+[01:34:23]   W004 + 34 dc:staff engineer
+[01:34:23]   W030 + 30 dc:full stack developer
+[01:34:24]   W025 + 34 dc:go developer
+[01:34:25]   W024 + 31 dc:data engineer
+[01:34:25]   W086 + 20 sh:Elasticsearch engine
+[01:34:25]   W067 + 20 sh:software engineer
+[01:34:26]   W096 + 21 dc:Vue developer
+[01:34:26]   W005 + 19 dc:big data engineer
+[01:34:26]   W057 + 30 dc:node developer
+[01:34:26]   W074 + 34 dc:GenAI engineer
+[01:34:28]   W012 + 23 dc:Vue developer
+[01:34:29]   W047 + 34 dc:LLM engineer
+[01:34:29]   W053 + 34 dc:PostgreSQL engineer
+[01:34:31]   W009 + 30 dc:technical writer
+[01:34:32]   W033 + 34 dc:cybersecurity engine
+[01:34:32]   W063 + 31 dc:python developer
+[01:34:33]   W074 + 34 dc:build engineer
+[01:34:33]   W049 +  3 sh:Vue developer
+[01:34:34]   W004 + 34 dc:design engineer
+[01:34:34]   W012 + 34 dc:.NET developer
+[01:34:34]   W047 + 34 dc:java developer
+[01:34:35]   W068 + 34 dc:UX engineer
+[01:34:35]   W074 + 34 dc:Kotlin developer
+[01:34:36]   W047 + 16 dc:Hadoop engineer
+[01:34:36]   W045 + 21 dc:Vue developer
+[01:34:36]   W004 + 31 dc:information security
+[01:34:38]   W045 + 34 dc:MongoDB engineer
+[01:34:39]   W016 + 30 dc:site reliability eng
+[01:34:40]   W080 + 34 dc:infrastructure engin
+[01:34:40]   W090 +  4 dc:fintech engineer
+[01:34:40]   W004 + 34 dc:full stack developer
+[01:34:43]   W049 + 34 dc:staff engineer
+[01:34:44]   W030 + 30 dc:full stack engineer
+[01:34:46]   W033 +  7 sh:kernel engineer
+[01:34:47]   W013 + 34 dc:Spring Boot develope
+[01:34:48]   W038 + 21 dc:payments engineer
+[01:34:48]   W038 + 34 dc:data analyst
+[01:34:49]   W002 + 30 dc:mobile developer
+[01:34:50]   W004 + 34 dc:Azure engineer
+[01:34:50]   W023 + 31 dc:information security
+[01:34:50]   W024 + 20 sh:frontend engineer
+[01:34:51]   W090 + 34 dc:Azure engineer
+[01:34:52]   W025 + 34 dc:solutions architect
+[01:34:52]   W031 + 33 dc:TypeScript developer
+[01:34:52]   W042 + 10 dc:Swift developer
+[01:34:53]   W002 + 34 dc:tech lead
+[01:34:53]   W017 + 34 dc:embedded engineer
+[01:34:54]   [R1] DB=731,738 | +4,006 | 44/min | Gap=268,262 | iters=2,815
+[01:34:55]   W031 + 34 dc:MongoDB engineer
+[01:34:55]   W042 + 34 dc:go developer
+[01:34:56]   W033 + 34 dc:devops engineer
+[01:34:56]   W068 + 30 dc:java developer
+[01:34:57]   W042 + 34 dc:machine learning eng
+[01:34:58]   W044 + 34 dc:C# developer
+[01:34:58]   W068 +  6 dc:FastAPI developer
+[01:34:58]   W071 +  5 dc:Elixir developer
+[01:34:59]   W003 + 34 dc:Kafka engineer
+[01:34:59]   W004 + 23 dc:web developer
+[01:34:59]   W024 + 34 dc:machine learning eng
+[01:35:00]   W090 + 30 dc:MongoDB engineer
+[01:35:00]   W071 + 34 dc:MongoDB engineer
+[01:35:00]   W004 + 31 dc:information security
+[01:35:01]   W005 + 20 sh:distributed systems 
+[01:35:01]   W040 + 30 dc:distributed systems 
+[01:35:01]   W001 + 34 dc:staff engineer
+[01:35:01]   W024 + 34 dc:data engineer
+[01:35:01]   W023 + 16 dc:Hadoop engineer
+[01:35:01]   W007 + 34 dc:machine learning eng
+[01:35:02]   W004 + 20 dc:payments engineer
+[01:35:03]   W042 + 30 dc:Kubernetes engineer
+[01:35:03]   W000 + 34 dc:analytics engineer
+[01:35:03]   W045 + 20 sh:QA engineer
+[01:35:03]   W016 +  8 sh:react developer
+[01:35:03]   W024 + 20 sh:principal engineer
+[01:35:03]   W005 + 20 sh:scrum master
+[01:35:04]   W024 + 30 dc:systems programmer
+[01:35:05]   W031 + 34 dc:security engineer
+[01:35:05]   W019 + 30 dc:cloud architect
+[01:35:06]   W086 + 34 dc:data scientist
+[01:35:06]   W077 + 31 dc:Spark engineer
+[01:35:06]   W065 + 31 dc:firmware engineer
+[01:35:06]   W034 +  5 sh:tech lead
+[01:35:07]   W030 +  3 sh:Perl developer
+[01:35:09]   W018 + 34 dc:tech lead
+[01:35:13]   W024 + 34 dc:API engineer
+[01:35:14]   W031 + 30 dc:systems programmer
+[01:35:15]   W019 + 34 dc:go developer
+[01:35:16]   W044 + 20 sh:cybersecurity engine
+[01:35:17]   W045 + 14 sh:microservices engine
+[01:35:18]   W069 + 30 dc:microservices engine
+[01:35:18]   W013 + 30 dc:embedded engineer
+[01:35:19]   W042 + 30 dc:full stack developer
+[01:35:19]   W034 + 34 dc:penetration tester
+[01:35:19]   W022 + 20 sh:Angular developer
+[01:35:19]   W099 +  8 dc:Redis engineer
+[01:35:20]   W023 + 34 dc:UX engineer
+[01:35:20]   W069 + 30 dc:cloud architect
+[01:35:20]   W024 + 34 dc:embedded engineer
+[01:35:20]   W031 + 20 sh:Kafka engineer
+[01:35:22]   W039 + 21 dc:Vue developer
+[01:35:22]   W025 + 11 dc:kernel engineer
+[01:35:23]   W099 + 30 dc:technical writer
+[01:35:23]   W042 +  5 dc:Flutter developer
+[01:35:23]   W041 + 34 dc:Docker engineer
+[01:35:24]   W078 + 34 dc:Kotlin developer
+[01:35:24]   W069 +  7 dc:React Native develop
+[01:35:24]   W047 + 34 dc:senior software engi
+[01:35:25]   W048 +  8 sh:go developer
+[01:35:25]   W000 + 10 dc:Swift developer
+[01:35:25]   W034 + 20 sh:staff engineer
+[01:35:25]   W002 +  5 sh:compiler engineer
+[01:35:25]   W023 + 20 sh:java developer
+[01:35:26]   W095 + 34 dc:PostgreSQL engineer
+[01:35:26]   W076 + 31 dc:software developer
+[01:35:26]   [R1] DB=731,770 | +4,038 | 44/min | Gap=268,230 | iters=2,883
+[01:35:26]   W045 + 34 dc:Angular developer
+[01:35:26]   W022 + 34 dc:compiler engineer
+[01:35:26]   W025 + 34 dc:machine learning eng
+[01:35:26]   W056 + 34 dc:staff engineer
+[01:35:27]   W078 + 34 dc:Azure engineer
+[01:35:27]   W044 + 31 dc:automation engineer
+[01:35:27]   W009 + 34 dc:Terraform engineer
+[01:35:28]   W005 + 30 dc:technical writer
+[01:35:28]   W024 + 30 dc:technical writer
+[01:35:28]   W007 + 34 dc:product manager
+[01:35:28]   W022 + 30 dc:site reliability eng
+[01:35:28]   W015 + 32 dc:AI engineer
+[01:35:28]   W003 + 34 dc:database engineer
+[01:35:28]   W096 + 34 dc:cloud architect
+[01:35:28]   W066 + 34 dc:LLM engineer
+[01:35:29]   W047 + 16 sh:MongoDB engineer
+[01:35:29]   W016 +  7 sh:Terraform developer
+[01:35:29]   W078 + 34 dc:tech lead
+[01:35:29]   W065 + 20 sh:platform engineer
+[01:35:30]   W024 + 30 dc:database engineer
+[01:35:30]   W003 + 34 dc:cloud security engin
+[01:35:31]   W022 + 34 dc:Angular developer
+[01:35:31]   W045 + 34 dc:cloud engineer
+[01:35:32]   W000 + 34 dc:golang developer
+[01:35:33]   W089 + 22 dc:deep learning engine
+[01:35:33]   W002 + 34 dc:Kubernetes administr
+[01:35:34]   W005 + 33 dc:TypeScript developer
+[01:35:34]   W034 + 30 dc:microservices engine
+[01:35:35]   W095 +  3 sh:data analyst
+[01:35:36]   W046 + 23 dc:deep learning engine
+[01:35:37]   W026 + 21 dc:Vue developer
+[01:35:37]   W000 + 10 dc:blockchain developer
+[01:35:38]   W016 + 20 sh:build engineer
+[01:35:38]   W061 + 20 sh:java developer
+[01:35:38]   W053 +  5 dc:Flutter developer
+[01:35:38]   W057 + 34 dc:UX engineer
+[01:35:38]   W048 + 34 dc:Azure engineer
+[01:35:39]   W079 + 34 dc:cloud security engin
+[01:35:39]   W002 + 34 dc:tech lead
+[01:35:39]   W044 +  5 dc:game developer
+[01:35:39]   W038 + 34 dc:solutions architect
+[01:35:39]   W095 + 20 sh:principal engineer
+[01:35:39]   W000 + 24 dc:iOS developer
+[01:35:40]   W000 + 31 dc:firmware engineer
+[01:35:41]   W093 + 34 dc:UX engineer
+[01:35:41]   W002 +  5 dc:fintech engineer
+[01:35:41]   W046 + 16 sh:golang developer
+[01:35:42]   W053 + 30 dc:systems programmer
+[01:35:44]   W038 + 34 dc:cloud security engin
+[01:35:44]   W037 + 34 dc:Azure engineer
+[01:35:45]   W010 + 30 dc:systems programmer
+[01:35:46]   W089 + 34 dc:senior software engi
+[01:35:47]   W000 +  5 dc:Elixir developer
+[01:35:47]   W035 +  9 dc:compiler engineer
+[01:35:48]   W025 + 34 dc:network engineer
+[01:35:48]   W002 + 34 dc:python developer
+[01:35:48]   W057 + 20 sh:CI/CD engineer
+[01:35:48]   W004 + 30 dc:release engineer
+[01:35:49]   W037 + 18 dc:PHP developer
+[01:35:49]   W010 + 34 dc:python developer
+[01:35:49]   W000 + 20 dc:payments engineer
+[01:35:49]   W056 + 16 sh:C++ engineer
+[01:35:49]   W089 + 34 dc:ML engineer
+[01:35:49]   W011 +  9 dc:compiler engineer
+[01:35:49]   W005 + 34 dc:python developer
+[01:35:50]   W026 +  8 dc:Redis engineer
+[01:35:50]   W047 + 34 dc:Spring Boot develope
+[01:35:50]   W027 + 34 dc:Docker engineer
+[01:35:50]   W013 + 34 dc:Android developer
+[01:35:51]   W030 + 34 dc:UX engineer
+[01:35:51]   W007 + 20 sh:go developer
+[01:35:51]   W048 + 34 dc:ML engineer
+[01:35:52]   W047 +  7 dc:React Native develop
+[01:35:53]   W060 + 34 dc:senior software engi
+[01:35:53]   W086 + 15 dc:Hadoop engineer
+[01:35:54]   W080 + 34 dc:data engineer
+[01:38:13] ======================================================================
+[01:38:13] ULTRA V3 — 150 HTML workers + JobSpy thread pool + ATS APIs
+[01:38:13] ======================================================================
+[01:38:13] ROUND 1 | DB: 731,770 | Gap: 268,230
+[01:38:13] Loading dedup keys...
+[01:38:14] Dedup: 731,770
+[01:38:14] Total work items: 661,476
+[01:38:15] Remaining: 661,476
+[01:38:16] JobSpy items: 8,532 | Async items: 652,944
+[01:38:20]   W011 + 20 sh:principal engineer
+[01:38:21]   W015 +  2 sh:machine learning eng
+[01:38:22]   W005 + 20 sh:GCP engineer
+[01:38:23]   W012 + 20 sh:cloud engineer
+[01:38:24]   W018 + 20 sh:cloud architect
+[01:38:31]   W012 +  3 sh:UX engineer
+[01:38:32]   W006 + 20 sh:game developer
+[01:38:33]   W070 + 20 sh:database engineer
+[01:38:34]   W016 + 20 sh:QA engineer
+[01:38:34]   W030 + 30 dc:Kubernetes engineer
+[01:38:34]   W026 + 14 sh:frontend engineer
+[01:38:34]   W032 +  7 dc:React Native develop
+[01:38:35]   W045 + 24 dc:iOS developer
+[01:38:35]   W009 + 34 dc:go developer
+[01:38:35]   W047 + 34 dc:Terraform engineer
+[01:38:36]   W044 + 34 dc:design engineer
+[01:38:38]   W031 + 34 dc:node developer
+[01:38:39]   W021 + 30 dc:systems programmer
+[01:38:40]   W007 + 34 dc:penetration tester
+[01:38:41]   W015 + 34 dc:backend engineer
+[01:38:42]   W056 + 34 dc:Kafka engineer
+[01:38:43]   W052 + 24 dc:iOS developer
+[01:38:44]   W018 +  3 sh:software developer
+[01:38:44]   W048 + 34 dc:backend engineer
+[01:38:45]   W026 + 20 sh:Spark engineer
+[01:38:45]   W009 + 30 dc:Spark engineer
+[01:38:46]   W002 + 20 sh:Kafka engineer
+[01:38:46]   W001 + 20 sh:release engineer
+[01:38:47]   W030 + 34 dc:Terraform engineer
+[01:38:47]   W017 + 34 dc:Angular developer
+[01:38:47]   W031 + 34 dc:go developer
+[01:38:48]   W077 + 34 dc:Django developer
+[01:38:49]   W003 + 30 dc:Ansible engineer
+[01:38:49]   W057 +  6 dc:FastAPI developer
+[01:38:51]   W018 +  5 dc:game developer
+[01:38:51]   W033 + 34 dc:design engineer
+[01:38:51]   W048 + 22 dc:deep learning engine
+[01:38:51]   W021 + 33 dc:MongoDB engineer
+[01:38:51]   W009 + 30 dc:database engineer
+[01:38:52]   W099 +  8 dc:compiler engineer
+[01:38:52]   [R1] DB=731,791 | +21 | 33/min | Gap=268,209 | iters=42
+[01:38:52]   W031 + 34 dc:GCP engineer
+[01:38:53]   W004 + 30 dc:mobile developer
+[01:38:54]   W006 + 34 dc:Terraform developer
+[01:38:54]   W042 + 14 sh:backend engineer
+[01:38:54]   W018 + 34 dc:security engineer
+[01:38:55]   W001 + 34 dc:.NET developer
+[01:38:55]   W007 + 34 dc:Terraform developer
+[01:38:55]   W094 +  6 sh:staff engineer
+[01:38:56]   W034 + 34 dc:Docker engineer
+[01:38:56]   W010 + 23 dc:web developer
+[01:38:57]   W014 + 24 dc:iOS developer
+[01:38:57]   W031 + 34 dc:Kafka engineer
+[01:38:57]   W004 +  9 dc:Ruby developer
+[01:38:57]   W020 + 20 sh:Azure engineer
+[01:38:58]   W006 + 34 dc:Kafka engineer
+[01:39:00]   W003 + 10 dc:Elasticsearch engine
+[01:39:00]   W023 +  5 dc:Flutter developer
+[01:39:00]   W093 +  4 dc:fintech engineer
+[01:39:01]   W010 + 30 dc:platform engineer
+[01:39:02]   W004 + 34 dc:machine learning eng
+[01:39:02]   W031 + 34 dc:API engineer
+[01:39:02]   W004 + 34 dc:data engineer
+[01:39:02]   W017 + 34 dc:Kotlin developer
+[01:39:03]   W008 + 20 sh:python developer
+[01:39:03]   W033 +  5 sh:security engineer
+[01:39:03]   W059 + 20 sh:design engineer
+[01:39:03]   W052 + 34 dc:MongoDB engineer
+[01:39:03]   W003 + 34 dc:graphics engineer
+[01:39:03]   W056 + 11 sh:Spring Boot develope
+[01:39:03]   W091 + 30 dc:database engineer
+[01:39:04]   W000 + 34 dc:software engineer
+[01:39:04]   W053 + 34 dc:machine learning eng
+[01:39:04]   W004 + 34 dc:QA engineer
+[01:39:04]   W008 +  9 dc:Ruby developer
+[01:39:04]   W090 + 34 dc:AWS engineer
+[01:39:05]   W015 + 30 dc:Kubernetes engineer
+[01:39:05]   W003 +  5 dc:game developer
+[01:39:05]   W056 + 11 dc:kernel engineer
+[01:39:05]   W093 + 34 dc:java developer
+[01:39:05]   W072 + 20 sh:information security
+[01:39:06]   W008 +  6 dc:FastAPI developer
+[01:39:06]   W053 + 34 dc:Azure engineer
+[01:39:06]   W000 + 34 dc:Docker engineer
+[01:39:07]   W021 +  4 sh:UX engineer
+[01:39:07]   W099 +  9 sh:node developer
+[01:39:07]   W091 + 20 sh:release engineer
+[01:39:07]   W006 + 34 dc:LLM engineer
+[01:39:08]   W090 + 31 dc:data engineer
+[01:39:08]   W075 + 34 dc:cybersecurity engine
+[01:39:08]   W064 + 34 dc:python developer
+[01:39:08]   W072 +  9 dc:compiler engineer
+[01:39:09]   W053 +  8 dc:compiler engineer
+[01:39:10]   W085 + 34 dc:Kafka engineer
+[01:39:10]   W099 + 30 dc:microservices engine
+[01:39:10]   W061 + 34 dc:scrum master
+[01:39:11]   W090 + 30 dc:database engineer
+[01:39:11]   W002 + 30 dc:full stack developer
+[01:39:12]   W008 + 34 dc:Terraform engineer
+[01:39:12]   W091 + 20 sh:systems programmer
+[01:39:12]   W015 + 31 dc:firmware engineer
+[01:39:12]   W053 +  5 dc:Flutter developer
+[01:39:12]   W085 + 34 dc:data scientist
+[01:39:12]   W031 + 34 dc:python developer
+[01:39:12]   W048 + 21 dc:Vue developer
+[01:39:13]   W038 + 34 dc:network engineer
+[01:39:13]   W064 + 32 dc:cloud engineer
+[01:39:14]   W098 + 34 dc:systems engineer
+[01:39:15]   W015 + 34 dc:Spring Boot develope
+[01:39:16]   W015 + 31 dc:data engineer
+[01:39:19]   W008 + 34 dc:Docker engineer
+[01:39:20]   W038 + 34 dc:Android developer
+[01:39:20]   W058 +  8 dc:graphics engineer
+[01:39:20]   W098 + 30 dc:infrastructure engin
+[01:39:20]   W085 + 34 dc:Spring Boot develope
+[01:39:21]   W054 + 34 dc:Scala developer
+[01:39:21]   W021 +  7 sh:Elasticsearch engine
+[01:39:22]   W048 + 34 dc:python developer
+[01:39:22]   W041 + 30 dc:node developer
+[01:39:22]   W090 + 31 dc:Spark engineer
+[01:39:22]   W072 + 30 dc:platform engineer
+[01:39:23]   W093 + 34 dc:machine learning eng
+[01:39:24]   W058 + 34 dc:cybersecurity engine
+[01:39:24]   W096 + 34 dc:API engineer
+[01:39:24]   W044 + 30 dc:microservices engine
+[01:39:25]   [R1] DB=731,892 | +122 | 102/min | Gap=268,108 | iters=129
+[01:39:25]   W009 + 34 dc:staff engineer
+[01:39:26]   W022 + 30 dc:cloud architect
+[01:39:26]   W075 + 34 dc:Terraform engineer
+[01:39:26]   W025 + 34 dc:Terraform developer
+[01:39:26]   W021 + 34 dc:release engineer
+[01:39:27] ======================================================================
+[01:39:27] ULTRA V3 — 150 HTML workers + JobSpy thread pool + ATS APIs
+[01:39:27] ======================================================================
+[01:39:27] ROUND 1 | DB: 731,892 | Gap: 268,108
+[01:39:27] Loading dedup keys...
+[01:39:27]   W015 + 19 dc:big data engineer
+[01:39:28]   W006 + 34 dc:Spring Boot develope
+[01:39:28]   W058 + 30 dc:node developer
+[01:39:28]   W047 + 30 dc:database engineer
+[01:39:28] Dedup: 731,892
+[01:39:28]   W034 + 34 dc:PostgreSQL engineer
+[01:39:28]   W028 + 18 dc:PHP developer
+[01:39:28]   W022 + 34 dc:API engineer
+[01:39:28] Total work items: 661,476
+[01:39:29] Remaining: 661,476
+[01:39:29]   W075 + 34 dc:API engineer
+[01:39:30]   W025 + 34 dc:penetration tester
+[01:39:30] JobSpy items: 8,532 | Async items: 652,944
+[01:39:30]   W010 +  4 sh:penetration tester
+[01:39:30]   W027 + 15 dc:kernel engineer
+[01:39:32]   W045 + 30 dc:site reliability eng
+[01:39:34]   W006 + 26 dc:C++ engineer
+[01:39:35]   W069 + 31 dc:data engineer
+[01:39:36]   W047 + 34 dc:Terraform engineer
+[01:39:38]   W025 + 34 dc:react developer
+[01:39:39]   W027 + 19 dc:big data engineer
+[01:39:41]   W032 + 34 dc:Kubernetes administr
+[01:39:45]   W006 + 34 dc:CI/CD engineer
+[01:39:47]   W029 + 10 dc:Elasticsearch engine
+[01:39:48]   W008 + 18 dc:PHP developer
+[01:39:49]   W087 + 30 dc:SRE
+[01:39:51]   W012 + 30 dc:cloud architect
+[01:39:52]   W030 +  9 dc:compiler engineer
+[01:39:53]   W019 + 34 dc:MongoDB engineer
+[01:39:53]   W026 + 23 dc:web developer
+[01:39:53]   W006 + 30 dc:platform engineer
+[01:39:54]   W087 + 34 dc:analytics engineer
+[01:39:54]   W012 + 24 dc:iOS developer
+[01:39:54]   W019 + 30 dc:release engineer
+[01:39:54]   W081 +  5 dc:Perl developer
+[01:39:54]   W009 + 20 sh:software developer
+[01:39:54]   W098 + 34 dc:devops engineer
+[01:39:54]   W083 + 34 dc:Spring Boot develope
+[01:39:55]   W026 + 34 dc:GCP engineer
+[01:39:56]   W052 + 34 dc:LLM engineer
+[01:39:57]   W096 + 30 dc:site reliability eng
+[01:39:59]   W036 + 30 dc:technical writer
+[01:40:00]   W029 + 34 dc:security engineer
+[01:40:05]   W019 + 34 dc:network engineer
+[01:40:06]   W098 + 34 dc:Kafka engineer
+[01:40:07]   W002 + 20 sh:java developer
+[01:40:08]   W019 + 11 dc:kernel engineer
+[01:40:09]   [R1] DB=731,905 | +132 | 69/min | Gap=268,095 | iters=175
+[01:40:11]   W039 + 34 dc:.NET developer
+[01:40:12]   W023 + 30 dc:microservices engine
+[01:40:13]   [R1] DB=731,912 | +10 | 13/min | Gap=268,088 | iters=2
+[01:40:15]   W005 + 30 dc:site reliability eng
+[01:40:23]   W039 + 34 dc:AI engineer
+[01:40:30]   W048 + 34 dc:Scala developer
+[01:40:31]   W017 + 20 sh:compiler engineer
+[01:40:32]   W013 + 20 sh:cloud engineer
+[01:40:34]   W005 + 34 dc:machine learning eng
+[01:40:37]   W017 + 20 sh:tech lead
+[01:40:41]   W005 + 30 dc:node developer
+[01:40:43]   W006 + 22 dc:deep learning engine
+[01:40:48]   W005 + 34 dc:python developer
+[01:40:48]   [R1] DB=731,937 | +145 | 56/min | Gap=268,063 | iters=184
+[01:40:49]   W002 +  6 sh:platform engineer
+[01:40:51]   W006 + 34 dc:Angular developer
+[01:40:52]   [R1] DB=731,937 | +22 | 16/min | Gap=268,063 | iters=7
+[01:40:55]   W036 + 34 dc:security engineer
+[01:40:58]   W018 + 34 dc:embedded engineer
+[01:40:58]   W036 +  5 dc:Perl developer
+[01:41:00]   W018 + 19 dc:big data engineer
+[01:41:02]   W002 +  9 sh:technical writer
+[01:41:02]   W037 + 34 dc:Kotlin developer
+[01:41:03]   W037 + 34 dc:DevOps
+[01:41:05]   W068 + 34 dc:QA engineer
+[01:41:05]   W007 + 31 dc:cloud security engin
+[01:41:06]   W001 + 34 dc:data scientist
+[01:41:07]   W000 + 20 sh:network engineer
+[01:41:10]   W023 + 34 dc:Kotlin developer
+[01:41:13]   W040 + 31 dc:full stack engineer
+[01:41:18]   W032 + 20 sh:QA engineer
+[01:41:20]   W000 +  4 sh:Elixir developer
+[01:41:24]   W040 + 34 dc:C# developer
+[01:41:26]   [R1] DB=731,960 | +159 | 50/min | Gap=268,040 | iters=199
+[01:41:26]   W032 + 20 sh:MongoDB engineer
+[01:41:26]   [R1] DB=731,960 | +31 | 16/min | Gap=268,040 | iters=10
+[01:41:28]   W000 + 20 sh:Swift developer
+[01:41:30]   W099 + 30 dc:react developer
+[01:41:34]   W025 + 30 dc:release engineer
+[01:41:38]   W025 + 30 dc:react developer
+[01:41:41]   W071 + 34 dc:C# developer
+[01:41:47]   W039 + 20 sh:Kafka engineer
+[01:41:48]   W071 + 23 dc:web developer
+[01:41:48]   W051 + 20 sh:C# developer
+[01:41:50]   W046 + 20 sh:Docker engineer
+[01:41:53]   W039 + 20 sh:Spark engineer
+[01:41:55]   W060 +  7 sh:big data engineer
+[01:41:57]   W078 +  7 dc:Redis engineer
+[01:42:02]   W019 + 20 sh:cloud security engin
+[01:42:04]   W002 + 20 sh:React Native develop
+[01:42:05]   W051 +  2 sh:design engineer
+[01:42:06]   W095 +  2 sh:Scala developer
+[01:42:08]   W068 + 30 dc:distributed systems 
+[01:42:08]   [R1] DB=732,001 | +43 | 16/min | Gap=267,999 | iters=12
+[01:42:08]   [R1] DB=732,001 | +165 | 42/min | Gap=267,999 | iters=215
+[01:42:11]   W054 + 20 sh:frontend engineer
+[01:42:12]   W015 + 20 sh:data analyst
+[01:42:13]   W068 + 34 dc:embedded engineer
+[01:42:15]   W025 + 20 sh:iOS developer
+[01:42:15]   W019 + 20 sh:DevOps
+[01:42:17]   W068 + 30 dc:systems programmer
+[01:42:20]   W091 +  8 sh:java developer
+[01:42:22]   W043 + 20 sh:game developer
+[01:42:24]   W068 + 34 dc:Docker engineer
+[01:42:28]   W025 + 20 sh:microservices engine
+[01:42:31]   W036 + 11 sh:graphics engineer
+[01:42:31]   W078 + 20 sh:.NET developer
+[01:42:32]   W002 + 34 dc:Django developer
+[01:42:33]   W034 + 20 sh:automation engineer
+[01:42:35]   W041 + 20 sh:Django developer
+[01:42:38]   W025 + 20 sh:embedded engineer
+[01:42:38]   W096 +  7 sh:fintech engineer
+[01:42:40]   W032 +  5 sh:FastAPI developer
+[01:42:41]   W011 + 30 dc:full stack developer
+[01:42:45]   [R1] DB=732,041 | +48 | 15/min | Gap=267,959 | iters=17
+[01:42:46]   W019 + 20 sh:java developer
+[01:42:48]   W057 + 10 sh:product manager
+[01:42:48]   W014 + 20 sh:iOS developer
+[01:42:50]   [R1] DB=732,041 | +200 | 43/min | Gap=267,959 | iters=232
+[01:42:54]   W033 + 20 sh:java developer
+[01:42:55]   W046 + 30 dc:database engineer
+[01:42:56]   W099 +  3 sh:product manager
+[01:42:58]   W046 + 12 dc:React Native develop
+[01:43:00]   W005 + 20 sh:LLM engineer
+[01:43:02]   W046 + 10 dc:Elasticsearch engine
+[01:43:03]   W004 + 34 dc:QA engineer
+[01:43:04]   W088 +  9 dc:Ruby developer
+[01:43:04]   W034 +  9 dc:Ruby developer
+[01:43:05]   W013 + 20 sh:Terraform engineer
+[01:43:06]   W028 +  3 sh:software developer
+[01:43:07]   W046 + 34 dc:network engineer
+[01:43:09]   W034 + 34 dc:network engineer
+[01:43:09]   W021 + 20 sh:deep learning engine
+[01:43:10]   W011 +  7 dc:Redis engineer
+[01:43:10]   W004 + 34 dc:golang developer
+[01:43:11]   W046 + 34 dc:ML engineer
+[01:43:12]   W021 + 20 sh:release engineer
+[01:43:12]   W088 + 30 dc:cloud architect
+[01:43:14]   W057 + 10 sh:build engineer
+[01:43:17]   [R1] DB=732,055 | +61 | 16/min | Gap=267,945 | iters=21
+[01:43:18]   W044 + 34 dc:GCP engineer
+[01:43:23]   W081 + 34 dc:UX engineer
+[01:43:29]   W041 + 20 sh:data analyst
+[01:43:30]   W019 + 34 dc:PostgreSQL engineer
+[01:43:37]   [R1] DB=732,067 | +213 | 40/min | Gap=267,933 | iters=254
+[01:43:39]   W005 + 26 dc:C++ engineer
+[01:43:43]   W004 + 34 dc:security engineer
+[01:43:43]   W078 + 11 sh:junior software engi
+[01:43:44]   W005 + 34 dc:cybersecurity engine
+[01:43:45]   W054 + 34 dc:Kafka engineer
+[01:43:46]   W004 +  5 dc:Flutter developer
+[01:43:46]   W026 + 20 sh:react developer
+[01:43:47]   W004 + 11 sh:automation engineer
+[01:43:47]   W014 + 20 sh:Terraform engineer
+[01:43:48]   W005 + 30 dc:cloud architect
+[01:43:48]   W004 + 34 dc:devops engineer
+[01:43:49]   W009 + 10 dc:Swift developer
+[01:43:49]   W026 +  3 sh:Android developer
+[01:43:50]   W005 + 30 dc:node developer
+[01:43:52]   W080 + 12 sh:Elasticsearch engine
+[01:43:53]   W026 + 34 dc:CI/CD engineer
+[01:43:53]   [R1] DB=732,067 | +61 | 14/min | Gap=267,933 | iters=24
+[01:43:53]   W004 + 10 dc:Swift developer
+[01:43:53]   W005 + 34 dc:cybersecurity engine
+[01:43:54]   W019 + 20 sh:AI engineer
+[01:43:54]   W026 + 34 dc:build engineer
+[01:43:54]   W099 + 15 dc:Hadoop engineer
+[01:43:55]   W005 + 31 dc:data engineer
+[01:43:56]   W033 + 20 sh:iOS developer
+[01:43:56]   W010 + 20 sh:software engineer
+[01:43:57]   W073 + 34 dc:security engineer
+[01:43:57]   W017 + 34 dc:GCP engineer
+[01:43:58]   W024 + 30 dc:node developer
+[01:44:00]   W003 + 20 sh:java developer
+[01:44:00]   W002 + 20 sh:python developer
+[01:44:00]   W073 + 30 dc:SRE
+[01:44:00]   W037 +  5 sh:Flutter developer
+[01:44:01]   W035 +  6 sh:cloud architect
+[01:44:02]   W036 +  7 dc:Redis engineer
+[01:44:02]   W048 + 30 dc:mobile developer
+[01:44:03]   W031 +  4 sh:QA engineer
+[01:44:03]   W083 + 34 dc:golang developer
+[01:44:03]   W009 + 20 sh:tech lead
+[01:44:04]   W017 +  8 sh:SRE
+[01:44:04]   W089 +  7 dc:Redis engineer
+[01:44:04]   W024 + 20 sh:Elasticsearch engine
+[01:44:05]   W078 + 11 sh:Elixir developer
+[01:44:05]   W015 + 20 sh:C++ engineer
+[01:44:05]   W073 +  3 sh:software engineer
+[01:44:06]   W027 + 34 dc:embedded engineer
+[01:44:06]   W015 + 34 dc:cybersecurity engine
+[01:44:09]   W082 + 20 sh:deep learning engine
+[01:44:09]   W083 + 34 dc:cybersecurity engine
+[01:44:10]   W081 + 34 dc:embedded engineer
+[01:44:10]   W048 + 34 dc:scrum master
+[01:44:13]   W089 + 34 dc:senior software engi
+[01:44:13]   W027 + 34 dc:penetration tester
+[01:44:14]   [R1] DB=732,120 | +255 | 42/min | Gap=267,880 | iters=301
+[01:44:15]   W023 + 34 dc:product manager
+[01:44:16]   W043 +  8 dc:React Native develop
+[01:44:16]   W045 + 20 sh:web developer
+[01:44:16]   W028 + 31 dc:software developer
+[01:44:17]   W089 + 34 dc:go developer
+[01:44:17]   W099 + 13 sh:systems programmer
+[01:44:18]   W031 + 20 sh:tech lead
+[01:44:18]   W059 + 10 dc:Elasticsearch engine
+[01:44:19]   W082 + 20 sh:Spark engineer
+[01:44:19]   W016 + 34 dc:Scala developer
+[01:44:19]   W083 +  6 sh:golang developer
+[01:44:20]   W011 + 34 dc:PostgreSQL engineer
+[01:44:20]   W043 + 26 dc:C++ engineer
+[01:44:20]   W060 + 34 dc:MongoDB engineer
+[01:44:20]   W023 + 20 sh:Ansible engineer
+[01:44:20]   W072 +  2 sh:design engineer
+[01:44:20]   W089 + 34 dc:MongoDB engineer
+[01:44:21]   W007 + 20 sh:security engineer
+[01:44:22]   W059 + 33 dc:TypeScript developer
+[01:44:22]   W002 + 34 dc:Docker engineer
+[01:44:23]   W031 + 11 sh:CI/CD engineer
+[01:44:23]   W081 + 20 sh:network engineer
+[01:44:23]   W037 + 20 sh:systems programmer
+[01:44:24]   W043 + 10 dc:kernel engineer
+[01:44:24]   W020 + 20 sh:go developer
+[01:44:24]   W011 + 34 dc:Kotlin developer
+[01:44:25]   [R1] DB=732,121 | +73 | 15/min | Gap=267,879 | iters=34
+[01:44:25]   W089 + 34 dc:product manager
+[01:44:25]   W072 + 30 dc:Ansible engineer
+[01:44:25]   W023 + 20 sh:infrastructure engin
+[01:44:25]   W059 + 33 dc:node developer
+[01:44:26]   W055 + 34 dc:cloud security engin
+[01:44:26]   W078 + 22 dc:payments engineer
+[01:44:27]   W005 + 18 sh:staff engineer
+[01:44:27]   W001 + 20 sh:site reliability eng
+[01:44:27]   W043 + 34 dc:rust developer
+[01:44:28]   W027 + 20 sh:SRE
+[01:44:28]   W099 +  5 sh:security engineer
+[01:44:28]   W015 + 10 dc:Elasticsearch engine
+[01:44:28]   W021 + 21 dc:Vue developer
+[01:44:29]   W059 +  7 dc:Redis engineer
+[01:44:29]   W078 + 34 dc:Django developer
+[01:44:29]   W065 + 33 dc:frontend engineer
+[01:44:30]   W043 +  3 sh:data analyst
+[01:44:31]   W003 + 12 sh:security engineer
+[01:44:31]   W023 + 33 dc:TypeScript developer
+[01:44:32]   W090 + 31 dc:data engineer
+[01:44:32]   W011 + 30 dc:microservices engine
+[01:44:32]   W044 + 20 sh:data analyst
+[01:44:34]   W008 + 34 dc:Kafka engineer
+[01:44:35]   W026 + 30 dc:systems programmer
+[01:44:35]   W065 + 19 dc:big data engineer
+[01:44:36]   W016 + 20 sh:data analyst
+[01:45:00] ======================================================================
+[01:45:00] ULTRA V3 — 150 HTML workers + JobSpy thread pool + ATS APIs
+[01:45:00] ======================================================================
+[01:45:00] ROUND 1 | DB: 732,146 | Gap: 267,854
+[01:45:00] Loading dedup keys...
+[01:45:01] Dedup: 732,146
+[01:45:01] Total work items: 661,476
+[01:45:02] Remaining: 661,476
+[01:45:03] JobSpy items: 8,532 | Async items: 652,944
+[01:45:23]   W012 + 20 sh:backend engineer
+[01:45:24]   W060 + 20 sh:machine learning eng
+[01:45:25]   W006 + 20 sh:distributed systems 
+[01:45:28]   W007 + 20 sh:Azure engineer
+[01:45:29]   W005 +  3 sh:data analyst
+[01:45:31]   W039 + 20 sh:Azure engineer
+[01:45:35]   [R1] DB=732,153 | +4 | 7/min | Gap=267,847 | iters=6
+[01:45:35]   W013 + 20 sh:database engineer
+[01:45:37]   W064 + 20 sh:scrum master
+[01:45:37]   W046 + 20 sh:systems engineer
+[01:45:37]   W065 + 20 sh:CI/CD engineer
+[01:45:37]   W094 + 20 sh:build engineer
+[01:45:38]   W089 + 20 sh:data analyst
+[01:45:39]   W085 +  3 sh:cybersecurity engine
+[01:45:39]   W050 + 20 sh:firmware engineer
+[01:45:39]   W075 + 20 sh:senior software engi
+[01:45:39]   W037 + 20 sh:DevOps
+[01:45:39]   W003 +  2 sh:PostgreSQL engineer
+[01:45:39]   W007 + 34 dc:UX engineer
+[01:45:40]   W049 + 34 dc:machine learning eng
+[01:45:40]   W025 + 34 dc:devops engineer
+[01:45:41]   W043 + 34 dc:scrum master
+[01:45:41]   W010 + 34 dc:cybersecurity engine
+[01:45:41]   W007 + 20 sh:solutions architect
+[01:45:41]   W054 +  4 sh:C# developer
+[01:45:43]   W000 + 17 dc:Hadoop engineer
+[01:45:44]   W013 + 11 dc:Perl developer
+[01:45:44]   W082 + 34 dc:CI/CD engineer
+[01:45:45]   W050 + 20 sh:scrum master
+[01:45:45]   W053 +  3 sh:cloud engineer
+[01:45:46]   W071 + 20 sh:Spark engineer
+[01:45:47]   W085 + 20 sh:Spark engineer
+[01:45:47]   W098 + 34 dc:API engineer
+[01:45:47]   W049 + 34 dc:backend engineer
+[01:45:47]   W025 + 34 dc:penetration tester
+[01:45:47]   W003 + 10 dc:Elasticsearch engine
+[01:45:48]   W054 +  5 sh:Kubernetes administr
+[01:45:48]   W028 + 34 dc:Azure engineer
+[01:45:48]   W076 + 25 dc:fintech engineer
+[01:45:48]   W012 + 34 dc:scrum master
+[01:45:49]   W099 + 34 dc:machine learning eng
+[01:45:49]   W004 + 20 sh:machine learning eng
+[01:45:49]   W085 + 21 dc:deep learning engine
+[01:45:49]   W003 + 34 dc:AWS engineer
+[01:45:50]   W060 + 34 dc:Azure engineer
+[01:45:50]   W097 +  2 sh:API engineer
+[01:45:50]   W040 + 20 sh:deep learning engine
+[01:45:51]   W028 + 34 dc:senior software engi
+[01:45:51]   W005 + 34 dc:Android developer
+[01:45:51]   W020 + 10 sh:compiler engineer
+[01:45:51]   W006 + 20 sh:network engineer
+[01:45:51]   W074 + 34 dc:QA engineer
+[01:45:51]   W026 + 34 dc:design engineer
+[01:45:51]   W098 + 30 dc:Ansible engineer
+[01:45:52]   W020 +  9 dc:Ruby developer
+[01:45:53]   W064 + 11 dc:kernel engineer
+[01:45:53]   W004 + 20 sh:PHP developer
+[01:45:54]   W078 + 20 sh:AWS engineer
+[01:45:55]   W047 + 30 dc:technical writer
+[01:45:55]   W006 + 10 dc:Swift developer
+[01:45:56]   W017 + 31 dc:software developer
+[01:45:56]   W020 + 34 dc:backend engineer
+[01:45:56]   W040 + 20 sh:full stack engineer
+[01:45:57]   W073 + 20 sh:.NET developer
+[01:45:57]   W064 + 31 dc:software developer
+[01:45:57]   W033 + 31 dc:information security
+[01:45:57]   W050 + 34 dc:software engineer
+[01:45:58]   W078 + 20 sh:PHP developer
+[01:45:58]   W047 + 23 dc:web developer
+[01:45:58]   W017 +  8 dc:compiler engineer
+[01:45:58]   W049 + 20 sh:machine learning eng
+[01:45:58]   W089 + 30 dc:cloud architect
+[01:45:58]   W028 + 20 dc:payments engineer
+[01:45:59]   W074 + 34 dc:cloud security engin
+[01:45:59]   W003 + 20 sh:C# developer
+[01:45:59]   W080 +  5 dc:Perl developer
+[01:45:59]   W016 + 34 dc:staff engineer
+[01:46:00]   W067 +  6 sh:compiler engineer
+[01:46:00]   W017 + 30 dc:release engineer
+[01:46:00]   W064 + 34 dc:staff engineer
+[01:46:00]   W030 +  5 sh:graphics engineer
+[01:46:01]   W028 + 34 dc:Spring Boot develope
+[01:46:01]   W061 +  7 dc:React Native develop
+[01:46:01]   W029 + 34 dc:scrum master
+[01:46:02]   W040 + 10 dc:Elasticsearch engine
+[01:46:02]   W090 + 31 dc:software developer
+[01:46:03]   W074 + 34 dc:senior software engi
+[01:46:04]   W017 + 34 dc:GenAI engineer
+[01:46:05]   W020 + 20 sh:software engineer
+[01:46:05]   W048 + 30 dc:mobile developer
+[01:46:05]   W072 + 30 dc:microservices engine
+[01:46:10]   W068 + 34 dc:AI engineer
+[01:46:11]   W044 + 34 dc:junior software engi
+[01:46:12]   W061 + 20 sh:cloud security engin
+[01:46:13]   W089 + 34 dc:CI/CD engineer
+[01:46:14]   W074 + 30 dc:site reliability eng
+[01:46:17]   [R1] DB=732,278 | +129 | 101/min | Gap=267,722 | iters=97
+[01:46:17]   W068 + 20 sh:node developer
+[01:46:18]   W050 + 31 dc:python developer
+[01:46:18]   W026 + 34 dc:LLM engineer
+[01:46:20]   W026 + 31 dc:firmware engineer
+[01:46:20]   W006 + 30 dc:distributed systems 
+[01:46:20]   W033 + 34 dc:golang developer
+[01:46:21]   W090 + 30 dc:Angular developer
+[01:46:21]   W026 + 34 dc:node developer
+[01:46:23]   W068 + 20 sh:solutions architect
+[01:46:25]   W093 + 26 dc:C++ engineer
+[01:46:26]   W003 + 30 dc:react developer
+[01:46:26]   W080 + 30 dc:systems programmer
+[01:46:27]   W044 + 34 dc:CI/CD engineer
+[01:46:29]   W030 + 34 dc:ML engineer
+[01:46:30]   W061 + 20 sh:infrastructure engin
+[01:46:30]   W006 + 20 sh:build engineer
+[01:46:31]   W026 + 34 dc:software engineer
+[01:46:31]   W003 +  8 dc:graphics engineer
+[01:46:31]   W069 + 20 sh:Vue developer
+[01:46:31]   W025 + 34 dc:MongoDB engineer
+[01:46:31]   W075 + 34 dc:GenAI engineer
+[01:46:31]   W007 + 34 dc:systems engineer
+[01:46:33]   W022 + 30 dc:systems programmer
+[01:46:34]   W026 + 30 dc:SRE
+[01:46:35]   W003 + 30 dc:systems engineer
+[01:46:35]   W025 +  2 sh:full stack engineer
+[01:46:35]   W096 + 34 dc:Terraform developer
+[01:46:36]   W080 + 30 dc:systems programmer
+[01:46:36]   W083 + 34 dc:go developer
+[01:46:37]   W026 + 34 dc:solutions architect
+[01:46:37]   W037 + 34 dc:cloud security engin
+[01:46:38]   W003 + 34 dc:Azure engineer
+[01:46:38]   W080 + 21 dc:payments engineer
+[01:46:38]   W060 + 31 dc:Ansible engineer
+[01:46:38]   W020 + 20 sh:data analyst
+[01:46:38]   W096 + 20 sh:systems engineer
+[01:46:39]   W064 +  7 sh:C++ engineer
+[01:46:39]   W005 + 30 dc:release engineer
+[01:46:39]   W053 + 34 dc:golang developer
+[01:46:39]   W070 + 34 dc:staff engineer
+[01:46:39]   W003 + 34 dc:penetration tester
+[01:46:40]   W060 + 34 dc:product manager
+[01:46:40]   W002 + 34 dc:cloud security engin
+[01:46:40]   W096 +  5 dc:Flutter developer
+[01:46:40]   W005 + 34 dc:AWS engineer
+[01:46:41]   W070 + 34 dc:PostgreSQL engineer
+[01:46:41]   W089 + 34 dc:PostgreSQL engineer
+[01:46:42]   W008 +  7 dc:React Native develop
+[01:46:42]   W090 + 20 sh:information security
+[01:46:42]   W019 +  5 dc:Elixir developer
+[01:46:42]   W056 + 20 sh:network engineer
+[01:46:43]   W002 + 30 dc:solutions architect
+[01:46:44]   W061 +  3 sh:PostgreSQL engineer
+[01:46:45]   W053 + 12 sh:data scientist
+[01:46:45]   W005 + 31 dc:information security
+[01:46:45]   W060 + 34 dc:security engineer
+[01:46:45]   W028 + 34 dc:analytics engineer
+[01:46:46]   W055 + 20 dc:payments engineer
+[01:46:46]   W011 + 30 dc:solutions architect
+[01:46:47]   W019 +  4 dc:fintech engineer
+[01:46:48]   W004 + 34 dc:Azure engineer
+[01:46:50]   W056 + 34 dc:senior software engi
+[01:46:51]   W001 + 20 sh:full stack developer
+[01:46:52]   W079 + 20 sh:security engineer
+[01:46:53]   W075 + 34 dc:Kubernetes administr
+[01:46:54]   W023 + 20 sh:Elasticsearch engine
+[01:46:55]   W028 + 34 dc:Azure engineer
+[01:46:55]   W019 + 34 dc:product manager
+[01:46:55]   W033 +  8 dc:graphics engineer
+[01:46:58]   W091 + 20 sh:infrastructure engin
+[01:46:59]   W011 + 34 dc:build engineer
+[01:47:00]   W090 + 34 dc:Scala developer
+[01:47:00]   W019 + 34 dc:staff engineer
+[01:47:01]   W001 + 34 dc:security engineer
+[01:47:01]   [R1] DB=732,281 | +132 | 66/min | Gap=267,719 | iters=175
+[01:47:02]   W024 + 31 dc:Spark engineer
+[01:47:02]   W025 + 34 dc:data scientist
+[01:47:02]   W028 + 27 dc:game developer
+[01:47:02]   W056 + 30 dc:PostgreSQL engineer
+[01:47:03]   W019 + 34 dc:analytics engineer
+[01:47:03]   W033 + 30 dc:cloud architect
+[01:47:03]   W002 + 34 dc:build engineer
+[01:47:04]   W068 + 23 dc:web developer
+[01:47:04]   W074 + 30 dc:node developer
+[01:47:04]   W012 + 34 dc:Terraform developer
+[01:47:04]   W030 + 20 sh:API engineer
+[01:47:06]   W090 + 20 sh:UX engineer
+[01:47:08]   W078 + 34 dc:GCP engineer
+[01:47:08]   W085 + 34 dc:C++ engineer
+[01:47:09]   W023 + 20 sh:data scientist
+[01:47:11]   W052 +  5 dc:Perl developer
+[01:47:11]   W016 + 34 dc:UX engineer
+[01:47:13]   W003 + 34 dc:software engineer
+[01:47:13]   W002 + 34 dc:Android developer
+[01:47:14]   W089 + 19 dc:big data engineer
+[01:47:14]   W029 +  3 sh:UX engineer
+[01:47:14]   W075 + 20 sh:machine learning eng
+[01:47:15]   W007 + 34 dc:LLM engineer
+[01:47:16]   W034 + 20 sh:node developer
+[01:47:17]   W066 + 34 dc:go developer
+[01:47:17]   W078 + 34 dc:MongoDB engineer
+[01:47:18]   W033 + 30 dc:site reliability eng
+[01:47:19]   W080 + 34 dc:UX engineer
+[01:47:19]   W007 +  5 dc:game developer
+[01:47:20]   W002 + 30 dc:full stack developer
+[01:47:22]   W026 + 34 dc:product manager
+[01:47:24]   W068 + 35 dc:full stack engineer
+[01:47:27]   W078 + 10 dc:Elasticsearch engine
+[01:47:28]   W005 + 20 sh:frontend engineer
+[01:47:30]   W007 +  6 sh:Hadoop engineer
+[01:47:31]   W023 + 34 dc:QA engineer
+[01:47:31]   W084 + 12 dc:kernel engineer
+[01:47:31]   W085 + 34 dc:C# developer
+[01:47:31]   W032 + 34 dc:network engineer
+[01:47:34]   W058 + 20 sh:go developer
+[01:47:34]   W065 + 20 sh:systems programmer
+[01:47:34]   W038 + 34 dc:rust developer
+[01:47:35]   W022 + 34 dc:product manager
+[01:47:36]   W012 + 32 dc:principal engineer
+[01:47:36]   W021 +  9 dc:Ruby developer
+[01:47:36]   [R1] DB=732,417 | +268 | 103/min | Gap=267,583 | iters=222
+[01:47:36]   W074 + 30 dc:microservices engine
+[01:47:36]   W011 + 34 dc:analytics engineer
+[01:47:36]   W091 + 30 dc:database engineer
+[01:47:37]   W036 + 34 dc:ML engineer
+[01:47:41]   W007 + 20 sh:API engineer
+[01:47:42]   W005 + 20 sh:principal engineer
+[01:47:42]   W028 + 20 sh:security engineer
+[01:47:42]   W030 + 34 dc:systems engineer
+[01:47:43]   W058 + 20 sh:devops engineer
+[01:47:43]   W017 + 20 sh:TypeScript developer
+[01:47:43]   W078 + 30 dc:SRE
+[01:47:46]   W009 + 34 dc:data analyst
+[01:47:47]   W055 + 34 dc:build engineer
+[01:47:48]   W009 + 34 dc:LLM engineer
+[01:47:49]   W022 + 34 dc:Kafka engineer
+[01:47:50]   W060 + 34 dc:API engineer
+[01:47:50]   W026 + 30 dc:software engineer
+[01:47:50]   W034 + 31 dc:software developer
+[01:47:51]   W079 + 21 dc:deep learning engine
+[01:47:51]   W019 + 31 dc:firmware engineer
+[01:47:53]   W065 + 34 dc:Spring Boot develope
+[01:47:53]   W040 +  4 sh:principal engineer
+[01:47:54]   W017 + 20 sh:cloud architect
+[01:47:54]   W012 +  7 sh:C++ engineer
+[01:47:54]   W004 + 20 sh:machine learning eng
+[01:47:54]   W061 + 34 dc:principal engineer
+[01:47:54]   W066 + 20 sh:game developer
+[01:47:54]   W055 + 34 dc:AI engineer
+[01:47:55]   W002 + 20 sh:java developer
+[01:47:56]   W022 + 34 dc:cybersecurity engine
+[01:47:56]   W079 + 20 sh:backend engineer
+[01:47:57]   W061 +  6 sh:release engineer
+[01:47:57]   W033 + 20 sh:design engineer
+[01:47:57]   W011 + 20 sh:react developer
+[01:47:57]   W014 + 31 dc:information security
+[01:47:57]   W024 + 20 sh:compiler engineer
+[01:47:57]   W060 + 34 dc:cloud engineer
+[01:47:57]   W025 + 34 dc:security engineer
+[01:47:58]   W044 + 34 dc:Kubernetes administr
+[01:47:58]   W007 + 34 dc:security engineer
+[01:47:58]   W021 + 20 sh:software developer
+[01:47:58]   W086 + 34 dc:devops engineer
+[01:47:59]   W019 + 34 dc:Kotlin developer
+[01:47:59]   W071 + 30 dc:Spark engineer
+[01:48:00]   W022 + 34 dc:LLM engineer
+[01:48:00]   W065 + 20 sh:firmware engineer
+[01:48:01]   W033 + 20 sh:payments engineer
+[01:48:02]   W014 + 20 sh:build engineer
+[01:48:03]   W097 + 14 sh:TypeScript developer
+[01:48:05]   W066 + 30 dc:platform engineer
+[01:48:06]   W026 +  7 dc:React Native develop
+[01:48:07]   W013 + 34 dc:QA engineer
+[01:48:08]   W034 + 34 dc:Django developer
+[01:48:08]   W010 + 34 dc:design engineer
+[01:48:08]   W004 + 34 dc:AI engineer
+[01:48:09]   W060 + 34 dc:Docker engineer
+[01:48:09]   W074 + 20 sh:tech lead
+[01:48:09]   W025 + 34 dc:analytics engineer
+[01:48:09]   W011 + 34 dc:ML engineer
+[01:48:09]   W014 +  3 sh:cloud architect
+[01:48:09]   W067 + 20 sh:software engineer
+[01:48:09]   W007 + 17 sh:software engineer
+[01:48:09]   W014 + 20 sh:fintech engineer
+[01:48:19]   [R1] DB=732,507 | +357 | 108/min | Gap=267,493 | iters=287
+[01:48:20]   W026 + 20 sh:build engineer
+[01:48:21]   W043 +  6 dc:FastAPI developer
+[01:48:21]   W059 +  9 dc:graphics engineer
+[01:48:24]   W070 + 30 dc:release engineer
+[01:48:24]   W012 +  7 dc:Redis engineer
+[01:48:24]   W028 +  6 dc:FastAPI developer
+[01:48:24]   W017 +  4 dc:fintech engineer
+[01:48:25]   W076 + 34 dc:cloud engineer
+[01:48:25]   W013 + 10 dc:Elasticsearch engine
+[01:48:25]   W034 + 13 dc:kernel engineer
+[01:48:28]   W042 +  6 dc:FastAPI developer
+[01:48:30]   W043 + 34 dc:analytics engineer
+[01:48:30]   W023 + 34 dc:AWS engineer
+[01:48:30]   W014 + 20 sh:PostgreSQL engineer
+[01:48:30]   W016 + 20 sh:Terraform developer
+[01:48:30]   W011 + 30 dc:microservices engine
+[01:48:30]   W087 + 34 dc:rust developer
+[01:48:32]   W059 + 20 sh:Docker engineer
+[01:48:32]   W013 + 20 sh:Azure engineer
+[01:48:32]   W008 + 34 dc:Android developer
+[01:48:32]   W089 + 34 dc:scrum master
+[01:48:32]   W088 + 34 dc:Scala developer
+[01:48:32]   W042 + 20 sh:product manager
+[01:48:32]   W039 + 34 dc:devops engineer
+[01:48:33]   W043 + 20 sh:payments engineer
+[01:48:33]   W004 + 20 sh:web developer
+[01:48:35]   W035 + 34 dc:GenAI engineer
+[01:48:38]   W026 + 31 dc:full stack engineer
+[01:48:39]   W042 + 30 dc:technical writer
+[01:48:40]   W014 + 34 dc:GCP engineer
+[01:48:44]   W013 + 34 dc:security engineer
+[01:48:46]   W063 + 20 dc:payments engineer
+[01:48:46]   W040 + 34 dc:python developer
+[01:48:46]   W066 + 34 dc:platform engineer
+[01:48:47]   W097 + 31 dc:information security
+[01:48:47]   W012 + 34 dc:backend engineer
+[01:48:47]   W008 + 20 sh:tech lead
+[01:48:47]   W035 + 20 sh:MongoDB engineer
+[01:48:47]   W037 + 10 dc:Elasticsearch engine
+[01:48:47]   W052 +  9 dc:compiler engineer
+[01:48:47]   W018 + 20 sh:TypeScript developer
+[01:48:48]   W073 +  5 dc:Elixir developer
+[01:48:49]   W087 + 20 sh:ML engineer
+[01:48:49]   W037 +  2 sh:full stack developer
+[01:48:49]   W014 + 20 sh:CI/CD engineer
+[01:48:50]   [R1] DB=732,541 | +389 | 102/min | Gap=267,459 | iters=333
+[01:48:54]   W017 + 20 sh:C++ engineer
+[01:48:54]   W097 + 21 dc:payments engineer
+[01:48:54]   W043 + 34 dc:scrum master
+[01:48:55]   W017 + 34 dc:C# developer
+[01:48:55]   W061 + 34 dc:junior software engi
+[01:48:55]   W013 + 29 dc:Vue developer
+[01:48:55]   W014 + 30 dc:Kotlin developer
+[01:48:55]   W040 + 31 dc:principal engineer
+[01:48:55]   W066 +  5 sh:embedded engineer
+[01:48:59]   W027 +  3 sh:solutions architect
+[01:49:06]   W029 + 10 dc:Elasticsearch engine
+[01:49:07]   W098 +  7 dc:React Native develop
+[01:49:07]   W017 +  5 dc:fintech engineer
+[01:49:07]   W061 + 22 dc:deep learning engine
+[01:49:08]   W040 + 34 dc:senior software engi
+[01:49:09]   W075 + 32 dc:iOS developer
+[01:49:10]   W022 + 34 dc:Django developer
+[01:49:11]   W061 + 34 dc:MongoDB engineer
+[01:49:11]   W098 + 30 dc:node developer
+[01:49:13]   W066 +  6 sh:build engineer
+[01:49:14]   W075 + 20 sh:MongoDB engineer
+[01:49:14]   W013 + 24 dc:iOS developer
+[01:49:15]   W049 + 19 dc:big data engineer
+[01:49:18]   W054 +  7 sh:game developer
+[01:49:18]   W032 + 20 sh:mobile developer
+[01:49:18]   W017 + 13 sh:technical writer
+[01:49:18]   W077 +  3 sh:Kubernetes administr
+[01:49:18]   W092 + 20 sh:technical writer
+[01:49:18]   W021 + 20 sh:distributed systems 
+[01:49:19]   W083 +  5 dc:Elixir developer
+[01:49:19]   W046 + 34 dc:Android developer
+[01:49:19]   W022 + 34 dc:C# developer
+[01:49:20]   W078 + 34 dc:Kotlin developer
+[01:49:20]   W014 + 34 dc:Spring Boot develope
+[01:49:20]   W020 + 30 dc:mobile developer
+[01:49:21]   W008 + 31 dc:automation engineer
+[01:49:22]   W013 + 32 dc:principal engineer
+[01:49:22]   W039 + 34 dc:Kotlin developer
+[01:49:23]   W049 + 34 dc:design engineer
+[01:49:23]   W059 + 20 sh:UX engineer
+[01:49:23]   W040 + 22 dc:deep learning engine
+[01:49:23]   W054 + 20 sh:systems engineer
+[01:49:24]   W004 + 20 sh:frontend engineer
+[01:49:24]   W026 + 20 sh:solutions architect
+[01:49:24]   W066 + 34 dc:GenAI engineer
+[01:49:24]   W078 + 34 dc:junior software engi
+[01:49:24]   W002 + 10 dc:Elasticsearch engine
+[01:49:25]   W044 + 34 dc:site reliability eng
+[01:49:27]   W096 + 34 dc:embedded engineer
+[01:49:27]   W034 +  5 dc:Flutter developer
+[01:49:27]   W058 + 20 sh:cloud security engin
+[01:49:27]   [R1] DB=732,571 | +419 | 94/min | Gap=267,429 | iters=390
+[01:49:28]   W092 + 34 dc:analytics engineer
+[01:49:28]   W029 + 34 dc:data scientist
+[01:49:29]   W078 + 15 dc:Hadoop engineer
+[01:49:29]   W002 + 30 dc:technical writer
+[01:49:29]   W025 + 34 dc:full stack engineer
+[01:49:29]   W066 + 20 sh:Elixir developer
+[01:49:29]   W077 +  9 dc:Ruby developer
+[01:49:29]   W017 + 20 sh:solutions architect
+[01:49:30]   W040 + 34 dc:go developer
+[01:49:30]   W072 + 17 sh:node developer
+[01:49:30]   W014 + 34 dc:Kubernetes administr
+[01:49:30]   W044 + 30 dc:site reliability eng
+[01:49:30]   W059 + 20 sh:technical writer
+[01:49:31]   W083 + 20 sh:AWS engineer
+[01:49:31]   W051 + 31 dc:data engineer
+[01:49:31]   W034 + 20 sh:Docker engineer
+[01:49:31]   W077 +  5 sh:DevOps
+[01:49:32]   W035 +  6 sh:go developer
+[01:49:33]   W039 + 20 sh:web developer
+[01:49:35]   W076 +  8 sh:infrastructure engin
+[01:49:35]   W024 + 34 dc:junior software engi
+[01:49:35]   W022 + 31 dc:firmware engineer
+[01:49:35]   W065 +  2 sh:AWS engineer
+[01:49:35]   W017 +  8 dc:React Native develop
+[01:49:35]   W022 + 34 dc:Hadoop engineer
+[01:49:36]   W075 + 34 dc:Android developer
+[01:49:38]   W046 + 34 dc:C# developer
+[01:49:38]   W007 +  9 sh:PostgreSQL engineer
+[01:49:39]   W002 + 34 dc:software engineer
+[01:49:39]   W068 + 13 sh:graphics engineer
+[01:49:40]   W026 + 31 dc:full stack engineer
+[01:49:40]   W022 + 10 dc:Swift developer
+[01:49:40]   W022 + 34 dc:python developer
+[01:49:40]   W056 + 20 sh:AWS engineer
+[01:49:42]   W055 + 10 dc:Swift developer
+[01:49:42]   W092 + 34 dc:scrum master
+[01:49:42]   W065 +  7 dc:Redis engineer
+[01:49:44]   W042 + 34 dc:golang developer
+[01:49:44]   W035 + 34 dc:data engineer
+[01:49:44]   W027 + 30 dc:microservices engine
+[01:49:44]   W067 +  2 sh:GenAI engineer
+[01:49:44]   W023 +  3 sh:data engineer
+[01:49:44]   W083 +  5 sh:blockchain developer
+[01:49:45]   W002 + 20 sh:frontend engineer
+[01:49:45]   W085 + 20 sh:data analyst
+[01:49:45]   W018 +  3 sh:java developer
+[01:49:45]   W055 + 34 dc:network engineer
+[01:49:46]   W035 +  5 dc:Elixir developer
+[01:49:46]   W092 + 34 dc:.NET developer
+[01:49:48]   W022 + 34 dc:API engineer
+[01:49:48]   W022 + 34 dc:software engineer
+[01:49:48]   W002 + 20 sh:ML engineer
+[01:49:48]   W012 + 20 sh:Docker engineer
+[01:49:49]   W018 +  5 sh:LLM engineer
+[01:49:52]   W070 + 20 sh:systems engineer
+[01:49:52]   W048 + 20 sh:java developer
+[01:49:55]   W023 + 34 dc:GenAI engineer
+[01:49:56]   W022 + 30 dc:site reliability eng
+[01:49:56]   W022 + 34 dc:go developer
+[01:49:57]   W014 + 34 dc:frontend engineer
+[01:49:58]   W027 +  5 dc:Flutter developer
+[01:49:58]   W037 + 34 dc:software engineer
+[01:49:58]   W037 + 30 dc:database engineer
+[01:49:59]   W035 + 34 dc:senior software engi
+[01:49:59]   W021 + 20 sh:software engineer
+[01:49:59]   W085 + 20 sh:tech lead
+[01:49:59]   W010 + 20 sh:software developer
+[01:50:00]   [R1] DB=732,745 | +593 | 119/min | Gap=267,255 | iters=459
+[01:50:00]   W056 + 30 dc:database engineer
+[01:50:00]   W044 + 30 dc:mobile developer
+[01:50:02]   W072 + 20 sh:.NET developer
+[01:50:02]   W054 +  2 sh:PostgreSQL engineer
+[01:50:03]   W080 +  2 sh:product manager
+[01:50:04]   W029 + 20 sh:GCP engineer
+[01:50:04]   W037 +  7 dc:Redis engineer
+[01:50:05]   W068 +  5 sh:ML engineer
+[01:50:05]   W037 + 20 sh:principal engineer
+[01:50:05]   W013 + 34 dc:security engineer
+[01:50:05]   W039 +  8 dc:compiler engineer
+[01:50:06]   W017 + 30 dc:Kubernetes engineer
+[01:50:07]   W061 + 34 dc:python developer
+[01:50:07]   W035 + 30 dc:Ansible engineer
+[01:50:07]   W031 + 34 dc:systems engineer
+[01:50:07]   W043 + 34 dc:machine learning eng
+[01:50:07]   W086 + 34 dc:UX engineer
+[01:50:08]   W027 + 19 sh:Android developer
+[01:50:08]   W008 + 30 dc:systems programmer
+[01:50:08]   W066 +  2 sh:GenAI engineer
+[01:50:09]   W042 +  5 dc:Elixir developer
+[01:50:10]   W032 + 20 sh:C++ engineer
+[01:50:10]   W014 + 30 dc:full stack developer
+[01:50:10]   W027 + 34 dc:AI engineer
+[01:50:10]   W061 +  8 dc:graphics engineer
+[01:50:11]   W071 + 20 sh:infrastructure engin
+[01:50:11]   W067 + 20 sh:TypeScript developer
+[01:50:11]   W008 +  8 sh:QA engineer
+[01:50:11]   W032 + 20 sh:junior software engi
+[01:50:12]   W031 + 30 dc:Ansible engineer
+[01:50:12]   W094 + 20 sh:fintech engineer
+[01:50:12]   W026 + 34 dc:golang developer
+[01:50:13]   W054 + 34 dc:API engineer
+[01:50:13]   W029 + 20 sh:compiler engineer
+[01:50:14]   W019 + 20 sh:full stack engineer
+[01:50:14]   W003 + 34 dc:senior software engi
+[01:50:16]   W048 + 20 sh:kernel engineer
+[01:50:20]   W062 + 19 dc:big data engineer
+[01:50:21]   W042 + 34 dc:QA engineer
+[01:50:21]   W002 + 30 dc:react developer
+[01:50:22]   W010 + 34 dc:LLM engineer
+[01:50:23]   W015 + 15 dc:Hadoop engineer
+[01:50:24]   W094 + 20 sh:data scientist
+[01:50:24]   W030 + 30 dc:node developer
+[01:50:24]   W011 + 30 dc:distributed systems 
+[01:50:26]   W001 + 30 dc:data scientist
+[01:50:27]   W017 + 20 sh:tech lead
+[01:50:28]   W000 + 10 dc:Elasticsearch engine
+[01:50:28]   W048 + 20 sh:MongoDB engineer
+[01:50:28]   W032 + 34 dc:Android developer
+[01:50:28]   W037 + 34 dc:MongoDB engineer
+[01:50:28]   W030 + 34 dc:tech lead
+[01:50:30]   W011 + 30 dc:C# developer
+[01:50:31]   W014 + 21 dc:Redis engineer
+[01:50:31]   W068 + 34 dc:Kafka engineer
+[01:51:28]   [R1] DB=732,830 | +677 | 105/min | Gap=267,170 | iters=517
+[01:51:30]   W058 + 11 dc:kernel engineer
+[01:51:30]   W094 + 20 sh:payments engineer
+[01:51:36]   W048 + 20 sh:node developer
+[01:51:46]   W008 + 28 dc:Vue developer
+[01:51:53]   W069 + 13 dc:kernel engineer
+[01:52:12]   W006 + 30 dc:platform engineer
+[01:52:20]   W090 + 34 dc:network engineer
+[01:52:24]   W016 + 30 dc:embedded engineer
+[01:52:42]   W054 + 34 dc:python developer
+[01:52:48]   W067 + 34 dc:UX engineer
+[01:52:55]   [R1] DB=732,871 | +718 | 91/min | Gap=267,129 | iters=527
+[01:53:26]   [R1] DB=732,871 | +718 | 85/min | Gap=267,129 | iters=527
+[01:53:40]   W048 +  6 sh:kernel engineer
+[01:53:49]   W096 + 20 sh:analytics engineer
+[01:53:58]   W096 + 20 sh:go developer
+[01:54:11]   [R1] DB=732,883 | +730 | 80/min | Gap=267,117 | iters=532
+[01:54:19]   W047 + 20 sh:release engineer
+[01:54:31]   W024 + 20 sh:Redis engineer
+[01:54:34]   W090 + 20 sh:penetration tester
+[01:54:45]   W011 + 20 sh:C# developer
+[01:54:45]   [R1] DB=732,921 | +768 | 79/min | Gap=267,079 | iters=537
+[01:54:48]   W040 +  2 sh:payments engineer
+[01:54:57]   W025 +  3 sh:payments engineer
+[01:54:59]   W005 + 14 sh:Elasticsearch engine
+[01:55:02]   W024 +  3 sh:Spark engineer
+[01:55:03]   W077 +  2 sh:react developer
+[01:55:09]   W039 +  5 sh:ML engineer
+[01:55:12]   W027 +  3 sh:cloud architect
+[01:55:17]   [R1] DB=732,930 | +777 | 76/min | Gap=267,070 | iters=544
+[01:55:19]   W049 + 20 sh:infrastructure engin
+[01:55:53]   W061 + 20 sh:AI engineer
+[01:55:59]   [R1] DB=732,943 | +790 | 72/min | Gap=267,057 | iters=546
+[01:56:02]   W030 + 10 sh:data engineer
+[01:56:05]   W013 +  3 sh:iOS developer
+[01:56:08]   W088 +  4 sh:Scala developer
+[01:56:09]   W041 + 13 sh:go developer
+[01:56:13]   W012 + 20 sh:software developer
+[01:56:14]   W015 + 20 sh:systems engineer
+[01:56:17]   W042 + 15 sh:cloud security engin
+[01:56:19]   W015 + 20 sh:Kafka engineer
+[01:56:20]   W028 + 20 sh:Kafka engineer
+[01:56:21]   W008 + 20 sh:embedded engineer
+[01:56:23]   W065 + 20 sh:Spark engineer
+[01:56:24]   W002 + 20 sh:Android developer
+[01:56:36]   W030 + 20 sh:kernel engineer
+[01:56:37]   [R1] DB=732,951 | +798 | 69/min | Gap=267,049 | iters=559
+[01:56:40]   W097 + 20 sh:security engineer
+[01:56:43]   W004 + 20 sh:platform engineer
+[01:56:45]   W094 +  7 sh:network engineer
+[01:56:46]   W034 + 10 sh:design engineer
+[01:56:48]   W028 + 20 sh:go developer
+[01:56:49]   W001 + 17 sh:PHP developer
+[01:56:50]   W034 +  7 sh:Kotlin developer
+[01:56:53]   W018 + 20 sh:product manager
+[01:56:55]   W097 + 20 sh:systems programmer
+[01:56:57]   W028 + 20 sh:firmware engineer
+[01:57:00]   W083 + 20 sh:Redis engineer
+[01:57:05]   W013 + 15 sh:compiler engineer
+[01:57:07]   W069 + 20 sh:product manager
+[01:57:11]   W083 + 20 sh:TypeScript developer
+[01:57:13]   [R1] DB=733,012 | +859 | 70/min | Gap=266,988 | iters=573
+[01:57:16]   W081 + 20 sh:systems engineer
+[01:57:27]   W030 + 20 sh:principal engineer
+[01:57:33]   W030 +  2 sh:Ruby developer
+[01:57:45]   W027 + 20 sh:tech lead
+[01:57:51]   W013 + 20 sh:payments engineer
+[01:57:54]   W027 + 20 sh:build engineer
+[01:57:54]   [R1] DB=733,025 | +872 | 68/min | Gap=266,975 | iters=580
+[01:58:03]   W044 +  8 sh:platform engineer
+[01:58:06]   W004 +  2 sh:product manager
+[01:58:08]   W017 + 20 sh:React Native develop
+[01:58:15]   W050 + 20 sh:rust developer
+[01:58:17]   W004 + 20 sh:AWS engineer
+[01:58:23]   W015 + 20 sh:Scala developer

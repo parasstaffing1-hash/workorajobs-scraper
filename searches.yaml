@@ -1,0 +1,72 @@
+# searches.yaml — 1 keyword per search for fast completion
+# Each search runs JobSpy (LinkedIn+Indeed) with offset pagination until duplicates
+searches:
+  # NCR recruiting roles
+  - keywords: "US IT Recruiter"
+    locations: "Delhi"
+    hours: 168
+  - keywords: "IT Recruiter"
+    locations: "Noida"
+    hours: 168
+  - keywords: "Talent Acquisition"
+    locations: "Gurgaon"
+    hours: 168
+
+  # Bengaluru core
+  - keywords: "Software Engineer"
+    locations: "Bengaluru"
+    hours: 168
+  - keywords: "Backend Engineer"
+    locations: "Bengaluru"
+    hours: 168
+  - keywords: "Data Engineer"
+    locations: "Bengaluru"
+    hours: 168
+
+  # Hyderabad
+  - keywords: "Software Engineer"
+    locations: "Hyderabad"
+    hours: 168
+  - keywords: "DevOps Engineer"
+    locations: "Hyderabad"
+    hours: 168
+
+  # Pune
+  - keywords: "Software Engineer"
+    locations: "Pune"
+    hours: 168
+  - keywords: "SDE"
+    locations: "Pune"
+    hours: 168
+
+  # Chennai
+  - keywords: "Java Developer"
+    locations: "Chennai"
+    hours: 168
+  - keywords: "Python Developer"
+    locations: "Chennai"
+    hours: 168
+
+  # Mumbai
+  - keywords: "Full Stack Developer"
+    locations: "Mumbai"
+    hours: 168
+  - keywords: "React Developer"
+    locations: "Mumbai"
+    hours: 168
+
+  # Kolkata
+  - keywords: "Software Engineer"
+    locations: "Kolkata"
+    hours: 168
+
+  # Remote / anywhere
+  - keywords: "Machine Learning Engineer"
+    locations: ""
+    hours: 168
+  - keywords: "DevOps Engineer"
+    locations: ""
+    hours: 168
+  - keywords: "Cloud Engineer"
+    locations: ""
+    hours: 168

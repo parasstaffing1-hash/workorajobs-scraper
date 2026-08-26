@@ -1,0 +1,14 @@
+# Install: cp jobcollect.service jobcollect.timer /etc/systemd/system/
+#          systemctl daemon-reload && systemctl enable --now jobcollect.timer
+[Unit]
+Description=Daily job collection (jobcollector)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+WorkingDirectory=/opt/jobcollector
+ExecStart=/opt/jobcollector/.venv/bin/jobcollect collect --config companies.yaml
+# Hardening
+NoNewPrivileges=true
+PrivateTmp=true

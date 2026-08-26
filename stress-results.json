@@ -1,0 +1,78 @@
+{
+  "metrics": {
+    "rows": 100000,
+    "ingest_per_row_secs": 16.496141499999794,
+    "ingest_per_row_rate": 12.124047311306253,
+    "ingest_bulk_secs": 7.927615599997807,
+    "ingest_bulk_rate": 12588.905042271172,
+    "search_p95": 0.10493599999972503,
+    "search_source_p95": 0.0008651999996800441,
+    "search_since_p95": 0.07652819999930216,
+    "stats_secs": 0.019460600000456907,
+    "export_secs": 5.8634397000023455,
+    "api_page10k_secs": 1.2452168000017991,
+    "api_paging_secs": 35.49919670000236,
+    "api_p95": 0.3750292000004265,
+    "api_concurrent_throughput": 12.645033346038966,
+    "api_concurrent_p95": 1.7539329999999609,
+    "dashboard_secs": 0.10518889999730163,
+    "sheets_secs": 27.72804349999933,
+    "total_secs": 128.78156429999945,
+    "integrity": {
+      "row_count": true,
+      "unique_keys": true,
+      "all_active": true,
+      "no_empty_fields": true,
+      "posted_last_24h": true,
+      "source_spread": true,
+      "api_page10k_count": true,
+      "api_paging_full": true,
+      "sheets_row_count": true
+    }
+  },
+  "thresholds": {
+    "bulk_rate_min": [
+      2000.0,
+      "jobs/s batched ingest"
+    ],
+    "search_p95_max": [
+      0.25,
+      "s search p95"
+    ],
+    "stats_max": [
+      0.5,
+      "s stats()"
+    ],
+    "export_100k_max": [
+      60.0,
+      "s full CSV export"
+    ],
+    "api_page10k_max": [
+      5.0,
+      "s one 10k-row API page"
+    ],
+    "api_p95_max": [
+      1.0,
+      "s API p95 (limit=1000)"
+    ],
+    "api_throughput_min": [
+      5.0,
+      "req/s concurrent API"
+    ],
+    "dashboard_max": [
+      30.0,
+      "s dashboard render"
+    ]
+  },
+  "passed": {
+    "integrity": true,
+    "bulk_rate": true,
+    "search_p95": true,
+    "stats": true,
+    "export": true,
+    "api_page10k": true,
+    "api_p95": true,
+    "api_throughput": true,
+    "dashboard": true
+  }
+}

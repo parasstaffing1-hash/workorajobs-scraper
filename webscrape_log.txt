@@ -1,0 +1,319 @@
+[18:58:25] ============================================================
+[18:58:25] UNIVERSAL WEB SCRAPER v2 — 12 workers, 7 sites
+[18:58:25] ============================================================
+[18:58:25] Total work items: 332,838
+[18:58:25] Done: 0 | Remaining: 332,838
+[18:58:25] DB: 556,168 | Gap: 443,832
+[18:58:36] ============================================================
+[18:58:36] UNIVERSAL WEB SCRAPER v2 — 12 workers, 7 sites
+[18:58:36] ============================================================
+[18:58:36] Total work items: 332,838
+[18:58:36] Done: 0 | Remaining: 332,838
+[18:58:36] DB: 556,168 | Gap: 443,832
+[18:58:40] Loaded 556,168 dedup keys
+[18:58:40] Launching 12 browser workers on 332,838 items...
+[18:59:24]   W01 + 16 indeed:.NET developer|Dubai|p2
+[18:59:24]   W00 + 20 dice:MLOps|Pune|p6
+[18:59:24]   W04 + 20 dice:full stack developer|Seattle|p7
+[18:59:24]   W05 +  4 indeed:Android developer|Sydney|p5
+[18:59:24]   W08 + 20 glassdoor:contract|Prague|p2
+[18:59:24]   W11 + 20 glassdoor:kotlin developer|Beijing|p0
+[18:59:24]   W10 + 20 dice:Spark|Barcelona|p6
+[18:59:24]   W07 + 17 dice:database engineer|Kochi|p2
+[18:59:24]   W09 + 20 dice:Node.js|Vancouver|p6
+[18:59:24]   W06 +  3 indeed:Linux|Paris|p6
+[18:59:24]   W02 + 17 dice:Next.js|Tel Aviv|p2
+[19:00:03]   W08 +  8 dice:Ruby on Rails|Vienna|p2
+[19:00:05]   W00 + 16 indeed:Python|Boston|p6
+[19:00:12]   W04 + 16 indeed:GraphQL|Gurgaon|p5
+[19:00:17]   W10 +  8 indeed:aws engineer|Madrid|p2
+[19:00:28]   W03 + 20 glassdoor:SRE|Seoul|p2
+[19:00:36]   W01 + 19 dice:Angular developer|Tel Aviv|p0
+[19:00:38]   W11 +  5 indeed:computer vision engi|Vancouver|p4
+[19:00:54]   [200] +203 | DB=556,520 | 91/min | Gap=443,480 | dice:57 glassdoor:21 google:7 indeed:81 naukri:29 simplyhired:52 ziprecruiter:24
+[19:00:55]   W05 +  3 dice:Spring Boot|Jaipur|p1
+[19:01:01]   W00 +  3 dice:TypeScript|Manchester|p1
+[19:01:21] ============================================================
+[19:01:21] UNIVERSAL WEB SCRAPER v2 — 12 workers, 7 sites
+[19:01:21] ============================================================
+[19:01:21] Total work items: 332,838
+[19:01:22] Done: 0 | Remaining: 332,838
+[19:01:23] DB: 556,606 | Gap: 443,394
+[19:02:38] ============================================================
+[19:02:38] UNIVERSAL WEB SCRAPER v2 — 12 workers, 7 sites
+[19:02:38] ============================================================
+[19:02:38] Total work items: 332,838
+[19:02:39] Done: 0 | Remaining: 332,838
+[19:02:39] DB: 556,606 | Gap: 443,394
+[19:03:00] ============================================================
+[19:03:00] UNIVERSAL WEB SCRAPER v2 — 12 workers, 7 sites
+[19:03:00] ============================================================
+[19:03:00] Total work items: 332,838
+[19:03:01] Done: 0 | Remaining: 332,838
+[19:03:02] DB: 556,606 | Gap: 443,394
+[19:03:14] ============================================================
+[19:03:14] UNIVERSAL WEB SCRAPER v2 — 12 workers, 7 sites
+[19:03:14] ============================================================
+[19:03:14] Total work items: 332,838
+[19:03:16] Done: 0 | Remaining: 332,838
+[19:03:16] DB: 556,606 | Gap: 443,394
+[19:03:28] ============================================================
+[19:03:28] UNIVERSAL WEB SCRAPER v2 — 12 workers, 7 sites
+[19:03:28] ============================================================
+[19:03:28] Total work items: 332,838
+[19:04:01] ============================================================
+[19:04:01] UNIVERSAL WEB SCRAPER v2 — 12 workers, 7 sites
+[19:04:01] ============================================================
+[19:04:01] Total work items: 332,838
+[19:04:02] Done: 0 | Remaining: 332,838
+[19:04:02] DB: 556,606 | Gap: 443,394
+[19:04:14] ============================================================
+[19:04:14] UNIVERSAL WEB SCRAPER v2 — 12 workers, 7 sites
+[19:04:14] ============================================================
+[19:04:15] Total work items: 332,838
+[19:04:15] Done: 0 | Remaining: 332,838
+[19:04:15] DB: 556,606 | Gap: 443,394
+[19:04:19] Loaded 556,606 dedup keys
+[19:04:20] Launching 12 browser workers on 332,838 items...
+[19:04:37] ============================================================
+[19:04:37] UNIVERSAL WEB SCRAPER v2 — 12 workers, 7 sites
+[19:04:37] ============================================================
+[19:04:37] Total work items: 332,838
+[19:04:37] Done: 0 | Remaining: 332,838
+[19:04:38] DB: 556,606 | Gap: 443,394
+[19:05:01] ============================================================
+[19:05:01] UNIVERSAL WEB SCRAPER v2 — 12 workers, 7 sites
+[19:05:01] ============================================================
+[19:05:01] Total work items: 332,838
+[19:05:01] Done: 0 | Remaining: 332,838
+[19:05:01] DB: 556,606 | Gap: 443,394
+[19:05:03] Loaded 556,606 dedup keys
+[19:05:12] ============================================================
+[19:05:12] UNIVERSAL WEB SCRAPER v2 — 12 workers, 7 sites
+[19:05:12] ============================================================
+[19:05:12] Total work items: 332,838
+[19:05:12] Done: 0 | Remaining: 332,838
+[19:05:12] DB: 556,606 | Gap: 443,394
+[19:05:19] ============================================================
+[19:05:19] UNIVERSAL WEB SCRAPER v2 — 12 workers, 7 sites
+[19:05:19] ============================================================
+[19:05:19] Total work items: 332,838
+[19:05:20] Done: 0 | Remaining: 332,838
+[19:05:20] DB: 556,606 | Gap: 443,394
+[19:05:21] Loaded 556,606 dedup keys
+[19:05:29] ============================================================
+[19:05:29] UNIVERSAL WEB SCRAPER v2 — 12 workers, 7 sites
+[19:05:29] ============================================================
+[19:05:29] Total work items: 332,838
+[19:05:30] Done: 0 | Remaining: 332,838
+[19:05:30] DB: 556,606 | Gap: 443,394
+[19:05:38] ============================================================
+[19:05:38] UNIVERSAL WEB SCRAPER v2 — 12 workers, 7 sites
+[19:05:38] ============================================================
+[19:05:38] Total work items: 332,838
+[19:05:39] Done: 0 | Remaining: 332,838
+[19:05:39] DB: 556,606 | Gap: 443,394
+[19:05:40] Loaded 556,606 dedup keys
+[19:05:41] Launching 12 browser workers on 332,838 items...
+[19:05:52] ============================================================
+[19:05:52] UNIVERSAL WEB SCRAPER v2 — 12 workers, 7 sites
+[19:05:52] ============================================================
+[19:05:52] Total work items: 332,838
+[19:05:52] Done: 0 | Remaining: 332,838
+[19:05:52] DB: 556,606 | Gap: 443,394
+[19:05:53] Loaded 556,606 dedup keys
+[19:05:54] Launching 12 browser workers on 332,838 items...
+[19:06:04]   W10 FATAL: 'PlaywrightContextManager' object has no attribute '_playwright'
+[19:06:04]   W06 FATAL: 'PlaywrightContextManager' object has no attribute '_playwright'
+[19:06:11]   W03 +  9 dice:Java|Vienna|p5
+[19:06:17]   W05 + 20 dice:AWS|Washington D|p6
+[19:06:24]   W00 + 19 dice:python developer|Paris|p0
+[19:06:26]   W08 + 17 glassdoor:intern|Jaipur|p0
+[19:06:34]   W11 + 19 glassdoor:Airflow|Remote|p2
+[19:06:35]   W07 + 20 dice:MongoDB|Paris|p3
+[19:06:38]   W08 + 15 indeed:staff engineer|London|p3
+[19:06:43]   W02 +  8 dice:Angular|San Francisc|p0
+[19:06:59]   W05 + 20 dice:kubernetes engineer|Melbourne|p6
+[19:06:59]   W11 + 20 dice:kotlin developer||p2
+[19:07:01]   W02 + 19 dice:Principal Engineer|Shanghai|p6
+[19:07:01]   [200] +186 | DB=556,792 | 167/min | Gap=443,208 | dice:49 glassdoor:14 google:9 indeed:45 naukri:30 simplyhired:32 ziprecruiter:21
+[19:07:24]   W05 + 16 indeed:Scala|Mexico City|p5
+[19:07:31]   [400] +202 | DB=556,808 | 125/min | Gap=443,192 | dice:88 glassdoor:31 google:15 indeed:88 naukri:51 simplyhired:70 ziprecruiter:57
+[19:10:10] ============================================================
+[19:10:10] UNIVERSAL WEB SCRAPER v2 — 8 workers, 7 sites
+[19:10:10] ============================================================
+[19:10:10] Total work items: 332,838
+[19:10:11] Done: 500 | Remaining: 332,338
+[19:10:11] DB: 556,808 | Gap: 443,192
+[19:10:14] Loaded 556,808 dedup keys
+[19:10:15] Launching 8 browser workers on 332,338 items...
+[19:11:00]   W07 + 16 indeed:UX designer|New York|p5
+[19:11:14]   W01 + 12 glassdoor:C++ engineer|Coimbatore|p0
+[19:11:26]   W02 + 16 indeed:TypeScript|Seattle|p4
+[19:11:30]   W06 + 16 indeed:C#|Chandigarh|p5
+[19:11:33]   W00 + 13 indeed:ruby developer|Houston|p0
+[19:11:42]   W07 + 20 dice:Director of Engineer|Milan|p2
+[19:11:43]   W01 + 17 dice:staff engineer|Berlin|p3
+[19:11:44]   W00 + 20 dice:Spark|Charlotte|p3
+[19:11:54]   W02 + 20 dice:software engineer|Singapore|p6
+[19:12:00]   [200] +150 | DB=557,182 | 86/min | Gap=442,818 | dice:49 glassdoor:21 google:4 indeed:40 naukri:27 simplyhired:40 ziprecruiter:19
+[19:12:10]   W02 + 12 dice:Angular|Mexico City|p1
+[19:12:43] ============================================================
+[19:12:43] UNIVERSAL WEB SCRAPER v2 — 8 workers, 7 sites
+[19:12:43] ============================================================
+[19:12:43] Total work items: 332,838
+[19:12:44] Done: 500 | Remaining: 332,338
+[19:12:44] DB: 557,196 | Gap: 442,804
+[19:13:21] Loaded 557,196 dedup keys
+[19:13:24] Launching 8 browser workers on 332,338 items...
+[19:13:41]   W02 FATAL: [WinError 1455] The paging file is too small for this operation to complete
+[19:13:42]   W03 FATAL: 'PlaywrightContextManager' object has no attribute '_playwright'
+[19:13:42]   W05 FATAL: 'PlaywrightContextManager' object has no attribute '_playwright'
+[19:13:42]   W06 FATAL: 'PlaywrightContextManager' object has no attribute '_playwright'
+[19:14:13]   W07 + 17 dice:machine learning eng|Seoul|p7
+[19:14:20]   W04 + 18 glassdoor:aws engineer|Jakarta|p0
+[19:14:21]   W01 + 19 dice:Director of Engineer|Paris|p3
+[19:16:39] ============================================================
+[19:16:39] UNIVERSAL WEB SCRAPER v2 — 4 workers, 7 sites
+[19:16:39] ============================================================
+[19:16:39] Total work items: 332,838
+[19:16:40] Done: 0 | Remaining: 332,838
+[19:16:40] DB: 557,250 | Gap: 442,750
+[19:16:40] Loaded 557,250 dedup keys
+[19:16:41] Launching 4 browser workers on 332,838 items...
+[19:16:51] ============================================================
+[19:16:51] UNIVERSAL WEB SCRAPER v2 — 4 workers, 7 sites
+[19:16:51] ============================================================
+[19:16:51] Total work items: 332,838
+[19:16:51] Done: 0 | Remaining: 332,838
+[19:16:51] DB: 557,250 | Gap: 442,750
+[19:16:52] Loaded 557,250 dedup keys
+[19:16:52] Launching 4 browser workers on 332,838 items...
+[19:17:03]   W02 + 16 indeed:GraphQL|Sydney|p0
+[19:17:04]   W00 + 16 indeed:Spark|Taipei|p4
+[19:17:16]   W01 + 14 dice:Spring Boot|Milan|p6
+[19:17:16]   W03 + 12 glassdoor:Python|Coimbatore|p1
+[19:17:16]   W02 + 20 glassdoor:SDE|Montreal|p0
+[19:17:21]   W00 + 20 glassdoor:embedded systems eng|Nashville|p0
+[19:17:21]   W01 + 16 indeed:CI/CD|Bangalore|p2
+[19:17:38]   W00 + 20 dice:cloud architect|Copenhagen|p2
+[19:17:44]   W01 + 19 glassdoor:frontend developer|Hyderabad|p0
+[19:17:47]   W03 + 16 indeed:work from home|Shenzhen|p0
+[19:17:51]   W00 + 20 dice:CI/CD|Denver|p4
+[19:17:56]   W03 + 19 dice:QA engineer|Houston|p5
+[19:17:56]   W02 + 19 dice:Kafka|Zurich|p5
+[19:18:11]   W02 + 19 dice:Deep Learning|Taipei|p1
+[19:18:11]   W03 + 19 dice:MLOps|Singapore|p0
+[19:18:12]   W00 + 20 dice:data analyst|Dallas|p0
+[19:18:17]   W01 + 17 dice:SWE|Copenhagen|p0
+[19:18:17]   W02 + 17 dice:Spring Boot|Beijing|p5
+[19:18:17]   W00 + 18 dice:java developer|San Diego|p2
+[19:18:22]   W01 + 18 dice:Jenkins|Mumbai|p1
+[19:18:30]   W03 + 17 dice:engineering manager|Stockholm|p3
+[19:18:33]   W00 + 19 dice:engineering manager|Bengaluru|p7
+[19:18:41]   W02 + 15 dice:Terraform|Kochi|p5
+[19:19:00]   W03 + 20 dice:Jenkins|Seattle|p1
+[19:19:04]   W00 +  7 glassdoor:Angular|Raleigh|p2
+[19:19:54] ============================================================
+[19:19:54] UNIVERSAL WEB SCRAPER v2 — 4 workers, 7 sites
+[19:19:54] ============================================================
+[19:19:54] Total work items: 332,838
+[19:19:54] Done: 0 | Remaining: 332,838
+[19:19:55] DB: 557,785 | Gap: 442,215
+[19:20:22] Loaded 557,785 dedup keys
+[19:20:24] Launching 4 browser workers on 332,838 items...
+[19:21:12]   W02 +  4 indeed:swift developer|Melbourne|p7
+[19:21:15]   W03 + 20 glassdoor:django developer|Madrid|p1
+[19:21:15]   W00 + 10 glassdoor:engineering manager|Warsaw|p1
+[19:21:28]   W01 + 16 indeed:data engineer|Jaipur|p3
+[19:21:28]   W00 + 15 dice:Jenkins|Beijing|p2
+[19:21:30]   W03 + 16 indeed:product manager|Noida|p6
+[19:21:41]   W02 + 19 dice:gcp engineer|Lucknow|p1
+[19:21:46]   W01 + 18 dice:azure engineer|Dallas|p2
+[19:21:47]   W00 + 19 dice:distributed systems|Tampa|p3
+[19:21:59]   W02 +  5 glassdoor:Swift|Detroit|p1
+[19:22:06]   W03 + 19 dice:Azure|Noida|p4
+[19:22:06]   W01 + 18 glassdoor:Node.js|Lisbon|p2
+[19:22:07]   W02 + 17 dice:CI/CD|Singapore|p6
+[19:22:14]   W03 + 20 dice:SAP|Gurgaon|p3
+[19:22:41]   W01 + 20 dice:business analyst|Delhi|p0
+[19:22:56]   W01 + 13 dice:Vue.js|Dubai|p2
+[19:23:35]   [200] +250 | DB=558,194 | 79/min | Gap=441,806 | dice:47 glassdoor:14 google:5 indeed:66 naukri:29 simplyhired:25 ziprecruiter:14
+[19:23:46]   W00 + 18 dice:Airflow|Indore|p7
+[19:24:27]   W00 + 19 dice:GCP|Austin|p7
+[19:24:54]   W00 + 20 dice:MLOps|San Francisc|p1
+[19:24:55]   [400] +307 | DB=558,251 | 68/min | Gap=441,749 | dice:90 glassdoor:37 google:10 indeed:113 naukri:62 simplyhired:54 ziprecruiter:34
+[19:25:08]   W00 + 20 dice:intern|Seattle|p0
+[19:25:30]   W00 + 10 dice:GraphQL|Pune|p7
+[19:26:18]   [600] +337 | DB=558,281 | 57/min | Gap=441,719 | dice:136 glassdoor:56 google:15 indeed:159 naukri:92 simplyhired:89 ziprecruiter:53
+[19:26:28]   W00 + 16 dice:terraform engineer|Indore|p0
+[19:26:45]   W00 + 18 dice:Principal Engineer|Sydney|p0
+[19:27:37] ============================================================
+[19:27:37] UNIVERSAL WEB SCRAPER v2 — 6 workers, 7 sites
+[19:27:37] ============================================================
+[19:27:37] Total work items: 332,838
+[19:27:37] Done: 0 | Remaining: 332,838
+[19:27:37] DB: 558,315 | Gap: 441,685
+[19:27:38] Loaded 558,315 dedup keys
+[19:27:39] Launching 6 browser workers on 332,838 items...
+[19:27:41]   W00 + 20 dice:senior software engi|San Jose|p7
+[19:27:41]   [800] +371 | DB=558,335 | 51/min | Gap=441,665 | dice:189 glassdoor:77 google:19 indeed:205 naukri:127 simplyhired:115 ziprecruiter:70
+[19:27:49]   W00 + 15 dice:PostgreSQL|Amsterdam|p7
+[19:27:50]   W00 + 17 dice:remote|Bengaluru|p3
+[19:27:51]   W04 +  3 indeed:SRE|Lisbon|p0
+[19:27:53]   W01 + 16 dice:Principal Engineer|Milan|p2
+[19:27:54]   W00 + 19 dice:data analyst|Sao Paulo|p3
+[19:27:59]   W02 + 20 dice:Airflow|Los Angeles|p2
+[19:27:59]   W05 + 12 dice:typescript developer|Copenhagen|p5
+[19:27:59]   W00 + 16 dice:Ruby on Rails|Miami|p1
+[19:28:04]   W02 + 20 dice:AI engineer|Sao Paulo|p5
+[19:28:07]   W04 + 17 dice:MongoDB|Sao Paulo|p0
+[19:28:12]   W02 +  7 glassdoor:machine learning eng|Warsaw|p1
+[19:28:18]   W05 + 18 glassdoor:Principal Engineer|London|p1
+[19:28:24]   W00 + 19 dice:hiring now|Melbourne|p1
+[19:28:28]   W03 + 14 dice:Kubernetes|Minneapolis|p6
+[19:28:35]   W02 + 16 indeed:Spark|Bengaluru|p6
+[19:28:35]   W01 + 16 indeed:MySQL|Hyderabad|p0
+[19:28:40]   W00 + 19 dice:Salesforce developer|Toronto|p3
+[19:28:44]   W05 + 18 dice:Machine Learning|Remote|p7
+[19:28:45]   W01 + 14 glassdoor:Angular developer|San Francisc|p0
+[19:28:50]   W02 + 16 dice:Python|Oslo|p2
+[19:28:50]   W01 + 12 dice:Principal Engineer|San Francisc|p3
+[19:28:51]   W00 + 14 dice:azure engineer|Jaipur|p6
+[19:28:58]   W05 + 16 indeed:aws engineer|Detroit|p7
+[19:28:58]   W02 + 20 dice:work from home|Miami|p3
+[19:29:02]   [1,000] +462 | DB=558,715 | 53/min | Gap=441,285 | dice:239 glassdoor:93 google:23 indeed:250 naukri:166 simplyhired:135 ziprecruiter:94
+[19:29:03]   W00 + 14 dice:terraform engineer|Madrid|p1
+[19:29:10]   W02 + 19 dice:software engineer|Mumbai|p2
+[19:29:14]   W00 + 17 dice:machine learning eng|Los Angeles|p5
+[19:29:18]   W05 + 14 dice:CI/CD|Paris|p3
+[19:29:32]   W01 + 17 dice:C#|Minneapolis|p6
+[19:29:32]   W02 + 12 dice:PyTorch|Lisbon|p3
+[19:29:32]   W05 + 17 dice:senior software engi|Lisbon|p7
+[19:29:42]   W04 +  9 dice:terraform engineer|Shanghai|p2
+[19:29:45]   W03 + 20 dice:Linux|Berlin|p0
+[19:29:46]   W00 + 20 dice:software developer|Dallas|p4
+[19:29:49]   W02 + 14 dice:data scientist|Taipei|p6
+[19:29:49]   W03 +  4 dice:Django|Bengaluru|p2
+[19:29:54]   W02 + 14 dice:devops engineer|Lucknow|p4
+[19:29:54]   W03 + 11 dice:GraphQL|Warsaw|p3
+[19:29:56]   W00 + 16 dice:generative AI|Houston|p7
+[19:29:57]   W01 + 11 dice:Docker|Bangkok|p7
+[19:29:57]   W04 + 13 dice:senior software engi|Jakarta|p0
+[19:29:59]   W00 + 10 dice:Docker|Kochi|p1
+[19:30:01]   W00 + 19 dice:remote|Jakarta|p2
+[19:30:04]   W01 + 15 dice:CI/CD|Mexico City|p0
+[19:30:11]   W04 + 19 dice:SAP|Raleigh|p1
+[19:30:12]   [200] +587 | DB=559,020 | 229/min | Gap=440,980 | dice:45 glassdoor:18 google:9 indeed:43 naukri:25 simplyhired:37 ziprecruiter:23
+[19:30:18]   W05 + 17 dice:security engineer|Toronto|p3
+[19:30:19]   W00 + 18 dice:GraphQL||p4
+[19:30:21]   [1,200] +489 | DB=559,055 | 49/min | Gap=440,945 | dice:291 glassdoor:111 google:26 indeed:294 naukri:196 simplyhired:161 ziprecruiter:121
+[19:30:25]   W00 + 15 dice:automation engineer|Vienna|p0
+[19:30:31]   W03 + 16 dice:product manager|Washington D|p5
+[19:30:37]   W00 + 17 dice:azure engineer|Seattle|p0
+[19:30:41]   W01 + 19 dice:intern|Gurgaon|p5
+[19:30:44]   W02 +  9 dice:React|Gurgaon|p2
+[19:30:55]   W03 + 15 dice:security engineer|Warsaw|p0
+[19:30:55]   W01 + 15 dice:staff engineer|Bangalore|p1
+[19:31:04]   W05 +  8 dice:Spring Boot|Ahmedabad|p0
+[19:31:08]   W02 + 14 dice:Go|Zurich|p5

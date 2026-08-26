@@ -1,0 +1,2070 @@
+{{pp-semi-indef|small=yes}}
+{{short description|Annual ranking of corporations}}
+{{Italic title|string=Fortune}}
+{{use mdy dates|date=October 2023}}
+The '''''Fortune'' Global 500''', also known as '''Global 500''', is an annual ranking of the top 500 [[corporation]]s worldwide as measured by [[revenue]].<ref>{{Cite web |last=Belanger |first=Lydia |title=Fortune Archives: The year the Fortune 500 went Global |url=https://fortune.com/2025/08/03/fortune-archives-the-year-the-fortune-500-went-global/ |access-date=2026-07-14 |website=Fortune |language=en}}</ref> The list is compiled and published annually by ''[[Fortune (magazine)|Fortune]]'' magazine.<ref>{{Cite web |last=Hoover |first=Gary |date=2020-06-25 |title=25 Years of the Fortune 500 Animated Chart |url=https://americanbusinesshistory.org/25-years-of-the-fortune-500-animated-chart/ |access-date=2026-07-14 |website=Business History - The American Business History Center |language=en-US}}</ref> It was first published in 1955.<ref>{{Cite web |last=Terrell |first=Ellen |title=Research Guides: This Month in Business History: First Fortune 500 List Published |url=https://guides.loc.gov/this-month-in-business-history/may/first-fortune500-published |access-date=2026-07-14 |website=guides.loc.gov |language=en}}</ref>
+
+== Methodology ==
+Until 1989, Global 500 listed only non–[[United States]] industrial corporations under the title "International 500" while the [[Fortune 500|''Fortune'' 500]] contained and still contains exclusively United States corporations. In 1990, United States companies were added to compile a truly global list of top industrial corporations as ranked by sales. Since 1995, the list has had its current form, listing also top financial corporations and service providers by revenue.
+
+Several inconsistencies exist in ''Fortune''{{'s}} ranking of cities with the most ''Fortune'' 500 headquarters. On June 3, 2011, the ''[[Atlanta Business Chronicle]]'' stated examples of ''Fortune'' including regional headquarters for some cities, excluding regional headquarters for other cities and in some cases excluding headquarters that are physically located inside a city limit.<ref>{{cite web|title=Some cities rankings are overstated|url=http://www.bizjournals.com/atlanta/print-edition/2011/06/03/fortune-500-list-overstates-atlantas.html|author=Maria Saporta|publisher=Atlanta Business Chronicle|access-date=October 28, 2012|archive-url=https://web.archive.org/web/20130714234502/http://www.bizjournals.com/atlanta/print-edition/2011/06/03/fortune-500-list-overstates-atlantas.html|archive-date=July 14, 2013|url-status=live}}</ref>
+
+== Geographical distribution ==
+Since 2001, there has been significant change in the geographical distribution of the companies in the Global 500 rankings. Most of this growth is accounted for by a rapid increase in the number of [[China|Chinese]] Global 500 companies, of which there were 116 by 2026, increasing from only 10 in 2001. The number of [[Europe]]an-based companies declined, from 158 to 123, over the same period, as well as [[Japan]]ese-based companies of which there were about 107 in the ranking in 2000 to now only 40 in 2026.
+
+== ''Fortune'' Global 500 list of 2026 ==
+The following is the list of Top 10 companies in 2026:<ref name="fg">{{Cite web |title=Fortune Global 500 |url=https://fortune.com/ranking/global500/2026/ |access-date=2026-07-29 |website=Fortune |language=en}}</ref>
+{| class="wikitable plainrowheaders"
+|-
+|+ ''Fortune'' Global 500 list of 2026
+|-
+! scope="col" | Rank
+! scope="col" | Company
+! scope="col" | Country
+! scope="col" | Industry
+! scope="col" | Revenue in USD
+|-
+! scope="row" |1
+|[[Amazon (company)|Amazon]]
+|{{flag|United States}}
+|Internet services and retailing
+|{{up}}$716.92 billion
+|-
+! scope="row" |2
+|[[Walmart]]
+|{{flag|United States}}
+|Retail
+|{{up}}$713.16 billion
+|-
+! scope="row" |3
+|[[State Grid Corporation of China|State Grid]]
+|{{flag|China}}
+|Energy
+|{{up}}$555.37 billion
+|-
+! scope="row" |4 
+|[[UnitedHealth Group]]
+|{{flag|United States}}
+|Health care
+|{{up}}$447.57 billion
+|-
+! scope="row" |5
+|[[Saudi Aramco]]
+|{{flag|Saudi Arabia}}
+|Energy
+|{{down}}$445.53 billion
+|-
+! scope="row" |6
+|[[Apple Inc.|Apple]]
+|{{flag|United States}}
+|Technology
+|{{up}}$416.16 billion
+|-
+! scope="row" |7
+|[[McKesson]]
+|{{flag|United States}}
+|Wholesalers: Health Care
+|{{up}}$403.43 billion
+|-
+! scope="row" |8
+|[[Alphabet Inc.|Alphabet]]
+|{{flag|United States}}
+|Internet services and retailing 
+|{{up}}$402.84 billion
+|-
+! scope="row" |9
+|[[CVS Health]]
+|{{flag|United States}}
+|Health care
+|{{up}}$402.07 billion
+|-
+! scope="row" |10
+|[[China National Petroleum]]
+|{{flag|China}}
+|Petroleum
+|{{down}}$401.93 billion
+|}
+
+=== Breakdown by country/territory ===
+These are the Top 10 countries/territories with the highest revenues from the Top 500 companies as of 2026:
+
+{| class="wikitable plainrowheaders" style="text-align: center"
+|-
+|+Breakdown by country/territory
+|-
+! scope="col" | Rank
+! scope="col" | Country
+! scope="col" | Companies
+|-
+! scope="row" |1
+| style="text-align: left;" |{{flag|United States}}|| 141
+|-
+! scope="row" |2
+| style="text-align: left;" |{{flag|China}}|| 116
+|-
+! scope="row" |3
+| style="text-align: left;" |{{flag|Japan}}|| 40
+|-
+! scope="row" |4
+| style="text-align: left;" |{{flag|Germany}}|| 28
+|-
+! scope="row" |5
+| style="text-align: left;" |{{flag|France}}|| 24
+|-
+! scope="row" |6
+| style="text-align: left;" |{{flag|United Kingdom}}|| 21
+|-
+! scope="row" |7
+| style="text-align: left;" |{{flag|Canada}}|| 14
+|-
+! scope="row" |8
+| style="text-align: left;" |{{flag|South Korea}}|| 13
+|-
+! scope="row" |9
+| style="text-align: left;" |{{flag|Switzerland}}|| 12
+|-
+! scope="row" |10
+| style="text-align: left;" |{{flag|India}}|| 10
+|}
+
+=== Breakdown by region ===
+{{as of|2026|df=US}}, 47 (9.4%) of the Fortune Global 500 companies are located outside [[East Asia]], [[North America]], and [[Europe]]:<ref name="g5">{{Cite web |title=Global 500 |url=https://fortune.com/ranking/global500/ |website=Fortune |language=en |access-date=2026-07-29}}</ref>
+
+{| class="wikitable plainrowheaders" style="text-align: center"
+|-
+|+Breakdown by region
+|-
+! scope="col" | Region
+! scope="col" | Companies
+!Global share
+|-
+| style="text-align: left;" |[[East Asia]]|| 175
+|35%
+|-
+| style="text-align: left;" |[[North America]]|| 155
+|31%
+|-
+| style="text-align: left;" |[[Europe]]|| 123
+|24.6%
+|-
+| style="text-align: left;" |Rest of world|| 47
+|9.4%
+|}
+
+== ''Fortune'' Global 500 list of 2025 ==
+The following is the list of Top 10 companies in 2025:<ref name="fg" />
+{| class="wikitable plainrowheaders"
+|-
+|+ ''Fortune'' Global 500 list of 2025
+|-
+! scope="col" | Rank
+! scope="col" | Company
+! scope="col" | Country
+! scope="col" | Industry
+! scope="col" | Revenue in USD
+|-
+! scope="row" |1
+|[[Walmart]]
+|{{flag|United States}}
+|Retail
+|{{up}}$681.0 billion
+|-
+! scope="row" |2
+|[[Amazon (company)|Amazon]]
+|{{flag|United States}}
+|Internet services and retailing
+|{{up}}$638.0 billion
+|-
+! scope="row" |3
+|[[State Grid Corporation of China|State Grid]]
+|{{flag|China}}
+|Energy
+|{{up}}$548.4 billion
+|-
+! scope="row" |4
+|[[Saudi Aramco]]
+|{{flag|Saudi Arabia}}
+|Energy
+|{{down}}$480.2 billion
+|-
+! scope="row" |5
+|[[China National Petroleum]]
+|{{flag|China}}
+|Petroleum
+|{{down}}$412.6 billion
+|-
+! scope="row" |6
+|[[China Petrochemical Corporation|Sinopec Group]]
+|{{flag|China}}
+|Petroleum
+|{{down}}$407.5 billion
+|-
+! scope="row" |7 
+|[[UnitedHealth Group]]
+|{{flag|United States}}
+|Health care
+|{{up}}$400.3 billion
+|-
+! scope="row" |8
+|[[Apple Inc.|Apple]]
+|{{flag|United States}}
+|Technology
+|{{up}}$391.0 billion
+|-
+! scope="row" |9
+|[[CVS Health]]
+|{{flag|United States}}
+|Health care
+|{{up}}$372.8 billion
+|-
+! scope="row" |10
+|[[Berkshire Hathaway]]
+|{{flag|United States}}
+|Financials
+|{{up}}$371.4 billion
+|}
+
+=== Breakdown by country/territory ===
+These are the Top 10 countries/territories with the highest revenues from the Top 500 companies as of 2025:
+
+{| class="wikitable plainrowheaders" style="text-align: center"
+|-
+|+Breakdown by country/territory
+|-
+! scope="col" | Rank
+! scope="col" | Country
+! scope="col" | Companies
+|-
+! scope="row" |1
+| style="text-align: left;" |{{flag|United States}}|| 138
+|-
+! scope="row" |2
+| style="text-align: left;" |{{flag|China}}|| 124
+|-
+! scope="row" |3
+| style="text-align: left;" |{{flag|Japan}}|| 38
+|-
+! scope="row" |4
+| style="text-align: left;" |{{flag|Germany}}|| 30
+|-
+! scope="row" |5
+| style="text-align: left;" |{{flag|France}}|| 24
+|-
+! scope="row" |6
+| style="text-align: left;" |{{flag|United Kingdom}}|| 20
+|-
+! scope="row" |7
+| style="text-align: left;" |{{flag|South Korea}}|| 14
+|-
+! scope="row" |8
+| style="text-align: left;" |{{flag|Canada}}|| 13
+|-
+! scope="row" |9
+| style="text-align: left;" |{{flag|Switzerland}}|| 12
+|-
+! scope="row" |10
+| style="text-align: left;" |{{flag|Netherlands}}|| 11
+|}
+
+=== Breakdown by region ===
+{{as of|2025|df=US}}, 50 (10%) of the Fortune Global 500 companies are located outside [[East Asia]], [[North America]], and [[Europe]]:<ref name="g5" />
+
+{| class="wikitable plainrowheaders" style="text-align: center"
+|-
+|+Breakdown by region
+|-
+! scope="col" | Region
+! scope="col" | Companies
+!Global share
+|-
+| style="text-align: left;" |[[East Asia]]|| 182
+|36.4%
+|-
+| style="text-align: left;" |[[North America]]|| 151
+|30.2%
+|-
+| style="text-align: left;" |[[Europe]]|| 117
+|23.4%
+|-
+| style="text-align: left;" |Rest of world|| 50
+|10%
+|}
+
+== ''Fortune'' Global 500 list of 2024 ==
+The following is the list of Top 10 companies in 2024:<ref name="fg"/>
+{| class="wikitable plainrowheaders"
+|-
+|+ ''Fortune'' Global 500 list of 2024
+|-
+! scope="col" | Rank
+! scope="col" | Company
+! scope="col" | Country
+! scope="col" | Industry
+! scope="col" | Revenue in USD
+|-
+! scope="row" |1
+|[[Walmart]]
+|{{flag|United States}}
+|Retail
+|$648.1 billion
+|-
+! scope="row" |2
+|[[Amazon (company)|Amazon]]
+|{{flag|United States}}
+|Internet services and retailing
+|$574.20 billion
+|-
+! scope="row" |3
+|[[State Grid Corporation of China|State Grid]]
+|{{flag|China}}
+|Energy
+|$545.8 billion
+|-
+! scope="row" |4
+|[[Saudi Aramco]]
+|{{flag|Saudi Arabia}}
+|Energy
+|$494.9 billion
+|-
+! scope="row" |5
+|[[China Petrochemical Corporation|Sinopec Group]]
+|{{flag|China}}
+|Petroleum
+|$429.7 billion
+|-
+! scope="row" |6
+|[[China National Petroleum]]
+|{{flag|China}}
+|Petroleum
+|$421.7 billion
+|-
+! scope="row" |7
+|[[Apple Inc.|Apple]]
+|{{flag|United States}}
+|Technology
+|$383.3 billion
+|-
+! scope="row" |8 
+|[[UnitedHealth Group]]
+|{{flag|United States}}
+|Health care
+|$371.6 billion
+|-
+! scope="row" |9
+|[[Berkshire Hathaway]]
+|{{flag|United States}}
+|Financials
+|$364.5 billion
+|-
+! scope="row" |10
+|[[CVS Health]]
+|{{flag|United States}}
+|Health care
+|$357.8 billion
+|}
+
+=== Breakdown by country/territory ===
+These are the Top 10 countries/territories with the highest revenues from the Top 500 companies as of August 2024:<ref name="fg"/>
+
+{| class="wikitable plainrowheaders" style="text-align: center"
+|-
+|+Breakdown by country/territory
+|-
+! scope="col" | Rank
+! scope="col" | Country
+! scope="col" | Companies
+|-
+! scope="row" |1
+| style="text-align: left;" |{{flag|United States}}|| 139
+|-
+! scope="row" |2
+| style="text-align: left;" |{{flag|China}}|| 128
+|-
+! scope="row" |3
+| style="text-align: left;" |{{flag|Japan}}|| 40
+|-
+! scope="row" |4
+| style="text-align: left;" |{{flag|France}}|| 30
+|-
+! scope="row" |5
+| style="text-align: left;" |{{flag|Germany}}|| 29
+|-
+! scope="row" |6
+| style="text-align: left;" |{{flag|United Kingdom}}|| 17
+|-
+! scope="row" |7
+| style="text-align: left;" |{{flag|South Korea}}|| 15
+|-
+! scope="row" |8
+| style="text-align: left;" |{{flag|Canada}}|| 14
+|-
+! scope="row" |9
+| style="text-align: left;" |{{flag|Switzerland}}|| 11
+|-
+! scope="row" |10
+| style="text-align: left;" |{{flag|Netherlands}}|| 11
+|}
+
+=== Leadership by sector ===
+The following are the top-ranked companies in 2024 for each sector:<ref name="fg"/>
+
+{| class="wikitable sortable"
+|- style="background:#efefef;"
+! Sector !! Company !! Headquarters !! Overall <br /> rank !! Revenues <br /> ($M)
+|-
+|[[Aerospace manufacturer|Aerospace]] & [[Arms industry|Defense]]||[[Norinco|China North Industries Group]]||{{flagicon|China}} [[Beijing]]||<span style="display:none">0146</span>#147 || style="text-align:center;" |82,654
+|-
+|[[Apparel]]||[[Dior|Christian Dior]]||{{flagicon|France}} [[Paris]]||<span style="display:none">0143</span>#119 || style="text-align:center;" |93,137
+|-
+|[[Chemicals]]||[[Sinochem|Sinochem Holdings]]||{{flagicon|China}} [[Beijing]]||<span style="display:none">0038</span>#54 || style="text-align:center;" |143,240
+|-
+|[[Energy]]||[[State Grid|State Grid Corporation of China]]||{{flagicon|China}} [[Beijing]]||<span style="display:none">0002</span>#3|| style="text-align:center;" |545,948
+|-
+|[[Engineering]] & [[Construction]]||[[China State Construction Engineering]]||{{flagicon|China}} [[Beijing]]||<span style="display:none">0013</span>#14 || style="text-align:center;" |320,431
+|-
+|[[Financials]]||[[Berkshire Hathaway]]||{{flagicon|USA}} [[Omaha, Nebraska|Omaha]]||<span style="display:none">0014</span>#9 || style="text-align:center;" |364,482
+|-
+|[[Food]] & [[Pharmacy (shop)|Drug Stores]]||[[Kroger]]||{{flagicon|USA}} [[Cincinnati]]||<span style="display:none">0058</span>#51 || style="text-align:center;" |150,039
+|-
+|[[Food]], [[Beverages]] & [[Tobacco]]||[[Nestlé]]||{{flagicon|Switzerland}} [[Vevey]]||<span style="display:none">0098</span>#98 || style="text-align:center;" |103,505
+|-
+|[[Health Care]]||[[UnitedHealth Group]]||{{flagicon|USA}} [[Minnetonka]]||<span style="display:none">0010</span>#8 || style="text-align:center;" |371,622
+|-
+|[[Hotels]], [[Restaurants]] & [[Leisure]]||[[Compass Group]]||{{flagicon|GBR}} [[Chertsey]]||<span style="display:none">0469</span>#398 || style="text-align:center;" |38,005
+|-
+|[[Household chemicals|Household Products]]||[[Procter & Gamble]]||{{flagicon|USA}} [[Cincinnati]]||<span style="display:none">0154</span>#149 || style="text-align:center;" |82,006
+|-
+|[[Industrials]]||[[Hengli Group]]||{{flagicon|China}} [[Suzhou, Jiangsu|Suzhou]]||<span style="display:none">0123</span>#81 || style="text-align:center;" |114,665
+|-
+|[[Materials]]||[[Baowu|China Baowu Steel Group]]||{{flagicon|China}} [[Shanghai]]||<span style="display:none">0044</span>#44 || style="text-align:center;" |157,216
+|-
+|[[Media (communication)|Media]]||[[The Walt Disney Company|Walt Disney]]||{{flagicon|USA}} [[Burbank, California|Burbank]]||<span style="display:none">0145</span>#131 || style="text-align:center;" |88,898
+|-
+|[[Automotive industry|Motor Vehicles & Parts]]||[[Volkswagen Group]]||{{flagicon|Germany}} [[Wolfsburg]]||<span style="display:none">0015</span>#11 || style="text-align:center;" |348,408
+|-
+|[[Retailing]]||[[Walmart]]||{{flagicon|USA}} [[Bentonville, Arkansas|Bentonville]]||<span style="display:none">0001</span>#1 || style="text-align:center;" |648,125
+|-
+|[[Technology]]||[[Apple Inc.|Apple]]||{{flagicon|USA}} [[Cupertino, California|Cupertino]]||<span style="display:none">0008</span>#7 || style="text-align:center;" |383,285
+|-
+|[[Telecommunications]]||[[China Mobile|China Mobile Communications]]||{{flagicon|CHN}} [[Beijing]]||<span style="display:none">0062</span>#55 || style="text-align:center;" |142,832
+|-
+|[[Transportation]]||[[China Post|China Post Group]]||{{flagicon|China}} [[Beijing]]||<span style="display:none">0086</span>#83 || style="text-align:center;" |112,779
+|-
+|[[Wholesalers]]||[[Trafigura|Trafigura Group]]||{{flagicon|Singapore}} [[Singapore]]||<span style="display:none">0012</span>#19 || style="text-align:center;" |244,280
+|}
+
+== ''Fortune'' Global 500 list of 2023 ==
+The following is the list of Top 10 companies in 2023:<ref name="g3">{{Cite web |title=Global 500 |url=https://fortune.com/global500/2023/ |access-date=2023-10-23 |website=Fortune |language=en}}</ref>
+{| class="wikitable plainrowheaders"
+|-
+|+ ''Fortune'' Global 500 list of 2023
+|-
+! scope="col" | Rank
+! scope="col" | Company
+! scope="col" | Country
+! scope="col" | Industry
+! scope="col" | Revenue in USD
+|-
+! scope="row" |1
+|[[Walmart]]
+|{{flag|United States}}
+|Retail
+|$612.3 billion
+|-
+! scope="row" |2
+|[[Saudi Aramco]]
+|{{flag|Saudi Arabia}}
+|Energy
+|$603.7 billion
+|-
+! scope="row" |3
+|[[State Grid Corporation of China|State Grid]]
+|{{flag|China}}
+|Energy
+|$530.0 billion
+|-
+! scope="row" |4
+|[[Amazon (company)|Amazon]]
+|{{flag|United States}}
+|Internet services and retailing
+|$514.0 billion
+|-
+! scope="row" |5
+|[[China National Petroleum]]
+|{{flag|China}}
+|Petroleum
+|$483.1 billion
+|-
+! scope="row" |6
+|[[China Petrochemical Corporation|Sinopec Group]]
+|{{flag|China}}
+|Petroleum
+|$471.2 billion
+|-
+! scope="row" |7
+|[[ExxonMobil]]
+|{{flag|United States}}
+|Petroleum
+|$413.7 billion
+|-
+! scope="row" |8
+|[[Apple Inc.|Apple]]
+|{{flag|United States}}
+|Technology
+|$394.3 billion
+|-
+! scope="row" |9
+|[[Shell plc|Shell]]
+|{{flag|United Kingdom}}
+|Petroleum
+|$386.2 billion
+|-
+! scope="row" |10 
+|[[UnitedHealth Group]]
+|{{flag|United States}}
+|Health care
+|$324.2 billion
+|}
+
+=== Breakdown by country/territory ===
+These are the Top 10 countries/territories with the highest revenues from the Top 500 companies as of August 2023:<ref name="g3"/>
+
+{| class="wikitable plainrowheaders" style="text-align: center"
+|-
+|+Breakdown by country/territory
+|-
+! scope="col" | Rank
+! scope="col" | Country
+! scope="col" | Companies
+|-
+! scope="row" |1
+| style="text-align: left;" |{{flag|United States}}|| 136
+|-
+! scope="row" |2
+| style="text-align: left;" |{{flag|China}}|| 135
+|-
+! scope="row" |3
+| style="text-align: left;" |{{flag|Japan}}|| 41
+|-
+! scope="row" |4
+| style="text-align: left;" |{{flag|Germany}}|| 30
+|-
+! scope="row" |5
+| style="text-align: left;" |{{flag|France}}|| 24
+|-
+! scope="row" |6
+| style="text-align: left;" |{{flag|South Korea}}|| 18
+|-
+! scope="row" |7
+| style="text-align: left;" |{{flag|United Kingdom}}|| 15
+|-
+! scope="row" |8
+| style="text-align: left;" |{{flag|Canada}}|| 14
+|-
+! scope="row" |9
+| style="text-align: left;" |{{flag|Switzerland}}|| 11
+|-
+! scope="row" |10
+| style="text-align: left;" |{{flag|Netherlands}}|| 10
+|}
+
+=== Breakdown by region ===
+{{as of|2023|August|df=US}}, 28 (6%) of the Fortune Global 500 companies are located outside [[East Asia]], [[North America]], and [[Europe]]:<ref name="g5"/>
+
+{| class="wikitable sortable plainrowheaders" style="text-align: center"
+|-
+|+Breakdown by region
+|-
+! scope="col" | Region
+! scope="col" | Companies
+!Global share
+|-
+| style="text-align: left;" |[[East Asia]]|| 208
+|42%
+|-
+| style="text-align: left;" |[[North America]]|| 153
+|31%
+|-
+| style="text-align: left;" |[[Europe]]|| 118
+|24%
+|-
+| style="text-align: left;" |Rest of world|| 21
+|4%
+|}
+
+=== Leadership by sector ===
+The following are the top-ranked companies in 2023 for each sector:<ref name="g3"/>
+
+{| class="wikitable sortable"
+|- style="background:#efefef;"
+! Sector !! Company !! Headquarters !! Overall <br /> rank !! Revenues <br /> ($M)
+|-
+|[[Aerospace manufacturer|Aerospace]] & [[Arms industry|Defense]]||[[Norinco|China North Industries Group]]||{{flagicon|China}} [[Beijing]]||<span style="display:none">0146</span>#146 || style="text-align:center;" |82,689
+|-
+|[[Apparel]]||[[Dior|Christian Dior]]||{{flagicon|France}} [[Paris]]||<span style="display:none">0143</span>#143 || style="text-align:center;" |83,283
+|-
+|[[Chemicals]]||[[Sinochem|Sinochem Holdings]]||{{flagicon|China}} [[Beijing]]||<span style="display:none">0038</span>#38 || style="text-align:center;" |173,834
+|-
+|[[Energy]]||[[Saudi Aramco]]||{{flagicon|Saudi Arabia}} [[Dhahran]]||<span style="display:none">0002</span>#2|| style="text-align:center;" |603,651
+|-
+|[[Engineering]] & [[Construction]]||[[China State Construction Engineering]]||{{flagicon|China}} [[Beijing]]||<span style="display:none">0013</span>#13 || style="text-align:center;" |305,885
+|-
+|[[Financials]]||[[Berkshire Hathaway]]||{{flagicon|USA}} [[Omaha, Nebraska|Omaha]]||<span style="display:none">0014</span>#14 || style="text-align:center;" |302,089
+|-
+|[[Food]] & [[Pharmacy (shop)|Drug Stores]]||[[Kroger]]||{{flagicon|USA}} [[Cincinnati]]||<span style="display:none">0058</span>#58 || style="text-align:center;" |148,258
+|-
+|[[Food]], [[Beverages]] & [[Tobacco]]||[[Archer Daniels Midland]]||{{flagicon|USA}} [[Chicago]]||<span style="display:none">0098</span>#98 || style="text-align:center;" |101,556
+|-
+|[[Health Care]]||[[UnitedHealth Group]]||{{flagicon|USA}} [[Minnetonka]]||<span style="display:none">0010</span>#10 || style="text-align:center;" |324,162
+|-
+|[[Hotels]], [[Restaurants]] & [[Leisure]]||[[Compass Group]]||{{flagicon|GBR}} [[Chertsey]]||<span style="display:none">0469</span>#469 || style="text-align:center;" |32,564
+|-
+|[[Household chemicals|Household Products]]||[[Procter & Gamble]]||{{flagicon|USA}} [[Cincinnati]]||<span style="display:none">0154</span>#154 || style="text-align:center;" |80,187
+|-
+|[[Industrials]]||[[Hengli Group]]||{{flagicon|China}} [[Suzhou, Jiangsu|Suzhou]]||<span style="display:none">0123</span>#123 || style="text-align:center;" |90,944
+|-
+|[[Materials]]||[[Baowu|China Baowu Steel Group]]||{{flagicon|China}} [[Shanghai]]||<span style="display:none">0044</span>#44 || style="text-align:center;" |161,698
+|-
+|[[Media (communication)|Media]]||[[The Walt Disney Company|Walt Disney]]||{{flagicon|USA}} [[Burbank, California|Burbank]]||<span style="display:none">0145</span>#145 || style="text-align:center;" |82,722
+|-
+|[[Automotive industry|Motor Vehicles & Parts]]||[[Volkswagen Group]]||{{flagicon|Germany}} [[Wolfsburg]]||<span style="display:none">0015</span>#15 || style="text-align:center;" |293,685
+|-
+|[[Retailing]]||[[Walmart]]||{{flagicon|USA}} [[Bentonville, Arkansas|Bentonville]]||<span style="display:none">0001</span>#1 || style="text-align:center;" |611,289
+|-
+|[[Technology]]||[[Apple Inc.|Apple]]||{{flagicon|USA}} [[Cupertino, California|Cupertino]]||<span style="display:none">0008</span>#8 || style="text-align:center;" |394,328
+|-
+|[[Telecommunications]]||[[China Mobile|China Mobile Communications]]||{{flagicon|CHN}} [[Beijing]]||<span style="display:none">0062</span>#62 || style="text-align:center;" |139,597
+|-
+|[[Transportation]]||[[China Post|China Post Group]]||{{flagicon|China}} [[Beijing]]||<span style="display:none">0086</span>#86 || style="text-align:center;" |110,271
+|-
+|[[Wholesalers]]||[[Trafigura|Trafigura Group]]||{{flagicon|Singapore}} [[Singapore]]||<span style="display:none">0012</span>#12 || style="text-align:center;" |318,476
+|}
+
+== ''Fortune'' Global 500 list of 2022 ==
+The following is the list of Top 10 companies in 2022:<ref name="g2">{{Cite web |title=Global 500 |url=https://fortune.com/global500/2022/ |access-date=2022-08-03 |website=Fortune |language=en}}</ref>
+{| class="wikitable plainrowheaders"
+|-
+|+ ''Fortune'' Global 500 list of 2022
+|-
+! scope="col" | Rank
+! scope="col" | Company
+! scope="col" | Country
+! scope="col" | Industry
+! scope="col" | Revenue in USD
+|-
+! scope="row" |1
+|[[Walmart]]
+|{{flag|United States}}
+|Retail
+|$572.8 billion
+|-
+! scope="row" |2
+|[[Amazon (company)|Amazon]]
+|{{flag|United States}}
+|Internet Services and Retailing
+|$469.8 billion
+|-
+! scope="row" |3
+|[[State Grid Corporation of China|State Grid]]
+|{{flag|China}}
+|Energy
+|$460.6 billion
+|-
+! scope="row" |4
+|[[China National Petroleum]]
+|{{flag|China}}
+|Petroleum
+|$411.7 billion
+|-
+! scope="row" |5
+|[[China Petrochemical Corporation|Sinopec Group]]
+|{{flag|China}}
+|Petroleum
+|$401.3 billion
+|-
+! scope="row" |6
+|[[Saudi Aramco]]
+|{{flag|Saudi Arabia}}
+|Energy
+|$400.4 billion
+|-
+! scope="row" |7
+|[[Apple Inc.|Apple]]
+|{{flag|United States}}
+|Technology
+|$365.8 billion
+|-
+! scope="row" |8
+|[[Volkswagen Group|Volkswagen]]
+|{{flag|Germany}}
+|Automobiles
+|$295.8 billion
+|-
+! scope="row" |9
+|[[China State Construction Engineering]]
+|{{flag|China}}
+|Construction & Engineering
+|$293.7 billion
+|-
+! scope="row" |10 
+|[[CVS Health]]
+|{{flag|United States}}
+|Health care
+|$292.1 billion
+|}
+
+=== Breakdown by country ===
+These are the Top 10 countries with the highest revenues from the Top 500 companies as of August 2022:<ref name="g2"/>
+
+{| class="wikitable plainrowheaders" style="text-align: center"
+|-
+|+Breakdown by country
+|-
+! scope="col" | Rank
+! scope="col" | Country
+! scope="col" | Companies
+|-
+! scope="row" |1
+| style="text-align: left;" |{{flag|China}}|| 145
+|-
+! scope="row" |2
+| style="text-align: left;" |{{flag|United States}}|| 124
+|-
+! scope="row" |3
+| style="text-align: left;" |{{flag|Japan}}|| 47
+|-
+! scope="row" |4
+| style="text-align: left;" |{{flag|Germany}}|| 28
+|-
+! scope="row" |5
+| style="text-align: left;" |{{flag|France}}|| 25
+|-
+! scope="row" |6
+| style="text-align: left;" |{{flag|United Kingdom}}|| 18
+|-
+! scope="row" |7
+| style="text-align: left;" |{{flag|South Korea}}|| 16
+|-
+! scope="row" |8
+| style="text-align: left;" |{{flag|Switzerland}}|| 14
+|-
+! scope="row" |9
+| style="text-align: left;" |{{flag|Canada}}|| 12
+|-
+! scope="row" |10
+| style="text-align: left;" |{{flag|Netherlands}}|| 11
+|}
+
+=== Breakdown by region ===
+{{as of|2022|August|df=US}}, 26 (5%) of the Fortune Global 500 companies are located outside [[East Asia]], [[North America]], and [[Europe]]:<ref name="g2"/>
+
+{| class="wikitable sortable plainrowheaders" style="text-align: center"
+|-
+|+Breakdown by region
+|-
+! scope="col" | Region
+! scope="col" | Companies
+!Global share
+|-
+| style="text-align: left;" |[[East Asia]]|| 208
+|42%
+|-
+| style="text-align: left;" |[[North America]]|| 138
+|28%
+|-
+| style="text-align: left;" |[[Europe]]|| 128
+|26%
+|-
+| style="text-align: left;" |Rest of world|| 26
+|5%
+|}
+
+=== Leadership by sector ===
+The following are the top-ranked companies in 2022 for each sector:<ref name="g2"/>
+
+{| class="wikitable sortable"
+|- style="background:#efefef;"
+! Sector !! Company !! Headquarters !! Overall <br /> rank !! Revenues <br /> ($M)
+|-
+|[[Aerospace manufacturer|Aerospace]] & [[Arms industry|Defense]]||[[Norinco|China North Industries Group]]||{{flagicon|China}} [[Beijing]]||<span style="display:none">0136</span>#136 || style="text-align:center;" |81,785
+|-
+|[[Apparel]]||[[Dior|Christian Dior]]||{{flagicon|France}} [[Paris]]||<span style="display:none">0156</span>#156 || style="text-align:center;" |75,924
+|-
+|[[Corporate services|Business services]]||[[Randstad NV|Randstad]]||{{Flagicon|Netherlands}} [[Diemen]]||<span style="display:none">0491</span>#491 || style="text-align:center;" |29,126
+|-
+|[[Chemicals]]||{{ill|Sinochem Holdings|lt=|zh|中国中化}}||{{flagicon|China}} [[Beijing]]||<span style="display:none">0031</span>#31 || style="text-align:center;" |172,260
+|-
+|[[Energy]]||[[State Grid Corporation of China|State Grid]]||{{flagicon|China}} [[Beijing]]||<span style="display:none">0003</span>#3 || style="text-align:center;" |460,617
+|-
+|[[Engineering]] & [[Construction]]||[[China State Construction Engineering]]||{{flagicon|China}} [[Beijing]]||<span style="display:none">0009</span>#9 || style="text-align:center;" |293,712
+|-
+|[[Financials]]||[[Berkshire Hathaway]]||{{flagicon|USA}} [[Omaha, Nebraska|Omaha]]||<span style="display:none">0014</span>#14 || style="text-align:center;" |276,094
+|-
+|[[Food]] & [[Pharmacy (shop)|Drug Stores]]||[[Walgreens Boots Alliance]]||{{flagicon|USA}} [[Deerfield, Illinois|Deerfield]]||<span style="display:none">0045</span>#45 || style="text-align:center;" |148,579
+|-
+|[[Food]], [[Beverages]] & [[Tobacco]]||[[Nestlé]]||{{flagicon|Switzerland}} [[Vevey]]||<span style="display:none">0103</span>#103 || style="text-align:center;" |95,293
+|-
+|[[Health Care]]||[[CVS Health]]||{{flagicon|USA}} [[Woonsocket, Rhode Island|Woonsocket]]||<span style="display:none">0010</span>#10 || style="text-align:center;" |292,111
+|-
+|[[Household chemicals|Household Products]]||[[Procter & Gamble]]||{{flagicon|USA}} [[Cincinnati]]||<span style="display:none">0154</span>#154 || style="text-align:center;" |76,118
+|-
+|[[Industrials]]||[[Hengli Group]]||{{flagicon|China}} [[Suzhou, Jiangsu|Suzhou]]||<span style="display:none">0075</span>#75 || style="text-align:center;" |113,536
+|-
+|[[Materials]]||[[Baowu|China Baowu Steel Group]]||{{flagicon|China}} [[Shanghai]]||<span style="display:none">0044</span>#44 || style="text-align:center;" |150,730
+|-
+|[[Media (communication)|Media]]||[[The Walt Disney Company|Walt Disney]]||{{flagicon|USA}} [[Burbank, California|Burbank]]||<span style="display:none">0183</span>#183 || style="text-align:center;" |67,418
+|-
+|[[Automotive industry|Motor Vehicles & Parts]]||[[Volkswagen]]||{{flagicon|Germany}} [[Wolfsburg]]||<span style="display:none">0008</span>#8 || style="text-align:center;" |295,820
+|-
+|[[Retailing]]||[[Walmart]]||{{flagicon|USA}} [[Bentonville, Arkansas|Bentonville]]||<span style="display:none">0001</span>#1 || style="text-align:center;" |572,754
+|-
+|[[Technology]]||[[Apple Inc.|Apple]]||{{flagicon|USA}} [[Cupertino, California|Cupertino]]||<span style="display:none">0007</span>#7 || style="text-align:center;" |365,817
+|-
+|[[Telecommunications]]||[[AT&T]]||{{flagicon|USA}} [[Dallas]]||<span style="display:none">0032</span>#32 || style="text-align:center;" |168,864
+|-
+|[[Transportation]]||[[China Post|China Post Group]]||{{flagicon|China}} [[Beijing]]||<span style="display:none">0081</span>#81 || style="text-align:center;" |108,669
+|-
+|[[Wholesalers]]||[[Trafigura|Trafigura Group]]||{{flagicon|Singapore}} [[Singapore]]||<span style="display:none">0019</span>#19 || style="text-align:center;" |231,308
+|}
+
+== ''Fortune'' Global 500 list of 2021 ==
+The following is the list of Top 10 companies in 2021:<ref name="Global500_2021">{{cite web |title=Forbes Global 500 list of 2021. Retrieved March 9, 2022. |url=https://fortune.com/global500/2021/search/}}</ref>
+{| class="wikitable plainrowheaders"
+|-
+|+ ''Fortune'' Global 500 list of 2021
+|-
+! scope="col" | Rank
+! scope="col" | Company
+! scope="col" | Country
+! scope="col" | Industry
+! scope="col" | Revenue in USD
+|-
+! scope="row" |1
+|[[Walmart]]
+|{{flag|United States}}
+|Retail
+|$559.1 billion
+|-
+! scope="row" |2
+|[[State Grid Corporation of China|State Grid]]
+|{{flag|China}}
+|Energy
+|$386.6 billion
+|-
+! scope="row" |3
+|[[Amazon (company)|Amazon]]
+|{{flag|United States}}
+|Internet Services and Retailing
+|$386 billion
+|-
+! scope="row" |4
+|[[China National Petroleum]]
+|{{flag|China}}
+|Petroleum
+|$283.9 billion
+|-
+! scope="row" |5
+|[[China Petrochemical Corporation|Sinopec Group]]
+|{{flag|China}}
+|Petroleum
+|$283.7 billion
+|-
+! scope="row" |6
+|[[Apple Inc.|Apple]]
+|{{flag|United States}} 
+|Technology
+|$274.5 billion
+|-
+! scope="row" |7 
+|[[CVS Health]]
+|{{flag|United States}}
+|Health care
+|$268.7 billion
+|-
+! scope="row" |8
+|[[UnitedHealth Group]]
+|{{flag|United States}}
+|Health care
+|$257.1 billion
+|-
+! scope="row" |9
+|[[Toyota|Toyota Motor]]
+|{{flag|Japan}}
+|Automobiles
+|$256.7 billion
+|-
+! scope="row" |10
+|[[Volkswagen Group|Volkswagen]]
+|{{flag|Germany}}
+|Automobiles
+|$253.9 billion
+|}
+
+=== Breakdown by country ===
+{{as of|2021|August|df=US}}, this is the list of the Top 10 countries with the highest revenues Top 500 companies:<ref name="Global500_2021" />
+
+{| class="wikitable plainrowheaders" style="text-align: center"
+|-
+|+Breakdown by country
+|-
+! scope="col" | Rank
+! scope="col" | Country
+! scope="col" | Companies
+|-
+! scope="row" |1
+| style="text-align: left;" |{{flag|China}}|| 135
+|-
+! scope="row" |2
+| style="text-align: left;" |{{flag|United States}}|| 122
+|-
+! scope="row" |3
+| style="text-align: left;" |{{flag|Japan}}|| 53
+|-
+! scope="row" |4
+| style="text-align: left;" |{{flag|France}}|| 28
+|-
+! scope="row" |5
+| style="text-align: left;" |{{flag|Germany}}|| 27
+|-
+! scope="row" |6
+| style="text-align: left;" |{{flag|United Kingdom}}|| 22
+|-
+! scope="row" |7
+| style="text-align: left;" |{{flag|South Korea}}|| 15
+|-
+! scope="row" |8
+| style="text-align: left;" |{{flag|Switzerland}}|| 13
+|-
+! scope="row" |9
+| style="text-align: left;" |{{flag|Canada}}|| 12
+|-
+! scope="row" |10
+| style="text-align: left;" |{{flag|Netherlands}}|| 11
+|}
+
+=== Breakdown by region ===
+{{as of|2021|August|df=US}}, just 21 (4%) of the Fortune Global 500 companies are located outside East Asia, North America, and Europe:<ref name="Global500_2021" />
+
+{| class="wikitable sortable plainrowheaders" style="text-align: center"
+|-
+|+Breakdown by region
+|-
+! scope="col" | Region
+! scope="col" | Companies
+!Global share
+|-
+| style="text-align: left;" |[[East Asia]]|| 211
+|42%
+|-
+| style="text-align: left;" |[[North America]]|| 136
+|27%
+|-
+| style="text-align: left;" |[[Europe]]|| 132
+|26%
+|-
+| style="text-align: left;" |Rest of world|| 21
+|4%
+|}
+
+== ''Fortune'' Global 500 list of 2020 ==
+The following is the list of Top 10 companies in 2020:<ref name="g0">{{Cite web|title=Global 500|url=https://fortune.com/global500/2020/|access-date=August 10, 2020|website=Fortune|language=en}}</ref>
+
+{| class="wikitable plainrowheaders"
+|-
+|+ ''Fortune'' Global 500 list of 2020
+|-
+! scope="col" | Rank
+! scope="col" | Company
+! scope="col" | Country
+! scope="col" | Industry
+! scope="col" | Revenue in USD
+|-
+! scope="row" |1
+|[[Walmart]]
+|{{flag|United States}}
+|Retail
+|$524 billion
+|-
+! scope="row" |2
+|[[China Petrochemical Corporation|Sinopec Group]]
+|{{flag|China}}
+|Petroleum
+|$407 billion
+|-
+! scope="row" |3
+|[[State Grid Corporation of China|State Grid]]
+|{{flag|China}}
+|Energy
+|$384 billion
+|-
+! scope="row" |4
+|[[China National Petroleum]]
+|{{flag|China}}
+|Petroleum
+|$379 billion
+|-
+! scope="row" |5
+|[[Royal Dutch Shell]]
+|{{flag|Netherlands}} / {{flag|United Kingdom}} 
+|Petroleum
+|$352 billion
+|-
+! scope="row" |6 
+|[[Saudi Aramco]]
+|{{flag|Saudi Arabia}}
+|Energy
+|$330 billion
+|-
+! scope="row" |7
+|[[Volkswagen Group|Volkswagen]]
+|{{flag|Germany}}
+|Automobiles
+|$283 billion
+|-
+! scope="row" |8
+|[[BP]]
+|{{flag|United Kingdom}}
+|Petroleum
+|$283 billion
+|-
+! scope="row" |9
+|[[Amazon (company)|Amazon.com]]
+|{{flag|United States}}
+|Internet Services and Retailing
+|$281 billion
+|-
+! scope="row" |10
+|[[Toyota|Toyota Motor]]
+|{{flag|Japan}}
+|Automobiles
+|$275 billion
+|}
+
+=== Breakdown by country ===
+{{as of|2020|August|df=US}}, this is the list of the Top 10 countries with the highest earning Top 500 companies:<ref name="g0"/>
+
+{| class="wikitable plainrowheaders" style="text-align: center"
+|-
+|+Breakdown by country
+|-
+! scope="col" | Rank
+! scope="col" | Country
+! scope="col" | Companies
+|-
+! scope="row" |1
+| style="text-align: left;" |{{flag|China}}|| 124
+|-
+! scope="row" |2
+| style="text-align: left;" |{{flag|United States}}|| 121
+|-
+! scope="row" |3
+| style="text-align: left;" |{{flag|Japan}}|| 53
+|-
+! scope="row" |4
+| style="text-align: left;" |{{flag|France}}|| 31
+|-
+! scope="row" |5
+| style="text-align: left;" |{{flag|Germany}}|| 27
+|-
+! scope="row" |6
+| style="text-align: left;" |{{flag|United Kingdom}} <sup>‡</sup>|| 22
+|-
+! scope="row" |7
+| style="text-align: left;" |{{flag|South Korea}}|| 14
+|-
+! scope="row" |8
+| style="text-align: left;" |{{flag|Switzerland}}|| 14
+|-
+! scope="row" |9
+| style="text-align: left;" |{{flag|Canada}}|| 13
+|-
+! scope="row" |10
+| style="text-align: left;" |{{flag|Netherlands}} <sup>‡</sup>|| 13
+|}
+
+<sup>‡</sup> The Global 500 includes [[Unilever]] under the heading "Britain/Netherlands", as the company is counted in the tally for both countries.
+
+=== Leadership by sector ===
+The following are the top-ranked companies in 2020 for each sector:<ref name="g0"/>
+
+{| class="wikitable sortable"
+|- style="background:#efefef;"
+! Sector !! Company !! Headquarters !! Overall <br /> rank !! Revenues <br /> ($M)
+|-
+|[[Aerospace manufacturer|Aerospace]] & [[Arms industry|Defense]]||[[Airbus]]||{{flagicon|NLD}} [[Leiden]]||<span style="display:none">0060</span>#116 || style="text-align:center;" |78,883
+|-
+|[[Apparel]]||[[Christian Dior SE|Christian Dior]]||{{flagicon|France}} [[Paris]]||<span style="display:none">0234</span>#180 || style="text-align:center;" |60,071
+|-
+|[[Corporate services|Business services]]||[[Compass Group]]||{{Flagicon|United Kingdom}} [[Chertsey]]||<span style="display:none">0434</span>#395 || style="text-align:center;" |31,736
+|-
+|[[Chemicals]]||[[BASF]]||{{flagicon|DEU}} [[Ludwigshafen]]||<span style="display:none">0126</span>#143 || style="text-align:center;" |70,723
+|-
+|[[Energy]]||[[China Petrochemical Corporation|Sinopec Group]]||{{flagicon|China}} [[Beijing]]||<span style="display:none">0002</span>#2 || style="text-align:center;" |407,009
+|-
+|[[Engineering]] & [[Construction]]||[[China State Construction Engineering]]||{{flagicon|China}} [[Beijing]]||<span style="display:none">0024</span>#18 || style="text-align:center;" |205,839
+|-
+|[[Financials]]||[[Berkshire Hathaway]]||{{flagicon|USA}} [[Omaha, Nebraska|Omaha]]||<span style="display:none">0008</span>#14 || style="text-align:center;" |254,616
+|-
+|[[Food]] & [[Pharmacy (shop)|Drug Stores]]||[[Walgreens Boots Alliance]]||{{flagicon|USA}} [[Deerfield, Illinois|Deerfield]]||<span style="display:none">0037</span>#41 || style="text-align:center;" |136,866
+|-
+|[[Food]], [[Beverages]] & [[Tobacco]]||[[Nestlé]]||{{flagicon|Switzerland}} [[Vevey]]||<span style="display:none">0064</span>#82 || style="text-align:center;" |92,107
+|-
+|[[Health Care]]||[[CVS Health]]||{{flagicon|USA}} [[Woonsocket, Rhode Island|Woonsocket]]||<span style="display:none">0013</span>#13 || style="text-align:center;" |256,776
+|-
+|[[Household chemicals|Household Products]]||[[Procter & Gamble]]||{{flagicon|USA}} [[Cincinnati]]||<span style="display:none">0098</span>#156 || style="text-align:center;" |67,684
+|-
+|[[Industrials]]||[[Siemens]]||{{flagicon|Germany}} [[Munich]]||<span style="display:none">0031</span>#74 || style="text-align:center;" |97,937
+|-
+|[[Materials]]||[[Amer International Group]]||{{flagicon|China}} [[Shenzhen]]||<span style="display:none">0120</span>#91 || style="text-align:center;" |88,862
+|-
+|[[Media (communication)|Media]]||[[The Walt Disney Company|Walt Disney]]||{{flagicon|USA}} [[Burbank, California|Burbank]]||<span style="display:none">0161</span>#150 || style="text-align:center;" |69,570
+|-
+|[[Automotive industry|Motor Vehicles & Parts]]||[[Volkswagen]]||{{flagicon|Germany}} [[Wolfsburg]]||<span style="display:none">0005</span>#7 || style="text-align:center;" |282,760
+|-
+|[[Retailing]]||[[Walmart]]||{{flagicon|USA}} [[Bentonville, Arkansas|Bentonville]]||<span style="display:none">0001</span>#1 || style="text-align:center;" |523,964
+|-
+|[[Technology]]||[[Apple Inc.|Apple]]||{{flagicon|USA}} [[Cupertino, California|Cupertino]]||<span style="display:none">0009</span>#12 || style="text-align:center;" |260,174
+|-
+|[[Telecommunications]]||[[AT&T]]||{{flagicon|USA}} [[Dallas]]||<span style="display:none">0019</span>#22 || style="text-align:center;" |181,193
+|-
+|[[Transportation]]||[[China Post|China Post Group]]||{{flagicon|China}} [[Beijing]]||<span style="display:none">0099</span>#90 || style="text-align:center;" |89,347
+|-
+|[[Wholesalers]]||[[Trafigura|Trafigura Group]]||{{flagicon|Singapore}} [[Singapore]]||<span style="display:none">0011</span>#27 || style="text-align:center;" |171,474
+|}
+
+=== Breakdown by region ===
+{{as of|2020|August|df=US}}, just 24 (5%) of the Fortune Global 500 companies are located outside East Asia, North America, and Europe:<ref name="g0"/>
+
+{| class="wikitable sortable plainrowheaders" style="text-align: center"
+|-
+|+Breakdown by region
+|-
+! scope="col" | Region
+! scope="col" | Companies
+!Global share
+|-
+| style="text-align: left;" |[[East Asia]]|| 200
+|40%
+|-
+| style="text-align: left;" |[[Europe]]|| 138
+|28%
+|-
+| style="text-align: left;" |[[North America]]|| 138
+|28%
+|-
+| style="text-align: left;" |Rest of world|| 24
+|5%
+|}
+
+==''Fortune'' Global 500 list of 2019 ==
+The following is the list of Top 10 companies in 2019:<ref name="g9">{{Cite web|url=https://fortune.com/global500/2019/|title=Global 500|website=Fortune|language=en|access-date=July 22, 2019|archive-url=https://web.archive.org/web/20190807080136/https://fortune.com/global500/2019/|archive-date=August 7, 2019|url-status=live}}</ref>
+
+{| class="wikitable plainrowheaders"
+|-
+|+''Fortune'' Global 500 list of 2019
+|-
+! scope="col" | Rank
+! scope="col" | Company
+! scope="col" | Country
+! scope="col" | Industry
+! scope="col" | Revenue in USD
+|-
+! scope="row" |1
+|[[Walmart]]
+|{{flag|United States}}
+|Retail
+|$514 billion
+|-
+! scope="row" |2
+|[[China Petrochemical Corporation|Sinopec Group]]
+|{{flag|China}}
+|Petroleum
+|$415 billion
+|-
+! scope="row" |3
+|[[Royal Dutch Shell]]
+|{{flag|Netherlands}} {{Flag|United Kingdom}}
+|Petroleum
+|$397 billion
+|-
+! scope="row" |4
+|[[China National Petroleum]]
+|{{flag|China}}
+|Petroleum
+|$393 billion
+|-
+! scope="row" |5
+|[[State Grid Corporation of China|State Grid]]
+|{{flag|China}}
+|Energy
+|$387 billion
+|-
+! scope="row" |6
+|[[Saudi Aramco]]
+|{{flag|Saudi Arabia}}
+|Energy
+|$356 billion
+|-
+! scope="row" |7
+|[[BP]]
+|{{flag|United Kingdom}}
+|Petroleum
+|$304 billion
+|-
+! scope="row" |8
+|[[ExxonMobil|Exxon Mobil]]
+|{{flag|United States}}
+|Petroleum
+|$290 billion
+|-
+! scope="row" |9
+|[[Volkswagen Group|Volkswagen]]
+|{{flag|Germany}}
+|Automobiles
+|$278 billion
+|-
+! scope="row" |10
+|[[Toyota|Toyota Motor]]
+|{{flag|Japan}}
+|Automobiles
+|$273 billion
+|}
+
+=== Breakdown by country ===
+{{as of|2019|July|df=}}, this is the list of the Top 10 countries with the most Global 500 companies:<ref name="g9"/>
+
+{| class="wikitable plainrowheaders" style="text-align: center"
+|-
+|+Breakdown by country
+|-
+! scope="col" | Rank
+! scope="col" | Country
+! scope="col" | Companies
+|-
+! scope="row" |1
+| style="text-align: left;" |{{flag|United States}}|| 121
+|-
+! scope="row" |2
+| style="text-align: left;" |{{flag|China}}|| 119
+|-
+! scope="row" |3
+| style="text-align: left;" |{{flag|Japan}}|| 52
+|-
+! scope="row" |4
+| style="text-align: left;" |{{flag|France}}|| 31
+|-
+! scope="row" |5
+| style="text-align: left;" |{{flag|Germany}}|| 29
+|-
+! scope="row" |6
+| style="text-align: left;" |{{flag|United Kingdom}} <sup>‡</sup>|| 18
+|-
+! scope="row" |7
+| style="text-align: left;" |{{flag|South Korea}}|| 16
+|-
+! scope="row" |8
+| style="text-align: left;" |{{flag|Switzerland}}|| 14
+|-
+! scope="row" |9
+| style="text-align: left;" |{{flag|Canada}}|| 13
+|-
+! scope="row" |10
+| style="text-align: left;" |{{flag|Netherlands}} <sup>‡</sup>|| 12
+|}
+
+<sup>‡</sup> The Global 500 includes [[Unilever]] & [[Royal Dutch Shell]] under the heading "Britain/Netherlands", as the company is counted in the tally for both countries.
+
+===Leadership by sector===
+The following are the top-ranked companies in 2019 for each sector:<ref name="g9"/>
+
+{| class="wikitable sortable"
+|- style="background:#efefef;"
+! Sector !! Company !! Headquarters !! Overall <br /> rank !! Revenues <br /> ($M)
+|-
+|[[Aerospace manufacturer|Aerospace]] & [[Arms industry|Defense]]||[[Boeing]]||{{flagicon|USA}} [[Chicago]]||<span style="display:none">0060</span>#68 || style="text-align:center;" |101,127
+|-
+|[[Apparel]]||[[Christian Dior SE|Christian Dior]]||{{flagicon|France}} [[Paris]]||<span style="display:none">0234</span>#187 || style="text-align:center;" |55,263
+|-
+|[[Corporate services|Business services]]||[[Compass Group]]||{{Flagicon|United Kingdom}} [[Chertsey]]||<span style="display:none">0434</span>#403 || style="text-align:center;" |30,879
+|-
+|[[Chemicals]]||[[DuPont]]||{{flagicon|United States}} [[Wilmington, Delaware|Wilmington]]||<span style="display:none">0126</span>#100 || style="text-align:center;" |85,977
+|-
+|[[Energy]]||[[China Petrochemical Corporation|Sinopec Group]]||{{flagicon|China}} [[Beijing]]||<span style="display:none">0002</span>#2 || style="text-align:center;" |414,650
+|-
+|[[Engineering]] & [[Construction]]||[[China State Construction Engineering]]||{{flagicon|China}} [[Beijing]]||<span style="display:none">0024</span>#21 || style="text-align:center;" |181,525
+|-
+|[[Financials]]||[[Berkshire Hathaway]]||{{flagicon|USA}} [[Omaha, Nebraska|Omaha]]||<span style="display:none">0008</span>#12 || style="text-align:center;" |247,837
+|-
+|[[Food]] & [[Pharmacy (shop)|Drug Stores]]||[[Walgreens Boots Alliance]]||{{flagicon|USA}} [[Deerfield, Illinois|Deerfield]]||<span style="display:none">0037</span>#40 || style="text-align:center;" |131,537
+|-
+|[[Food]], [[Beverages]] & [[Tobacco]]||[[Nestlé]]||{{flagicon|Switzerland}} [[Vevey]]||<span style="display:none">0064</span>#76 || style="text-align:center;" |93,513
+|-
+|[[Health Care]]||[[UnitedHealth Group]]||{{flagicon|USA}} [[Minnetonka, Minnesota|Minnetonka]]||<span style="display:none">0013</span>#14 || style="text-align:center;" |226,247
+|-
+|[[Household chemicals|Household Products]]||[[Procter & Gamble]]||{{flagicon|USA}} [[Cincinnati]]||<span style="display:none">0098</span>#146 || style="text-align:center;" |66,832
+|-
+|[[Industrials]]||[[General Electric]]||{{flagicon|USA}} [[Boston]]||<span style="display:none">0031</span>#48 || style="text-align:center;" |120,268
+|-
+|[[Materials]]||[[China Minmetals]]||{{flagicon|China}} [[Beijing]]||<span style="display:none">0120</span>#112 || style="text-align:center;" |80,076
+|-
+|[[Media (communication)|Media]]||[[The Walt Disney Company|Walt Disney]]||{{flagicon|USA}} [[Burbank, California|Burbank]]||<span style="display:none">0161</span>#170 || style="text-align:center;" |59,434
+|-
+|[[Automotive industry|Motor Vehicles & Parts]]||[[Volkswagen]]||{{flagicon|Germany}} [[Wolfsburg]]||<span style="display:none">0005</span>#9 || style="text-align:center;" |278,342
+|-
+|[[Retailing]]||[[Walmart]]||{{flagicon|USA}} [[Bentonville, Arkansas|Bentonville]]||<span style="display:none">0001</span>#1 || style="text-align:center;" |514,405
+|-
+|[[Technology]]||[[Apple Inc.|Apple]]||{{flagicon|USA}} [[Cupertino, California|Cupertino]]||<span style="display:none">0009</span>#11 || style="text-align:center;" |265,595
+|-
+|[[Telecommunications]]||[[AT&T]]||{{flagicon|USA}} [[Dallas]]||<span style="display:none">0019</span>#25 || style="text-align:center;" |170,756
+|-
+|[[Transportation]]||[[China Post|China Post Group]]||{{flagicon|China}} [[Beijing]]||<span style="display:none">0099</span>#101 || style="text-align:center;" |85,628
+|-
+|[[Wholesalers]]||[[Trafigura|Trafigura Group]]||{{flagicon|Singapore}} Singapore||<span style="display:none">0011</span>#22 || style="text-align:center;" |180,744
+|}
+
+==''Fortune'' Global 500 list of 2018 ==
+The following is the list of Top 10 companies in 2018:<ref name="g8">{{cite web|url=http://fortune.com/global500/list/|title=Fortune Global 500 List 2018: See Who Made It|website=Fortune|language=en-US|access-date=July 19, 2018|archive-url=https://web.archive.org/web/20190510221016/http://fortune.com/global500/list|archive-date=May 10, 2019|url-status=live}}</ref>
+
+{| class="wikitable plainrowheaders"
+|-
+|+''Fortune'' Global 500 list of 2018
+|-
+! scope="col" | Rank
+! scope="col" | Company
+! scope="col" | Country
+! scope="col" | Industry
+! scope="col" | Revenue in USD
+|-
+! scope="row" |1
+|[[Walmart]]
+|{{flag|United States}}
+|Retail
+|$500 billion
+|-
+! scope="row" |2
+|[[State Grid Corporation of China|State Grid]]
+|{{flag|China}}
+|Energy
+|$349 billion
+|-
+! scope="row" |3
+|[[China Petrochemical Corporation|Sinopec Group]]
+|{{flag|China}}
+|Petroleum
+|$327 billion
+|-
+! scope="row" |4
+|[[China National Petroleum]]
+|{{flag|China}}
+|Petroleum
+|$326 billion
+|-
+! scope="row" |5
+|[[Royal Dutch Shell]]
+|{{flag|Netherlands}} {{flag|United Kingdom}}
+|Petroleum
+|$312 billion
+|-
+! scope="row" |6
+|[[Toyota|Toyota Motor]]
+|{{flag|Japan}}
+|Automobiles
+|$265 billion
+|-
+! scope="row" |7
+|[[Volkswagen Group|Volkswagen]]
+|{{flag|Germany}}
+|Automobiles
+|$260 billion
+|-
+! scope="row" |8
+|[[BP]]
+|{{flag|United Kingdom}}
+|Petroleum
+|$245 billion
+|-
+! scope="row" |9
+|[[ExxonMobil|Exxon Mobil]]
+|{{flag|United States}}
+|Petroleum
+|$244 billion
+|-
+! scope="row" |10
+|[[Berkshire Hathaway]]
+|{{flag|United States}}
+|Holding
+|$242 billion
+|}
+
+=== Breakdown by country ===
+{{as of|2018|July}}, this is the list of the Top 10 countries with the most Global 500 companies:<ref name="g8"/>
+
+{| wikitable class="wikitable plainrowheaders" style="text-align: center"
+|-
+|+ Breakdown by country
+|-
+! scope="col" | Rank
+! scope="col" | Country
+! scope="col" | Companies
+|-
+! scope="row" |1
+| style="text-align: left;"|{{flag|United States}} || 126
+|-
+! scope="row" |2
+| style="text-align: left;"|{{flag|China}} || 120
+|-
+! scope="row" |3
+| style="text-align: left;"|{{flag|Japan}} || 52
+|-
+! scope="row" |4
+| style="text-align: left;"|{{flag|Germany}}|| 32
+|-
+! scope="row" |5
+| style="text-align: left;"|{{flag|France}}|| 28
+|-
+! scope="row" |6
+| style="text-align: left;"|{{flag|United Kingdom}} <sup>†</sup> || 21
+|-
+! scope="row" |7
+| style="text-align: left;"|{{flag|South Korea}} || 16
+|-
+! scope="row" |8
+| style="text-align: left;"|{{flag|Netherlands}} <sup>†</sup> || 15
+|-
+! scope="row" |9
+| style="text-align: left;"|{{flag|Switzerland}} || 14
+|-
+! scope="row" |10
+| style="text-align: left;"|{{flag|Canada}} || 12
+|}
+<sup>†</sup> The Global 500 includes [[Unilever]] under the heading "Britain/Netherlands", as the company is counted in the tally for both countries.
+
+As shown in the table above, 436 (87.2%) of the Global 500 are represented by only 10 countries: two in North America (Canada and United States), five in Western Europe (France, Germany, Netherlands, Switzerland and the United Kingdom) and three in East Asia (China, Japan and South Korea). Moreover, the top six (United States, China, Japan, Germany, France and the United Kingdom) are the world's largest economies as estimated by the IMF ([[List of countries by GDP (nominal)]]). Among the Global 500, 379 companies (75.8%) are from these six countries.
+
+===Leadership by sector===
+The following are the top-ranked companies in 2018 for each sector:<ref name="g8"/>
+
+{| class="wikitable sortable"
+|- style="background:#efefef;"
+! Sector !! Company !! Headquarters !! Overall <br /> rank !! Revenues <br /> ($M)
+|-
+|[[Aerospace manufacturer|Aerospace]] & [[Arms industry|Defense]]||[[Boeing]]||{{flagicon|USA}} [[Chicago]]||<span style="display:none">0060</span>#64 || style="text-align:center;" |93,392
+|-
+|[[Apparel]]||[[Christian Dior SE|Christian Dior]]||{{flagicon|France}} [[Paris]]||<span style="display:none">0234</span>#208 || style="text-align:center;" |49,221
+|-
+|[[Corporate services|Business services]]||[[Compass Group]]||{{Flagicon|United Kingdom}} [[Chertsey]]||<span style="display:none">0434</span>#413 || style="text-align:center;" |28,578
+|-
+|[[Chemicals]]||[[BASF]]||{{flagicon|Germany}} [[Ludwigshafen]]||<span style="display:none">0126</span>#112 || style="text-align:center;" |72,677
+|-
+|[[Energy]]||[[State Grid Corporation of China|State Grid]]||{{flagicon|China}} [[Beijing]]||<span style="display:none">0002</span>#2 || style="text-align:center;" |348,903
+|-
+|[[Engineering]] & [[Construction]]||[[China State Construction Engineering]]||{{flagicon|China}} [[Beijing]]||<span style="display:none">0024</span>#23 || style="text-align:center;" |156,071
+|-
+|[[Financials]]||[[Berkshire Hathaway]]||{{flagicon|USA}} [[Omaha, Nebraska|Omaha]]||<span style="display:none">0008</span>#10 || style="text-align:center;" |242,137
+|-
+|[[Food]] & [[Pharmacy (shop)|Drug Stores]]||[[Kroger]]||{{flagicon|USA}} [[Cincinnati]]||<span style="display:none">0037</span>#39 || style="text-align:center;" |122,662
+|-
+|[[Food]], [[Beverages]] & [[Tobacco]]||[[Nestlé]]||{{flagicon|Switzerland}} [[Vevey]]||<span style="display:none">0064</span>#69 || style="text-align:center;" |91,222
+|-
+|[[Health Care]]||[[UnitedHealth Group]]||{{flagicon|USA}} [[Minnetonka, Minnesota|Minnetonka]]||<span style="display:none">0013</span>#15 || style="text-align:center;" |201,159
+|-
+|[[Household chemicals|Household Products]]||[[Procter & Gamble]]||{{flagicon|USA}} [[Cincinnati]]||<span style="display:none">0098</span>#135 || style="text-align:center;" |66,217
+|-
+|[[Industrials]]||[[General Electric]]||{{flagicon|USA}} [[Boston]]||<span style="display:none">0031</span>#41 || style="text-align:center;" |122,274
+|-
+|[[Materials]]||[[China Minmetals]]||{{flagicon|China}} [[Beijing]]||<span style="display:none">0120</span>#109 || style="text-align:center;" |72,997
+|-
+|[[Media (communication)|Media]]||[[The Walt Disney Company|Disney]]||{{flagicon|USA}} [[Burbank, California|Burbank]]||<span style="display:none">0161</span>#176 || style="text-align:center;" |55,137
+|-
+|[[Automotive industry|Motor Vehicles & Parts]]||[[Toyota Motor]]||{{flagicon|Japan}} [[Toyota, Aichi|Toyota]]||<span style="display:none">0005</span>#6 || style="text-align:center;" |265,172
+|-
+|[[Retailing]]||[[Walmart]]||{{flagicon|USA}} [[Bentonville, Arkansas|Bentonville]]||<span style="display:none">0001</span>#1 || style="text-align:center;" |500,343
+|-
+|[[Technology]]||[[Apple Inc.|Apple]]||{{flagicon|USA}} [[Cupertino, California|Cupertino]]||<span style="display:none">0009</span>#11 || style="text-align:center;" |229,234
+|-
+|[[Telecommunications]]||[[AT&T]]||{{flagicon|USA}} [[Dallas]]||<span style="display:none">0019</span>#20 || style="text-align:center;" |160,546
+|-
+|[[Transportation]]||[[China Post|China Post Group]]||{{flagicon|China}} [[Beijing]]||<span style="display:none">0099</span>#113 || style="text-align:center;" |72,197
+|-
+|[[Wholesalers]]||[[McKesson Corporation]]||{{flagicon|USA}} [[San Francisco]]||<span style="display:none">0011</span>#13 || style="text-align:center;" |208,357
+|}
+
+===Breakdown by industry===
+
+The following are the top-ranked companies in 2018 for each industry:
+{| class="wikitable sortable"
+|+''Fortune'' Global 500 by industry
+!Industry
+!Company
+!Country
+!Rank
+!Revenue ($M)
+|-
+|Aerospace & [[Defense (military)|Defense]]
+|Boeing
+|{{Flagicon|United States}} [[United States]]
+|64
+|93,392
+|-
+|Airlines
+|American Airlines
+|{{Flagicon|United States}} [[United States]]
+|260
+|42,207
+|-
+|Apparel
+|Christian Dior
+|{{Flagicon|France}} [[France]]
+|208
+|49,221
+|-
+|Banks: Commercial & Savings
+|Industrial & Commercial Bank
+|{{Flagicon|China}} [[China]]
+|26
+|153,021
+|-
+|Beverages
+|Anheuser-Busch InBev
+|{{Flagicon|Belgium}} [[Belgium]]
+|170
+|56,444
+|-
+|Building Materials, Glass
+|Saint-Gobain
+|{{Flagicon|France}} [[France]]
+|231
+|46,002
+|-
+|Chemicals
+|BASF
+|{{Flagicon|Germany}} [[Germany]]
+|112
+|72,677
+|-
+|Computer Software
+|Microsoft
+|{{Flagicon|United States}} [[United States]]
+|71
+|89,950
+|-
+|Computers, Office Equipment
+|Apple
+|{{Flagicon|United States}} [[United States]]
+|11
+|229,234
+|-
+|Construction & Farm Machinery
+|Caterpillar
+|{{Flagicon|United States}} [[United States]]
+|238
+|45,462
+|-
+|Diversified Financials
+|EXOR Group
+|{{Flagicon|Netherlands}} [[Netherlands]]
+|19
+|161,677
+|-
+|Electronics, Electrical Equipment
+|Samsung Electronics
+|{{Flagicon|South Korea}} [[South Korea]]
+|12
+|211,940
+|-
+|Energy
+|Gazprom
+|{{Flagicon|Russia}} [[Russia]]
+|49
+|111,983
+|-
+|Engineering & Construction
+|China Construction Engineering
+|{{Flagicon|China}} [[China]]
+|23
+|156,071
+|-
+|Entertainment
+|Disney
+|{{Flagicon|United States}} [[United States]]
+|176
+|55,137
+|-
+|Food & Drug Stores
+|Kroger
+|{{Flagicon|United States}} [[United States]]
+|39
+|122,662
+|-
+|Food Consumer Products
+|Nestle
+|{{Flagicon|Switzerland}} [[Switzerland]]
+|69
+|91,222
+|-
+|Food Production
+|Archer Daniels Midland
+|{{Flagicon|United States}} [[United States]]
+|152
+|60,828
+|-
+|Food Services
+|Compass Group
+|{{Flagicon|United Kingdom}} [[United Kingdom]]
+|413
+|28,578
+|-
+|General Merchandisers
+|Walmart
+|{{Flagicon|United States}} [[United States]]
+|1
+|500,343
+|-
+|Health Care: Insurance & Managed Care
+|UnitedHealth Group
+|{{Flagicon|United States}} [[United States]]
+|15
+|201,159
+|-
+|Health Care: Medical Facilities
+|HCA Healthcare
+|{{Flagicon|United States}} [[United States]]
+|215
+|47,653
+|-
+|Health Care: Pharmacy & Other Services
+|CVS Health
+|{{Flagicon|United States}} [[United States]]
+|17
+|184,765
+|-
+|Household & Personal Products
+|Procter & Gamble
+|{{Flagicon|United States}} [[United States]]
+|135
+|66,217
+|-
+|Human Resources & Employment Services
+|Adecco Group
+|{{Flagicon|Switzerland}} [[Switzerland]]
+|441
+|26,670
+|-
+|Industrial Machinery
+|General Electric
+|{{Flagicon|United States}} [[United States]]
+|41
+|122,274
+|-
+|Information Technology Services
+|IBM
+|{{Flagicon|United States}} [[United States]]
+|92
+|79,139
+|-
+|Insurance: Life, Health (Mutual)
+|Nippon Life Insurance
+|{{Flagicon|Japan}} [[Japan]]
+|126
+|68,684
+|-
+|Insurance: Life, Health (Stock)
+|AXA
+|{{Flagicon|France}} [[France]]
+|27
+|149,461
+|-
+|Insurance: Property & Casualty (Mutual)
+|State Farm Insurance
+|{{Flagicon|United States}} [[United States]]
+|95
+|78,331
+|-
+|Insurance: Property & Casualty (Stock)
+|Berkshire Hathaway
+|{{Flagicon|United States}} [[United States]]
+|10
+|242,137
+|-
+|Internet Services & Retailing
+|Amazon.com
+|{{Flagicon|United States}} [[United States]]
+|18
+|177,866
+|-
+|Mail, Package, & Freight Delivery
+|China Post Group
+|{{Flagicon|China}} [[China]]
+|113
+|72,197
+|-
+|Medical Products & Equipment
+|Medtronic
+|{{Flagicon|Ireland}} [[Republic of Ireland|Ireland]]
+|396
+|29,710
+|-
+|Metals
+|China Minmetals
+|{{Flagicon|China}} [[China]]
+|109
+|72,997
+|-
+|Mining, Crude-Oil Production
+|Glencore
+|{{Flagicon|Switzerland}} [[Switzerland]]
+|14
+|205,476
+|-
+|Motor Vehicles & Parts
+|Toyota Motor
+|{{Flagicon|Japan}} [[Japan]]
+|6
+|265,172
+|-
+|Network & Other Communications Equipment
+|Huawei Investment & Holding
+|{{Flagicon|China}} [[China]]
+|72
+|89,311
+|-
+|Oil & Gas Equipment, Services
+|Schlumberger
+|{{Flagicon|United States}} [[United States]]
+|386
+|30,440
+|-
+|Petroleum Refining
+|[[Sinopec]] Group
+|{{Flagicon|China}} [[China]]
+|3
+|326,953
+|-
+|Pharmaceuticals
+|China Resources
+|{{Flagicon|China}} [[China]]
+|86
+|82,184
+|-
+|Pipelines
+|Energy Transfer Equity
+|{{Flagicon|United States}} [[United States]]
+|217
+|47,487
+|-
+|Railroads
+|Deutsche Bahn
+|{{Flagicon|Germany}} [[Germany]]
+|211
+|48,124
+|-
+|Real Estate
+|China Evergrande Group
+|{{Flagicon|China}} [[China]]
+|230
+|46,019
+|-
+|Semiconductors & Other Electronic Components
+|Intel
+|{{Flagicon|United States}} [[United States]]
+|146
+|62,761
+|-
+|Shipping
+|China Shipbuilding Industry
+|{{Flagicon|China}} [[China]]
+|245
+|44,431
+|-
+|Specialty Retailers
+|Home Depot
+|{{Flagicon|United States}} [[United States]]
+|57
+|100,904
+|-
+|Telecommunications
+|AT&T
+|{{Flagicon|United States}} [[United States]]
+|20
+|160,546
+|-
+|Textiles
+|Shandong Weiqiao Pioneering
+|{{Flagicon|China}} [[China]]
+|185
+|53,203
+|-
+|Tobacco
+|Philip Morris International
+|{{Flagicon|United States}} [[United States]]
+|411
+|28,748
+|-
+|Trading
+|Trafigura Group
+|{{Flagicon|Singapore}} [[Singapore]]
+|32
+|136,421
+|-
+|Utilities
+|State Grid
+|{{Flagicon|China}} [[China]]
+|2
+|348,903
+|-
+|Wholesalers: Electronics & Office Equipment
+|Tech Data
+|{{Flagicon|United States}} [[United States]]
+|315
+|36,775
+|-
+|Wholesalers: Food & Grocery
+|Sysco
+|{{Flagicon|United States}} [[United States]]
+|174
+|55,371
+|-
+|Wholesalers: Health Care
+|McKesson Corporation
+|{{Flagicon|United States}} [[United States]]
+|13
+|208,357
+|}
+
+'''<big>Most profitable</big>'''
+
+The following is the Global 500 list sorted by profits:<ref>{{cite web|url=http://fortune.com/global500/list/|title=Fortune Global 500 List 2018: See Who Made It|website=Fortune|access-date=March 14, 2019|archive-url=https://web.archive.org/web/20190510221016/http://fortune.com/global500/list|archive-date=May 10, 2019|url-status=live}}</ref>
+{| class="wikitable sortable"
+|+''Fortune'' Global 500 most profitable of 2018
+!Rank
+!Company
+!Country
+!Profits ($M)
+|-
+|1
+|[[Apple Inc.|Apple]]
+|{{Flagicon|United States}} [[United States]]
+|$48,351.0
+|-
+|2
+|[[British American Tobacco]]
+|{{Flagicon|United Kingdom}} [[United Kingdom]]
+|$48,327.8
+|-
+|3
+|[[Berkshire Hathaway]]
+|{{Flagicon|United States}} [[United States]]
+|$44,940.0
+|-
+|4
+|[[Industrial and Commercial Bank of China|Industrial & Commercial Bank of China]]
+|{{Flagicon|China}} [[China]]
+|$42,323.7
+|-
+|5
+|[[Samsung Electronics]]
+|{{Flagicon|South Korea}} [[South Korea]]
+|$36,575.4
+|-
+|6
+|[[China Construction Bank]]
+|{{Flagicon|China}} [[China]]
+|$35,845.2
+|-
+|7
+|[[Verizon Communications|Verizon]]
+|{{Flagicon|United States}} [[United States]]
+|$30,101.0
+|-
+|8
+|[[AT&T]]
+|{{Flagicon|United States}} [[United States]]
+|$29,450.0
+|-
+|9
+|[[Agricultural Bank of China]]
+|{{Flagicon|China}} [[China]]
+|$28,550.4
+|-
+|10
+|[[Bank of China]]
+|{{Flagicon|China}} [[China]]
+|$25,509.2
+|}
+
+==''Fortune'' Global 500 list of 2017 ==
+The following is the list of Top 10 companies in 2017:<ref>{{cite web|url=http://fortune.com/global500/|title=Fortune Global 500 List 2018: See Who Made It|website=Fortune|access-date=January 28, 2019|archive-url=https://web.archive.org/web/20120509014825/https://money.cnn.com/magazines/fortune/global500/2011/full_list/index.html|archive-date=May 9, 2012|url-status=live}}</ref><ref name="rankings 2012">{{cite web|url=https://money.cnn.com/magazines/fortune/global500/2013/full_list/|title=Global 500|work=Fortune|access-date=July 7, 2014|archive-url=https://web.archive.org/web/20130907013637/https://money.cnn.com/magazines/fortune/global500/2013/full_list/|archive-date=September 7, 2013|url-status=dead}}</ref>
+
+{| class="wikitable sortable"
+|-
+!Rank
+!Company
+!Country
+!Industry
+!Revenue in USD
+|-
+|1
+|[[Walmart]]
+|{{flag|United States}}
+|Retail
+|$486 billion
+|-
+|2
+|[[State Grid]]
+|{{flag|China}}
+|Energy
+|$316 billion
+|-
+|3
+|[[China Petrochemical Corporation|Sinopec Group]]
+|{{flag|China}}
+|Petroleum
+|$268 billion
+|-
+|4
+|[[China National Petroleum]]
+|{{flag|China}}
+|Petroleum
+|$263 billion
+|-
+|5
+|[[Toyota Motor]]
+|{{flag|Japan}}
+|Automobiles
+|$255 billion
+|-
+|6
+|[[Volkswagen Group|Volkswagen]]
+|{{flag|Germany}}
+|Automobiles
+|$240 billion
+|-
+|7
+|[[Royal Dutch Shell]]
+|{{flag|Netherlands}} <sup>†</sup>
+|Petroleum
+|$240 billion
+|-
+|8
+|[[Berkshire Hathaway]]
+|{{flag|United States}}
+|Products
+|$242 billion
+|-
+|9
+|[[Apple Inc.|Apple]]
+|{{flag|United States}}
+|Technology
+|$216 billion
+|-
+|10
+|[[ExxonMobil|Exxon Mobil]]
+|{{flag|United States}}
+|Petroleum
+|$205 billion
+|}
+<sup>†</sup> ''Fortune'' had previously listed Shell as a British/Dutch company, but as of the 2016 listing it is listed as Dutch.
+
+=== Breakdown by country ===
+{{as of|2017|November}}, this is the list of the Top 10 countries with the most Global 500 companies:<ref>{{cite web|url=http://archive.fortune.com/magazines/fortune/global500/2017/full_list/|title=Global 500 2017|work=Fortune}}{{dead link|date=September 2024|bot=medic}}{{cbignore|bot=medic}} Number of companies data taken from the "Country" box.</ref>
+
+{| wikitable class="wikitable sortable" style="text-align: center"
+|-
+!Rank!!Country!!Companies
+|-
+|1 || style="text-align: left;"|{{flag|United States}} || 133
+|-
+|2 || style="text-align: left;"|{{flag|China}} || 109
+|-
+|3 || style="text-align: left;"|{{flag|Japan}} || 51
+|-
+|4 || style="text-align: left;"|{{flag|France}} || 29
+|-
+|5 || style="text-align: left;"|{{flag|Germany}} || 29
+|-
+|6 || style="text-align: left;"|{{flag|United Kingdom}} <sup>†</sup> || 21
+|-
+|7 || style="text-align: left;"|{{flag|South Korea}} || 15
+|-
+|8 || style="text-align: left;"|{{flag|Netherlands}} <sup>†</sup> || 15
+|-
+|9 || style="text-align: left;"|{{flag|Switzerland}} || 13
+|}
+<sup>†</sup> The Global 500 includes [[Unilever]] under the heading "Britain/Netherlands", as the company is counted in the tally for both countries.
+
+As can be seen from the table above, 425 (85.0%) of the Global 500 are represented by only 10 countries: two in North America (Canada and United States), five in Western Europe (France, Germany, Netherlands, Switzerland, and the United Kingdom) and three in East Asia (China, Japan and South Korea). Moreover, the top six (United States, China, Japan, France, Germany, and the United Kingdom) are some of the world's largest economies as estimated by the [[IMF]] ([[List of countries by GDP (nominal)]]). Among the Fortune Global 500, 371 companies (74.2%) are from these six countries.
+
+===Leadership by sector===
+The top-ranked companies in each sector are as follows:
+
+{|class="wikitable sortable"
+|- style="background:#efefef;"
+! Sector !! Company !! Headquarters !! Overall <br /> rank !! Revenues <br /> ($M)
+|-
+| [[Aerospace manufacturer|Aerospace]] & [[Arms industry|Defense]] || [[Boeing]] || {{flagicon|USA}} [[Chicago]] ||<span style="display:none">0060</span>#60 ||style="text-align:center;"|94,571
+|-
+| [[Apparel]] || [[Christian Dior SE|Christian Dior]] || {{flagicon|France}} [[Paris]] ||<span style="display:none">0234</span>#234 ||style="text-align:center;"|42,113
+|-
+| [[Corporate services|Business services]] || [[The Adecco Group]] || {{flagicon|Switzerland}} [[Zürich]] ||<span style="display:none">0434</span>#434 ||style="text-align:center;"|25,112
+|-
+| [[Chemicals]] || [[BASF]] || {{flagicon|Germany}} [[Ludwigshafen]] ||<span style="display:none">0126</span>#126 ||style="text-align:center;"|63,641
+|-
+| [[Energy]] || [[State Grid Corporation of China]] || {{flagicon|China}} [[Beijing]] ||<span style="display:none">0002</span>#2 ||style="text-align:center;"|315,199
+|-
+| [[Engineering]] & [[Construction]] || [[China State Construction Engineering]] || {{flagicon|China}} [[Beijing]] ||<span style="display:none">0024</span>#24 ||style="text-align:center;"|144,505
+|-
+| [[Financials]] || [[Berkshire Hathaway]] || {{flagicon|USA}} [[Omaha, Nebraska|Omaha]] ||<span style="display:none">0008</span>#8 ||style="text-align:center;"|223,604
+|-
+| [[Food]] & [[Pharmacy (shop)|Drug Stores]] || [[Walgreens Boots Alliance]] || {{flagicon|USA}} [[Deerfield, Illinois|Deerfield]] ||<span style="display:none">0037</span>#37 ||style="text-align:center;"|117,351
+|-
+| [[Food]], [[Beverages]] & [[Tobacco]] || [[Nestlé]] || {{flagicon|Switzerland}} [[Vevey]] ||<span style="display:none">0064</span>#64 ||style="text-align:center;"|90,814
+|-
+| [[Health Care]] || [[UnitedHealth Group]] || {{flagicon|USA}} [[Minnetonka, Minnesota|Minnetonka]] ||<span style="display:none">0013</span>#13 ||style="text-align:center;"|184,840
+|-
+| [[Household chemicals|Household Products]] || [[Procter & Gamble]] || {{flagicon|USA}} [[Cincinnati]] ||<span style="display:none">0098</span>#98 ||style="text-align:center;"|71,726
+|-
+| [[Industrials]] || [[General Electric]] || {{flagicon|USA}} [[Boston]] ||<span style="display:none">0031</span>#31 ||style="text-align:center;"|126,661
+|-
+| [[Materials]] || [[China Minmetals]] || {{flagicon|China}} [[Beijing]] ||<span style="display:none">0120</span>#120 ||style="text-align:center;"|65,547
+|-
+| [[Media (communication)|Media]] || [[The Walt Disney Company]] || {{flagicon|USA}} [[Burbank, California|Burbank]] ||<span style="display:none">0161</span>#161 ||style="text-align:center;"|55,632
+|-
+| [[Automotive industry|Motor Vehicles & Parts]] || [[Toyota Motor]] || {{flagicon|Japan}} [[Toyota, Aichi|Toyota]] ||<span style="display:none">0005</span>#5 ||style="text-align:center;"|255,000
+|-
+| [[Retailing]] || [[Walmart]] || {{flagicon|USA}} [[Bentonville, Arkansas|Bentonville]] ||<span style="display:none">0001</span>#1 ||style="text-align:center;"|485,873
+|-
+| [[Technology]] || [[Apple Inc.|Apple]] || {{flagicon|USA}} [[Cupertino, California|Cupertino]] ||<span style="display:none">0009</span>#9 ||style="text-align:center;"|215,639
+|-
+| [[Telecommunications]] || [[AT&T]] || {{flagicon|USA}} [[Dallas]] ||<span style="display:none">0019</span>#19 ||style="text-align:center;"|163,786
+|-
+| [[Transportation]] || [[U.S. Postal Service]] || {{flagicon|USA}} [[Washington, D.C.]] ||<span style="display:none">0099</span>#99 ||style="text-align:center;"|71,498
+|-
+| [[Wholesalers]] || [[McKesson Corporation]] || {{flagicon|USA}} [[Irving, Texas]] ||<span style="display:none">0011</span>#11 ||style="text-align:center;"|198,533
+|}
+
+== See also ==
+{{div col|colwidth=30em}}
+* [[40 Under 40]]
+* [[Fortune India 500]]
+* [[Forbes Global 2000]]
+* [[Fortune 500]]
+* [[Fortune 1000]]
+* [[List of largest companies by revenue]]
+* [[List of largest employers]]
+* [[List of public corporations by market capitalization]]
+* [[Most Valuable Nation Brands List]]
+{{div col end}}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [http://fortune.com/global500 Fortune.com: full Fortune Global 500 listings]
+
+[[Category:Fortune (magazine)|Global 500]]
+[[Category:Lists of companies by revenue]]
+[[Category:Corporation-related lists]]
+[[Category:International rankings]]
+[[Category:Top lists]]
+[[Category:Annual magazine issues]]
+[[Category:Multinational companies|*]]

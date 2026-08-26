@@ -1,0 +1,23 @@
+# Always-on scheduler daemon (alternative to the oneshot + timer in
+# jobcollect.service / jobcollect.timer). This one keeps a single process
+# alive that fires the daily tasks at the configured time.
+#
+# Install: cp jobcollect-scheduler.service /etc/systemd/system/
+#          systemctl daemon-reload && systemctl enable --now jobcollect-scheduler
+[Unit]
+Description=JobCollector daily scheduler daemon
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=/opt/jobcollector
+ExecStart=/opt/jobcollector/.venv/bin/jobcollect schedule --time 09:00 --tasks collect,feed,scrape,report
+Restart=always
+RestartSec=30
+# Hardening
+NoNewPrivileges=true
+PrivateTmp=true
+
+[Install]
+WantedBy=multi-user.target
