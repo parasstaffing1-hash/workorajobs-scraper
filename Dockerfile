@@ -19,11 +19,5 @@ RUN mkdir -p logs templates static/css static/js
 
 EXPOSE 8000
 
-# Install supervisor to manage both processes
-RUN pip install supervisor
-
-# Create supervisor config
-RUN echo "[program:web]\ncommand=python -m scripts.workora_app\nautostart=true\nautorestart=true\nstdout_logfile=/dev/stdout\nstdout_logfile_maxbytes=0\nstderr_logfile=/dev/stderr\nstderr_logfile_maxbytes=0\n\n[program:scraper]\ncommand=python scripts/render_scraper.py\nautostart=true\nautorestart=true\nstdout_logfile=/app/logs/scraper.log\nstderr_logfile=/app/logs/scraper.log" > /etc/supervisor/conf.d/supervisord.conf
-
-# Start both processes
-CMD ["supervisord", "-c", "/etc/supervisor/conf.d/supervisord.conf"]
+# Start web app (scraper will be started separately via Render)
+CMD ["python", "-m", "scripts.workora_app"]
