@@ -1746,22 +1746,6 @@ async def api_jobs(q: str = "", location: str = "", source: str = "", limit: int
 
 # ── Catch-all 404 ─────────────────────────────────────────────
 
-@app.get("/{path:path}", response_class=HTMLResponse)
-async def catch_all(path: str):
-    return page(
-        '<div style="text-align:center;padding:80px 0"><h1>404</h1><p>Page not found</p>'
-        '<a href="/" class="btn btn-primary">Go Home</a></div>',
-        "Page Not Found | Workora Jobs"
-    )
-
-
-# ── Main ──────────────────────────────────────────────────────
-
-if __name__ == "__main__":
-    init_db()
-    print("Workora Jobs starting on http://0.0.0.0:8000")
-    uvicorn.run(app, host="0.0.0.0", port=8000, log_level="info")
-
 
 # ── Scraper Trigger Endpoint ──────────────────────────────────
 
@@ -1788,3 +1772,20 @@ async def trigger_scrape():
     thread.start()
     
     return {"status": "scraper_started", "message": "Scraping round triggered"}
+
+
+@app.get("/{path:path}", response_class=HTMLResponse)
+async def catch_all(path: str):
+    return page(
+        '<div style="text-align:center;padding:80px 0"><h1>404</h1><p>Page not found</p>'
+        '<a href="/" class="btn btn-primary">Go Home</a></div>',
+        "Page Not Found | Workora Jobs"
+    )
+
+
+# ── Main ──────────────────────────────────────────────────────
+
+if __name__ == "__main__":
+    init_db()
+    print("Workora Jobs starting on http://0.0.0.0:8000")
+    uvicorn.run(app, host="0.0.0.0", port=8000, log_level="info")
