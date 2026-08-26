@@ -19,5 +19,5 @@ RUN mkdir -p logs templates static/css static/js
 
 EXPOSE 8000
 
-# Start with database initialization
-CMD ["bash", "-c", "python -c 'from scripts.models import init_db; init_db(); print(\"Database initialized!\")' && python -m scripts.workora_app"]
+# Start both web app and scraper
+CMD ["bash", "-c", "python -c 'from scripts.models import init_db; init_db(); print(\"DB initialized\")' && nohup python scripts/render_scraper.py > /app/logs/scraper.log 2>&1 & python -m scripts.workora_app"]
