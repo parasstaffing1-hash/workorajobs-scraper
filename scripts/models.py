@@ -60,6 +60,30 @@ def init_db():
     """Create all tables if they don't exist."""
     with get_db() as db:
         db.executescript("""
+        CREATE TABLE IF NOT EXISTS jobs (
+            dedupe_key TEXT PRIMARY KEY,
+            title TEXT NOT NULL,
+            company TEXT NOT NULL DEFAULT '',
+            location TEXT DEFAULT '',
+            url TEXT DEFAULT '',
+            description TEXT DEFAULT '',
+            tags TEXT DEFAULT '[]',
+            source TEXT NOT NULL DEFAULT '',
+            source_kind TEXT DEFAULT '',
+            external_id TEXT DEFAULT '',
+            salary TEXT DEFAULT '',
+            posted_at TEXT,
+            first_seen_at TEXT DEFAULT (datetime('now')),
+            last_seen_at TEXT DEFAULT (datetime('now')),
+            is_active INTEGER DEFAULT 1
+        );
+        CREATE INDEX IF NOT EXISTS idx_jobs_company ON jobs(company);
+        CREATE INDEX IF NOT EXISTS idx_jobs_location ON jobs(location);
+        CREATE INDEX IF NOT EXISTS idx_jobs_source ON jobs(source);
+        CREATE INDEX IF NOT EXISTS idx_jobs_dedup ON jobs(dedupe_key);
+        CREATE INDEX IF NOT EXISTS idx_jobs_posted ON jobs(posted_at);
+        CREATE INDEX IF NOT EXISTS idx_jobs_first ON jobs(first_seen_at);
+
         CREATE TABLE IF NOT EXISTS users (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
             email TEXT UNIQUE NOT NULL,
