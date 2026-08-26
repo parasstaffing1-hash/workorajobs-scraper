@@ -304,13 +304,19 @@ def run_scrape_round():
             cp["total_new"] += batch_new
             save_checkpoint(cp)
     
-    # JobSpy at the end with ALL job categories from dedicated file
+    # JobSpy: use a rotating subset per round (50 keywords x 15 locations)
     try:
         from scripts.job_keywords import ALL_KEYWORDS, ALL_LOCATIONS
     except ImportError:
         from job_keywords import ALL_KEYWORDS, ALL_LOCATIONS
     
-    js_new = scrape_jobspy_batch(ALL_KEYWORDS, ALL_LOCATIONS)
+    js_key_idx = (cp["rounds"] * 50) % len(ALL_KEYWORDS)
+    js_loc_idx = (cp["rounds"] * 15) % len(ALL_LOCATIONS)
+    round_keywords = ALL_KEYWORDS[js_key_idx:js_key_idx+50]
+    round_locations = ALL_LOCATIONS[js_loc_idx:js_loc_idx+15]
+    log(f"  JobSpy: keywords {js_key_idx}-{js_key_idx+50}, locations {js_loc_idx}-{js_loc_idx+15}")
+    
+    js_new = scrape_jobspy_batch(round_keywords, round_locations)
     round_new += js_new
     log(f"  JobSpy: +{js_new} jobs")
     

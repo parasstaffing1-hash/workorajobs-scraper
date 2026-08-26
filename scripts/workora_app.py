@@ -1772,44 +1772,24 @@ async def trigger_scrape():
 
 @app.get("/api/scrape-now")
 async def scrape_now():
-    """Run scraper synchronously for debugging."""
-    import traceback
-    try:
-        from scripts.render_scraper import run_scrape_round, get_db
-        
-        # First test a single Greenhouse company
-        import httpx
-        test_result = {}
+    """Run scraper in background and return status."""
+    import threading
+    
+    def run_it():
         try:
-            with httpx.Client(follow_redirects=True) as client:
-                resp = client.get("https://boards-api.greenhouse.io/v1/boards/stripe/jobs", 
-                    headers={"User-Agent": "Mozilla/5.0"}, timeout=10)
-                test_result["stripe_status"] = resp.status_code
-                if resp.status_code == 200:
-                    test_result["stripe_jobs"] = len(resp.json().get("jobs", []))
+            from scripts.render_scraper import run_scrape_round, get_db
+            new_jobs = run_scrape_round()
+            c = get_db()
+            total = c.execute("SELECT COUNT(*) FROM jobs").fetchone()[0]
+            c.close()
+            print(f"[scrape-now] Done! +{new_jobs} new. Total: {total}", flush=True)
         except Exception as e:
-            test_result["stripe_error"] = str(e)
-        
-        # Now run the full scraper
-        new_jobs = run_scrape_round()
-        
-        # Get total
-        c = get_db()
-        total = c.execute("SELECT COUNT(*) FROM jobs").fetchone()[0]
-        c.close()
-        
-        return {
-            "status": "completed",
-            "new_jobs": new_jobs,
-            "total_jobs": total,
-            "test": test_result,
-        }
-    except Exception as e:
-        return {
-            "status": "error",
-            "error": str(e),
-            "traceback": traceback.format_exc(),
-        }
+            import traceback
+            traceback.print_exc()
+    
+    t = threading.Thread(target=run_it, daemon=True)
+    t.start()
+    return {"status": "started", "message": "Scraping in background"}
 
 
 @app.get("/{path:path}", response_class=HTMLResponse)
