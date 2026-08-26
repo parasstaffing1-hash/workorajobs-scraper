@@ -19,4 +19,5 @@ RUN mkdir -p logs templates static/css static/js
 
 EXPOSE 8000
 
-CMD ["python", "-m", "scripts.workora_app"]
+# Start with database initialization
+CMD ["bash", "-c", "python -c 'from scripts.models import init_db; init_db(); print(\"Database initialized!\")' && python -m scripts.workora_app"]
