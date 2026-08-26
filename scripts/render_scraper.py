@@ -352,3 +352,83 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+def scrape_from_company_list():
+    """Scrape jobs from company list file."""
+    log("Scraping from company list...")
+    jobs_scraped = 0
+    
+    try:
+        import httpx
+        headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+        
+        # Load company list
+        try:
+            with open("data/companies_10k.json", "r") as f:
+                companies = json.load(f)
+        except:
+            log("Company list not found, skipping")
+            return 0
+        
+        log(f"Loaded {len(companies)} companies")
+        
+        for company in companies[:500]:  # Process first 500 companies
+            try:
+                # Greenhouse API
+                if company.get("greenhouse_url"):
+                    with httpx.Client() as client:
+                        resp = client.get(company["greenhouse_url"], headers=headers, timeout=10)
+                        if resp.status_code == 200:
+                            data = resp.json()
+                            jobs = data.get("jobs", [])
+                            for job in jobs[:10]:
+                                loc = job.get("location", {})
+                                save_job({
+                                    "title": job.get("title", ""),
+                                    "company": company["name"],
+                                    "location": loc.get("name", "Remote") if loc else "Remote",
+                                    "url": job.get("absolute_url", ""),
+                                    "description": str(job.get("content", ""))[:2000],
+                                    "tags": [],
+                                    "source": f"greenhouse:{company['slug']}",
+                                    "source_kind": "ats",
+                                    "salary": "",
+                                    "posted_at": job.get("updated_at", "")
+                                })
+                                jobs_scraped += 1
+                            log(f"  {company['slug']}: {len(jobs)} jobs")
+                    time.sleep(0.3)
+                
+                # Lever API
+                elif company.get("lever_url"):
+                    with httpx.Client() as client:
+                        resp = client.get(company["lever_url"], headers=headers, timeout=10)
+                        if resp.status_code == 200:
+                            jobs = resp.json()
+                            for job in jobs[:10]:
+                                cats = job.get("categories", {})
+                                save_job({
+                                    "title": job.get("text", ""),
+                                    "company": company["name"],
+                                    "location": cats.get("location", "Remote"),
+                                    "url": job.get("hostedUrl", ""),
+                                    "description": job.get("descriptionPlain", "")[:2000],
+                                    "tags": [cats.get("department", "")],
+                                    "source": f"lever:{company['slug']}",
+                                    "source_kind": "ats",
+                                    "salary": "",
+                                    "posted_at": str(job.get("createdAt", ""))
+                                })
+                                jobs_scraped += 1
+                            log(f"  {company['slug']}: {len(jobs)} jobs")
+                    time.sleep(0.3)
+                
+            except Exception as e:
+                log(f"  {company['slug']} error: {e}")
+        
+        log(f"Company list scrape done: {jobs_scraped} jobs")
+    except ImportError:
+        log("httpx not installed")
+    except Exception as e:
+        log(f"Company list error: {e}")
+    return jobs_scraped
