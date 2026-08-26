@@ -1,4 +1,4 @@
-"""Render Scraper - Fetches jobs from web sources using HTTP."""
+"""Render Scraper - Fetches jobs and saves to R2 cloud storage."""
 import os
 import sys
 import time
@@ -9,6 +9,32 @@ from datetime import datetime
 
 DB_PATH = "/app/jobs.db"
 LOG_PATH = "/app/logs/scraper.log"
+
+# R2 config
+R2_ACCOUNT_ID = os.environ.get("R2_ACCOUNT_ID", "")
+R2_ACCESS_KEY = os.environ.get("R2_ACCESS_KEY_ID", "")
+R2_SECRET_KEY = os.environ.get("R2_SECRET_ACCESS_KEY", "")
+R2_BUCKET = os.environ.get("R2_BUCKET_NAME", "workorajobs")
+
+_r2_client = None
+
+def get_r2():
+    """Get R2 client."""
+    global _r2_client
+    if _r2_client is None and R2_ACCOUNT_ID and R2_ACCESS_KEY:
+        try:
+            import boto3
+            _r2_client = boto3.client(
+                "s3",
+                endpoint_url=f"https://{R2_ACCOUNT_ID}.r2.cloudflarestorage.com",
+                aws_access_key_id=R2_ACCESS_KEY,
+                aws_secret_access_key=R2_SECRET_KEY,
+                region_name="auto",
+            )
+            log("R2 client connected!")
+        except Exception as e:
+            log(f"R2 error: {e}")
+    return _r2_client
 
 def log(msg):
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
@@ -30,7 +56,36 @@ def make_dedupe_key(title, company, location, url):
     raw = f"{title}|{company}|{location}|{url}".lower().strip()
     return hashlib.md5(raw.encode()).hexdigest()
 
+def save_job_to_r2(job):
+    """Save job to R2 cloud storage."""
+    client = get_r2()
+    if not client:
+        return False
+    try:
+        dedupe = make_dedupe_key(
+            job.get("title", ""),
+            job.get("company", ""),
+            job.get("location", ""),
+            job.get("url", "")
+        )
+        key = f"jobs/{dedupe}.json"
+        data = json.dumps(job, default=str).encode("utf-8")
+        client.put_object(
+            Bucket=R2_BUCKET,
+            Key=key,
+            Body=data,
+            ContentType="application/json",
+        )
+        return True
+    except Exception as e:
+        log(f"R2 save error: {e}")
+        return False
+
 def save_job(job):
+    """Save job to both SQLite and R2."""
+    saved = False
+    
+    # Save to SQLite (local)
     try:
         conn = get_db()
         dedupe = make_dedupe_key(
@@ -54,13 +109,18 @@ def save_job(job):
         ))
         conn.commit()
         conn.close()
-        return True
+        saved = True
     except Exception as e:
-        log(f"Error saving: {e}")
-        return False
+        log(f"SQLite error: {e}")
+    
+    # Save to R2 (cloud)
+    if R2_ACCOUNT_ID:
+        save_job_to_r2(job)
+    
+    return saved
 
 def scrape_greenhouse():
-    """Scrape Greenhouse ATS companies - FREE, no auth needed."""
+    """Scrape Greenhouse ATS companies."""
     log("Scraping Greenhouse ATS...")
     jobs_scraped = 0
     companies = [
@@ -110,7 +170,7 @@ def scrape_greenhouse():
     return jobs_scraped
 
 def scrape_lever():
-    """Scrape Lever ATS companies - FREE, no auth needed."""
+    """Scrape Lever ATS companies."""
     log("Scraping Lever ATS...")
     jobs_scraped = 0
     companies = [
@@ -156,7 +216,7 @@ def scrape_lever():
     return jobs_scraped
 
 def scrape_smartrecruiters():
-    """Scrape SmartRecruiters ATS companies - FREE."""
+    """Scrape SmartRecruiters ATS companies."""
     log("Scraping SmartRecruiters...")
     jobs_scraped = 0
     companies = [
@@ -180,9 +240,9 @@ def scrape_smartrecruiters():
                             save_job({
                                 "title": job.get("name", ""),
                                 "company": company.title().replace("-", " "),
-                                "location": loc.get("city", "Remote") + ", " + loc.get("country", "") if loc else "Remote",
+                                "location": (loc.get("city", "Remote") + ", " + loc.get("country", "")) if loc else "Remote",
                                 "url": job.get("ref", ""),
-                                "description": job.get("Job ad content", {}).get("description", "")[:2000] if isinstance(job.get("Job ad content"), dict) else "",
+                                "description": "",
                                 "tags": [],
                                 "source": f"smartrecruiters:{company}",
                                 "source_kind": "ats",
@@ -202,25 +262,21 @@ def scrape_smartrecruiters():
     return jobs_scraped
 
 def scrape_jobspy():
-    """Scrape using JobSpy (LinkedIn, Indeed, etc)."""
+    """Scrape using JobSpy (LinkedIn, Indeed)."""
     log("Starting JobSpy scrape...")
     jobs_scraped = 0
     keywords = [
         "software engineer", "python developer", "full stack developer",
         "frontend developer", "backend developer", "data engineer",
-        "devops engineer", "data scientist", "product manager",
-        "cloud engineer", "react developer", "java developer"
+        "devops engineer", "data scientist", "product manager"
     ]
-    locations = [
-        "New York", "San Francisco", "Austin", "Seattle",
-        "Remote", "London", "Bangalore", "Berlin"
-    ]
+    locations = ["New York", "San Francisco", "Austin", "Remote", "London"]
     try:
         from jobspy import Scraper
         scraper = Scraper()
         
-        for keyword in keywords[:4]:
-            for location in locations[:4]:
+        for keyword in keywords[:3]:
+            for location in locations[:3]:
                 try:
                     results = scraper.search(
                         site=["indeed", "linkedin"],
@@ -257,6 +313,7 @@ def scrape_jobspy():
 def main():
     log("=" * 50)
     log("Render Scraper Starting...")
+    log(f"R2 Bucket: {R2_BUCKET}")
     log("=" * 50)
     
     try:
