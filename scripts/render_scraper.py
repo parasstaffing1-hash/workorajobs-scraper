@@ -432,3 +432,47 @@ def scrape_from_company_list():
     except Exception as e:
         log(f"Company list error: {e}")
     return jobs_scraped
+
+def main():
+    log("=" * 50)
+    log("Render Scraper Starting...")
+    log(f"R2 Bucket: {R2_BUCKET}")
+    log("=" * 50)
+    
+    try:
+        c = get_db()
+        total = c.execute("SELECT COUNT(*) FROM jobs").fetchone()[0]
+        c.close()
+        log(f"Current jobs: {total}")
+    except:
+        log("Fresh database")
+    
+    while True:
+        try:
+            log("--- Starting scraping round ---")
+            
+            t1 = scrape_greenhouse()
+            t2 = scrape_lever()
+            t3 = scrape_smartrecruiters()
+            t4 = scrape_jobspy()
+            t5 = scrape_from_company_list()
+            
+            total_new = t1 + t2 + t3 + t4 + t5
+            
+            c = get_db()
+            total_now = c.execute("SELECT COUNT(*) FROM jobs").fetchone()[0]
+            c.close()
+            
+            log(f"Round complete: +{total_new} new jobs (total: {total_now})")
+            log("Waiting 30 minutes...")
+            time.sleep(1800)
+            
+        except KeyboardInterrupt:
+            log("Stopped")
+            break
+        except Exception as e:
+            log(f"Error: {e}")
+            time.sleep(300)
+
+if __name__ == "__main__":
+    main()
