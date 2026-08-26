@@ -4,16 +4,12 @@ __pycache__
 *.pyc
 *.pyo
 *.db
-*.json
 *.log
-*.md
 .vscode
 .freebuff/
-data/
 scripts/*.pyc
 *.egg-info
 .mypy_cache
 .pytest_cache
 *.csv
-*.html
 *.wiki

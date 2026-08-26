@@ -1756,16 +1756,13 @@ async def trigger_scrape():
     
     def run_scraper_background():
         try:
-            from scripts.render_scraper import scrape_greenhouse, scrape_lever, scrape_smartrecruiters, scrape_jobspy, get_db
+            from scripts.render_scraper import run_scrape_round, get_db
             
-            t1 = scrape_greenhouse()
-            t2 = scrape_lever()
-            t3 = scrape_smartrecruiters()
-            t4 = scrape_jobspy()
-            
-            total_new = t1 + t2 + t3 + t4
-            return total_new
+            new_jobs = run_scrape_round()
+            return new_jobs
         except Exception as e:
+            import traceback
+            traceback.print_exc()
             return str(e)
     
     thread = threading.Thread(target=run_scraper_background, daemon=True)
