@@ -19,7 +19,5 @@ RUN mkdir -p logs templates static/css static/js
 
 EXPOSE 8000
 
-# Start both web app and scraper using a script
-COPY start_render.sh .
-RUN chmod +x start_render.sh
-CMD ["./start_render.sh"]
+# Start both web app and scraper
+CMD ["bash", "-c", "python -c 'from scripts.models import init_db; init_db(); print(\"DB initialized\")' && nohup python scripts/render_scraper.py > /app/logs/scraper.log 2>&1 & python -m scripts.workora_app"]
