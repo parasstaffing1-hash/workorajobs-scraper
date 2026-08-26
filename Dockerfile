@@ -19,5 +19,11 @@ RUN mkdir -p logs templates static/css static/js
 
 EXPOSE 8000
 
-# Start both web app and scraper
-CMD ["bash", "-c", "python -c 'from scripts.models import init_db; init_db(); print(\"DB initialized\")' && nohup python scripts/render_scraper.py > /app/logs/scraper.log 2>&1 & python -m scripts.workora_app"]
+# Install supervisor to manage both processes
+RUN pip install supervisor
+
+# Create supervisor config
+RUN echo "[program:web]\ncommand=python -m scripts.workora_app\nautostart=true\nautorestart=true\nstdout_logfile=/dev/stdout\nstdout_logfile_maxbytes=0\nstderr_logfile=/dev/stderr\nstderr_logfile_maxbytes=0\n\n[program:scraper]\ncommand=python scripts/render_scraper.py\nautostart=true\nautorestart=true\nstdout_logfile=/app/logs/scraper.log\nstderr_logfile=/app/logs/scraper.log" > /etc/supervisor/conf.d/supervisord.conf
+
+# Start both processes
+CMD ["supervisord", "-c", "/etc/supervisor/conf.d/supervisord.conf"]
